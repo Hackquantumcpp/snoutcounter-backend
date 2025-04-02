@@ -1,4 +1,4 @@
-from dash import Dash, html
+from dash import Dash, html, callback
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 from datawrapper import Datawrapper
@@ -26,16 +26,17 @@ navbar = dbc.Navbar(
     dbc.Container([
         html.A(
             dbc.Row([
-                dbc.Col(html.Img(src='assets/snoutcounter.png', height='75px')),
+                dbc.Col(html.Img(height='75px', id='logo')),
             ], align='center', className='g-0'),
             href='/', style={'textDecoration': 'none'}
         ),
         dbc.Nav([
             dbc.NavItem(dbc.NavLink("Home", href="/")),
             dbc.NavItem(dbc.NavLink("About", href="/")),
+            color_mode_switch
         ], className="ms-auto", navbar=True)
-    ], fluid=True),
-    color="light", dark=False
+    ], fluid=True), id='navbar', sticky=True,
+    # color="light", dark=False
 )
 
 
@@ -79,7 +80,7 @@ app.layout = html.Div(children=[
     html.Div([
         html.Div([
             html.Iframe(
-                src=f"https://datawrapper.dwcdn.net/{APPROVAL_CHART_KEY}/",
+                # src=f"https://datawrapper.dwcdn.net/{APPROVAL_CHART_KEY}/",
                 style={
                     "width": "75%",
                     "height": "600px",
@@ -94,7 +95,7 @@ app.layout = html.Div(children=[
     ]),
     html.Div(children=[
         html.Iframe(
-            src=f"https://datawrapper.dwcdn.net/{APPROVAL_TABLE_KEY}/",
+            # src=f"https://datawrapper.dwcdn.net/{APPROVAL_TABLE_KEY}/",
             style={
                 "width": "75%",
                 "height": "800px",
@@ -108,7 +109,57 @@ app.layout = html.Div(children=[
     }),
 ])
 
+app.clientside_callback(
+    """
+    (switchOn) => {
+       document.documentElement.setAttribute("data-bs-theme", switchOn ? "light" : "dark"); 
+       return window.dash_clientside.no_update
+    }
+    """,
+    Output("switch", "id"),
+    Input("switch", "value"),
+)
 
+@callback(
+    Output('approval-chart', 'src'),
+    Input('switch', 'value')
+)
+def update_chart_color_mode(color_mode):
+    if color_mode:
+        return f"https://datawrapper.dwcdn.net/{APPROVAL_CHART_KEY}/"
+    else:
+        return f"https://datawrapper.dwcdn.net/{APPROVAL_CHART_KEY}/?dark=true"
+
+@callback(
+    Output('approval-table', 'src'),
+    Input('switch', 'value')
+)
+def update_chart_color_mode(color_mode):
+    if color_mode:
+        return f"https://datawrapper.dwcdn.net/{APPROVAL_TABLE_KEY}/"
+    else:
+        return f"https://datawrapper.dwcdn.net/{APPROVAL_TABLE_KEY}/?dark=true"
+
+@callback(
+    Output('navbar', 'color'),
+    Output('navbar', 'dark'),
+    Input('switch', 'value')
+)
+def update_navbar_color_mode(color_mode):
+    if color_mode:
+        return "light", False
+    else:
+        return "dark", True
+
+@callback(
+    Output('logo', 'src'),
+    Input('switch', 'value')
+)
+def update_logo_color_mode(color_mode):
+    if color_mode:
+        return "/assets/snoutcounter.png"
+    else:
+        return "/assets/snoutcounter_darkmode.png"
 
 
 if __name__ == "__main__":
