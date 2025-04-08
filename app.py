@@ -1,7 +1,8 @@
-from dash import Dash, html, callback
+from dash import Dash, html, callback, dcc
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 from datawrapper import Datawrapper
+
 from keys import API_KEY, APPROVAL_CHART_KEY, APPROVAL_TABLE_KEY
 
 # dw = Datawrapper(API_KEY)
@@ -16,8 +17,56 @@ color_mode_switch =  html.Span(
     ]
 )
 
+# app.index_string += '\n<script src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.js"></script>\n'
+# app.index_string = """
+# <!DOCTYPE html>
+# <html>
+# <head>
+#     <title>SnoutCounter</title>
+
+#     <!-- Keep Dash's Styles and Bootstrap -->
+#     {%metas%}
+#     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+#     {%favicon%}
+#     {%css%}
+    
+#     <!-- Nutshell Script -->
+#     <script src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.js"></script>
+#     <script>
+#         function reinitializeNutshell() {
+#             setTimeout(() => { 
+#                 if (typeof nutshell !== 'undefined') {
+#                     nutshell.init();
+#                 } 
+#             }, 500);  // Delay to detect dynamic updates
+#         }
+
+#         document.addEventListener("DOMContentLoaded", reinitializeNutshell);
+
+#         // Observe changes in the page for dynamic updates
+#         const observer = new MutationObserver(reinitializeNutshell);
+#         observer.observe(document.body, { childList: true, subtree: true });
+#     </script>
+
+# </head>
+# <body>
+#     <div id="react-entry-point">
+#         {%app_entry%}
+#     </div>
+#     <footer>
+#         {%config%}
+#         {%scripts%}
+#         {%renderer%}
+#     </footer>
+# </body>
+# </html>
+# """
+
 embed_code_approval = f'<iframe src="https://datawrapper.dwcdn.net/{APPROVAL_CHART_KEY}/" frameborder="0" style="width:100%;height:400px;"></iframe>'
 approval_chart_version = 2
+
+# nutshell = "https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.js"
+# app.scripts.append_script({"external_url": nutshell})
 
 app.title = "SnoutCounter"
 
@@ -41,6 +90,14 @@ navbar = dbc.Navbar(
 
 
 app.layout = html.Div(children=[
+    html.Div([
+        html.Script(src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.js"),
+        html.Script(children="""
+        document.addEventListener("DOMContentLoaded", function() {
+            nutshell.init();
+        });
+        """)
+    ]),
     navbar,
     # dbc.NavbarSimple(
     #     dbc.Container(
@@ -77,6 +134,26 @@ app.layout = html.Div(children=[
     #         "justify-content": "left",
     #     }
     # ),
+    html.Hr(),
+    html.B(html.H1("At A Glance", style={'textAlign':'center', 'marginTop':'20px', 'marginBottom':'20px'})),
+    html.Hr(),
+    html.P(children="This is the landing page for SnoutCounter's polling averages.", style={'textAlign':'center'}),
+    html.P(html.A(":Methodology", href='https://ncase.me/faq/#GoodMentalHealth'), style={'textAlign':'center'}),
+    html.Script(children="""
+    function reinitializeNutshell() {
+        setTimeout(() => { 
+            if (typeof nutshell !== 'undefined') {
+                nutshell.init();
+            } 
+        }, 500);  // Give it time to detect new content
+    }
+
+    document.addEventListener("DOMContentLoaded", reinitializeNutshell);
+
+    // Observe changes to the body (handles Dash updates)
+    const observer = new MutationObserver(reinitializeNutshell);
+    observer.observe(document.body, { childList: true, subtree: true });
+    """),
     html.Div([
         html.Div([
             html.Iframe(
@@ -98,7 +175,7 @@ app.layout = html.Div(children=[
             # src=f"https://datawrapper.dwcdn.net/{APPROVAL_TABLE_KEY}/",
             style={
                 "width": "75%",
-                "height": "800px",
+                "height": "700px",
                 "border": "0",
             }, id="approval-table"
         )

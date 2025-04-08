@@ -1,0 +1,6 @@
+*.ipynb
+*.pyc
+auxiliary_pollster_rating_stats.csv
+pollster_ratings_silver.csv
+trump_approval.csv
+keys.py
