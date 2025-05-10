@@ -1,133 +1,129 @@
 ,Pollster,Start Date,End Date,Sample,Weight,Approve,Disapprove,Net
-0,YouGov,2025-04-05,2025-04-08,1741 A,0.0951995669153327,22.0,53.0,-31.0
-1,YouGov,2025-03-30,2025-04-01,1626 A,0.06522442807091121,23.0,49.0,-26.0
-2,Harris Insights & Analytics,2025-03-26,2025-03-27,2746 RV,0.04730552150876039,36.0,52.0,-16.0
-3,YouGov,2025-03-22,2025-03-25,1600 A,0.04689299849927288,24.0,48.0,-24.0
-4,YouGov,2025-03-16,2025-03-18,1618 A,0.03513210806650407,25.0,48.0,-23.0
-5,YouGov,2025-03-09,2025-03-11,1699 A,0.02770918044596509,21.0,49.0,-28.0
-6,Clarity Campaign Labs,2025-03-03,2025-03-09,1036 RV,0.01322127193290787,40.0,46.0,-6.0
-7,YouGov,2025-03-01,2025-03-04,1638 A,0.02171023535395114,25.0,42.0,-17.0
-8,YouGov,2025-02-23,2025-02-25,1604 A,0.01779304163328606,23.0,44.0,-21.0
-9,Harris Insights & Analytics,2025-02-19,2025-02-20,2443 RV,0.013816177699334842,36.0,52.0,-16.0
-10,YouGov,2025-02-16,2025-02-18,1603 A,0.015266474003097174,25.0,43.0,-18.0
-11,Gallup,2025-02-03,2025-02-16,1004 A,0.013661741059515944,29.0,65.0,-36.0
-12,YouGov,2025-02-09,2025-02-11,1595 A,0.01349263281987006,19.0,51.0,-32.0
-13,Clarity Campaign Labs,2025-01-31,2025-02-06,1102 RV,0.00684237976630679,33.0,45.0,-12.0
-14,YouGov,2025-02-02,2025-02-04,1604 A,0.012312179502367003,23.0,45.0,-22.0
-15,YouGov,2025-01-26,2025-01-28,1577 A,0.011345954376807507,24.0,45.0,-21.0
-16,YouGov,2025-01-19,2025-01-21,1609 A,0.010823213359199816,18.0,52.0,-34.0
-17,Harris Insights & Analytics,2025-01-15,2025-01-16,2650 RV,0.009459202631547606,31.0,56.0,-25.0
-18,YouGov,2025-01-12,2025-01-14,1558 A,0.010176828015775082,15.0,54.0,-39.0
-19,Beacon Research/Shaw & Co. Research,2025-01-10,2025-01-13,922 RV,0.013303468575536891,26.0,67.0,-41.0
-20,YouGov,2025-01-05,2025-01-08,1704 A,0.01030552359442199,15.0,55.0,-40.0
-21,YouGov,2024-12-29,2024-12-31,1552 A,0.009485527435430971,16.0,50.0,-34.0
-22,YouGov,2024-12-21,2024-12-24,1582 A,0.0093184799748004,15.0,56.0,-41.0
-23,Gallup,2024-12-02,2024-12-18,1003 A,0.008527945715684186,17.0,77.0,-60.0
-24,YouGov,2024-12-15,2024-12-17,1553 A,0.009007370255763541,16.0,54.0,-38.0
-25,YouGov,2024-12-08,2024-12-10,1593 A,0.008915158867580021,15.0,52.0,-37.0
-26,Monmouth University,2024-12-05,2024-12-10,1006 A,0.013378918766910922,17.0,74.0,-57.0
-27,YouGov,2024-11-23,2024-11-26,1590 A,0.008529111190868688,17.0,51.0,-34.0
-28,Gallup,2024-11-06,2024-11-20,1001 A,0.007803132147322082,19.0,74.0,-55.0
-29,YouGov,2024-11-17,2024-11-19,1595 A,0.008364207390789902,18.0,51.0,-33.0
-30,Harris Insights & Analytics,2024-11-14,2024-11-14,1732 RV,0.006046169957899255,29.0,57.0,-28.0
-31,YouGov,2024-11-09,2024-11-12,1743 A,0.008561588185583828,17.0,52.0,-35.0
-32,Harris Insights & Analytics,2024-10-30,2024-11-02,4520 RV,0.007673694213394174,30.0,59.0,-29.0
-33,Harris Insights & Analytics,2024-10-27,2024-10-29,4523 RV,0.007580300990697853,30.0,59.0,-29.0
-34,YouGov,2024-10-26,2024-10-29,1587 A,0.007829369602809182,18.0,53.0,-35.0
-35,Harris Insights & Analytics,2024-10-25,2024-10-28,1717 RV,0.005717088091652906,32.0,56.0,-24.0
-36,Clarity Campaign Labs,2024-10-17,2024-10-23,1314 LV,0.0034312375121526785,19.0,60.0,-41.0
-37,Harris Insights & Analytics,2024-10-21,2024-10-22,1512 RV,0.005266075028916921,28.0,61.0,-33.0
-38,YouGov,2024-10-19,2024-10-22,1615 A,0.0077287617381742646,14.0,54.0,-40.0
-39,YouGov,2024-10-12,2024-10-15,1624 A,0.007581254397420056,17.0,52.0,-35.0
-40,Beacon Research/Shaw & Co. Research,2024-10-11,2024-10-14,1110 RV,0.010678086236041743,25.0,70.0,-45.0
-41,Harris Insights & Analytics,2024-10-11,2024-10-13,3145 RV,0.007209871071420407,30.0,60.0,-30.0
-42,Gallup,2024-10-01,2024-10-12,1023 A,0.006997278117541877,16.0,77.0,-61.0
-43,Harris Insights & Analytics,2024-10-09,2024-10-11,2010 RV,0.005863822003091049,32.0,59.0,-27.0
-44,YouGov,2024-10-06,2024-10-07,1604 A,0.007343128565116809,16.0,53.0,-37.0
-45,YouGov,2024-09-29,2024-10-01,1638 A,0.00727587418533718,17.0,54.0,-37.0
-46,YouGov,2024-09-21,2024-09-24,1622 A,0.007072519291059553,12.0,60.0,-48.0
-47,Clarity Campaign Labs,2024-09-19,2024-09-24,1000 LV,0.0027247328870034088,23.0,57.0,-34.0
-48,Harris Insights & Analytics,2024-09-20,2024-09-23,1011 RV,0.003918671176680571,32.0,58.0,-26.0
-49,YouGov,2024-09-15,2024-09-17,1592 A,0.006840799095997988,14.0,55.0,-41.0
-50,Harris Insights & Analytics,2024-09-14,2024-09-16,1505 RV,0.00466749065592097,30.0,63.0,-33.0
-51,Harris Insights & Analytics,2024-09-11,2024-09-13,3018 RV,0.006521119980123201,34.0,55.0,-21.0
-52,YouGov,2024-09-08,2024-09-10,1626 A,0.006745800281189442,13.0,60.0,-47.0
-53,Harris Insights & Analytics,2024-09-04,2024-09-05,2358 RV,0.005618965803258454,31.0,59.0,-28.0
-54,YouGov,2024-09-01,2024-09-03,1544 A,0.006410195905041962,15.0,54.0,-39.0
-55,Clarity Campaign Labs,2024-08-23,2024-08-28,1238 LV,0.0027548457125178834,25.0,56.0,-31.0
-56,YouGov,2024-08-25,2024-08-27,1555 A,0.006269150504097069,14.0,57.0,-43.0
-57,YouGov,2024-08-17,2024-08-20,1565 A,0.006124943688295737,12.0,58.0,-46.0
-58,YouGov,2024-08-11,2024-08-13,1567 A,0.005964440380355094,14.0,57.0,-43.0
-59,YouGov,2024-08-04,2024-08-06,1618 A,0.00589366825594594,13.0,57.0,-44.0
-60,Harris Insights & Analytics,2024-08-02,2024-08-03,1011 RV,0.0032407961496546535,33.0,55.0,-22.0
-61,YouGov,2024-07-29,2024-08-01,1000 RV,0.0036316483546755722,23.0,65.0,-42.0
-62,YouGov,2024-07-27,2024-07-30,1610 A,0.005712448184677824,14.0,58.0,-44.0
-63,Emerson College,2024-07-25,2024-07-28,1000 RV,0.007087540951357096,18.3,59.1,-40.8
-64,Harris Insights & Analytics,2024-07-26,2024-07-28,2196 RV,0.004658846506057844,30.0,59.0,-29.0
-65,Clarity Campaign Labs,2024-07-22,2024-07-26,995 LV,0.002166687463708046,21.0,59.0,-38.0
-66,Harris Insights & Analytics,2024-07-22,2024-07-25,3013 RV,0.005376669759700238,29.0,60.0,-31.0
-67,YouGov,2024-07-21,2024-07-23,1605 A,0.005537204786173543,10.0,62.0,-52.0
-68,Harris Insights & Analytics,2024-07-19,2024-07-21,2753 RV,0.005062901886773538,25.0,65.0,-40.0
-69,Gallup,2024-07-01,2024-07-21,1010 A,0.005112951140959885,16.0,78.0,-62.0
-70,YouGov,2024-07-13,2024-07-16,1582 A,0.0053322214025446546,11.0,63.0,-52.0
-71,Harris Insights & Analytics,2024-07-13,2024-07-15,1918 RV,0.004116145622451988,29.0,61.0,-32.0
-72,Beacon Research/Shaw & Co. Research,2024-07-07,2024-07-10,1210 RV,0.00775850028987092,18.0,80.0,-62.0
-73,YouGov,2024-07-07,2024-07-09,1620 A,0.0052287474929405674,11.0,62.0,-51.0
-74,YouGov,2024-06-30,2024-07-02,1608 A,0.005042833419039874,13.0,61.0,-48.0
-75,Harris Insights & Analytics,2024-06-28,2024-06-30,1500 RV,0.003397410976652554,31.0,61.0,-30.0
-76,Harris Insights & Analytics,2024-06-28,2024-06-30,2090 RV,0.0040102883362291755,26.0,62.0,-36.0
-77,YouGov,2024-06-23,2024-06-25,1599 A,0.004862656812626062,13.0,60.0,-47.0
-78,Clarity Campaign Labs,2024-06-13,2024-06-20,1002 LV,0.001842614529250686,21.0,61.0,-40.0
-79,YouGov,2024-06-16,2024-06-18,1600 A,0.004698081670628073,13.0,59.0,-46.0
-80,YouGov,2024-06-09,2024-06-11,1595 A,0.004524900050522423,13.0,58.0,-45.0
-81,Monmouth University,2024-06-06,2024-06-10,1106 A,0.007078272207595979,14.0,82.0,-68.0
-82,YouGov,2024-06-02,2024-06-04,1766 A,0.00458678498938869,12.0,59.0,-47.0
-83,High Point University,2024-05-22,2024-05-29,1000 A,0.002228155424087277,23.0,60.0,-37.0
-84,YouGov,2024-05-25,2024-05-28,1748 A,0.004389743477815402,11.0,61.0,-50.0
-85,Gallup,2024-05-01,2024-05-23,1024 A,0.0038333246612935884,13.0,81.0,-68.0
-86,YouGov,2024-05-19,2024-05-21,1784 A,0.00425933181977181,11.0,62.0,-51.0
-87,Harris Insights & Analytics,2024-05-15,2024-05-16,1660 RV,0.0028081518622660945,32.0,61.0,-29.0
-88,Marquette University Law School,2024-05-06,2024-05-15,902 RV,0.006851564435508079,27.0,73.0,-46.0
-89,YouGov,2024-05-12,2024-05-14,1830 A,0.004136264041498079,13.0,64.0,-51.0
-90,Clarity Campaign Labs,2024-04-29,2024-05-08,1076 RV,0.0019985491517281084,21.0,62.0,-41.0
-91,YouGov,2024-05-05,2024-05-07,1813 A,0.003940202929426125,12.0,61.0,-49.0
-92,YouGov,2024-04-28,2024-04-30,1755 A,0.0037027117717306373,14.0,61.0,-47.0
-93,Harris Insights & Analytics,2024-04-24,2024-04-25,1961 RV,0.002663691054480282,32.0,61.0,-29.0
-94,YouGov,2024-04-21,2024-04-23,1651 A,0.003422606345824474,12.0,65.0,-53.0
-95,Monmouth University,2024-04-18,2024-04-22,808 A,0.004489734812756413,14.0,79.0,-65.0
-96,YouGov,2024-04-14,2024-04-16,1574 A,0.0031771022878835783,12.0,62.0,-50.0
-97,YouGov,2024-04-06,2024-04-09,1795 A,0.003216897751295254,14.0,63.0,-49.0
-98,YouGov,2024-03-30,2024-04-02,1813 A,0.0030561828247815306,12.0,67.0,-55.0
-99,Marquette University Law School,2024-03-18,2024-03-28,868 RV,0.004754013715545896,27.0,73.0,-46.0
-100,Clarity Campaign Labs,2024-03-23,2024-03-27,1080 RV,0.0014666238032282396,23.0,61.0,-38.0
-101,YouGov,2024-03-24,2024-03-26,1594 A,0.0026998775420794996,10.0,65.0,-55.0
-102,Harris Insights & Analytics,2024-03-20,2024-03-21,2271 RV,0.0021697895422948623,33.0,60.0,-27.0
-103,YouGov,2024-03-16,2024-03-19,1682 A,0.002603105852722236,13.0,64.0,-51.0
-104,YouGov,2024-03-10,2024-03-12,1559 A,0.0023421683708969186,17.0,60.0,-43.0
-105,YouGov,2024-03-03,2024-03-05,1556 A,0.0021761197899997373,15.0,60.0,-45.0
-106,Beacon Research/Shaw & Co. Research,2024-02-25,2024-02-28,1262 RV,0.0031333600116047427,19.0,78.0,-59.0
-107,YouGov,2024-02-25,2024-02-27,1688 A,0.0020959442446700062,16.0,59.0,-43.0
-108,Clarity Campaign Labs,2024-02-22,2024-02-27,1026 LV,0.0008017563396305991,22.0,56.0,-34.0
-109,Harris Insights & Analytics,2024-02-21,2024-02-22,2022 RV,0.0015214515905470547,34.0,58.0,-24.0
-110,Gallup,2024-02-01,2024-02-20,1016 A,0.0017537635493647381,12.0,83.0,-71.0
-111,YouGov,2024-02-18,2024-02-20,1562 A,0.001852092439587866,23.0,53.0,-30.0
-112,Marquette University Law School,2024-02-05,2024-02-15,787 RV,0.0028877637482463575,21.0,79.0,-58.0
-113,YouGov,2024-02-11,2024-02-13,1671 A,0.0017458855640249656,20.0,56.0,-36.0
-114,Monmouth University,2024-02-08,2024-02-12,902 A,0.0023886773845312784,14.0,79.0,-65.0
-115,YouGov,2024-02-04,2024-02-06,1591 A,0.0015379545416346367,20.0,57.0,-37.0
-116,YouGov,2024-01-28,2024-01-30,1686 A,0.0014127061345156893,13.0,62.0,-49.0
-117,YouGov,2024-01-25,2024-01-30,1064 A,0.001122260971530037,26.0,62.0,-36.0
-118,Clarity Campaign Labs,2024-01-19,2024-01-23,1092 LV,0.0004905144044284078,26.0,58.0,-32.0
-119,YouGov,2024-01-21,2024-01-23,1664 A,0.0012340759516308874,18.0,60.0,-42.0
-120,Harris Insights & Analytics,2024-01-17,2024-01-18,2346 RV,0.0009306885670388177,33.0,59.0,-26.0
-121,NewsNation,2024-01-16,2024-01-18,1000 RV,0.0001455657209286648,24.41,75.59,-51.18000000000001
-122,YouGov,2024-01-14,2024-01-16,1660 A,0.0010634125287052865,16.0,62.0,-46.0
-123,YouGov,2024-01-07,2024-01-09,1593 A,0.0008760011254103812,19.0,56.0,-37.0
-124,YouGov,2023-12-31,2024-01-02,1521 A,0.0006940342672827876,18.0,58.0,-40.0
-125,YouGov,2023-12-16,2023-12-18,1500 A,0.0003446132254808783,15.0,56.0,-41.0
-126,Harris Insights & Analytics,2023-12-13,2023-12-14,2034 RV,0.00020722908178348866,35.0,58.0,-23.0
-127,Beacon Research/Shaw & Co. Research,2023-12-10,2023-12-13,1007 RV,0.000321718548536378,19.0,77.0,-58.0
-128,YouGov,2023-12-09,2023-12-12,1500 A,0.00020676793529841384,14.0,62.0,-48.0
-129,Clarity Campaign Labs,2023-12-07,2023-12-10,1052 LV,6.608093508842934e-05,23.0,62.0,-39.0
-130,YouGov,2023-12-02,2023-12-05,1500 A,4.594843009524077e-05,16.0,59.0,-43.0
-131,Monmouth University,2023-11-30,2023-12-04,803 A,3.174341544980338e-05,17.0,77.0,-60.0
+0,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-05-02,2025-05-05,1850 A,0.2447458582538716,24.0,48.0,-24.0
+1,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fmq348X.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-04-25,2025-04-28,1785 A,0.16565642607913422,22.0,48.0,-26.0
+2,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-04-19,2025-04-22,1625 A,0.11495395610047283,23.0,50.0,-27.0
+3,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-04-13,2025-04-15,1512 A,0.07619960826870581,24.0,48.0,-24.0
+4,"<a href=""https://news.gallup.com/poll/1600/congress-public.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2025-04-01,2025-04-14,1006 A,0.0657840528942312,28.0,67.0,-39.0
+5,"<a href=""https://45840940.fs1.hubspotusercontent-na1.net/hubfs/45840940/Clarity%20Omnibus%20Overview_April%202025.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2025-04-09,2025-04-14,1008 RV,0.04101054401683125,40.0,47.0,-7.0
+6,"<a href=""https://www.realclearpolitics.com/docs/2025/HHP_APRIL_Final.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2025-04-09,2025-04-10,2286 RV,0.05211018956932602,35.0,51.0,-16.0
+7,"<a href=""https://www.umass.edu/political-science/about/reports/2025-4"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: WCVB-TV (Boston)^",2025-04-04,2025-04-09,1000 A,0.044483207324865354,29.0,57.0,-28.0
+8,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-04-05,2025-04-08,1741 A,0.055449948164836234,22.0,53.0,-31.0
+9,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Uo7FRzc.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-03-30,2025-04-01,1626 A,0.03519669972823122,23.0,49.0,-26.0
+10,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2025/03/HHP_Mar2025_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2025-03-26,2025-03-27,2746 RV,0.02383630098668303,36.0,52.0,-16.0
+11,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-03-22,2025-03-25,1600 A,0.021339922193890422,24.0,48.0,-24.0
+12,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-03-16,2025-03-18,1618 A,0.012742477497908406,25.0,48.0,-23.0
+13,"<a href=""https://news.gallup.com/poll/1600/congress-public.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2025-03-03,2025-03-16,1002 A,0.0099874297318139,31.0,63.0,-32.0
+14,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-03-09,2025-03-11,1699 A,0.008726926256231417,21.0,49.0,-28.0
+15,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67d0921f11ba8d57a17670a9/1741722147070/Clarity+Omnibus+Overview+-+March+2025+PUBLIC.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2025-03-03,2025-03-09,1036 RV,0.004227108370060202,40.0,46.0,-6.0
+16,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-03-01,2025-03-04,1638 A,0.005726925920356512,25.0,42.0,-17.0
+17,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-02-23,2025-02-25,1604 A,0.0037876234671966446,23.0,44.0,-21.0
+18,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2025/02/HHP_Feb2025_vFinal.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2025-02-19,2025-02-20,2443 RV,0.0025672062601009064,36.0,52.0,-16.0
+19,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-02-16,2025-02-18,1603 A,0.002530645882594223,25.0,43.0,-18.0
+20,"<a href=""https://news.gallup.com/poll/656891/trump-job-approval-rating-congress-jumps.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2025-02-03,2025-02-16,1004 A,0.0019947420019778665,29.0,65.0,-36.0
+21,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-02-09,2025-02-11,1595 A,0.0016871160631621934,19.0,51.0,-32.0
+22,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67aa57a7976e415c4d212706/1739216809584/Clarity+Omnibus+Overview+-+Jan_Feb+2025.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2025-01-31,2025-02-06,1102 RV,0.0007319043047480573,33.0,45.0,-12.0
+23,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-02-02,2025-02-04,1604 A,0.0011307505265974642,23.0,45.0,-22.0
+24,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-01-26,2025-01-28,1577 A,0.0007493426698698193,24.0,45.0,-21.0
+25,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_P0a6afQ.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-01-19,2025-01-21,1609 A,0.0005058743259742269,18.0,52.0,-34.0
+26,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2025/01/HHP_Jan25_KeyResults.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2025-01-15,2025-01-16,2650 RV,0.0003565512526705593,31.0,56.0,-25.0
+27,"<a href=""https://news.gallup.com/poll/1600/congress-public.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2025-01-02,2025-01-15,1005 A,0.0003163027056601697,17.0,76.0,-59.0
+28,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_62FWpzz.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-01-12,2025-01-14,1558 A,0.00033269658525792285,15.0,54.0,-39.0
+29,"<a href=""https://static.foxnews.com/foxnews.com/content/uploads/2025/01/fox_january-10-13-2025_national_cross-tabs_january-15-release.pdf"" style=""color:black; text-decoration:underline;""><u>Beacon Research/Shaw & Co. Research</u></a>^Sponsor: Fox News^",2025-01-10,2025-01-13,922 RV,0.0003269320674627046,26.0,67.0,-41.0
+30,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_gsOVPsO.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-01-05,2025-01-08,1704 A,0.00024631985027649694,15.0,55.0,-40.0
+31,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Goy6hsR.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-12-29,2024-12-31,1552 A,0.00014832367423377264,16.0,50.0,-34.0
+32,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_y6xjoz3.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-12-21,2024-12-24,1582 A,0.0001000847379206,15.0,56.0,-41.0
+33,"<a href=""https://news.gallup.com/poll/654650/americans-ratings-biden-tepid-steady.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2024-12-02,2024-12-18,1003 A,6.304785889602075e-05,17.0,77.0,-60.0
+34,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fWe8hY3.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-12-15,2024-12-17,1553 A,6.627509280710275e-05,16.0,54.0,-38.0
+35,"<a href=""https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_121224.pdf/"" style=""color:black; text-decoration:underline;""><u>Monmouth University</u></a>",2024-12-05,2024-12-10,1006 A,5.536181680804469e-05,17.0,74.0,-57.0
+36,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FnFMxED.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-12-08,2024-12-10,1593 A,4.486136715276128e-05,15.0,52.0,-37.0
+37,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_eAYQKbY.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-11-23,2024-11-26,1590 A,2.0019958775488197e-05,17.0,51.0,-34.0
+38,"<a href=""https://news.gallup.com/poll/653786/postelection-economic-confidence-biden-ratings-down.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2024-11-06,2024-11-20,1001 A,1.2567153355485227e-05,19.0,74.0,-55.0
+39,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WloY87T.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-11-17,2024-11-19,1595 A,1.3401239242266058e-05,18.0,51.0,-33.0
+40,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/11/HHP_Nov2024_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-11-14,2024-11-14,1732 RV,7.669604575704562e-06,29.0,57.0,-28.0
+41,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_IHMRRoV.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-11-09,2024-11-12,1743 A,9.362963066471587e-06,17.0,52.0,-35.0
+42,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_NgtZTja.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-10-26,2024-10-29,1587 A,3.990736747205432e-06,18.0,53.0,-35.0
+43,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/671fd5d3de112f28dcd4a39c/1730139604180/%5BAll%5D+Clarity+Omnibus+Overview+-+October+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-10-17,2024-10-23,1314 LV,1.341907098470922e-06,19.0,60.0,-41.0
+44,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_O3e18LR.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-10-19,2024-10-22,1615 A,2.6906107933653653e-06,14.0,54.0,-40.0
+45,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ycklxBQ.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-10-12,2024-10-15,1624 A,1.8032570100160232e-06,17.0,52.0,-35.0
+46,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/10/HHP_Oct2024_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-10-11,2024-10-13,3145 RV,1.5997777674448795e-06,30.0,60.0,-30.0
+47,"<a href=""https://news.gallup.com/poll/652178/harris-approval-rating-higher-biden.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2024-10-01,2024-10-12,1023 A,1.3457292524350508e-06,16.0,77.0,-61.0
+48,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pw9W1fW.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-10-06,2024-10-07,1604 A,1.1307505265974646e-06,16.0,53.0,-37.0
+49,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_JAnqssN.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-09-29,2024-10-01,1638 A,8.089497877776792e-07,17.0,54.0,-37.0
+50,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YtkV7hy.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-09-21,2024-09-24,1622 A,5.380096204964609e-07,12.0,60.0,-48.0
+51,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/66f701d406dcaa5620325b1f/1727463893365/%5BAll%5D+Clarity+Omnibus+Overview+-+September+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-09-19,2024-09-24,1000 LV,2.2050821193010645e-07,23.0,57.0,-34.0
+52,"<a href=""https://elections.harrisx.com/public/Deseret_News_HarrisX_Overnight_Poll_Gender_and_Abortion.html"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Deseret News^",2024-09-20,2024-09-23,1011 RV,2.936801595368814e-07,32.0,58.0,-26.0
+53,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_dUFR0mV.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-09-15,2024-09-17,1592 A,3.5623464060283425e-07,14.0,55.0,-41.0
+54,"<a href=""https://elections.harrisx.com/public/harrisx-permanent-political-debate-11-to-13.html"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Forbes^",2024-09-11,2024-09-13,3018 RV,2.8448518644852653e-07,34.0,55.0,-21.0
+55,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_k1paNHZ.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-09-08,2024-09-10,1626 A,2.406162130387861e-07,13.0,60.0,-47.0
+56,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/09/HHP_Sep2024_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-09-04,2024-09-05,2358 RV,1.5913691329700412e-07,31.0,59.0,-28.0
+57,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HIwtch9.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-09-01,2024-09-03,1544 A,1.5670695242182396e-07,15.0,54.0,-39.0
+58,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/66d20908a1d92939e8f3314a/1725040905143/%5BAll%5D+Clarity+Omnibus+Overview+-+August+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-08-23,2024-08-28,1238 LV,5.1854337495695943e-08,25.0,56.0,-31.0
+59,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EQQr3lh.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-08-25,2024-08-27,1555 A,1.0510655780934011e-07,14.0,57.0,-43.0
+60,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_m7wODye.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-08-17,2024-08-20,1565 A,7.047284228199048e-08,12.0,58.0,-46.0
+61,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8IEdK8V.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-08-11,2024-08-13,1567 A,4.713018179143698e-08,14.0,57.0,-43.0
+62,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qdE4wzP.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-08-04,2024-08-06,1618 A,3.2007656330812285e-08,13.0,57.0,-44.0
+63,"<a href=""https://html-crosstabs.s3.amazonaws.com/Deseret+Religion+and+Political+Violence%2C+HOP+8.3.2024+vF3.html"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Deseret News^",2024-08-02,2024-08-03,1011 RV,1.559102282774052e-08,33.0,55.0,-22.0
+64,"<a href=""https://umass-my.sharepoint.com/personal/crystalpaul_umass_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fcrystalpaul%5Fumass%5Fedu%2FDocuments%2FUMass%20Poll%20Polls%20for%20Web%20Posting%2FHarris%20Biden%20State%20of%20the%20Nation%20Poll%20%2D%20August%206%2C%202024%2FCrosstabs%20Harris%20Biden%20State%20of%20the%20Nation%202024%20National%20Poll%20August%206%202024%2Epdf&parent=%2Fpersonal%2Fcrystalpaul%5Fumass%5Fedu%2FDocuments%2FUMass%20Poll%20Polls%20for%20Web%20Posting%2FHarris%20Biden%20State%20of%20the%20Nation%20Poll%20%2D%20August%206%2C%202024"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: WCVB-TV (Boston)^",2024-07-29,2024-08-01,1000 RV,1.5095746830074143e-08,23.0,65.0,-42.0
+65,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5LIBPv8.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-07-27,2024-07-30,1610 A,2.133917154503879e-08,14.0,58.0,-44.0
+66,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/07/HHP_Jul24_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-07-26,2024-07-28,2196 RV,1.626728957023732e-08,30.0,59.0,-29.0
+67,"<a href=""https://docs.google.com/spreadsheets/d/1GfcxThXCBtmsdcbl-9tD40NhDsP-z2bH/edit?gid=440731706#gid=440731706"" style=""color:black; text-decoration:underline;""><u>Emerson College</u></a>",2024-07-25,2024-07-28,1000 RV,1.927111004620196e-08,18.3,59.1,-40.8
+68,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/66ad5918b431d02b7b867e07/1722636569606/Clarity+Omnibus+Overview+-+July+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-07-22,2024-07-26,995 LV,6.955627374361689e-09,21.0,59.0,-38.0
+69,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_U76IOiF.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-07-21,2024-07-23,1605 A,1.4239742471366418e-08,10.0,62.0,-52.0
+70,"<a href=""https://news.gallup.com/poll/1600/congress-public.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2024-07-01,2024-07-21,1010 A,1.1250726385876162e-08,16.0,78.0,-62.0
+71,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_sPu9WiO.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-07-13,2024-07-16,1582 A,9.448608538416857e-09,11.0,63.0,-52.0
+72,"<a href=""https://www.harrisx.com/content/trump-assassination-attempt-full-results"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Forbes^",2024-07-13,2024-07-15,1918 RV,7.193219799922617e-09,29.0,61.0,-32.0
+73,"<a href=""https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Fox_July-7-10-2024_National_Cross-Tabs_July-15-Release.pdf"" style=""color:black; text-decoration:underline;""><u>Beacon Research/Shaw & Co. Research</u></a>^Sponsor: Fox News^",2024-07-07,2024-07-10,1210 RV,7.915616507307677e-09,18.0,80.0,-62.0
+74,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_RptTnGc.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-07-07,2024-07-09,1620 A,6.3903129025615055e-09,11.0,62.0,-51.0
+75,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_xTDr4ON.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-06-30,2024-07-02,1608 A,4.255079110480592e-09,13.0,61.0,-48.0
+76,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_DqmBE9q.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-06-23,2024-06-25,1599 A,2.835886522037608e-09,13.0,60.0,-47.0
+77,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/66904c24ca9c6127f7534771/1720732709774/%5BALL%5D+Clarity+Omnibus+Overview+-+June+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-06-13,2024-06-20,1002 LV,8.787364238652903e-10,21.0,61.0,-40.0
+78,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_BAWCOh6.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-06-16,2024-06-18,1600 A,1.8959400817983476e-09,13.0,59.0,-46.0
+79,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_maqVHQt.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-06-09,2024-06-11,1595 A,1.2651585662371019e-09,13.0,58.0,-45.0
+80,"<a href=""https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_061224.pdf/"" style=""color:black; text-decoration:underline;""><u>Monmouth University</u></a>",2024-06-06,2024-06-10,1106 A,1.5445035364526207e-09,14.0,82.0,-68.0
+81,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_b6cGJcE.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-06-02,2024-06-04,1766 A,8.897335481570948e-10,12.0,59.0,-47.0
+82,"<a href=""https://www.highpoint.edu/src/files/2023/08/104memo.pdf"" style=""color:black; text-decoration:underline;""><u>High Point University</u></a>",2024-05-22,2024-05-29,1000 A,3.5821778173310997e-10,23.0,60.0,-37.0
+83,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5ePXwWM.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-05-25,2024-05-28,1748 A,5.916097610213556e-10,11.0,61.0,-50.0
+84,"<a href=""https://news.gallup.com/poll/645413/biden-congress-approval-ratings-persistently-low.aspx?utm_source=alert&utm_medium=email&utm_content=morelink&utm_campaign=syndication"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2024-05-01,2024-05-23,1024 A,3.794633656207754e-10,13.0,81.0,-68.0
+85,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_9aJ08Ik.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-05-19,2024-05-21,1784 A,3.994496470144706e-10,11.0,62.0,-51.0
+86,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/05/HHP_May2024_crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-05-15,2024-05-16,1660 RV,2.1161822808410106e-10,32.0,61.0,-29.0
+87,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nURRSN3.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-05-12,2024-05-14,1830 A,2.703897109765377e-10,13.0,64.0,-51.0
+88,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/66631e285625963c4d18a28b/1717771816980/%5BALL%5D+Clarity+Omnibus+Overview+-+April_May+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-04-29,2024-05-08,1076 RV,1.0215735500272922e-10,21.0,62.0,-41.0
+89,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Agwhapd.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-05-05,2024-05-07,1813 A,1.798719814171813e-10,12.0,61.0,-49.0
+90,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0NJUiMQ.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-04-28,2024-04-30,1755 A,1.1827778343259054e-10,14.0,61.0,-47.0
+91,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/04/HHP_Apr2024_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-04-24,2024-04-25,1961 RV,6.866537978424469e-11,32.0,61.0,-29.0
+92,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_20240422.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-04-21,2024-04-23,1651 A,7.66722403280017e-11,12.0,65.0,-53.0
+93,"<a href=""https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_042424.pdf/"" style=""color:black; text-decoration:underline;""><u>Monmouth University</u></a>",2024-04-18,2024-04-22,808 A,7.863520511354186e-11,14.0,79.0,-65.0
+94,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HqmM53D.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-04-14,2024-04-16,1574 A,5.003420236116016e-11,12.0,62.0,-50.0
+95,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_lMxEeEw.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-04-06,2024-04-09,1795 A,3.571057500311708e-11,14.0,63.0,-49.0
+96,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5VGK6NY.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-03-30,2024-04-02,1813 A,2.3986314226549445e-11,12.0,67.0,-55.0
+97,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/660c51fc7267d13186cfe71e/1712083453713/%5BALL%5D+Clarity+Omnibus+Overview+-March+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-03-23,2024-03-27,1080 RV,9.121691539506051e-12,23.0,61.0,-38.0
+98,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mTlzQOB.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-03-24,2024-03-26,1594 A,1.5031723384448563e-11,10.0,65.0,-55.0
+99,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/03/HHP_March2024_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-03-20,2024-03-21,2271 RV,9.853887432515724e-12,33.0,60.0,-27.0
+100,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_dyZbfXi.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-03-16,2024-03-19,1682 A,1.0319950458197371e-11,13.0,64.0,-51.0
+101,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ba6mR1n.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-03-10,2024-03-12,1559 A,6.640299596784355e-12,17.0,60.0,-43.0
+102,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nmFBeqb.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-03-03,2024-03-05,1556 A,4.4337317415391275e-12,15.0,60.0,-45.0
+103,"<a href=""https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Fox_February-25-28-2024_Complete_National_Cross-Tabs_March-3-Release.pdf"" style=""color:black; text-decoration:underline;""><u>Beacon Research/Shaw & Co. Research</u></a>^Sponsor: Fox News^",2024-02-25,2024-02-28,1262 RV,3.824914554503683e-12,19.0,78.0,-59.0
+104,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_hi9l9P2.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-02-25,2024-02-27,1688 A,3.086390246373916e-12,16.0,59.0,-43.0
+105,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/65e89ab3fee20505c0cb5577/1709742772099/Clarity+Omnibus+Overview+-+February+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-02-22,2024-02-27,1026 LV,1.256025475202082e-12,22.0,56.0,-34.0
+106,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/02/HHP_Feb2024_Crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-02-21,2024-02-22,2022 RV,1.855195171304602e-12,34.0,58.0,-24.0
+107,"<a href=""https://news.gallup.com/poll/611135/immigration-surges-top-important-problem-list.aspx"" style=""color:black; text-decoration:underline;""><u>Gallup</u></a>",2024-02-01,2024-02-20,1016 A,1.7884085192033697e-12,12.0,83.0,-71.0
+108,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_LbK5uKN.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-02-18,2024-02-20,1562 A,1.9842899440060003e-12,23.0,53.0,-30.0
+109,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_bC3K16R.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-02-11,2024-02-13,1671 A,1.37168011137051e-12,20.0,56.0,-36.0
+110,"<a href=""https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_022024.pdf/"" style=""color:black; text-decoration:underline;""><u>Monmouth University</u></a>",2024-02-08,2024-02-12,902 A,1.4774561914416157e-12,14.0,79.0,-65.0
+111,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_H1zTWuF.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-02-04,2024-02-06,1591 A,8.94539879283713e-13,20.0,57.0,-37.0
+112,"<a href=""https://polsci.umass.edu/sites/default/files/January2024StateofNationBidenCrosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: WCVB-TV (Boston)^",2024-01-25,2024-01-30,1064 A,4.889173291934675e-13,26.0,62.0,-36.0
+113,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_f5kOruS.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-01-28,2024-01-30,1686 A,6.154508868654458e-13,13.0,62.0,-49.0
+114,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/65bbc99ed92dcc3f3d6c412d/1706805664506/Clarity+Omnibus+Overview+-+January+2024.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2024-01-19,2024-01-23,1092 LV,1.7279695566648092e-13,26.0,58.0,-32.0
+115,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_i9N6Z0N.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-01-21,2024-01-23,1664 A,4.0864037833954197e-13,18.0,60.0,-42.0
+116,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2024/01/HHP_Jan2024_crosstabs.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2024-01-17,2024-01-18,2346 RV,2.6647902673941854e-13,33.0,59.0,-26.0
+117,"<a href=""https://www.newsnationnow.com/polls/2024-election-poll-ddhq/"" style=""color:black; text-decoration:underline;""><u>NewsNation</u></a>",2024-01-16,2024-01-18,1000 RV,3.942740158803207e-14,24.41,75.59,-51.18000000000001
+118,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HvTrDQB.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-01-14,2024-01-16,1660 A,2.727838538374926e-13,16.0,62.0,-46.0
+119,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wOkNqe4.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2024-01-07,2024-01-09,1593 A,1.7859631944347367e-13,19.0,56.0,-37.0
+120,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_11nGFKX.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2023-12-31,2024-01-02,1521 A,1.1663508863224217e-13,18.0,58.0,-40.0
+121,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pJolTxJ.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2023-12-16,2023-12-18,1500 A,4.8843890193115576e-14,15.0,56.0,-41.0
+122,"<a href=""https://harvardharrispoll.com/wp-content/uploads/2023/12/HHP_Dec23_Crosstab.pdf"" style=""color:black; text-decoration:underline;""><u>Harris Insights & Analytics</u></a>^Sponsor: Harvard University Center for American Political Studies^",2023-12-13,2023-12-14,2034 RV,3.308830375045065e-14,35.0,58.0,-23.0
+123,"<a href=""https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Fox_December-10-13-2023_Cross-Tabs_December-17-Release.pdf"" style=""color:black; text-decoration:underline;""><u>Beacon Research/Shaw & Co. Research</u></a>^Sponsor: Fox News^",2023-12-10,2023-12-13,1007 RV,4.060755073922595e-14,19.0,77.0,-58.0
+124,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_y2MuS3t.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2023-12-09,2023-12-12,1500 A,3.4578826155137884e-14,14.0,62.0,-48.0
+125,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/657cbfcf5350902a33364e5a/1702674493048/Clarity+Omnibus+Overview+-+December+2023.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2023-12-07,2023-12-10,1052 LV,1.3472017476521738e-14,23.0,62.0,-39.0
+126,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_BOEC4TZ.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2023-12-02,2023-12-05,1500 A,2.3110548137448888e-14,16.0,59.0,-43.0
+127,"<a href=""https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_121823/"" style=""color:black; text-decoration:underline;""><u>Monmouth University</u></a>",2023-11-30,2023-12-04,803 A,2.4789577000275194e-14,17.0,77.0,-60.0

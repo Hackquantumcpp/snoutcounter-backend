@@ -1,19 +1,28 @@
 ,Pollster,Start Date,End Date,Sample,Weight,Democrats,Republicans,Net
-0,YouGov,2025-04-05,2025-04-08,1741 A,0.24215900557895437,39.0,36.0,-3.0
-1,Cygnal,2025-04-01,2025-04-03,1500 LV,0.25983628097153627,47.5,46.5,-1.0
-2,Fabrizio Lee & Associates/Impact Research,2025-03-27,2025-04-01,1500 RV,0.0276149830118038,44.0,43.0,-1.0
-3,Echelon Insights,2025-03-10,2025-03-13,1007 LV,0.048464354109076374,46.0,47.0,1.0
-4,Hart Research Associates/Public Opinion Strategies,2025-03-07,2025-03-11,1000 RV,0.061852238773199036,48.0,47.0,-1.0
-5,Clarity Campaign Labs,2025-03-03,2025-03-09,1036 RV,0.03420521360947995,46.0,44.0,-2.0
-6,Cygnal,2025-03-03,2025-03-05,1500 LV,0.07854714390243248,47.4,45.9,-1.5
-7,Emerson College,2025-03-02,2025-03-03,1000 RV,0.06518570582715842,44.4,41.4,-3.0
-8,Public Opinion Strategies,2025-02-25,2025-03-02,1000 RV,0.0439480848601056,44.0,46.0,2.0
-9,RMG Research,2025-02-20,2025-02-21,1000 RV,0.017932255215008953,46.0,48.0,2.0
-10,YouGov,2025-02-16,2025-02-18,1603 A,0.033188904082925894,35.0,37.0,2.0
-11,Echelon Insights,2025-02-10,2025-02-13,1010 LV,0.018047021826901686,46.0,47.0,1.0
-12,Clarity Campaign Labs,2025-01-31,2025-02-06,1102 RV,0.012321683454691642,45.0,44.0,-1.0
-13,Cygnal,2025-02-04,2025-02-05,1500 LV,0.03092903125971421,46.2,47.2,1.0
-14,Fabrizio Lee & Associates/Impact Research,2025-01-27,2025-02-01,3000 RV,0.004500460759991084,43.0,43.0,0.0
-15,RMG Research,2025-01-15,2025-01-16,1000 RV,0.005782297226856089,44.0,51.0,7.0
-16,Cygnal,2025-01-09,2025-01-12,1500 LV,0.014469184905717658,44.6,46.8,2.1999999999999957
-17,Cygnal,2024-12-09,2024-12-11,1500 LV,0.00101615062444634,44.6,48.4,3.799999999999997
+0,"<a href=""https://nexstartv-my.sharepoint.com/:x:/g/personal/mhobe_nexstar_tv/Ed_IQP-AattKq1IhfspZkKUB_j3G-vcd-JiJJksGOx_TLQ?rtime=xPSDEL6I3Ug"" style=""color:black; text-decoration:underline;""><u>NewsNation</u></a>",2025-04-23,2025-04-27,1448 RV,0.03920717465785706,45.0,40.0,-5.0
+1,"<a href=""https://static.foxnews.com/foxnews.com/content/uploads/2025/04/fox_april-18-21-2025_complete_national_cross-tabs_april-25-release.pdf"" style=""color:black; text-decoration:underline;""><u>Beacon Research/Shaw & Co. Research</u></a>^Sponsor: Fox News^",2025-04-18,2025-04-21,1104 RV,0.21084099302422749,49.0,42.0,-7.0
+2,"<a href=""https://napolitannews.org/posts/democrats-make-huge-gains-on-generic-ballot"" style=""color:black; text-decoration:underline;""><u>RMG Research</u></a>^Sponsor: Napolitan Institute^",2025-04-16,2025-04-16,1000 RV,0.07866474361848118,50.0,45.0,-5.0
+3,"<a href=""https://echelonin.wpenginepowered.com/wp-content/uploads/April-2025-Voter-Omnibus-Topline-External.pdf"" style=""color:black; text-decoration:underline;""><u>Echelon Insights</u></a>",2025-04-10,2025-04-14,1014 LV,0.07913811969244246,47.0,47.0,0.0
+4,"<a href=""https://45840940.fs1.hubspotusercontent-na1.net/hubfs/45840940/Clarity%20Omnibus%20Overview_April%202025.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2025-04-09,2025-04-14,1008 RV,0.07468733113060248,44.0,45.0,1.0
+5,"<a href=""https://pos.org/wp-content/uploads/2025/04/250084-CNBC-AAES-Q1-2025-Topline.pdf"" style=""color:black; text-decoration:underline;""><u>Hart Research Associates/Public Opinion Strategies</u></a>^Sponsor: CNBC^",2025-04-09,2025-04-13,1000 A,0.12830253988281187,48.0,46.0,-2.0
+6,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-04-05,2025-04-08,1558 RV,0.08032028135905997,43.0,42.0,-1.0
+7,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-04-05,2025-04-08,1741 A,0.10613311062279313,39.0,36.0,-3.0
+8,"<a href=""https://www.cygn.al/wp-content/uploads/2025/04/22974-Cygnal-National-NVT-Apr25-Deck-Public.pdf"" style=""color:black; text-decoration:underline;""><u>Cygnal</u></a>",2025-04-01,2025-04-03,1500 LV,0.0854377359525548,47.5,46.5,-1.0
+9,"<a href=""https://prod-i.a.dj.com/public/resources/documents/March_2025_WSJPoll.pdf"" style=""color:black; text-decoration:underline;""><u>Fabrizio Lee & Associates/Impact Research</u></a>^Sponsor: The Wall Street Journal^",2025-03-27,2025-04-01,1500 RV,0.011603832765466705,44.0,43.0,-1.0
+10,"<a href=""https://thirdway.imgix.net/downloads/democrats-immigration-opportunity/Third-Way-and-Normington-Petts-National-Immigration-Survey-Toplines.pdf"" style=""color:black; text-decoration:underline;""><u>Normington, Petts & Associates</u></a>^Sponsor: Third Way^",2025-03-12,2025-03-19,800 LV,0.0030795842004744793,50.0,50.0,0.0
+11,"<a href=""https://echelonin.wpenginepowered.com/wp-content/uploads/March-2025-Voter-Omnibus-Topline-External.pdf"" style=""color:black; text-decoration:underline;""><u>Echelon Insights</u></a>",2025-03-10,2025-03-13,1007 LV,0.013280134159666071,46.0,47.0,1.0
+12,"<a href=""https://s3.documentcloud.org/documents/25569109/nbc-march-2025-poll-3-16-2025-release.pdf"" style=""color:black; text-decoration:underline;""><u>Hart Research Associates/Public Opinion Strategies</u></a>^Sponsor: NBC News^",2025-03-07,2025-03-11,1000 RV,0.015255282870174166,48.0,47.0,-1.0
+13,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67d0921f11ba8d57a17670a9/1741722147070/Clarity+Omnibus+Overview+-+March+2025+PUBLIC.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2025-03-03,2025-03-09,1036 RV,0.00969216758993285,46.0,44.0,-2.0
+14,"<a href=""https://www.cygn.al/wp-content/uploads/2025/03/22915-Cygnal-National-NVT-Mar25-Deck-Public.pdf"" style=""color:black; text-decoration:underline;""><u>Cygnal</u></a>",2025-03-03,2025-03-05,1500 LV,0.015101823245488267,47.4,45.9,-1.5
+15,"<a href=""https://docs.google.com/spreadsheets/d/1-mJKBNLJeEGp_7ZSBNwUmlDnH3SawgDJ/edit?gid=1263081245#gid=1263081245"" style=""color:black; text-decoration:underline;""><u>Emerson College</u></a>",2025-03-02,2025-03-03,1000 RV,0.012940496248073497,44.4,41.4,-3.0
+16,"<a href=""https://paragoninstitute.org/medicaid/paragon-health-policy-survey-2025/"" style=""color:black; text-decoration:underline;""><u>Public Opinion Strategies</u></a>^Sponsor: Paragon Health Institute^",2025-02-25,2025-03-02,1000 RV,0.009596156610700783,44.0,46.0,2.0
+17,"<a href=""https://x.com/ScottWRasmussen/status/1894720317291114920"" style=""color:black; text-decoration:underline;""><u>RMG Research</u></a>^Sponsor: Napolitan Institute^",2025-02-20,2025-02-21,1000 RV,0.004043061120676734,46.0,48.0,2.0
+18,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-02-16,2025-02-18,1603 A,0.006552193110357734,35.0,37.0,2.0
+19,"<a href=""https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf"" style=""color:black; text-decoration:underline;""><u>YouGov</u></a>^Sponsor: The Economist^",2025-02-16,2025-02-18,1451 RV,0.004987048832311618,42.0,41.0,-1.0
+20,"<a href=""https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fechelonin.wpenginepowered.com%2Fwp-content%2Fuploads%2FFebruary-2025-Voter-Omnibus-Crosstabs-External.xlsx&wdOrigin=BROWSELINK"" style=""color:black; text-decoration:underline;""><u>Echelon Insights</u></a>",2025-02-10,2025-02-13,1010 LV,0.0029608640440245766,46.0,47.0,1.0
+21,"<a href=""https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67aa57a7976e415c4d212706/1739216809584/Clarity+Omnibus+Overview+-+Jan_Feb+2025.pdf"" style=""color:black; text-decoration:underline;""><u>Clarity Campaign Labs</u></a>",2025-01-31,2025-02-06,1102 RV,0.002046175808079531,45.0,44.0,-1.0
+22,"<a href=""https://www.cygn.al/wp-content/uploads/2025/02/22874-Cygnal-National-NVT-Feb25-Deck-Public.pdf"" style=""color:black; text-decoration:underline;""><u>Cygnal</u></a>",2025-02-04,2025-02-05,1500 LV,0.003604185712062579,46.2,47.2,1.0
+23,"<a href=""https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/federal-tax-package-legislative-priorities.doi.10.26419-2fres.00921.001.pdf"" style=""color:black; text-decoration:underline;""><u>Fabrizio Lee & Associates/Impact Research</u></a>^Sponsor: AARP^",2025-01-27,2025-02-01,3000 RV,0.0006233562480134082,43.0,43.0,0.0
+24,"<a href=""https://napolitannews.org/posts/generic-ballot-gop-51-percent-dem-44"" style=""color:black; text-decoration:underline;""><u>RMG Research</u></a>^Sponsor: Napolitan Institute^",2025-01-15,2025-01-16,1000 RV,0.0006407820046864758,44.0,51.0,7.0
+25,"<a href=""https://www.cygn.al/wp-content/uploads/2025/01/22827-Cygnal-National-NVT-Jan25-Deck.pdf"" style=""color:black; text-decoration:underline;""><u>Cygnal</u></a>",2025-01-09,2025-01-12,1500 LV,0.0010555378895532013,44.6,46.8,2.1999999999999957
+26,"<a href=""https://www.cygn.al/wp-content/uploads/2024/12/Cygnal-National-NVT-Dec24-Deck-Public.pdf"" style=""color:black; text-decoration:underline;""><u>Cygnal</u></a>",2024-12-09,2024-12-11,1500 LV,0.00020528759942672347,44.6,48.4,3.799999999999997
