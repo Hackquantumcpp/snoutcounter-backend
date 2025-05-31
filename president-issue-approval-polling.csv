@@ -262,3 +262,50 @@
 260,trade_tariffs,RMG Research,05/12/2025,05/13/2025,1000,RV,47,48,-1,https://napolitannews.org/posts/47-percent-now-approve-of-trump-on-tariffs,Napolitan News Service
 261,healthcare,Verasight,05/01/2025,05/06/2025,1000,A,36,52,-16,https://www.gelliottmorris.com/p/new-poll-americans-oppose-trumps,Strength In Numbers
 262,education,Verasight,05/01/2025,05/06/2025,1000,A,38,53,-15,https://www.gelliottmorris.com/p/new-poll-americans-oppose-trumps,Strength In Numbers
+263,immigration,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,51,42,9,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
+264,economy,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,46,48,-2,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
+265,inflation,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,43,50,-7,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
+266,trade_tariffs,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,42,50,-8,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
+267,foreign_policy,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,46,54,-8,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
+268,immigration,SurveyMonkey,04/11/2025,04/20/2025,19682,A,49,51,-2,https://www.nbcnews.com/politics/trump-administration/poll-americans-vent-disappointment-trump-ahead-100-day-mark-especially-rcna202656,NBC News
+269,economy,YouGov,05/16/2025,05/19/2025,1710,A,41,48,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+270,immigration,YouGov,05/16/2025,05/19/2025,1710,A,48,45,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+271,foreign_policy,YouGov,05/16/2025,05/19/2025,1710,A,43,47,-4,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+272,national_security,YouGov,05/16/2025,05/19/2025,1710,A,47,41,6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+273,education,YouGov,05/16/2025,05/19/2025,1710,A,42,47,-5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+274,crime,YouGov,05/16/2025,05/19/2025,1710,A,46,40,6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+275,criminal_justice_reform,YouGov,05/16/2025,05/19/2025,1710,A,39,42,-3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+276,inflation,YouGov,05/16/2025,05/19/2025,1710,A,39,53,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+277,trade_tariffs,YouGov,05/16/2025,05/19/2025,1710,A,41,49,-8,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+278,immigration,Morning Consult,05/16/2025,05/19/2025,2208,RV,53,40,13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+279,economy,Morning Consult,05/16/2025,05/19/2025,2208,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+280,trade_tariffs,Morning Consult,05/16/2025,05/19/2025,2208,RV,46,46,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+281,economy,American Research Group,05/17/2025,05/20/2025,1100,A,37,60,-23,https://americanresearchgroup.com/economy/,
+282,economy,Ipsos,05/16/2025,05/18/2025,1024,A,39,53,-14,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters
+283,immigration,Ipsos,05/16/2025,05/18/2025,1024,A,47,45,2,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters
+284,economy,Marquette University Law School,05/05/2025,05/15/2025,1004,A,43,58,-15,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+285,inflation,Marquette University Law School,05/05/2025,05/15/2025,1004,A,34,65,-31,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+286,immigration,Marquette University Law School,05/05/2025,05/15/2025,1004,A,50,50,0,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+287,foreign_policy,Marquette University Law School,05/05/2025,05/15/2025,1004,A,44,57,-13,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+288,trade_tariffs,Marquette University Law School,05/05/2025,05/15/2025,1004,A,36,63,-27,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+289,ukraine,Marquette University Law School,05/05/2025,05/15/2025,1004,A,40,61,-21,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+290,economy,Global Strategy Group/GBAO (Navigator Research),05/15/2025,05/18/2025,1000,RV,42,56,-14,https://navigatorresearch.org/wp-content/uploads/2025/05/Navigator-Update-Topline-F05.19.25-1.pdf,
+291,immigration,Morning Consult,05/09/2025,05/11/2025,2221,RV,51,44,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+292,trade_tariffs,Morning Consult,05/09/2025,05/11/2025,2221,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+293,economy,YouGov,05/23/2025,05/26/2025,1660,A,42,51,-9,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+294,inflation,YouGov,05/23/2025,05/26/2025,1660,A,38,56,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+295,immigration,YouGov,05/23/2025,05/26/2025,1660,A,48,48,0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+296,climate_change,YouGov,05/23/2025,05/26/2025,1660,A,35,48,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+297,education,YouGov,05/23/2025,05/26/2025,1660,A,40,51,-11,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+298,abortion,YouGov,05/23/2025,05/26/2025,1660,A,35,49,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+299,immigration,Morning Consult,05/23/2025,05/25/2025,2208,RV,53,40,13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+300,economy,Morning Consult,05/23/2025,05/25/2025,2208,RV,46,47,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+301,trade_tariffs,Morning Consult,05/23/2025,05/25/2025,2208,RV,47,45,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+302,immigration,AtlasIntel,05/21/2025,05/27/2025,3469,A,47,53,-6,https://atlasintel.org/poll/usa-national-2025-05-30,
+303,economy,AtlasIntel,05/21/2025,05/27/2025,3469,A,42,54,-12,https://atlasintel.org/poll/usa-national-2025-05-30,
+304,trade_tariffs,AtlasIntel,05/21/2025,05/27/2025,3469,A,42,54,-12,https://atlasintel.org/poll/usa-national-2025-05-30,
+305,immigration,RMG Research,05/28/2025,05/29/2025,1000,RV,56,42,14,https://napolitannews.org/posts/voters-rate-trumps-performance-on-key-issues,Napolitan News Service
+306,healthcare,RMG Research,05/28/2025,05/29/2025,1000,RV,47,51,-4,https://napolitannews.org/posts/voters-rate-trumps-performance-on-key-issues,Napolitan News Service
+307,economy,RMG Research,05/28/2025,05/29/2025,1000,RV,44,55,-11,https://napolitannews.org/posts/voters-rate-trumps-performance-on-key-issues,Napolitan News Service
+308,trade_tariffs,RMG Research,05/29/2025,05/29/2025,1000,RV,46,52,-6,https://napolitannews.org/posts/voters-like-checks-and-balances-on-tariffs,Napolitan News Service
+309,inflation,RMG Research,05/28/2025,05/29/2025,1000,RV,44,54,-10,https://napolitannews.org/posts/voters-rate-trumps-performance-on-key-issues,Napolitan News Service
