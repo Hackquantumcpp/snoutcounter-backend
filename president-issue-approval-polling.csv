@@ -359,3 +359,42 @@
 357,economy,Harris Insights & Analytics,06/11/2025,06/12/2025,2097,RV,44.0,56.0,-12.0,https://harvardharrispoll.com/wp-content/uploads/2025/06/HHP_June2025_KeyResults.pdf,Harvard CAPS
 358,immigration,Harris Insights & Analytics,06/11/2025,06/12/2025,2097,RV,49.0,51.0,-2.0,https://harvardharrispoll.com/wp-content/uploads/2025/06/HHP_June2025_KeyResults.pdf,Harvard CAPS
 359,inflation,Harris Insights & Analytics,06/11/2025,06/12/2025,2097,RV,42.0,58.0,-16.0,https://harvardharrispoll.com/wp-content/uploads/2025/06/HHP_June2025_KeyResults.pdf,Harvard CAPS
+360,economy,Ipsos,06/11/2025,06/16/2025,4258,A,39.0,52.0,-13.0,https://www.reuters.com/world/us/trump-approval-steady-42-support-weakens-his-immigration-policy-reutersipsos-2025-06-16/,Reuters
+361,immigration,Ipsos,06/11/2025,06/16/2025,4258,A,44.0,49.0,-5.0,https://www.reuters.com/world/us/trump-approval-steady-42-support-weakens-his-immigration-policy-reutersipsos-2025-06-16/,Reuters
+362,economy,YouGov,06/13/2025,06/16/2025,1512,A,41.0,53.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+363,inflation,YouGov,06/13/2025,06/16/2025,1512,A,35.0,58.0,-23.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+364,immigration,YouGov,06/13/2025,06/16/2025,1512,A,44.0,52.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+365,civil_rights,YouGov,06/13/2025,06/16/2025,1512,A,38.0,51.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+366,crime,YouGov,06/13/2025,06/16/2025,1512,A,44.0,45.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+367,guns,YouGov,06/13/2025,06/16/2025,1512,A,38.0,43.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+368,iran,YouGov,06/13/2025,06/16/2025,1512,A,37.0,41.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+369,israel_palestine,YouGov,06/13/2025,06/16/2025,1512,A,37.0,44.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+370,deportations,YouGov,06/13/2025,06/16/2025,1512,A,42.0,52.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+371,inflation,Verasight,06/06/2025,06/12/2025,1500,A,33.0,62.0,-29.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+372,healthcare,Verasight,06/06/2025,06/12/2025,1500,A,36.0,55.0,-19.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+373,trade_tariffs,Verasight,06/06/2025,06/12/2025,1500,A,38.0,55.0,-17.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+374,foreign_policy,Verasight,06/06/2025,06/12/2025,1500,A,39.0,53.0,-14.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+375,economy,Verasight,06/06/2025,06/12/2025,1500,A,41.0,53.0,-12.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+376,education,Verasight,06/06/2025,06/12/2025,1500,A,41.0,52.0,-11.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+377,deportations,Verasight,06/06/2025,06/12/2025,1500,A,46.0,50.0,-4.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+378,immigration,Verasight,06/06/2025,06/12/2025,1500,A,46.0,49.0,-3.0,https://www.gelliottmorris.com/p/trump-approval-at-42-democrats-up,Strength In Numbers
+379,trade_tariffs,Harris Insights & Analytics,06/11/2025,06/12/2025,2097,RV,41.0,52.0,-11.0,https://harvardharrispoll.com/wp-content/uploads/2025/06/HHP_June2025_KeyResults.pdf,Harvard CAPS
+380,immigration,Morning Consult,06/13/2025,06/15/2025,2207,RV,51.0,44.0,7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+381,economy,Morning Consult,06/13/2025,06/15/2025,2207,RV,47.0,48.0,-1.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+382,trade_tariffs,Morning Consult,06/13/2025,06/15/2025,2207,RV,45.0,46.0,-1.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+383,economy,Civiqs,04/12/2025,04/15/2025,1124,RV,46.0,54.0,-8.0,https://civiqs.com/documents/Civiqs_DailyKos_banner_book_2025_04_ep2m5v1.pdf,Daily Kos
+384,immigration,Civiqs,04/12/2025,04/15/2025,1124,RV,49.0,51.0,-2.0,https://civiqs.com/documents/Civiqs_DailyKos_banner_book_2025_04_ep2m5v1.pdf,Daily Kos
+385,immigration,Civiqs,05/17/2025,05/20/2025,1018,RV,47.0,52.0,-5.0,https://civiqs.com/documents/Civiqs_DailyKos_banner_book_2025_05_x3b1sp.pdf,Daily Kos
+386,economy,Echelon Insights,06/12/2025,06/17/2025,982,LV,43.0,53.0,-10.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Voter-Omnibus-Topline-EXTERNAL.pdf,
+387,immigration,Echelon Insights,06/12/2025,06/17/2025,982,LV,47.0,51.0,-4.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Voter-Omnibus-Topline-EXTERNAL.pdf,
+388,foreign_policy,Echelon Insights,06/12/2025,06/17/2025,982,LV,44.0,50.0,-6.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Voter-Omnibus-Topline-EXTERNAL.pdf,
+389,trade_tariffs,Echelon Insights,06/12/2025,06/17/2025,982,LV,40.0,56.0,-16.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Voter-Omnibus-Topline-EXTERNAL.pdf,
+390,immigration,Beacon Research/Shaw & Co. Research,06/13/2025,06/16/2025,1003,RV,46.0,53.0,-7.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/06/fox_june-13-16-2025_national_topline_june-18-release.pdf,FOX News
+391,foreign_policy,Beacon Research/Shaw & Co. Research,06/13/2025,06/16/2025,1003,RV,42.0,57.0,-15.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/06/fox_june-13-16-2025_national_topline_june-18-release.pdf,FOX News
+392,economy,Beacon Research/Shaw & Co. Research,06/13/2025,06/16/2025,1003,RV,40.0,58.0,-18.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/06/fox_june-13-16-2025_national_topline_june-18-release.pdf,FOX News
+393,inflation,Beacon Research/Shaw & Co. Research,06/13/2025,06/16/2025,1003,RV,34.0,64.0,-30.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/06/fox_june-13-16-2025_national_topline_june-18-release.pdf,FOX News
+394,israel_iran_conflict,J.L. Partners,06/16/2025,06/17/2025,1039,RV,46.0,40.0,6.0,https://jlpartners.com/israeliran,
+395,economy,Echelon Insights,06/17/2025,06/18/2025,1002,LV,48.0,50.0,-2.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Middle-East-Update.pdf,
+396,immigration,Echelon Insights,06/17/2025,06/18/2025,1002,LV,51.0,48.0,3.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Middle-East-Update.pdf,
+397,foreign_policy,Echelon Insights,06/17/2025,06/18/2025,1002,LV,47.0,49.0,-2.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Middle-East-Update.pdf,
+398,trade_tariffs,Echelon Insights,06/17/2025,06/18/2025,1002,LV,43.0,52.0,-9.0,https://echelonin.wpenginepowered.com/wp-content/uploads/June-2025-Middle-East-Update.pdf,
