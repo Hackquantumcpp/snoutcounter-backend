@@ -403,3 +403,61 @@
 401,immigration,Clarity Campaign Labs,06/05/2025,06/14/2025,1000,RV,50.0,47.0,3.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/6852fc5a3ac4c05449fc450e/1750269023826/Clarity+Omnibus+Overview+-+June+2025+%5BPUBLIC%5D.pdf,
 402,healthcare,Clarity Campaign Labs,06/05/2025,06/14/2025,1000,RV,40.0,52.0,-12.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/6852fc5a3ac4c05449fc450e/1750269023826/Clarity+Omnibus+Overview+-+June+2025+%5BPUBLIC%5D.pdf,
 403,national_security,Clarity Campaign Labs,06/05/2025,06/14/2025,1000,RV,52.0,41.0,11.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/6852fc5a3ac4c05449fc450e/1750269023826/Clarity+Omnibus+Overview+-+June+2025+%5BPUBLIC%5D.pdf,
+404,economy,American Research Group,06/17/2025,06/20/2025,1100,A,35.0,61.0,-26.0,https://americanresearchgroup.com/economy/,
+405,economy,Ipsos,06/21/2025,06/23/2025,1139,A,35.0,57.0,-22.0,https://www.reuters.com/world/us/americans-worry-conflict-with-iran-could-escalate-reutersipsos-poll-finds-2025-06-23/,Reuters
+406,immigration,Ipsos,06/21/2025,06/23/2025,1139,A,43.0,51.0,-8.0,https://www.reuters.com/world/us/americans-worry-conflict-with-iran-could-escalate-reutersipsos-poll-finds-2025-06-23/,Reuters
+407,foreign_policy,Ipsos,06/21/2025,06/23/2025,1139,A,35.0,53.0,-18.0,https://www.reuters.com/world/us/americans-worry-conflict-with-iran-could-escalate-reutersipsos-poll-finds-2025-06-23/,Reuters
+408,trade_tariffs,Ipsos,04/16/2025,04/21/2025,4306,A,36.0,52.0,-16.0,https://www.reuters.com/world/us/trump-approval-rating-dips-many-wary-his-wielding-power-reutersipsos-poll-finds-2025-04-21/,Reuters
+409,foreign_policy,Ipsos,04/16/2025,04/21/2025,4306,A,36.0,49.0,-13.0,https://www.reuters.com/world/us/trump-approval-rating-dips-many-wary-his-wielding-power-reutersipsos-poll-finds-2025-04-21/,Reuters
+410,foreign_policy,Ipsos,05/12/2025,05/13/2025,1163,A,40.0,48.0,-8.0,https://www.reuters.com/world/us/trumps-approval-rating-rises-44-americans-worry-less-about-recession-2025-05-13/,Reuters
+411,foreign_policy,Ipsos,05/16/2025,05/18/2025,1024,A,41.0,48.0,-7.0,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters
+412,inflation,Ipsos,05/16/2025,05/18/2025,1024,A,33.0,58.0,-25.0,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters
+413,economy,YouGov,06/20/2025,06/23/2025,1590,A,39.0,51.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+414,inflation,YouGov,06/20/2025,06/23/2025,1590,A,34.0,60.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+415,immigration,YouGov,06/20/2025,06/23/2025,1590,A,45.0,49.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+416,foreign_policy,YouGov,06/20/2025,06/23/2025,1590,A,36.0,51.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+417,national_security,YouGov,06/20/2025,06/23/2025,1590,A,44.0,46.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+418,trade_tariffs,YouGov,06/20/2025,06/23/2025,1590,A,37.0,53.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+419,israel_iran_conflict,YouGov,06/20/2025,06/23/2025,1590,A,35.0,52.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+420,immigration,Morning Consult,06/20/2025,06/22/2025,2205,RV,49.0,43.0,6.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+421,economy,Morning Consult,06/20/2025,06/22/2025,2205,RV,44.0,48.0,-4.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+422,trade_tariffs,Morning Consult,06/20/2025,06/22/2025,2205,RV,44.0,47.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+423,trade_tariffs,Ipsos,06/21/2025,06/23/2025,1139,A,35.0,54.0,-19.0,https://www.reuters.com/world/us/americans-worry-conflict-with-iran-could-escalate-reutersipsos-poll-finds-2025-06-23/,Reuters
+424,inflation,Ipsos,06/21/2025,06/23/2025,1139,A,29.0,64.0,-35.0,https://www.reuters.com/world/us/americans-worry-conflict-with-iran-could-escalate-reutersipsos-poll-finds-2025-06-23/,Reuters
+425,immigration,Quinnipiac University,06/22/2025,06/24/2025,979,RV,41.0,57.0,-16.0,https://poll.qu.edu/poll-release?releaseid=3926,
+426,economy,Quinnipiac University,06/22/2025,06/24/2025,979,RV,39.0,56.0,-17.0,https://poll.qu.edu/poll-release?releaseid=3926,
+427,trade_tariffs,Quinnipiac University,06/22/2025,06/24/2025,979,RV,38.0,55.0,-17.0,https://poll.qu.edu/poll-release?releaseid=3926,
+428,deportations,Quinnipiac University,06/22/2025,06/24/2025,979,RV,39.0,59.0,-20.0,https://poll.qu.edu/poll-release?releaseid=3926,
+429,foreign_policy,Quinnipiac University,06/22/2025,06/24/2025,979,RV,40.0,54.0,-14.0,https://poll.qu.edu/poll-release?releaseid=3926,
+430,military,Quinnipiac University,06/22/2025,06/24/2025,979,RV,45.0,49.0,-4.0,https://poll.qu.edu/poll-release?releaseid=3926,
+431,israel_iran_conflict,Quinnipiac University,06/22/2025,06/24/2025,979,RV,39.0,53.0,-14.0,https://poll.qu.edu/poll-release?releaseid=3926,
+432,immigration,John Zogby Strategies,06/24/2025,06/25/2025,1006,LV,49.0,47.0,2.0,https://johnzogbystrategies.com/wp-content/uploads/2025/06/S-Approval-US-Likely-062425.pdf,
+433,economy,John Zogby Strategies,06/24/2025,06/25/2025,1006,LV,43.0,54.0,-11.0,https://johnzogbystrategies.com/wp-content/uploads/2025/06/S-Approval-US-Likely-062425.pdf,
+434,immigration,The Tyson Group,06/25/2025,06/26/2025,1027,A,48.0,44.0,4.0,https://tysongroup.co/wp-content/uploads/2025/06/June-2025-Issue-Survey.pdf,
+435,inflation,The Tyson Group,06/25/2025,06/26/2025,1027,A,37.0,53.0,-16.0,https://tysongroup.co/wp-content/uploads/2025/06/June-2025-Issue-Survey.pdf,
+436,foreign_policy,The Tyson Group,06/25/2025,06/26/2025,1027,A,45.0,45.0,0.0,https://tysongroup.co/wp-content/uploads/2025/06/June-2025-Issue-Survey.pdf,
+437,israel_iran_conflict,John Zogby Strategies,06/24/2025,06/25/2025,1006,LV,44.4,50.1,-5.7,https://johnzogbystrategies.com/wp-content/uploads/2025/06/S-Approval-US-Likely-062425.pdf,
+438,trade_tariffs,John Zogby Strategies,06/24/2025,06/25/2025,1006,LV,41.4,53.8,-12.4,https://johnzogbystrategies.com/wp-content/uploads/2025/06/S-Approval-US-Likely-062425.pdf,
+439,economy,YouGov,06/27/2025,06/30/2025,1648,A,43.0,51.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+440,inflation,YouGov,06/27/2025,06/30/2025,1648,A,35.0,59.0,-24.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+441,immigration,YouGov,06/27/2025,06/30/2025,1648,A,47.0,50.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+442,climate_change,YouGov,06/27/2025,06/30/2025,1648,A,33.0,49.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+443,education,YouGov,06/27/2025,06/30/2025,1648,A,39.0,52.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+444,abortion,YouGov,06/27/2025,06/30/2025,1648,A,37.0,51.0,-14.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+445,economy,Marist College,06/23/2025,06/25/2025,1381,A,39.0,53.0,-14.0,https://maristpoll.marist.edu/wp-content/uploads/2025/06/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202506271427.pdf,NPR | PBS News
+446,immigration,Marist College,06/23/2025,06/25/2025,1381,A,43.0,52.0,-9.0,https://maristpoll.marist.edu/wp-content/uploads/2025/06/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202506271427.pdf,NPR | PBS News
+447,foreign_policy,Marist College,06/23/2025,06/25/2025,1381,A,41.0,52.0,-11.0,https://maristpoll.marist.edu/wp-content/uploads/2025/06/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202506271427.pdf,NPR | PBS News
+448,immigration,Morning Consult,06/27/2025,06/29/2025,2202,RV,51.0,43.0,8.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+449,economy,Morning Consult,06/27/2025,06/29/2025,2202,RV,47.0,47.0,0.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+450,trade_tariffs,Morning Consult,06/27/2025,06/29/2025,2202,RV,45.0,47.0,-2.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+451,economy,Global Strategy Group/GBAO (Navigator Research),06/26/2025,06/30/2025,1000,RV,43.0,53.0,-10.0,https://navigatorresearch.org/wp-content/uploads/2025/07/Navigator-Topline-F06.30.25.pdf?emci=ce8cac3e-8956-f011-8f7c-6045bdfe8e9c&emdi=88836e6f-9456-f011-8f7c-6045bdfe8e9c&ceid=1590570,
+452,israel_iran_conflict,YouGov,06/26/2025,06/30/2025,1597,A,37.0,54.0,-17.0,https://www.scribd.com/document/883118567/20250701-Yahoo-News-You-Gov-Iran-Tabs,Yahoo News
+453,immigration,Morning Consult,07/03/2025,07/06/2025,2203,RV,50.0,43.0,7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+454,economy,Morning Consult,07/03/2025,07/06/2025,2203,RV,45.0,48.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+455,trade_tariffs,Morning Consult,07/03/2025,07/06/2025,2203,RV,44.0,47.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+456,healthcare,Morning Consult,07/03/2025,07/06/2025,2203,RV,41.0,50.0,-9.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+457,economy,YouGov,07/04/2025,07/07/2025,1528,A,40.0,51.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
+458,inflation,YouGov,07/04/2025,07/07/2025,1528,A,33.0,58.0,-25.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
+459,immigration,YouGov,07/04/2025,07/07/2025,1528,A,45.0,48.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
+460,govt_spending,YouGov,07/04/2025,07/07/2025,1528,A,37.0,54.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
+461,healthcare,YouGov,07/04/2025,07/07/2025,1528,A,31.0,57.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
