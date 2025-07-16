@@ -461,3 +461,56 @@
 459,immigration,YouGov,07/04/2025,07/07/2025,1528,A,45.0,48.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
 460,govt_spending,YouGov,07/04/2025,07/07/2025,1528,A,37.0,54.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
 461,healthcare,YouGov,07/04/2025,07/07/2025,1528,A,31.0,57.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
+462,immigration,Gallup,07/02/2025,07/06/2025,1402,A,35.0,62.0,-27.0,https://news.gallup.com/poll/692522/surge-concern-immigration-abated.aspx,
+463,trade_tariffs,RMG Research,07/07/2025,07/08/2025,1000,RV,44.0,50.0,-6.0,https://napolitannews.org/posts/44-percent-approve-of-trump-on-tariffs-down-from-high,Napolitan News Service
+464,immigration,Harris Insights & Analytics,07/06/2025,07/08/2025,2044,RV,50.0,46.0,4.0,https://harvardharrispoll.com/wp-content/uploads/2025/07/HHP_July2025_Topline.pdf,Harvard CAPS
+465,economy,Harris Insights & Analytics,07/06/2025,07/08/2025,2044,RV,44.0,51.0,-7.0,https://harvardharrispoll.com/wp-content/uploads/2025/07/HHP_July2025_Topline.pdf,Harvard CAPS
+466,inflation,Harris Insights & Analytics,07/06/2025,07/08/2025,2044,RV,42.0,53.0,-11.0,https://harvardharrispoll.com/wp-content/uploads/2025/07/HHP_July2025_Topline.pdf,Harvard CAPS
+467,foreign_policy,Harris Insights & Analytics,07/06/2025,07/08/2025,2044,RV,45.0,49.0,-4.0,https://harvardharrispoll.com/wp-content/uploads/2025/07/HHP_July2025_Topline.pdf,Harvard CAPS
+468,trade_tariffs,Harris Insights & Analytics,07/06/2025,07/08/2025,2044,RV,42.0,52.0,-10.0,https://harvardharrispoll.com/wp-content/uploads/2025/07/HHP_July2025_Topline.pdf,Harvard CAPS
+469,govt_spending,Harris Insights & Analytics,07/06/2025,07/08/2025,2044,RV,46.0,49.0,-3.0,https://harvardharrispoll.com/wp-content/uploads/2025/07/HHP_July2025_Topline.pdf,Harvard CAPS
+470,national_security,YouGov,07/09/2025,07/13/2025,2104,A,48.0,43.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+471,transgender,YouGov,07/09/2025,07/13/2025,2104,A,42.0,42.0,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+472,crime,YouGov,07/09/2025,07/13/2025,2104,A,41.0,46.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+473,immigration,YouGov,07/09/2025,07/13/2025,2104,A,42.0,51.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+474,deportations,YouGov,07/09/2025,07/13/2025,2104,A,41.0,53.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+475,foreign_policy,YouGov,07/09/2025,07/13/2025,2104,A,37.0,51.0,-14.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+476,economy,YouGov,07/09/2025,07/13/2025,2104,A,37.0,50.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+477,abortion,YouGov,07/09/2025,07/13/2025,2104,A,33.0,49.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+478,civil_rights,YouGov,07/09/2025,07/13/2025,2104,A,33.0,49.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+479,education,YouGov,07/09/2025,07/13/2025,2104,A,34.0,51.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+480,democracy,YouGov,07/09/2025,07/13/2025,2104,A,34.0,54.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+481,corruption,YouGov,07/09/2025,07/13/2025,2104,A,34.0,51.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+482,climate_change,YouGov,07/09/2025,07/13/2025,2104,A,29.0,49.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+483,housing,YouGov,07/09/2025,07/13/2025,2104,A,28.0,48.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+484,govt_spending,YouGov,07/09/2025,07/13/2025,2104,A,33.0,57.0,-24.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+485,trade_tariffs,YouGov,07/09/2025,07/13/2025,2104,A,34.0,59.0,-25.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+486,healthcare,YouGov,07/09/2025,07/13/2025,2104,A,31.0,57.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+487,inflation,YouGov,07/09/2025,07/13/2025,2104,A,31.0,62.0,-31.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results.pdf,
+488,economy,Echelon Insights,07/10/2025,07/14/2025,1084,LV,44.0,53.0,-9.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
+489,immigration,Echelon Insights,07/10/2025,07/14/2025,1084,LV,49.0,48.0,1.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
+490,foreign_policy,Echelon Insights,07/10/2025,07/14/2025,1084,LV,47.0,49.0,-2.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
+491,trade_tariffs,Echelon Insights,07/10/2025,07/14/2025,1084,LV,39.0,56.0,-17.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
+492,economy,YouGov,07/11/2025,07/14/2025,1680,A,40.0,53.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+493,inflation,YouGov,07/11/2025,07/14/2025,1680,A,34.0,60.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+494,immigration,YouGov,07/11/2025,07/14/2025,1680,A,45.0,51.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+495,civil_rights,YouGov,07/11/2025,07/14/2025,1680,A,38.0,51.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+496,crime,YouGov,07/11/2025,07/14/2025,1680,A,44.0,45.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+497,guns,YouGov,07/11/2025,07/14/2025,1680,A,40.0,43.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+498,immigration,Morning Consult,07/11/2025,07/13/2025,2201,RV,51.0,43.0,8.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+499,economy,Morning Consult,07/11/2025,07/13/2025,2201,RV,46.0,46.0,0.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+500,trade_tariffs,Morning Consult,07/11/2025,07/13/2025,2201,RV,46.0,44.0,2.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+501,economy,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,42.0,55.0,-13.0,https://poll.qu.edu/poll-release?releaseid=3928,
+502,foreign_policy,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,41.0,54.0,-13.0,https://poll.qu.edu/poll-release?releaseid=3928,
+503,israel_palestine,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,40.0,54.0,-14.0,https://poll.qu.edu/poll-release?releaseid=3928,
+504,immigration,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,40.0,55.0,-15.0,https://poll.qu.edu/poll-release?releaseid=3928,
+505,trade_tariffs,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,40.0,56.0,-16.0,https://poll.qu.edu/poll-release?releaseid=3928,
+506,deportations,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,38.0,59.0,-21.0,https://poll.qu.edu/poll-release?releaseid=3928,
+507,ukraine,Quinnipiac University,07/10/2025,07/14/2025,1290,RV,34.0,57.0,-23.0,https://poll.qu.edu/poll-release?releaseid=3928,
+508,economy,SSRS,07/10/2025,07/13/2025,1057,A,40.0,60.0,-20.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+509,healthcare,SSRS,07/10/2025,07/13/2025,1057,A,38.0,62.0,-24.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+510,immigration,SSRS,07/10/2025,07/13/2025,1057,A,42.0,58.0,-16.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+511,foreign_policy,SSRS,07/10/2025,07/13/2025,1057,A,40.0,60.0,-20.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+512,taxes,SSRS,07/10/2025,07/13/2025,1057,A,44.0,56.0,-12.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+513,environment,SSRS,07/10/2025,07/13/2025,1057,A,39.0,60.0,-21.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+514,trade_tariffs,SSRS,07/10/2025,07/13/2025,1057,A,39.0,61.0,-22.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
