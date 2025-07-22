@@ -514,3 +514,43 @@
 512,taxes,SSRS,07/10/2025,07/13/2025,1057,A,44.0,56.0,-12.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
 513,environment,SSRS,07/10/2025,07/13/2025,1057,A,39.0,60.0,-21.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
 514,trade_tariffs,SSRS,07/10/2025,07/13/2025,1057,A,39.0,61.0,-22.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
+515,immigration,Ipsos,07/15/2025,07/16/2025,1027,A,41.0,51.0,-10.0,https://www.reuters.com/world/us/trumps-approval-immigration-falls-lowest-level-his-term-reutersipsos-poll-finds-2025-07-16/,Reuters
+516,economy,Ipsos,07/15/2025,07/16/2025,1027,A,35.0,55.0,-20.0,https://www.reuters.com/world/us/trumps-approval-immigration-falls-lowest-level-his-term-reutersipsos-poll-finds-2025-07-16/,Reuters
+517,trade_tariffs,Ipsos,07/15/2025,07/16/2025,1027,A,32.0,53.0,-21.0,https://www.reuters.com/world/us/trumps-approval-immigration-falls-lowest-level-his-term-reutersipsos-poll-finds-2025-07-16/,Reuters
+518,economy,AP-NORC,07/10/2025,07/14/2025,1437,A,38.0,60.0,-22.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+519,immigration,AP-NORC,07/10/2025,07/14/2025,1437,A,43.0,55.0,-12.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+520,govt_spending,AP-NORC,07/10/2025,07/14/2025,1437,A,38.0,61.0,-23.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+521,healthcare,AP-NORC,07/10/2025,07/14/2025,1437,A,34.0,62.0,-28.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+522,taxes,AP-NORC,07/10/2025,07/14/2025,1437,A,41.0,56.0,-15.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+523,trade_tariffs,AP-NORC,07/10/2025,07/14/2025,1437,A,37.0,61.0,-24.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+524,disaster_relief,AP-NORC,07/10/2025,07/14/2025,1437,A,42.0,55.0,-13.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
+525,immigration,AtlasIntel,07/13/2025,07/18/2025,1935,A,45.0,54.0,-9.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+526,democracy,AtlasIntel,07/13/2025,07/18/2025,1935,A,40.0,56.0,-16.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+527,trade_tariffs,AtlasIntel,07/13/2025,07/18/2025,1935,A,41.0,57.0,-16.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+528,economy,AtlasIntel,07/13/2025,07/18/2025,1935,A,40.0,55.0,-15.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+529,taxes,AtlasIntel,07/13/2025,07/18/2025,1935,A,42.0,55.0,-13.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+530,education,AtlasIntel,07/13/2025,07/18/2025,1935,A,41.0,55.0,-14.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+531,environment,AtlasIntel,07/13/2025,07/18/2025,1935,A,36.0,56.0,-20.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+532,israel_palestine,AtlasIntel,07/13/2025,07/18/2025,1935,A,39.0,55.0,-16.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+533,corruption,AtlasIntel,07/13/2025,07/18/2025,1935,A,38.0,59.0,-21.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+534,healthcare,AtlasIntel,07/13/2025,07/18/2025,1935,A,35.0,56.0,-21.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+535,ukraine,AtlasIntel,07/13/2025,07/18/2025,1935,A,35.0,61.0,-26.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+536,national_debt,AtlasIntel,07/13/2025,07/18/2025,1935,A,34.0,59.0,-25.0,https://cdn.atlasintel.org/20e36f18-42bd-4a28-85f4-9f623905ba71.pdf,
+537,economy,YouGov,07/16/2025,07/18/2025,2343,A,40.0,60.0,-20.0,https://www.scribd.com/document/890583482/Cbsnews-20250720-1-SUNDAY,CBS News
+538,inflation,YouGov,07/16/2025,07/18/2025,2343,A,36.0,64.0,-28.0,https://www.scribd.com/document/890583482/Cbsnews-20250720-1-SUNDAY,CBS News
+539,immigration,YouGov,07/16/2025,07/18/2025,2343,A,44.0,56.0,-12.0,https://www.scribd.com/document/890583482/Cbsnews-20250720-1-SUNDAY,CBS News
+540,economy,American Research Group,07/17/2025,07/20/2025,1100,A,38.0,59.0,-21.0,https://americanresearchgroup.com/economy/,
+541,immigration,Morning Consult,07/18/2025,07/20/2025,2202,RV,51.0,42.0,9.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+542,economy,Morning Consult,07/18/2025,07/20/2025,2202,RV,45.0,48.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+543,trade_tariffs,Morning Consult,07/18/2025,07/20/2025,2202,RV,45.0,45.0,0.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+544,immigration,RMG Research,07/16/2025,07/16/2025,1000,RV,52.0,47.0,5.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+545,crime,RMG Research,07/16/2025,07/16/2025,1000,RV,51.0,43.0,8.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+546,guns,RMG Research,07/16/2025,07/16/2025,1000,RV,48.0,44.0,4.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+547,foreign_policy,RMG Research,07/16/2025,07/16/2025,1000,RV,48.0,49.0,-1.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+548,education,RMG Research,07/16/2025,07/16/2025,1000,RV,44.0,51.0,-7.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+549,inflation,RMG Research,07/16/2025,07/16/2025,1000,RV,45.0,54.0,-9.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+550,economy,RMG Research,07/16/2025,07/16/2025,1000,RV,44.0,54.0,-10.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+551,healthcare,RMG Research,07/16/2025,07/16/2025,1000,RV,40.0,54.0,-14.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+552,climate_change,RMG Research,07/16/2025,07/16/2025,1000,RV,37.0,51.0,-14.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+553,abortion,RMG Research,07/16/2025,07/16/2025,1000,RV,38.0,53.0,-15.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
+554,trade_tariffs,RMG Research,07/14/2025,07/15/2025,1000,RV,45.0,47.0,-2.0,https://napolitannews.org/posts/45-percent-approve-of-trump-on-tariffs-most-say-deals-will-be-reached,Napolitan News Service
