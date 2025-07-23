@@ -1,33 +1,33 @@
 ,issue,pollster,start_date,end_date,sample_size,population,approve,disapprove,net,url,sponsor
 0,economy,Ipsos,03/31/2025,04/02/2025,1486,A,37.0,52.0,-15.0,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-04/Reuters%20Ipsos%20Signalgate%20Tariffs%20Survey%20Topline%20April%202%202025%20.pdf,Reuters
-1,economy,YouGov,03/30/2025,04/01/2025,1626,A,45.0,48.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Uo7FRzc.pdf,The Economist
+1,economy,YouGov,04/05/2025,04/08/2025,1741,A,41.0,51.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf,The Economist
 2,economy,YouGov,03/27/2025,03/28/2025,2609,A,48.0,52.0,-4.0,https://www.cbsnews.com/news/opinion-poll-trump-economy-tariffs-deportation-immigration/,CBS News
 3,economy,Harris Insights & Analytics,03/26/2025,03/27/2025,2746,RV,45.0,55.0,-10.0,https://harvardharrispoll.com/wp-content/uploads/2025/03/HHP_Mar2025_KeyResults.pdf,Harvard CAPS
 4,economy,J.L. Partners,03/25/2025,03/27/2025,1001,RV,45.0,55.0,-10.0,https://www.dailymail.co.uk/news/article-14547523/Trump-approval-rating-economy-poll.html,Daily Mail
-5,economy,YouGov,03/22/2025,03/25/2025,1600,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
-6,economy,YouGov,03/16/2025,03/18/2025,1618,A,45.0,49.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf,The Economist
+5,economy,YouGov,04/13/2025,04/15/2025,1329,RV,45.0,51.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+6,economy,YouGov,04/13/2025,04/15/2025,1512,A,42.0,49.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
 7,economy,Beacon Research/Shaw & Co. Research,03/14/2025,03/17/2025,994,RV,43.0,56.0,-13.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/03/fox_march-14-17-2025_national_topline_march-19-release.pdf,FOX News
 8,economy,RMG Research,03/12/2025,03/19/2025,3000,RV,48.0,48.0,0.0,https://napolitannews.org/posts/president-trump-job-approval-rating-53-percent-approve-45-disapprove,Napolitan News Service
 9,economy,Ipsos,03/11/2025,03/12/2025,1422,A,39.0,51.0,-12.0,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-03/Reuters%20Ipsos%20Tariffs%20Survey%20Topline%2003%2013%202025.pdf,Reuters
-10,economy,YouGov,03/09/2025,03/11/2025,1699,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+10,economy,YouGov,04/19/2025,04/22/2025,1625,A,43.0,54.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
 11,economy,Gallup,03/03/2025,03/16/2025,1002,A,41.0,59.0,-18.0,https://news.gallup.com/poll/658661/republicans-men-push-trump-approval-higher-second-term.aspx,
 12,economy,Hart Research Associates/Public Opinion Strategies,03/07/2025,03/11/2025,1000,RV,44.0,54.0,-10.0,https://www.nbcnews.com/politics/trump-administration/poll-trump-faces-early-challenges-economy-united-gop-backs-big-change-rcna195860,NBC News
 13,economy,Emerson College,03/08/2025,03/10/2025,1000,RV,37.0,48.0,-11.0,https://emersoncollegepolling.com/national-poll-at-50-days-trumps-honeymoon-fades-as-economy-becomes-key-vulnerability/,
 14,economy,Quinnipiac University,03/06/2025,03/10/2025,1198,RV,41.0,54.0,-13.0,https://poll.qu.edu/images/polling/us/us03132025_ufoz84.pdf,
 15,economy,SSRS,03/06/2025,03/09/2025,1206,A,44.0,55.0,-11.0,https://s3.documentcloud.org/documents/25558091/cnn-poll-trumps-performance-and-economy.pdf,CNN
 16,economy,Ipsos,03/03/2025,03/04/2025,1174,A,39.0,49.0,-10.0,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-03/Reuters%20Ipsos%20Pre%20Joint%20Session%20Congress%20Topline%2003%2004%202025.pdf,Reuters
-17,economy,YouGov,03/01/2025,03/04/2025,1638,A,44.0,44.0,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
+17,economy,YouGov,04/25/2025,04/28/2025,1785,A,41.0,51.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fmq348X.pdf,The Economist
 18,economy,YouGov,02/26/2025,02/28/2025,2311,A,51.0,49.0,2.0,https://www.cbsnews.com/news/trump-elon-musk-government-workforce-cuts-opinion-poll-2025-03-02/,CBS News
-19,economy,YouGov,02/23/2025,02/25/2025,1604,A,45.0,43.0,2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+19,economy,YouGov,05/02/2025,05/05/2025,1850,A,40.0,51.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist
 20,economy,Harris Insights & Analytics,02/19/2025,02/20/2025,2443,RV,49.0,51.0,-2.0,https://harvardharrispoll.com/wp-content/uploads/2025/02/HHP_Feb2025_vFinal.pdf,Harvard CAPS
-21,economy,YouGov,02/16/2025,02/18/2025,1603,A,46.0,42.0,4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,The Economist
+21,economy,YouGov,05/09/2025,05/12/2025,1786,A,42.0,50.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist
 22,economy,Ipsos,02/13/2025,02/18/2025,2177,RV,48.0,51.0,-3.0,https://docs.google.com/spreadsheets/d/1kdcXmy8B1zajwnb6KUbZ-KxUixlTPoTY3Bg_Bfld0h0/edit?gid=0#gid=0,The Washington Post
 23,economy,Ipsos,02/13/2025,02/18/2025,4125,A,39.0,47.0,-8.0,https://www.ipsos.com/en-us/reutersipsos-large-sample-poll-february-2025,Reuters
 24,economy,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,44.0,48.0,-4.0,https://poll.qu.edu/images/polling/us/us02192025_urxu99.pdf,
-25,economy,YouGov,02/09/2025,02/11/2025,1595,A,45.0,44.0,1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+25,economy,YouGov,05/16/2025,05/19/2025,1710,A,41.0,48.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 26,economy,Gallup,02/03/2025,02/16/2025,1004,A,42.0,54.0,-12.0,https://news.gallup.com/poll/656891/trump-job-approval-rating-congress-jumps.aspx,
-27,economy,YouGov,02/02/2025,02/04/2025,1604,A,44.0,39.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
-28,economy,YouGov,01/26/2025,01/28/2025,1577,A,49.0,37.0,12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+27,economy,YouGov,05/23/2025,05/26/2025,1660,A,42.0,51.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+28,economy,YouGov,05/30/2025,06/02/2025,1610,A,42.0,50.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_MV984ah.pdf,The Economist
 29,economy,Ipsos,01/20/2025,01/21/2025,1077,A,42.0,36.0,6.0,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-01/Reuters%20Ipsos%20Trump%20Inauguration%20Survey%20Topline%20January%202025.pdf,Reuters
 30,immigration,Ipsos,03/31/2025,04/02/2025,1486,A,48.0,44.0,4.0,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-04/Reuters%20Ipsos%20Signalgate%20Tariffs%20Survey%20Topline%20April%202%202025%20.pdf,Reuters
 31,immigration,YouGov,03/27/2025,03/28/2025,2609,A,53.0,47.0,6.0,https://www.cbsnews.com/news/opinion-poll-trump-economy-tariffs-deportation-immigration/,CBS News
@@ -96,7 +96,7 @@
 94,economy,Impact Research,03/27/2025,04/01/2025,1500,RV,44.0,52.0,-8.0,https://prod-i.a.dj.com/public/resources/documents/March_2025_WSJPoll.pdf,Wall Street Journal
 95,immigration,Impact Research,03/27/2025,04/01/2025,1500,RV,52.0,47.0,5.0,https://prod-i.a.dj.com/public/resources/documents/March_2025_WSJPoll.pdf,Wall Street Journal
 96,inflation,Impact Research,03/27/2025,04/01/2025,1500,RV,40.0,55.0,-15.0,https://prod-i.a.dj.com/public/resources/documents/March_2025_WSJPoll.pdf,Wall Street Journal
-97,economy,YouGov,04/05/2025,04/08/2025,1741,A,41.0,51.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf,The Economist
+97,economy,YouGov,06/06/2025,06/09/2025,1533,A,41.0,51.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B2kkifF.pdf,The Economist
 98,economy,Quinnipiac University,04/03/2025,04/07/2025,1407,RV,40.0,55.0,-15.0,https://poll.qu.edu/images/polling/us/us04092025_uodc32.pdf,
 99,foreign_policy,YouGov,04/05/2025,04/08/2025,1741,A,41.0,49.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf,The Economist
 100,foreign_policy,Quinnipiac University,04/03/2025,04/07/2025,1407,RV,40.0,54.0,-14.0,https://poll.qu.edu/images/polling/us/us04092025_uodc32.pdf,
@@ -116,12 +116,12 @@
 114,immigration,Echelon Insights,04/10/2025,04/14/2025,1014,LV,54.0,44.0,10.0,https://echeloninsights.com/in-the-news/april-2025-verified-voter-omnibus-2-2-2-2/,
 115,foreign_policy,Echelon Insights,04/10/2025,04/14/2025,1014,LV,45.0,51.0,-6.0,https://echeloninsights.com/in-the-news/april-2025-verified-voter-omnibus-2-2-2-2/,
 116,trade_tariffs,Echelon Insights,05/08/2025,05/12/2025,1000,LV,42.0,54.0,-12.0,https://echelonin.wpenginepowered.com/wp-content/uploads/May-2025-Voter-Omnibus-Topline-External.pdf,
-117,economy,YouGov,04/13/2025,04/15/2025,1329,RV,45.0,51.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+117,economy,YouGov,06/13/2025,06/16/2025,1512,A,41.0,53.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
 118,inflation,YouGov,04/13/2025,04/15/2025,1329,RV,42.0,55.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
 119,economy,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,45.0,51.0,-6.0,https://www.realclearpolitics.com/docs/2025/250084_CNBC_AAES_Q1_2025_Topline_4-17-2025_Release[40].pdf,CNBC
 120,foreign_policy,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,42.0,53.0,-11.0,https://www.realclearpolitics.com/docs/2025/250084_CNBC_AAES_Q1_2025_Topline_4-17-2025_Release[40].pdf,CNBC
 121,inflation,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,37.0,60.0,-23.0,https://www.realclearpolitics.com/docs/2025/250084_CNBC_AAES_Q1_2025_Topline_4-17-2025_Release[40].pdf,CNBC
-122,economy,YouGov,04/13/2025,04/15/2025,1512,A,42.0,49.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+122,economy,YouGov,06/20/2025,06/23/2025,1590,A,39.0,51.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
 123,inflation,YouGov,04/13/2025,04/15/2025,1512,A,37.0,55.0,-18.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
 124,immigration,AtlasIntel,04/10/2025,04/14/2025,2347,A,46.0,52.0,-6.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
 125,economy,AtlasIntel,04/10/2025,04/14/2025,2347,A,42.0,56.0,-14.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
@@ -139,7 +139,7 @@
 137,economy,American Research Group,04/17/2025,04/20/2025,1100,A,39.0,57.0,-18.0,https://americanresearchgroup.com/economy/,
 138,economy,Ipsos,04/16/2025,04/21/2025,4306,A,37.0,51.0,-14.0,https://www.reuters.com/world/us/trump-approval-rating-dips-many-wary-his-wielding-power-reutersipsos-poll-finds-2025-04-21/,Reuters
 139,immigration,Ipsos,04/16/2025,04/21/2025,4306,A,45.0,46.0,-1.0,https://www.reuters.com/world/us/trump-approval-rating-dips-many-wary-his-wielding-power-reutersipsos-poll-finds-2025-04-21/,Reuters
-140,economy,YouGov,04/19/2025,04/22/2025,1625,A,43.0,54.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
+140,economy,YouGov,06/27/2025,06/30/2025,1648,A,43.0,51.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
 141,immigration,YouGov,04/19/2025,04/22/2025,1625,A,46.0,52.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
 142,foreign_policy,YouGov,04/19/2025,04/22/2025,1625,A,42.0,54.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
 143,inflation,YouGov,04/19/2025,04/22/2025,1625,A,39.0,58.0,-19.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
@@ -173,7 +173,7 @@
 171,foreign_policy,Marist College,04/21/2025,04/23/2025,1439,A,39.0,53.0,-14.0,https://maristpoll.marist.edu/wp-content/uploads/2025/04/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202504251028-2.pdf,NPR | PBS News
 172,immigration,Marist College,04/21/2025,04/23/2025,1439,A,44.0,52.0,-8.0,https://maristpoll.marist.edu/wp-content/uploads/2025/04/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202504251028-2.pdf,NPR | PBS News
 173,trade_tariffs,The New York Times/Siena College,04/21/2025,04/24/2025,913,RV,42.0,53.0,-11.0,https://www.nytimes.com/interactive/2025/04/25/us/elections/times-siena-poll-crosstabs.html,
-174,economy,YouGov,04/25/2025,04/28/2025,1785,A,41.0,51.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fmq348X.pdf,The Economist
+174,economy,YouGov,07/04/2025,07/07/2025,1528,A,40.0,51.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
 175,immigration,YouGov,04/25/2025,04/28/2025,1785,A,46.0,47.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fmq348X.pdf,The Economist
 176,climate_change,YouGov,04/25/2025,04/28/2025,1785,A,35.0,47.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fmq348X.pdf,The Economist
 177,abortion,YouGov,04/25/2025,04/28/2025,1785,A,35.0,47.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fmq348X.pdf,The Economist
@@ -197,7 +197,7 @@
 195,healthcare,Global Strategy Group/GBAO (Navigator Research),04/24/2025,04/28/2025,1000,RV,41.0,49.0,-8.0,https://navigatorresearch.org/wp-content/uploads/2025/04/Navigator-Update-04.30.2025.pdf,
 196,foreign_policy,Global Strategy Group/GBAO (Navigator Research),04/24/2025,04/28/2025,1000,RV,41.0,49.0,-8.0,https://navigatorresearch.org/wp-content/uploads/2025/04/Navigator-Update-04.30.2025.pdf,
 197,trade_tariffs,SurveyMonkey,04/11/2025,04/20/2025,19682,A,39.0,61.0,-22.0,https://www.nbcnews.com/politics/trump-administration/poll-americans-vent-disappointment-trump-ahead-100-day-mark-especially-rcna202656,NBC News
-198,economy,YouGov,05/02/2025,05/05/2025,1850,A,40.0,51.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist
+198,economy,YouGov,07/11/2025,07/14/2025,1680,A,40.0,53.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
 199,immigration,YouGov,05/02/2025,05/05/2025,1850,A,45.0,47.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist
 200,education,YouGov,05/02/2025,05/05/2025,1850,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist
 201,healthcare,YouGov,05/02/2025,05/05/2025,1850,A,36.0,48.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist
@@ -239,7 +239,7 @@
 237,trade_tariffs,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,41.0,57.0,-16.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/04/21/fullsurveyliesmanhere.pdf,CNBC
 238,trade_tariffs,YouGov,04/13/2025,04/15/2025,1512,A,38.0,54.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
 239,trade_tariffs,RMG Research,04/14/2025,04/15/2025,1000,RV,41.0,54.0,-13.0,https://napolitannews.org/posts/support-for-trumps-handling-of-tariffs-continues-to-fall,Napolitan News Service
-240,economy,YouGov,05/09/2025,05/12/2025,1786,A,42.0,50.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist
+240,economy,YouGov,01/26/2025,01/28/2025,1577,A,49.0,37.0,12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
 241,immigration,YouGov,05/09/2025,05/12/2025,1786,A,50.0,46.0,4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist
 242,education,YouGov,05/09/2025,05/12/2025,1786,A,40.0,49.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist
 243,healthcare,YouGov,05/09/2025,05/12/2025,1786,A,40.0,46.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist
@@ -268,13 +268,13 @@
 266,trade_tariffs,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,42.0,50.0,-8.0,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
 267,foreign_policy,Harris Insights & Analytics,05/14/2025,05/15/2025,1903,RV,46.0,45.0,1.0,https://harvardharrispoll.com/wp-content/uploads/2025/05/HHP_May2025_KeyResults.pdf,Harvard CAPS
 268,immigration,SurveyMonkey,04/11/2025,04/20/2025,19682,A,49.0,51.0,-2.0,https://www.nbcnews.com/politics/trump-administration/poll-americans-vent-disappointment-trump-ahead-100-day-mark-especially-rcna202656,NBC News
-269,economy,YouGov,05/16/2025,05/19/2025,1710,A,41.0,48.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+269,economy,YouGov,02/02/2025,02/04/2025,1604,A,44.0,39.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
 270,immigration,YouGov,05/16/2025,05/19/2025,1710,A,48.0,45.0,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 271,foreign_policy,YouGov,05/16/2025,05/19/2025,1710,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 272,national_security,YouGov,05/16/2025,05/19/2025,1710,A,47.0,41.0,6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 273,education,YouGov,05/16/2025,05/19/2025,1710,A,42.0,47.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 274,crime,YouGov,05/16/2025,05/19/2025,1710,A,46.0,40.0,6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
-275,criminal_justice_reform,YouGov,05/16/2025,05/19/2025,1710,A,39.0,42.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
+275,criminal_justice,YouGov,05/16/2025,05/19/2025,1710,A,39.0,42.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 276,inflation,YouGov,05/16/2025,05/19/2025,1710,A,39.0,53.0,-14.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 277,trade_tariffs,YouGov,05/16/2025,05/19/2025,1710,A,41.0,49.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist
 278,immigration,Morning Consult,05/16/2025,05/19/2025,2208,RV,53.0,40.0,13.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
@@ -292,7 +292,7 @@
 290,economy,Global Strategy Group/GBAO (Navigator Research),05/15/2025,05/18/2025,1000,RV,42.0,56.0,-14.0,https://navigatorresearch.org/wp-content/uploads/2025/05/Navigator-Update-Topline-F05.19.25-1.pdf,
 291,immigration,Morning Consult,05/09/2025,05/11/2025,2221,RV,51.0,44.0,7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
 292,trade_tariffs,Morning Consult,05/09/2025,05/11/2025,2221,RV,45.0,46.0,-1.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
-293,economy,YouGov,05/23/2025,05/26/2025,1660,A,42.0,51.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
+293,economy,YouGov,02/09/2025,02/11/2025,1595,A,45.0,44.0,1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
 294,inflation,YouGov,05/23/2025,05/26/2025,1660,A,38.0,56.0,-18.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
 295,immigration,YouGov,05/23/2025,05/26/2025,1660,A,48.0,48.0,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
 296,climate_change,YouGov,05/23/2025,05/26/2025,1660,A,35.0,48.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist
@@ -320,7 +320,7 @@
 318,immigration,Morning Consult,05/30/2025,06/02/2025,2205,RV,53.0,41.0,12.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
 319,economy,Morning Consult,05/30/2025,06/02/2025,2205,RV,47.0,47.0,0.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
 320,trade_tariffs,Morning Consult,05/30/2025,06/02/2025,2205,RV,47.0,45.0,2.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
-321,economy,YouGov,05/30/2025,06/02/2025,1610,A,42.0,50.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_MV984ah.pdf,The Economist
+321,economy,YouGov,02/16/2025,02/18/2025,1603,A,46.0,42.0,4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,The Economist
 322,inflation,YouGov,05/30/2025,06/02/2025,1610,A,39.0,54.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_MV984ah.pdf,The Economist
 323,immigration,YouGov,05/30/2025,06/02/2025,1610,A,50.0,43.0,7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_MV984ah.pdf,The Economist
 324,foreign_policy,Morning Consult,05/30/2025,06/02/2025,2205,RV,47.0,44.0,3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
@@ -337,7 +337,7 @@
 335,economy,Quinnipiac University,06/05/2025,06/09/2025,1265,RV,40.0,56.0,-16.0,https://poll.qu.edu/poll-release?releaseid=3924,
 336,trade_tariffs,Quinnipiac University,06/05/2025,06/09/2025,1265,RV,38.0,57.0,-19.0,https://poll.qu.edu/poll-release?releaseid=3924,
 337,ukraine,Quinnipiac University,06/05/2025,06/09/2025,1265,RV,34.0,57.0,-23.0,https://poll.qu.edu/poll-release?releaseid=3924,
-338,economy,YouGov,06/06/2025,06/09/2025,1533,A,41.0,51.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B2kkifF.pdf,The Economist
+338,economy,YouGov,02/23/2025,02/25/2025,1604,A,45.0,43.0,2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
 339,inflation,YouGov,06/06/2025,06/09/2025,1533,A,37.0,55.0,-18.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B2kkifF.pdf,The Economist
 340,immigration,YouGov,06/06/2025,06/09/2025,1533,A,49.0,45.0,4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B2kkifF.pdf,The Economist
 341,healthcare,YouGov,06/06/2025,06/09/2025,1533,A,33.0,53.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B2kkifF.pdf,The Economist
@@ -361,7 +361,7 @@
 359,inflation,Harris Insights & Analytics,06/11/2025,06/12/2025,2097,RV,42.0,58.0,-16.0,https://harvardharrispoll.com/wp-content/uploads/2025/06/HHP_June2025_KeyResults.pdf,Harvard CAPS
 360,economy,Ipsos,06/11/2025,06/16/2025,4258,A,39.0,52.0,-13.0,https://www.reuters.com/world/us/trump-approval-steady-42-support-weakens-his-immigration-policy-reutersipsos-2025-06-16/,Reuters
 361,immigration,Ipsos,06/11/2025,06/16/2025,4258,A,44.0,49.0,-5.0,https://www.reuters.com/world/us/trump-approval-steady-42-support-weakens-his-immigration-policy-reutersipsos-2025-06-16/,Reuters
-362,economy,YouGov,06/13/2025,06/16/2025,1512,A,41.0,53.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
+362,economy,YouGov,03/01/2025,03/04/2025,1638,A,44.0,44.0,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
 363,inflation,YouGov,06/13/2025,06/16/2025,1512,A,35.0,58.0,-23.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
 364,immigration,YouGov,06/13/2025,06/16/2025,1512,A,44.0,52.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
 365,civil_rights,YouGov,06/13/2025,06/16/2025,1512,A,38.0,51.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CyorzxR.pdf,The Economist
@@ -412,7 +412,7 @@
 410,foreign_policy,Ipsos,05/12/2025,05/13/2025,1163,A,40.0,48.0,-8.0,https://www.reuters.com/world/us/trumps-approval-rating-rises-44-americans-worry-less-about-recession-2025-05-13/,Reuters
 411,foreign_policy,Ipsos,05/16/2025,05/18/2025,1024,A,41.0,48.0,-7.0,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters
 412,inflation,Ipsos,05/16/2025,05/18/2025,1024,A,33.0,58.0,-25.0,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters
-413,economy,YouGov,06/20/2025,06/23/2025,1590,A,39.0,51.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
+413,economy,YouGov,03/09/2025,03/11/2025,1699,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
 414,inflation,YouGov,06/20/2025,06/23/2025,1590,A,34.0,60.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
 415,immigration,YouGov,06/20/2025,06/23/2025,1590,A,45.0,49.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
 416,foreign_policy,YouGov,06/20/2025,06/23/2025,1590,A,36.0,51.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uvch8qB.pdf,The Economist
@@ -438,7 +438,7 @@
 436,foreign_policy,The Tyson Group,06/25/2025,06/26/2025,1027,A,45.0,45.0,0.0,https://tysongroup.co/wp-content/uploads/2025/06/June-2025-Issue-Survey.pdf,
 437,israel_iran_conflict,John Zogby Strategies,06/24/2025,06/25/2025,1006,LV,44.4,50.1,-5.7,https://johnzogbystrategies.com/wp-content/uploads/2025/06/S-Approval-US-Likely-062425.pdf,
 438,trade_tariffs,John Zogby Strategies,06/24/2025,06/25/2025,1006,LV,41.4,53.8,-12.4,https://johnzogbystrategies.com/wp-content/uploads/2025/06/S-Approval-US-Likely-062425.pdf,
-439,economy,YouGov,06/27/2025,06/30/2025,1648,A,43.0,51.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
+439,economy,YouGov,03/16/2025,03/18/2025,1618,A,45.0,49.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf,The Economist
 440,inflation,YouGov,06/27/2025,06/30/2025,1648,A,35.0,59.0,-24.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
 441,immigration,YouGov,06/27/2025,06/30/2025,1648,A,47.0,50.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
 442,climate_change,YouGov,06/27/2025,06/30/2025,1648,A,33.0,49.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B1ETIg8.pdf#page38,The Economist
@@ -456,7 +456,7 @@
 454,economy,Morning Consult,07/03/2025,07/06/2025,2203,RV,45.0,48.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
 455,trade_tariffs,Morning Consult,07/03/2025,07/06/2025,2203,RV,44.0,47.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
 456,healthcare,Morning Consult,07/03/2025,07/06/2025,2203,RV,41.0,50.0,-9.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
-457,economy,YouGov,07/04/2025,07/07/2025,1528,A,40.0,51.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
+457,economy,YouGov,03/22/2025,03/25/2025,1600,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
 458,inflation,YouGov,07/04/2025,07/07/2025,1528,A,33.0,58.0,-25.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
 459,immigration,YouGov,07/04/2025,07/07/2025,1528,A,45.0,48.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
 460,govt_spending,YouGov,07/04/2025,07/07/2025,1528,A,37.0,54.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_haeOEK5.pdf,The Economist
@@ -491,7 +491,7 @@
 489,immigration,Echelon Insights,07/10/2025,07/14/2025,1084,LV,49.0,48.0,1.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
 490,foreign_policy,Echelon Insights,07/10/2025,07/14/2025,1084,LV,47.0,49.0,-2.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
 491,trade_tariffs,Echelon Insights,07/10/2025,07/14/2025,1084,LV,39.0,56.0,-17.0,https://echelonin.wpenginepowered.com/wp-content/uploads/July-2025-Voter-Omnibus-Topline-External.pdf,
-492,economy,YouGov,07/11/2025,07/14/2025,1680,A,40.0,53.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
+492,economy,YouGov,03/30/2025,04/01/2025,1626,A,45.0,48.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Uo7FRzc.pdf,The Economist
 493,inflation,YouGov,07/11/2025,07/14/2025,1680,A,34.0,60.0,-26.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
 494,immigration,YouGov,07/11/2025,07/14/2025,1680,A,45.0,51.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
 495,civil_rights,YouGov,07/11/2025,07/14/2025,1680,A,38.0,51.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_fFL8Pon.pdf,The Economist
@@ -554,3 +554,149 @@
 552,climate_change,RMG Research,07/16/2025,07/16/2025,1000,RV,37.0,51.0,-14.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
 553,abortion,RMG Research,07/16/2025,07/16/2025,1000,RV,38.0,53.0,-15.0,https://napolitannews.org/posts/over-half-of-voters-approve-of-trumps-handling-of-immigration-and-crime,Napolitan News Service
 554,trade_tariffs,RMG Research,07/14/2025,07/15/2025,1000,RV,45.0,47.0,-2.0,https://napolitannews.org/posts/45-percent-approve-of-trump-on-tariffs-most-say-deals-will-be-reached,Napolitan News Service
+555,criminal_justice,YouGov,03/30/2025,04/01/2025,1626,A,42.0,42.0,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Uo7FRzc.pdf,The Economist
+556,healthcare,YouGov,04/05/2025,04/08/2025,1741,A,35.0,50.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf#page31,The Economist
+557,education,YouGov,04/05/2025,04/08/2025,1741,A,41.0,49.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf#page31,The Economist
+558,civil_rights,YouGov,04/05/2025,04/08/2025,1741,A,38.0,48.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf#page31,The Economist
+559,civil_liberties,YouGov,04/05/2025,04/08/2025,1741,A,38.0,47.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf#page31,The Economist
+560,crime,YouGov,04/05/2025,04/08/2025,1741,A,45.0,42.0,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_pXJ0PxA.pdf#page31,The Economist
+561,climate_change,YouGov,01/26/2025,01/28/2025,1577,A,38.0,44.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+562,govt_spending,YouGov,01/26/2025,01/28/2025,1577,A,46.0,41.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+563,abortion,YouGov,01/26/2025,01/28/2025,1577,A,39.0,43.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+564,civil_rights,YouGov,01/26/2025,01/28/2025,1577,A,40.0,43.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+565,civil_liberties,YouGov,01/26/2025,01/28/2025,1577,A,39.0,41.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+566,guns,YouGov,01/26/2025,01/28/2025,1577,A,42.0,35.0,7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+567,crime,YouGov,01/26/2025,01/28/2025,1577,A,48.0,35.0,13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_m8tctwx.pdf,The Economist
+568,education,YouGov,02/02/2025,02/04/2025,1604,A,40.0,39.0,1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
+569,healthcare,YouGov,02/02/2025,02/04/2025,1604,A,39.0,42.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
+570,civil_rights,YouGov,02/02/2025,02/04/2025,1604,A,40.0,42.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
+571,civil_liberties,YouGov,02/02/2025,02/04/2025,1604,A,39.0,41.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
+572,crime,YouGov,02/02/2025,02/04/2025,1604,A,48.0,35.0,13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FOXP71G.pdf,The Economist
+573,climate_change,YouGov,02/09/2025,02/11/2025,1595,A,37.0,45.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+574,healthcare,YouGov,02/09/2025,02/11/2025,1595,A,35.0,46.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+575,govt_spending,YouGov,02/09/2025,02/11/2025,1595,A,44.0,47.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+576,abortion,YouGov,02/09/2025,02/11/2025,1595,A,36.0,46.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+577,guns,YouGov,02/09/2025,02/11/2025,1595,A,38.0,41.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+578,crime,YouGov,02/09/2025,02/11/2025,1595,A,45.0,41.0,4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist
+579,national_security,YouGov,02/16/2025,02/18/2025,1603,A,48.0,40.0,8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,The Economist
+580,education,YouGov,02/16/2025,02/18/2025,1603,A,44.0,41.0,3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,The Economist
+581,crime,YouGov,02/16/2025,02/18/2025,1603,A,48.0,37.0,11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,The Economist
+582,criminal_justice,YouGov,02/16/2025,02/18/2025,1603,A,42.0,37.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,The Economist
+583,climate_change,YouGov,02/23/2025,02/25/2025,1604,A,36.0,43.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+584,govt_spending,YouGov,02/23/2025,02/25/2025,1604,A,48.0,43.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+585,abortion,YouGov,02/23/2025,02/25/2025,1604,A,34.0,45.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+586,civil_rights,YouGov,02/23/2025,02/25/2025,1604,A,38.0,44.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+587,civil_liberties,YouGov,02/23/2025,02/25/2025,1604,A,39.0,44.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+588,guns,YouGov,02/23/2025,02/25/2025,1604,A,39.0,38.0,1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+589,crime,YouGov,02/23/2025,02/25/2025,1604,A,47.0,37.0,10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1q7T4HA.pdf,The Economist
+590,education,YouGov,03/01/2025,03/04/2025,1638,A,41.0,44.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
+591,healthcare,YouGov,03/01/2025,03/04/2025,1638,A,39.0,44.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
+592,civil_rights,YouGov,03/01/2025,03/04/2025,1638,A,41.0,43.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
+593,civil_liberties,YouGov,03/01/2025,03/04/2025,1638,A,39.0,41.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
+594,crime,YouGov,03/01/2025,03/04/2025,1638,A,45.0,38.0,7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_uHE5Cxl.pdf,The Economist
+595,climate_change,YouGov,03/09/2025,03/11/2025,1699,A,35.0,46.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+596,healthcare,YouGov,03/09/2025,03/11/2025,1699,A,35.0,48.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+597,govt_spending,YouGov,03/09/2025,03/11/2025,1699,A,44.0,47.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+598,abortion,YouGov,03/09/2025,03/11/2025,1699,A,36.0,46.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+599,guns,YouGov,03/09/2025,03/11/2025,1699,A,38.0,39.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+600,crime,YouGov,03/09/2025,03/11/2025,1699,A,45.0,40.0,5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ddjSlqx.pdf,The Economist
+601,national_security,YouGov,03/16/2025,03/18/2025,1618,A,51.0,42.0,9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf,The Economist
+602,education,YouGov,03/16/2025,03/18/2025,1618,A,44.0,47.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf,The Economist
+603,crime,YouGov,03/16/2025,03/18/2025,1618,A,48.0,39.0,9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf,The Economist
+604,criminal_justice,YouGov,03/16/2025,03/18/2025,1618,A,43.0,41.0,2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ngfganU.pdf,The Economist
+605,climate_change,YouGov,03/22/2025,03/25/2025,1600,A,36.0,44.0,-8.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+606,govt_spending,YouGov,03/22/2025,03/25/2025,1600,A,46.0,46.0,0.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+607,abortion,YouGov,03/22/2025,03/25/2025,1600,A,39.0,43.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+608,civil_rights,YouGov,03/22/2025,03/25/2025,1600,A,41.0,45.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+609,civil_liberties,YouGov,03/22/2025,03/25/2025,1600,A,41.0,44.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+610,guns,YouGov,03/22/2025,03/25/2025,1600,A,40.0,38.0,2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+611,crime,YouGov,03/22/2025,03/25/2025,1600,A,47.0,38.0,9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o8LZals.pdf,The Economist
+612,economy,Global Strategy Group/GBAO (Navigator Research),07/16/2025,07/21/2025,1000,RV,43.0,53.0,-10.0,https://navigatorresearch.org/wp-content/uploads/2025/07/Navigator-Topline-F07.21.25.pdf,
+613,economy,YouGov,07/18/2025,07/21/2025,1729,A,40.0,52.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_QYo5riR.pdf,The Economist
+614,inflation,YouGov,07/18/2025,07/21/2025,1729,A,31.0,61.0,-30.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_QYo5riR.pdf,The Economist
+615,immigration,YouGov,07/18/2025,07/21/2025,1729,A,45.0,50.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_QYo5riR.pdf,The Economist
+616,foreign_policy,YouGov,07/18/2025,07/21/2025,1729,A,39.0,50.0,-11.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_QYo5riR.pdf,The Economist
+617,national_security,YouGov,07/18/2025,07/21/2025,1729,A,44.0,46.0,-2.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_QYo5riR.pdf,The Economist
+618,trade_tariffs,YouGov,07/18/2025,07/21/2025,1729,A,38.0,52.0,-14.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_QYo5riR.pdf,The Economist
+619,border_security,Verasight,07/14/2025,07/16/2025,1500,A,51.0,45.0,6.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+620,immigration,Verasight,07/14/2025,07/16/2025,1500,A,45.0,52.0,-7.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+621,deportations,Verasight,07/14/2025,07/16/2025,1500,A,43.0,53.0,-10.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+622,economy,Verasight,07/14/2025,07/16/2025,1500,A,42.0,52.0,-10.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+623,foreign_policy,Verasight,07/14/2025,07/16/2025,1500,A,40.0,53.0,-13.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+624,federal_workforce,Verasight,07/14/2025,07/16/2025,1500,A,40.0,54.0,-14.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+625,education,Verasight,07/14/2025,07/16/2025,1500,A,38.0,56.0,-18.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+626,trade_tariffs,Verasight,07/14/2025,07/16/2025,1500,A,38.0,56.0,-18.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+627,govt_spending,Verasight,07/14/2025,07/16/2025,1500,A,37.0,57.0,-20.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+628,healthcare,Verasight,07/14/2025,07/16/2025,1500,A,35.0,58.0,-23.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+629,inflation,Verasight,07/14/2025,07/16/2025,1500,A,33.0,61.0,-28.0,https://www.gelliottmorris.com/p/new-poll-dems-lead-house-generic,Strength In Numbers
+630,climate_change,YouGov,04/13/2025,04/15/2025,1512,A,35.0,45.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+631,healthcare,YouGov,04/13/2025,04/15/2025,1512,A,37.0,47.0,-10.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+632,govt_spending,YouGov,04/13/2025,04/15/2025,1512,A,44.0,47.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+633,abortion,YouGov,04/13/2025,04/15/2025,1512,A,37.0,43.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+634,guns,YouGov,04/13/2025,04/15/2025,1512,A,38.0,41.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+635,crime,YouGov,04/13/2025,04/15/2025,1512,A,45.0,41.0,4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wmD8f2B.pdf,The Economist
+636,national_security,YouGov,04/19/2025,04/22/2025,1625,A,44.0,47.0,-3.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
+637,education,YouGov,04/19/2025,04/22/2025,1625,A,39.0,51.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
+638,crime,YouGov,04/19/2025,04/22/2025,1625,A,44.0,45.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
+639,criminal_justice,YouGov,04/19/2025,04/22/2025,1625,A,39.0,45.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_iR37dyy.pdf,The Economist
+640,govt_spending,YouGov,06/06/2025,06/09/2025,1533,A,40.0,52.0,-12.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_B2kkifF.pdf,The Economist
+641,democracy,AtlasIntel,01/21/2025,01/23/2025,1882,A,48.0,52.0,-4.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+642,israel_palestine,AtlasIntel,01/21/2025,01/23/2025,1882,A,45.0,52.0,-7.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+643,environment,AtlasIntel,01/21/2025,01/23/2025,1882,A,43.0,53.0,-10.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+644,corruption,AtlasIntel,01/21/2025,01/23/2025,1882,A,47.0,53.0,-6.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+645,ukraine,AtlasIntel,01/21/2025,01/23/2025,1882,A,47.0,50.0,-3.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+646,education,AtlasIntel,01/21/2025,01/23/2025,1882,A,48.0,51.0,-3.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+647,taxes,AtlasIntel,01/21/2025,01/23/2025,1882,A,40.0,54.0,-14.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+648,national_debt,AtlasIntel,01/21/2025,01/23/2025,1882,A,36.0,56.0,-20.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+649,healthcare,AtlasIntel,01/21/2025,01/23/2025,1882,A,40.0,52.0,-12.0,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,
+650,democracy,AtlasIntel,03/07/2025,03/12/2025,2550,A,49.0,50.0,-1.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+651,ukraine,AtlasIntel,03/07/2025,03/12/2025,2550,A,49.0,51.0,-2.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+652,national_debt,AtlasIntel,03/07/2025,03/12/2025,2550,A,48.0,50.0,-2.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+653,israel_palestine,AtlasIntel,03/07/2025,03/12/2025,2550,A,49.0,50.0,-1.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+654,taxes,AtlasIntel,03/07/2025,03/12/2025,2550,A,49.0,50.0,-1.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+655,education,AtlasIntel,03/07/2025,03/12/2025,2550,A,48.0,51.0,-3.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+656,environment,AtlasIntel,03/07/2025,03/12/2025,2550,A,46.0,50.0,-4.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+657,healthcare,AtlasIntel,03/07/2025,03/12/2025,2550,A,46.0,51.0,-5.0,https://atlasintel.org/poll/usa-national-2025-03-17,
+658,democracy,AtlasIntel,04/10/2025,04/14/2025,2347,A,44.0,56.0,-12.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+659,corruption,AtlasIntel,04/10/2025,04/14/2025,2347,A,44.0,56.0,-12.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+660,education,AtlasIntel,04/10/2025,04/14/2025,2347,A,44.0,55.0,-11.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+661,national_debt,AtlasIntel,04/10/2025,04/14/2025,2347,A,47.0,50.0,-3.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+662,ukraine,AtlasIntel,04/10/2025,04/14/2025,2347,A,43.0,55.0,-12.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+663,israel_palestine,AtlasIntel,04/10/2025,04/14/2025,2347,A,44.0,54.0,-10.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+664,taxes,AtlasIntel,04/10/2025,04/14/2025,2347,A,42.0,55.0,-13.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+665,environment,AtlasIntel,04/10/2025,04/14/2025,2347,A,40.0,55.0,-15.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+666,healthcare,AtlasIntel,04/10/2025,04/14/2025,2347,A,38.0,55.0,-17.0,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf,
+667,trade_tariffs,Beacon Research/Shaw & Co. Research,04/18/2025,04/21/2025,1104,RV,33.0,58.0,-25.0,https://www.foxnews.com/official-polls/fox-news-poll-first-100-days-president-trumps-second-term,FOX News
+668,deportations,Beacon Research/Shaw & Co. Research,04/18/2025,04/21/2025,1104,RV,45.0,49.0,-4.0,https://www.foxnews.com/official-polls/fox-news-poll-first-100-days-president-trumps-second-term,FOX News
+669,border_security,Beacon Research/Shaw & Co. Research,04/18/2025,04/21/2025,1104,RV,55.0,40.0,15.0,https://www.foxnews.com/official-polls/fox-news-poll-first-100-days-president-trumps-second-term,FOX News
+670,taxes,Beacon Research/Shaw & Co. Research,04/18/2025,04/21/2025,1104,RV,38.0,53.0,-15.0,https://www.foxnews.com/official-polls/fox-news-poll-first-100-days-president-trumps-second-term,FOX News
+671,border_security,Beacon Research/Shaw & Co. Research,06/13/2025,06/16/2025,1003,RV,53.0,46.0,7.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/06/fox_june-13-16-2025_national_topline_june-18-release.pdf,FOX News
+672,economy,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,44.0,48.0,-4.0,https://poll.qu.edu/poll-release?releaseid=3919,
+673,immigration,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,46.0,49.0,-3.0,https://poll.qu.edu/poll-release?releaseid=3919,
+674,federal_workforce,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,41.0,49.0,-8.0,https://poll.qu.edu/poll-release?releaseid=3919,
+675,ukraine,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,40.0,44.0,-4.0,https://poll.qu.edu/poll-release?releaseid=3919,
+676,israel_palestine,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,38.0,47.0,-9.0,https://poll.qu.edu/poll-release?releaseid=3919,
+677,military,Quinnipiac University,03/06/2025,03/10/2025,1198,RV,41.0,48.0,-7.0,https://poll.qu.edu/images/polling/us/us03132025_ufoz84.pdf,
+678,federal_workforce,Quinnipiac University,03/06/2025,03/10/2025,1198,RV,40.0,55.0,-15.0,https://poll.qu.edu/images/polling/us/us03132025_ufoz84.pdf,
+679,ukraine,Quinnipiac University,03/06/2025,03/10/2025,1198,RV,38.0,55.0,-17.0,https://poll.qu.edu/images/polling/us/us03132025_ufoz84.pdf,
+680,israel_palestine,Quinnipiac University,03/06/2025,03/10/2025,1198,RV,37.0,49.0,-12.0,https://poll.qu.edu/images/polling/us/us03132025_ufoz84.pdf,
+681,trade_tariffs,Quinnipiac University,04/03/2025,04/07/2025,1407,RV,39.0,55.0,-16.0,https://poll.qu.edu/images/polling/us/us04092025_uodc32.pdf,
+682,deportations,Quinnipiac University,04/03/2025,04/07/2025,1407,RV,42.0,53.0,-11.0,https://poll.qu.edu/images/polling/us/us04092025_uodc32.pdf,
+683,federal_workforce,Quinnipiac University,04/03/2025,04/07/2025,1407,RV,41.0,54.0,-13.0,https://poll.qu.edu/images/polling/us/us04092025_uodc32.pdf,
+684,deportations,Quinnipiac University,06/05/2025,06/09/2025,1265,RV,40.0,56.0,-16.0,https://poll.qu.edu/poll-release?releaseid=3924,
+685,universities,Quinnipiac University,06/05/2025,06/09/2025,1265,RV,37.0,54.0,-17.0,https://poll.qu.edu/poll-release?releaseid=3924,
+686,israel_palestine,Quinnipiac University,06/05/2025,06/09/2025,1265,RV,35.0,52.0,-17.0,https://poll.qu.edu/poll-release?releaseid=3924,
+687,border_security,Marquette University Law School,05/05/2025,05/15/2025,1004,A,56.0,43.0,13.0,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,
+688,healthcare,SSRS,03/06/2025,03/09/2025,1206,A,43.0,56.0,-13.0,https://s3.documentcloud.org/documents/25558091/cnn-poll-trumps-performance-and-economy.pdf,CNN
+689,govt_spending,SSRS,03/06/2025,03/09/2025,1206,A,48.0,51.0,-3.0,https://s3.documentcloud.org/documents/25558091/cnn-poll-trumps-performance-and-economy.pdf,CNN
+690,transgender,SSRS,04/17/2025,04/24/2025,1476,RV,51.0,48.0,3.0,https://edition.cnn.com/.element/interactive/2025/04/REL5a-Trump-at-100days.pdf,CNN
+691,ukraine,Hart Research Associates/Public Opinion Strategies,03/07/2025,03/11/2025,1000,RV,42.0,55.0,-13.0,https://www.nbcnews.com/politics/trump-administration/poll-trump-faces-early-challenges-economy-united-gop-backs-big-change-rcna195860,NBC News
+692,border_security,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,53.0,41.0,12.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/04/21/fullsurveyliesmanhere.pdf,CNBC
+693,govt_spending,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,45.0,51.0,-6.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/04/21/fullsurveyliesmanhere.pdf,CNBC
+694,federal_workforce,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,44.0,53.0,-9.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/04/21/fullsurveyliesmanhere.pdf,CNBC
+695,deportations,Hart Research Associates/Public Opinion Strategies,04/09/2025,04/13/2025,1000,A,52.0,45.0,7.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/04/21/fullsurveyliesmanhere.pdf,CNBC
+696,kilmar_abrego_garcia,The New York Times/Siena College,04/21/2025,04/24/2025,913,RV,31.0,52.0,-21.0,https://www.nytimes.com/interactive/2025/04/25/us/elections/times-siena-poll-crosstabs.html,
+697,inflation,YouGov,04/25/2025,04/28/2025,1597,A,31.0,59.0,-28.0,https://www.scribd.com/document/855435184/20250428-combined-trump100,Yahoo News
+698,govt_spending,YouGov,04/25/2025,04/28/2025,1597,A,42.0,48.0,-6.0,https://www.scribd.com/document/855435184/20250428-combined-trump100,Yahoo News
+699,democracy,YouGov,04/25/2025,04/28/2025,1597,A,36.0,51.0,-15.0,https://www.scribd.com/document/855435184/20250428-combined-trump100,Yahoo News
+700,dei,YouGov,04/25/2025,04/28/2025,1597,A,39.0,48.0,-9.0,https://www.scribd.com/document/855435184/20250428-combined-trump100,Yahoo News
