@@ -869,3 +869,38 @@
 867,trade_tariffs,Morning Consult,07/25/2025,07/27/2025,2203,RV,44.0,45.0,-1.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
 868,economy,Ipsos,07/25/2025,07/27/2025,1023,A,38.0,55.0,-17.0,https://www.reuters.com/world/us/trump-approval-rating-sinks-40-lowest-his-term-reutersipsos-poll-finds-2025-07-29/,Reuters
 869,immigration,Ipsos,07/25/2025,07/27/2025,1023,A,43.0,51.0,-8.0,https://www.reuters.com/world/us/trump-approval-rating-sinks-40-lowest-his-term-reutersipsos-poll-finds-2025-07-29/,Reuters
+870,immigration,John Zogby Strategies,07/28/2025,07/29/2025,1010,LV,49.0,48.0,1.0,https://johnzogbystrategies.com/new-zogby-strategies-poll-reveals-intense-collapse-among-trump-supporters/,
+871,economy,John Zogby Strategies,07/28/2025,07/29/2025,1010,LV,42.0,55.0,-13.0,https://johnzogbystrategies.com/new-zogby-strategies-poll-reveals-intense-collapse-among-trump-supporters/,
+872,trade_tariffs,John Zogby Strategies,07/28/2025,07/29/2025,1010,LV,39.0,57.0,-18.0,https://johnzogbystrategies.com/new-zogby-strategies-poll-reveals-intense-collapse-among-trump-supporters/,
+873,inflation,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,31.0,63.0,-32.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+874,immigration,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,41.0,54.0,-13.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+875,civil_rights,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,32.0,58.0,-26.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+876,trade_tariffs,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,31.0,63.0,-32.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+877,israel_palestine,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,33.0,54.0,-21.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+878,ukraine,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,29.0,58.0,-29.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+879,disaster_relief,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,37.0,53.0,-16.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+880,epstein_files,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,18.0,70.0,-52.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+881,iran,University of Massachusetts (Amherst),07/25/2025,07/30/2025,1000,A,36.0,51.0,-15.0,https://www.umass.edu/political-science/about/reports/2025-9#toc-toplines-and-crosstabs,WCVB-TV
+882,immigration,Morning Consult,08/01/2025,08/03/2025,2201,RV,50.0,43.0,7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+883,economy,Morning Consult,08/01/2025,08/03/2025,2201,RV,43.0,49.0,-6.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+884,trade_tariffs,Morning Consult,08/01/2025,08/03/2025,2201,RV,43.0,47.0,-4.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+885,economy,YouGov,08/01/2025,08/04/2025,1702,A,40.0,53.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_lSgdLYM.pdf,The Economist
+886,inflation,YouGov,08/01/2025,08/04/2025,1702,A,34.0,59.0,-25.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_lSgdLYM.pdf,The Economist
+887,immigration,YouGov,08/01/2025,08/04/2025,1702,A,45.0,51.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_lSgdLYM.pdf,The Economist
+888,govt_spending,YouGov,08/01/2025,08/04/2025,1702,A,38.0,57.0,-19.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_lSgdLYM.pdf,The Economist
+889,healthcare,YouGov,08/01/2025,08/04/2025,1702,A,33.0,57.0,-24.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_lSgdLYM.pdf,The Economist
+890,economy,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,45.0,53.0,-8.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+891,border_security,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,53.0,44.0,9.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+892,deportations,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,49.0,49.0,0.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+893,trade_tariffs,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,45.0,51.0,-6.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+894,foreign_policy,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,41.0,55.0,-14.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+895,taxes,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,40.0,53.0,-13.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+896,govt_spending,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,39.0,58.0,-19.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+897,inflation,Hart Research Associates/Public Opinion Strategies,07/29/2025,08/03/2025,1000,A,37.0,60.0,-23.0,https://pos.org/wp-content/uploads/2025/08/250178-CNBC-AAES-Q2-2025-Topline-8-7-2025-Release.pdf,CNBC
+898,epstein_files,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,27.0,56.0,-29.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
+899,inflation,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,36.0,61.0,-25.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
+900,corruption,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,38.0,61.0,-23.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
+901,healthcare,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,39.0,55.0,-16.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
+902,economy,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,42.0,54.0,-12.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
+903,immigration,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,45.0,52.0,-7.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
+904,national_security,Clarity Campaign Labs,07/24/2025,07/31/2025,1018,RV,49.0,44.0,5.0,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,
