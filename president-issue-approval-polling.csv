@@ -954,3 +954,31 @@
 952,national_security,YouGov,08/15/2025,08/18/2025,1568,A,43.0,47.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_sBoaiA0.pdf,The Economist
 953,trade_tariffs,YouGov,08/15/2025,08/18/2025,1568,A,36.0,56.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_sBoaiA0.pdf,The Economist
 954,israel_palestine,YouGov,08/15/2025,08/18/2025,1568,A,34.0,50.0,-16.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_sBoaiA0.pdf,The Economist
+955,inflation,Ipsos,08/13/2025,08/18/2025,4446,A,32.0,58.0,-26.0,https://www.reuters.com/world/us/trump-approval-holds-40-lowest-level-his-term-reutersipsos-poll-finds-2025-08-18/,Reuters
+956,trade_tariffs,Ipsos,08/13/2025,08/18/2025,4446,A,36.0,52.0,-16.0,https://www.reuters.com/world/us/trump-approval-holds-40-lowest-level-his-term-reutersipsos-poll-finds-2025-08-18/,Reuters
+957,trade_tariffs,Data For Progress,08/08/2025,08/10/2025,1176,LV,38.0,55.0,-17.0,https://www.filesforprogress.org/datasets/2025/8/dfp_trump_backlash.pdf,
+958,epstein_files,Data For Progress,08/08/2025,08/10/2025,1176,LV,19.0,65.0,-46.0,https://www.filesforprogress.org/datasets/2025/8/dfp_trump_backlash.pdf,
+959,border_security,Verasight,08/18/2025,08/21/2025,1500,A,51.0,45.0,6.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+960,crime,Verasight,08/18/2025,08/21/2025,1500,A,45.0,48.0,-3.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+961,immigration,Verasight,08/18/2025,08/21/2025,1500,A,46.0,51.0,-5.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+962,deportations,Verasight,08/18/2025,08/21/2025,1500,A,44.0,52.0,-8.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+963,foreign_policy,Verasight,08/18/2025,08/21/2025,1500,A,40.0,52.0,-12.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+964,federal_workforce,Verasight,08/18/2025,08/21/2025,1500,A,40.0,52.0,-12.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+965,economy,Verasight,08/18/2025,08/21/2025,1500,A,41.0,54.0,-13.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+966,education,Verasight,08/18/2025,08/21/2025,1500,A,38.0,54.0,-16.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+967,trade_tariffs,Verasight,08/18/2025,08/21/2025,1500,A,39.0,55.0,-16.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+968,govt_spending,Verasight,08/18/2025,08/21/2025,1500,A,37.0,57.0,-20.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+969,healthcare,Verasight,08/18/2025,08/21/2025,1500,A,35.0,57.0,-22.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+970,inflation,Verasight,08/18/2025,08/21/2025,1500,A,34.0,61.0,-27.0,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Strength In Numbers
+971,economy,YouGov,08/22/2025,08/25/2025,1523,A,39.0,54.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist
+972,inflation,YouGov,08/22/2025,08/25/2025,1523,A,34.0,61.0,-27.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist
+973,immigration,YouGov,08/22/2025,08/25/2025,1523,A,46.0,50.0,-4.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist
+974,climate_change,YouGov,08/22/2025,08/25/2025,1523,A,32.0,52.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist
+975,education,YouGov,08/22/2025,08/25/2025,1523,A,38.0,51.0,-13.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist
+976,abortion,YouGov,08/22/2025,08/25/2025,1523,A,34.0,52.0,-18.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist
+977,economy,Morning Consult,08/22/2025,08/24/2025,2200,RV,45.0,49.0,-4.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+978,immigration,Morning Consult,08/22/2025,08/24/2025,2200,RV,52.0,42.0,10.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+979,trade_tariffs,Morning Consult,08/22/2025,08/24/2025,2200,RV,45.0,47.0,-2.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+980,foreign_policy,Gallup,08/01/2025,08/20/2025,1094,A,39.0,57.0,-18.0,https://news.gallup.com/poll/694370/trump-ratings-mood-stay-tepid-august.aspx,
+981,education,Gallup,08/01/2025,08/20/2025,1094,A,38.0,59.0,-21.0,https://news.gallup.com/poll/694370/trump-ratings-mood-stay-tepid-august.aspx,
+982,economy,Gallup,08/01/2025,08/20/2025,1094,A,37.0,59.0,-22.0,https://news.gallup.com/poll/694370/trump-ratings-mood-stay-tepid-august.aspx,
