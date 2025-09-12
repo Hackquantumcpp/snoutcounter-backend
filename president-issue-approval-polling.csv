@@ -513,9 +513,9 @@
 511,taxes,SSRS,07/10/2025,07/13/2025,1057,A,44.0,56.0,-12.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
 512,environment,SSRS,07/10/2025,07/13/2025,1057,A,39.0,60.0,-21.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
 513,trade_tariffs,SSRS,07/10/2025,07/13/2025,1057,A,39.0,61.0,-22.0,https://s3.documentcloud.org/documents/25999223/cnn-poll-conducted-by-ssrs-trump-approval-policy-and-budget-bill.pdf,CNN
-514,immigration,Ipsos,07/15/2025,07/16/2025,1027,A,41.0,51.0,-10.0,https://www.reuters.com/world/us/trumps-approval-immigration-falls-lowest-level-his-term-reutersipsos-poll-finds-2025-07-16/,Reuters
-515,economy,Ipsos,07/15/2025,07/16/2025,1027,A,35.0,55.0,-20.0,https://www.reuters.com/world/us/trumps-approval-immigration-falls-lowest-level-his-term-reutersipsos-poll-finds-2025-07-16/,Reuters
-516,trade_tariffs,Ipsos,07/15/2025,07/16/2025,1027,A,32.0,53.0,-21.0,https://www.reuters.com/world/us/trumps-approval-immigration-falls-lowest-level-his-term-reutersipsos-poll-finds-2025-07-16/,Reuters
+514,immigration,Ipsos,07/15/2025,07/16/2025,1027,A,41.0,51.0,-10.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+515,economy,Ipsos,07/15/2025,07/16/2025,1027,A,35.0,55.0,-20.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+516,trade_tariffs,Ipsos,07/15/2025,07/16/2025,1027,A,32.0,53.0,-21.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
 517,economy,AP-NORC,07/10/2025,07/14/2025,1437,A,38.0,60.0,-22.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
 518,immigration,AP-NORC,07/10/2025,07/14/2025,1437,A,43.0,55.0,-12.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
 519,govt_spending,AP-NORC,07/10/2025,07/14/2025,1437,A,38.0,61.0,-23.0,https://apnorc.org/wp-content/uploads/2025/07/July-W1-Topline-Trump.pdf,
@@ -992,3 +992,62 @@
 990,economy,Quinnipiac University,08/21/2025,08/25/2025,1220,RV,39.0,57.0,-18.0,https://poll.qu.edu/poll-release?releaseid=3929,
 991,trade_tariffs,Quinnipiac University,08/21/2025,08/25/2025,1220,RV,38.0,56.0,-18.0,https://poll.qu.edu/poll-release?releaseid=3929,
 992,israel_palestine,Quinnipiac University,08/21/2025,08/25/2025,1220,RV,34.0,53.0,-19.0,https://poll.qu.edu/poll-release?releaseid=3929,
+993,immigration,Harris Insights & Analytics,08/20/2025,08/21/2025,2025,RV,50.0,45.0,5.0,https://harvardharrispoll.com/topline-august/,Harvard CAPS
+994,govt_management,Harris Insights & Analytics,08/20/2025,08/21/2025,2025,RV,45.0,49.0,-4.0,https://harvardharrispoll.com/topline-august/,Harvard CAPS
+995,foreign_policy,Harris Insights & Analytics,08/20/2025,08/21/2025,2025,RV,44.0,49.0,-5.0,https://harvardharrispoll.com/topline-august/,Harvard CAPS
+996,economy,Harris Insights & Analytics,08/20/2025,08/21/2025,2025,RV,44.0,51.0,-7.0,https://harvardharrispoll.com/topline-august/,Harvard CAPS
+997,inflation,Harris Insights & Analytics,08/20/2025,08/21/2025,2025,RV,41.0,53.0,-12.0,https://harvardharrispoll.com/topline-august/,Harvard CAPS
+998,trade_tariffs,Harris Insights & Analytics,08/20/2025,08/21/2025,2025,RV,41.0,52.0,-11.0,https://harvardharrispoll.com/topline-august/,Harvard CAPS
+999,economy,YouGov,08/29/2025,09/02/2025,1691,A,38.0,53.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_S3c69M7.pdf,The Economist
+1000,inflation,YouGov,08/29/2025,09/02/2025,1691,A,32.0,62.0,-30.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_S3c69M7.pdf,The Economist
+1001,immigration,YouGov,08/29/2025,09/02/2025,1691,A,47.0,48.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_S3c69M7.pdf,The Economist
+1002,deploying_military_us_cities,YouGov,08/29/2025,09/02/2025,1690,A,37.0,53.0,-16.0,https://ca.news.yahoo.com/poll-shows-a-majority-of-americans-dont-want-trump-to-send-national-guard-to-major-cities--as-he-says-chicago-and-baltimore-are-next-175845210.html,Yahoo News
+1003,dc_takeover,YouGov,08/29/2025,09/02/2025,1690,A,39.0,48.0,-9.0,https://ca.news.yahoo.com/poll-shows-a-majority-of-americans-dont-want-trump-to-send-national-guard-to-major-cities--as-he-says-chicago-and-baltimore-are-next-175845210.html,Yahoo News
+1004,crime,YouGov,08/29/2025,09/02/2025,1690,A,44.0,47.0,-3.0,https://ca.news.yahoo.com/poll-shows-a-majority-of-americans-dont-want-trump-to-send-national-guard-to-major-cities--as-he-says-chicago-and-baltimore-are-next-175845210.html,Yahoo News
+1005,immigration,John Zogby Strategies,08/29/2025,08/30/2025,1000,LV,51.0,47.0,4.0,https://johnzogbystrategies.com/wp-content/uploads/2025/09/Has-The-President-Bounced-Back_-New-Zogby-Strategies-Poll-09.03.25.html,
+1006,economy,John Zogby Strategies,08/29/2025,08/30/2025,1000,LV,44.0,53.0,-9.0,https://johnzogbystrategies.com/wp-content/uploads/2025/09/Has-The-President-Bounced-Back_-New-Zogby-Strategies-Poll-09.03.25.html,
+1007,trade_tariffs,John Zogby Strategies,08/29/2025,08/30/2025,1000,LV,43.0,53.0,-10.0,https://johnzogbystrategies.com/wp-content/uploads/2025/09/Has-The-President-Bounced-Back_-New-Zogby-Strategies-Poll-09.03.25.html,
+1008,immigration,Morning Consult,08/29/2025,08/31/2025,2202,RV,49.0,45.0,4.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1009,economy,Morning Consult,08/29/2025,08/31/2025,2202,RV,44.0,47.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1010,trade_tariffs,Morning Consult,08/29/2025,08/31/2025,2202,RV,43.0,46.0,-3.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1011,inflation,Ipsos,08/22/2025,08/24/2025,1022,A,31.0,62.0,-31.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1012,immigration,Ipsos,08/22/2025,08/24/2025,1022,A,43.0,51.0,-8.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1013,economy,Ipsos,08/22/2025,08/24/2025,1022,A,37.0,55.0,-18.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1014,national_politics,Ipsos,08/22/2025,08/24/2025,1022,A,36.0,53.0,-17.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1015,foreign_policy,Ipsos,08/22/2025,08/24/2025,1022,A,37.0,51.0,-14.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1016,jobs,Ipsos,08/22/2025,08/24/2025,1022,A,38.0,51.0,-13.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1017,corruption,Ipsos,08/22/2025,08/24/2025,1022,A,34.0,54.0,-20.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1018,russia,Ipsos,08/22/2025,08/24/2025,1022,A,32.0,54.0,-22.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1019,israel,Ipsos,08/22/2025,08/24/2025,1022,A,36.0,47.0,-11.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1020,ukraine,Ipsos,08/22/2025,08/24/2025,1022,A,35.0,49.0,-14.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1021,crime,Ipsos,08/22/2025,08/24/2025,1022,A,43.0,46.0,-3.0,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters
+1022,foreign_policy,Ipsos,07/15/2025,07/16/2025,1027,A,34.0,50.0,-16.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+1023,taxes,Ipsos,07/15/2025,07/16/2025,1027,A,33.0,54.0,-21.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+1024,inflation,Ipsos,07/15/2025,07/16/2025,1027,A,30.0,60.0,-30.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+1025,disaster_relief,Ipsos,07/15/2025,07/16/2025,1027,A,37.0,48.0,-11.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+1026,epstein_files,Ipsos,07/15/2025,07/16/2025,1027,A,17.0,54.0,-37.0,https://www.ipsos.com/en-us/president-trumps-overall-approval-rating-remains-stable,Reuters
+1027,border_security,SurveyMonkey,08/13/2025,09/01/2025,14865,A,47.0,53.0,-6.0,https://www.documentcloud.org/documents/26085240-final-nbc-news-decision-desk-poll-august-2025-topline/,NBC News
+1028,deportations,SurveyMonkey,08/13/2025,09/01/2025,14983,A,43.0,57.0,-14.0,https://www.documentcloud.org/documents/26085240-final-nbc-news-decision-desk-poll-august-2025-topline/,NBC News
+1029,inflation,SurveyMonkey,08/13/2025,09/01/2025,30196,A,39.0,61.0,-22.0,https://www.documentcloud.org/documents/26085240-final-nbc-news-decision-desk-poll-august-2025-topline/,NBC News
+1030,trade_tariffs,SurveyMonkey,08/13/2025,09/01/2025,30196,A,41.0,59.0,-18.0,https://www.documentcloud.org/documents/26085240-final-nbc-news-decision-desk-poll-august-2025-topline/,NBC News
+1031,economy,YouGov,09/03/2025,09/05/2025,2385,A,41.0,59.0,-18.0,https://www.cbsnews.com/news/trump-national-guard-cities-opinion-poll/,CBS News
+1032,inflation,YouGov,09/03/2025,09/05/2025,2385,A,36.0,64.0,-28.0,https://www.cbsnews.com/news/trump-national-guard-cities-opinion-poll/,CBS News
+1033,immigration,YouGov,09/03/2025,09/05/2025,2385,A,46.0,54.0,-8.0,https://www.cbsnews.com/news/trump-national-guard-cities-opinion-poll/,CBS News
+1034,economy,YouGov,09/05/2025,09/08/2025,1644,A,38.0,55.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_posPy08.pdf,The Economist
+1035,inflation,YouGov,09/05/2025,09/08/2025,1644,A,32.0,62.0,-30.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_posPy08.pdf,The Economist
+1036,immigration,YouGov,09/05/2025,09/08/2025,1644,A,45.0,50.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_posPy08.pdf,The Economist
+1037,govt_spending,YouGov,09/05/2025,09/08/2025,1644,A,37.0,56.0,-19.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_posPy08.pdf,The Economist
+1038,healthcare,YouGov,09/05/2025,09/08/2025,1644,A,32.0,56.0,-24.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_posPy08.pdf,The Economist
+1039,economy,Ipsos,09/05/2025,09/09/2025,1084,A,36.0,53.0,-17.0,https://www.reuters.com/world/us/trump-approval-rating-42-weak-economy-reutersipsos-poll-shows-2025-09-09/,Reuters
+1040,immigration,Ipsos,09/05/2025,09/09/2025,1084,A,42.0,49.0,-7.0,https://www.reuters.com/world/us/trump-approval-rating-42-weak-economy-reutersipsos-poll-shows-2025-09-09/,Reuters
+1041,border_security,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,57.0,43.0,14.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1042,crime,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,50.0,50.0,0.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1043,immigration,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,47.0,52.0,-5.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1044,ukraine,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,40.0,59.0,-19.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1045,economy,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,39.0,60.0,-21.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1046,russia,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,36.0,62.0,-26.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1047,trade_tariffs,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,36.0,63.0,-27.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1048,inflation,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,32.0,67.0,-35.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News
+1049,immigration,Morning Consult,09/06/2025,09/08/2025,2201,RV,49.0,42.0,7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1050,economy,Morning Consult,09/06/2025,09/08/2025,2201,RV,42.0,50.0,-8.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1051,trade_tariffs,Morning Consult,09/06/2025,09/08/2025,2201,RV,42.0,47.0,-5.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
