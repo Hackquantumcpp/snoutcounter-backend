@@ -1061,3 +1061,67 @@
 1059,crime,YouGov,09/12/2025,09/15/2025,1567,A,42.0,49.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_jmHpS1k.pdf,The Economist
 1060,guns,YouGov,09/12/2025,09/15/2025,1567,A,33.0,50.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_jmHpS1k.pdf,The Economist
 1061,economy,Global Strategy Group/GBAO (Navigator Research),09/04/2025,09/08/2025,1000,RV,42.0,54.0,-12.0,https://navigatorresearch.org/wp-content/uploads/2025/09/Navigator-Update-Topline-F09.08.25.pdf,
+1062,economy,AP-NORC,09/11/2025,09/15/2025,1183,A,37.0,62.0,-25.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1063,immigration,AP-NORC,09/11/2025,09/15/2025,1183,A,43.0,56.0,-13.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1064,foreign_policy,AP-NORC,09/11/2025,09/15/2025,1183,A,39.0,59.0,-20.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1065,israel_palestine,AP-NORC,09/11/2025,09/15/2025,1183,A,37.0,60.0,-23.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1066,crime,AP-NORC,09/11/2025,09/15/2025,1183,A,46.0,53.0,-7.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1067,trade_tariffs,AP-NORC,09/11/2025,09/15/2025,1183,A,36.0,63.0,-27.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1068,healthcare,AP-NORC,09/11/2025,09/15/2025,1183,A,35.0,64.0,-29.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1069,border_security,AP-NORC,09/11/2025,09/15/2025,1183,A,55.0,44.0,11.0,https://apnorc.org/wp-content/uploads/2025/09/AP-NORC-September-2025-Direction-of-the-country-Topline.pdf,
+1070,economy,Ipsos,09/11/2025,09/15/2025,2513,A,40.0,59.0,-19.0,https://www.washingtonpost.com/documents/3cf9e3ce-e4f2-4302-be21-a7311d6c035a.pdf,The Washington Post
+1071,immigration,Ipsos,09/11/2025,09/15/2025,2513,A,44.0,55.0,-11.0,https://www.washingtonpost.com/documents/3cf9e3ce-e4f2-4302-be21-a7311d6c035a.pdf,The Washington Post
+1072,trade_tariffs,Ipsos,09/11/2025,09/15/2025,2513,A,34.0,64.0,-30.0,https://www.washingtonpost.com/documents/3cf9e3ce-e4f2-4302-be21-a7311d6c035a.pdf,The Washington Post
+1073,israel_palestine,Ipsos,09/11/2025,09/15/2025,2513,A,39.0,58.0,-19.0,https://www.washingtonpost.com/documents/3cf9e3ce-e4f2-4302-be21-a7311d6c035a.pdf,The Washington Post
+1074,ukraine,Ipsos,09/11/2025,09/15/2025,2513,A,38.0,60.0,-22.0,https://www.washingtonpost.com/documents/3cf9e3ce-e4f2-4302-be21-a7311d6c035a.pdf,The Washington Post
+1075,crime,Ipsos,09/11/2025,09/15/2025,2513,A,44.0,54.0,-10.0,https://www.washingtonpost.com/documents/3cf9e3ce-e4f2-4302-be21-a7311d6c035a.pdf,The Washington Post
+1076,immigration,AtlasIntel,09/12/2025,09/16/2025,1066,A,51.0,47.0,4.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1077,defense,AtlasIntel,09/12/2025,09/16/2025,1066,A,51.0,46.0,5.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1078,foreign_policy,AtlasIntel,09/12/2025,09/16/2025,1066,A,51.0,47.0,4.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1079,democracy,AtlasIntel,09/12/2025,09/16/2025,1066,A,51.0,47.0,4.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1080,inequality,AtlasIntel,09/12/2025,09/16/2025,1066,A,49.0,49.0,0.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1081,economy,AtlasIntel,09/12/2025,09/16/2025,1066,A,46.0,49.0,-3.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1082,education,AtlasIntel,09/12/2025,09/16/2025,1066,A,50.0,48.0,2.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1083,taxes,AtlasIntel,09/12/2025,09/16/2025,1066,A,50.0,48.0,2.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1084,energy,AtlasIntel,09/12/2025,09/16/2025,1066,A,49.0,49.0,0.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1085,trade_tariffs,AtlasIntel,09/12/2025,09/16/2025,1066,A,43.0,54.0,-11.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1086,govt_management,AtlasIntel,09/12/2025,09/16/2025,1066,A,50.0,48.0,2.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1087,healthcare,AtlasIntel,09/12/2025,09/16/2025,1066,A,47.0,49.0,-2.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1088,corruption,AtlasIntel,09/12/2025,09/16/2025,1066,A,45.0,48.0,-3.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1089,environment,AtlasIntel,09/12/2025,09/16/2025,1066,A,44.0,49.0,-5.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1090,agriculture,AtlasIntel,09/12/2025,09/16/2025,1066,A,42.0,46.0,-4.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1091,national_debt,AtlasIntel,09/12/2025,09/16/2025,1066,A,43.0,49.0,-6.0,https://atlasintel.org/poll/usa-national-2025-09-19,
+1092,inflation,Clarity Campaign Labs,09/04/2025,09/11/2025,1001,RV,37.0,61.0,-24.0,https://www.claritycampaigns.com/clarity-omnibus-september-2025,
+1093,epstein_files,Clarity Campaign Labs,09/04/2025,09/11/2025,1001,RV,30.0,53.0,-23.0,https://www.claritycampaigns.com/clarity-omnibus-september-2025,
+1094,healthcare,Clarity Campaign Labs,09/04/2025,09/11/2025,1001,RV,41.0,52.0,-11.0,https://www.claritycampaigns.com/clarity-omnibus-september-2025,
+1095,economy,Clarity Campaign Labs,09/04/2025,09/11/2025,1001,RV,44.0,51.0,-7.0,https://www.claritycampaigns.com/clarity-omnibus-september-2025,
+1096,immigration,Clarity Campaign Labs,09/04/2025,09/11/2025,1001,RV,47.0,48.0,-1.0,https://www.claritycampaigns.com/clarity-omnibus-september-2025,
+1097,national_security,Clarity Campaign Labs,09/04/2025,09/11/2025,1001,RV,51.0,44.0,7.0,https://www.claritycampaigns.com/clarity-omnibus-september-2025,
+1098,economy,American Research Group,09/17/2025,09/20/2025,1100,A,34.0,63.0,-29.0,https://americanresearchgroup.com/economy/,
+1099,economy,Echelon Insights,09/18/2025,09/22/2025,1071,LV,43.0,54.0,-11.0,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,
+1100,immigration,Echelon Insights,09/18/2025,09/22/2025,1071,LV,48.0,49.0,-1.0,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,
+1101,foreign_policy,Echelon Insights,09/18/2025,09/22/2025,1071,LV,44.0,51.0,-7.0,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,
+1102,trade_tariffs,Echelon Insights,09/18/2025,09/22/2025,1071,LV,39.0,57.0,-18.0,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,
+1103,immigration,Morning Consult,09/19/2025,09/21/2025,2201,RV,49.0,45.0,4.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1104,economy,Morning Consult,09/19/2025,09/21/2025,2201,RV,44.0,49.0,-5.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1105,trade_tariffs,Morning Consult,09/19/2025,09/21/2025,2201,RV,42.0,49.0,-7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,
+1106,economy,YouGov,09/19/2025,09/22/2025,1551,A,36.0,55.0,-19.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1107,inflation,YouGov,09/19/2025,09/22/2025,1551,A,32.0,61.0,-29.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1108,immigration,YouGov,09/19/2025,09/22/2025,1551,A,44.0,51.0,-7.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1109,foreign_policy,YouGov,09/19/2025,09/22/2025,1551,A,37.0,52.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1110,national_security,YouGov,09/19/2025,09/22/2025,1551,A,42.0,48.0,-6.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1111,trade_tariffs,YouGov,09/19/2025,09/22/2025,1551,A,37.0,54.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1112,israel_palestine,YouGov,09/19/2025,09/22/2025,1551,A,33.0,50.0,-17.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1113,free_speech,YouGov,09/19/2025,09/22/2025,1551,A,35.0,55.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist
+1114,border_security,Verasight,09/15/2025,09/19/2025,1500,A,52.0,44.0,8.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1115,crime,Verasight,09/15/2025,09/19/2025,1500,A,46.0,49.0,-3.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1116,immigration,Verasight,09/15/2025,09/19/2025,1500,A,46.0,51.0,-5.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1117,deportations,Verasight,09/15/2025,09/19/2025,1500,A,45.0,51.0,-6.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1118,foreign_policy,Verasight,09/15/2025,09/19/2025,1500,A,41.0,52.0,-11.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1119,federal_workforce,Verasight,09/15/2025,09/19/2025,1500,A,40.0,53.0,-13.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1120,economy,Verasight,09/15/2025,09/19/2025,1500,A,41.0,54.0,-13.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1121,education,Verasight,09/15/2025,09/19/2025,1500,A,39.0,54.0,-15.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1122,trade_tariffs,Verasight,09/15/2025,09/19/2025,1500,A,39.0,57.0,-18.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1123,govt_spending,Verasight,09/15/2025,09/19/2025,1500,A,37.0,56.0,-19.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1124,healthcare,Verasight,09/15/2025,09/19/2025,1500,A,34.0,58.0,-24.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
+1125,inflation,Verasight,09/15/2025,09/19/2025,1500,A,32.0,63.0,-31.0,https://www.gelliottmorris.com/p/new-poll-voters-to-blame-republicans-for-shutdown,Strength In Numbers
