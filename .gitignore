@@ -1,3 +1,6 @@
 *.pyc
 keys.py
 *.json
+.Rproj.user
+.Rhistory
+.RData
