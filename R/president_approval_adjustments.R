@@ -16,7 +16,7 @@ url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50A
 
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters))
+write_csv(polls, "president_approval_polls.csv")
 
 polls_in_window <- function(data_frame, date, pid) {
   df <- data_frame # Copy data frame
@@ -43,7 +43,8 @@ poll_avg <- function(data_frame, date) {
   df <- df %>% left_join(ratings %>% janitor::clean_names() %>% rename(display_name = pollster), join_by(display_name)) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
-      quality_weight = if_else(predictive_plus_minus < 0.5, exp(-predictive_plus_minus/1.3), 0.2)
+      # quality_weight = if_else(predictive_plus_minus < 0.5, exp(-predictive_plus_minus/1.3), 0.2)
+      quality_weight = if_else(predictive_plus_minus <= 1, sqrt(1/2.4 * (1 - predictive_plus_minus)) + 0.2, 0.2)    
     )
   
   pid_in_window <- function(end_date, pid) {
@@ -55,7 +56,8 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/30))
+  window <- 30
+  df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ### Bring it all together
   df <- df %>% mutate(total_weight = sample_size_weight * quality_weight * zone_flood_weight * recency_weight)
@@ -80,7 +82,7 @@ avg_over_time <- function(data_frame) {
   no_std <- numeric(0)
   net_std <- numeric(0)
   
-  date_interv <- seq(ymd("2025-01-23"), today(), by = "day")
+  date_interv <- seq(ymd("2025-01-22"), today(), by = "day")
   
   for (i in 1:length(date_interv)) {
     date = date_interv[i]  # Debug
@@ -152,18 +154,22 @@ fit <- stan_glmer(net ~ (1| pollster_id) + (1 | partisan) + (1 | population) +
                   seed = 1010)
 
 print(fit)
+print(summary(fit))
 print(fixef(fit))
 print(ranef(fit))
 
 pop_a <- ranef(fit)$population[1, 1]
+np_a <- ranef(fit)$partisan[2, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg
+
+polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
 polls <- polls %>%
   left_join( (rownames_to_column(ranef(fit)$pollster_id) %>% rename(pollster_id = rowname, house_effect = "(Intercept)") %>% mutate(pollster_id = factor(pollster_id), house_effect = -1 * house_effect)), join_by(pollster_id)) %>%  
   left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
   left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
-  left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = -1 * partisan_adj)), join_by(partisan))
+  left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
 
 polls <- polls %>% mutate(
   yes = yes + (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
@@ -171,7 +177,7 @@ polls <- polls %>% mutate(
   net = net + house_effect + mode_adj + pop_adj + partisan_adj
 )
 
-today_avg = poll_avg(polls, today())
+# today_avg = poll_avg(polls, today())
 approval_stats <- avg_over_time(polls)
 
 ggplot(
