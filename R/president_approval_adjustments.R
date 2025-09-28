@@ -250,8 +250,12 @@ approval_stats <- avg_over_time(polls)
 
 ggplot(
   approval_stats, aes(x = end_date)
-) + geom_line(color = "#228833", size = 1, mapping = aes(y = approve)) +
-  geom_line(color = "#aa3377", size = 1, mapping = aes(y = disapprove)) +
+) + geom_line(size = 1, mapping = aes(y = approve, color = "Approve")) +
+  geom_line(size = 1, mapping = aes(y = disapprove, color = "Disapprove")) +
+  scale_color_manual(
+    name = "Legend",
+    values = c("Approve" = "#228833", "Disapprove" = "#aa3377")
+  ) +
   geom_ribbon(aes(ymin = approve_lower_ci, ymax = approve_upper_ci), fill = "#60be65",
               alpha = 0.4) +
   geom_ribbon(aes(ymin = disapprove_lower_ci, ymax = disapprove_upper_ci), fill = "#e86eaf",
