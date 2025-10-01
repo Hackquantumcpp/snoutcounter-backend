@@ -5,12 +5,13 @@ library(janitor)
 
 # setwd("../")
 
-ratings <- read_csv("pollster_ratings_silver.csv")
+ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
 setwd(paste0(getwd(), "/R/"))
 
-banned_pollsters <- c("ActiVote", "Big Data Poll", "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
-                      "TIPP")
+banned_pollsters <- c("ActiVote", "SoCal Strategies", "Patriot Polling", 
+                      "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
+                      "TIPP", "Big Data Poll")
 
 url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=747663134#gid=747663134"
 
@@ -79,10 +80,14 @@ poll_avg <- function(data_frame, date) {
   }
   df$sponsors[df$display_name == "CNN/SSRS"] <- "CNN"
   df$display_name[df$display_name == "CNN/SSRS"] <- "SSRS"
+  df$display_name[df$display_name == "University of Massachusetts Department of Political Science/YouGov"] <- "University of Massachusetts (Amherst)"
   
   
-  ### Quality weights 
-  df <- df %>% left_join(ratings %>% janitor::clean_names() %>% rename(display_name = pollster), join_by(display_name)) %>%
+  ### Quality weights
+  df <- df %>% left_join(ratings %>% rename(display_name = pollster), join_by(display_name)) %>%
+    filter(
+      !(display_name %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+    ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
       # quality_weight = if_else(predictive_plus_minus < 0.5, exp(-predictive_plus_minus/1.3), 0.2)
