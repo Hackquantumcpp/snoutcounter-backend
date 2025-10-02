@@ -2,14 +2,15 @@ library(tidyverse)
 library(rstan)
 library(rstanarm)
 library(janitor)
+library(rsample) # rsample in tidymodels
 
-# setwd("../")
+setwd("../")
 
 ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
 setwd(paste0(getwd(), "/R/"))
 
-banned_pollsters <- c("ActiVote", "SoCal Strategies", "Patriot Polling", 
+banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP", "Big Data Poll")
 
@@ -17,7 +18,7 @@ url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50A
 
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters))
+polls <- polls %>% filter(!(pollster %in% banned_pollsters) & (politician_id == 11))
 
 write_csv(polls, "president_approval_polls.csv")
 
@@ -217,7 +218,7 @@ df_avg <- df_avg %>% mutate(lagged_net = lag(net, 1))
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-fit <- stan_glmer(net ~ (1| pollster_id) + (1 | partisan) + (1 | population) + 
+fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + (1 | population) + 
                     (1 | mode) + net_avg,
                   family = gaussian(),
                   data = polls,
@@ -278,7 +279,7 @@ ggplot(
 ) + geom_line(color = "red", size = 1) + 
   geom_ribbon(aes(ymin = net_lower_ci, ymax = net_upper_ci), fill = "#dc9a88", alpha = 0.4) +
   geom_point(data = polls, mapping = aes(y = net), color = "red", alpha = 0.2) +
-  geom_hline(yintercept = 0, linetype = "dashed", color = "black", size = 0.5) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 0.5) +
   labs(
   x = "Date",
   y = "Net Approval %",
