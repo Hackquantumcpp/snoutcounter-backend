@@ -3,6 +3,7 @@ library(rstan)
 library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
+library(DescTools)
 
 setwd("../")
 
@@ -14,13 +15,18 @@ banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP", "Big Data Poll")
 
-url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=747663134#gid=747663134"
-
+url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=2042605142"
+  
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters) & (politician_id == 11))
+polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
-write_csv(polls, "president_approval_polls.csv")
+polls <- polls %>% filter(
+  is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
+  is.na(state) == TRUE
+)
+
+# write_csv(polls, "generic_ballot_polls.csv")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -72,6 +78,7 @@ poll_avg <- function(data_frame, date) {
   
   ### Sample size weights
   size_cap <- 5000
+  df <- df %>% mutate(sample_size = Winsorize(sample_size, val = quantile(sample_size, probs = c(0.025, 0.975), na.rm = FALSE)))
   df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size, size_cap)) / sqrt(median(pmin(sample_size, size_cap))))
 
   # Quick wrangling
@@ -124,19 +131,14 @@ poll_avg <- function(data_frame, date) {
 avg_over_time <- function(data_frame) {
   df <- data_frame # Copy data frame
   
-  ## Coalesce for alternate answers
-  df <- df %>% mutate(alternate_answers = coalesce(alternate_answers, 0))
-  
   # date_interv <- ymd("2025-01-23") %--% today()
   
-  yes_curve <- numeric(0)
-  no_curve <- numeric(0)
-  other_curve <- numeric(0)
+  rep_curve <- numeric(0)
+  dem_curve <- numeric(0)
   net_curve <- numeric(0)
   
-  yes_std <- numeric(0)
-  no_std <- numeric(0)
-  other_std <- numeric(0)
+  rep_std <- numeric(0)
+  dem_std <- numeric(0)
   net_std <- numeric(0)
   
   date_interv <- seq(ymd("2025-01-21"), today(), by = "day")
@@ -144,43 +146,35 @@ avg_over_time <- function(data_frame) {
   for (i in 1:length(date_interv)) {
     date = date_interv[i]  # Debug
     df_weights <- poll_avg(data_frame, date)
-    appr_avg <- sum(df_weights$total_weight * df_weights$yes)
-    disappr_avg <- sum(df_weights$total_weight * df_weights$no)
-    other_avg <- sum(df_weights$total_weight * df_weights$alternate_answers)
+    rep_avg <- sum(df_weights$total_weight * df_weights$rep)
+    dem_avg <- sum(df_weights$total_weight * df_weights$dem)
     net_avg <- sum(df_weights$total_weight * df_weights$net)
     
-    appr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$yes - appr_avg)^2))
-    disappr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$no - disappr_avg)^2))
-    other_sd <- sqrt(sum(df_weights$total_weight * (df_weights$alternate_answers - other_avg)^2))
+    rep_sd <- sqrt(sum(df_weights$total_weight * (df_weights$rep - rep_avg)^2))
+    dem_sd <- sqrt(sum(df_weights$total_weight * (df_weights$dem - dem_avg)^2))
     net_sd <- sqrt(sum(df_weights$total_weight * (df_weights$net - net_avg)^2))
     
-    yes_curve <- append(yes_curve, appr_avg)
-    no_curve <- append(no_curve, disappr_avg)
-    other_curve <- append(other_curve, other_avg)
+    rep_curve <- append(rep_curve, rep_avg)
+    dem_curve <- append(dem_curve, dem_avg)
     net_curve <- append(net_curve, net_avg)
     
-    yes_std <- append(yes_std, appr_sd)
-    no_std <- append(no_std, disappr_sd)
-    other_std <- append(other_std, other_sd)
+    rep_std <- append(rep_std, rep_sd)
+    dem_std <- append(dem_std, dem_sd)
     net_std <- append(net_std, net_sd)
   }
   
   df_avg <- tibble(
     end_date = date_interv,
-    approve = yes_curve,
-    disapprove = no_curve,
-    other = other_curve,
+    rep = rep_curve,
+    dem = dem_curve,
     net = net_curve,
-    approve_std = yes_std,
-    disapprove_std = no_std,
-    other_std = other_std,
+    rep_std = rep_std,
+    dem_std = dem_std,
     net_std = net_std,
-    approve_lower_ci = yes_curve - 1.96*yes_std,
-    approve_upper_ci = yes_curve + 1.96*yes_std,
-    disapprove_lower_ci = no_curve - 1.96*no_std,
-    disapprove_upper_ci = no_curve + 1.96*no_std,
-    other_lower_ci = other_curve - 1.96*other_std,
-    other_upper_ci = other_curve + 1.96*other_std,
+    rep_lower_ci = rep_curve - 1.96*rep_std,
+    rep_upper_ci = rep_curve + 1.96*rep_std,
+    dem_lower_ci = dem_curve - 1.96*dem_std,
+    dem_upper_ci = dem_curve + 1.96*dem_std,
     net_lower_ci = net_curve - 1.96*net_std,
     net_upper_ci = net_curve + 1.96*net_std
   )
@@ -200,12 +194,12 @@ polls <- polls %>% arrange(pollster_id) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
 polls <- polls %>% 
-  mutate(population = recode(population, "a" = "a", "rv" = "b", "lv" = "c")) %>% 
+  mutate(population = recode(population, "lv" = "a", "rv" = "b", "a" = "c")) %>% 
   arrange(population) %>% 
   distinct(poll_id, .keep_all = TRUE) %>% 
-  mutate(population = recode(population, "a" = "a", "b" = "rv", "c" = "lv"))
+  mutate(population = recode(population, "a" = "lv", "b" = "rv", "c" = "a"))
 
-polls <- polls %>% mutate(net = yes - no, partisan = replace_na(partisan, "NA")) 
+polls <- polls %>% mutate(net = rep - dem, partisan = replace_na(partisan, "NA")) 
 
 polls$pollster_id <- factor(polls$pollster_id)
 
@@ -213,13 +207,14 @@ polls$pollster_id <- factor(polls$pollster_id)
 
 df_avg <- avg_over_time(polls)
 
-df_avg <- df_avg %>% mutate(lagged_net = lag(net, 1))
+# df_avg <- df_avg %>% mutate(lagged_net = lag(net, 1))
 
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + (1 | population) + 
-                    (1 | mode) + net_avg,
+fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + 
+                    (1 | mode) + net_avg, # Population adjustment disabled due to current lack of variance,
+                  # Will be turned out later
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -233,54 +228,54 @@ print(summary(fit))
 print(fixef(fit))
 print(ranef(fit))
 
-pop_a <- ranef(fit)$population[1, 1]
-np_a <- ranef(fit)$partisan[2, 1]
+# pop_a <- ranef(fit)$population[2, 1]
+np_a <- ranef(fit)$partisan[1, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg
 
 polls <- polls %>%
   left_join( (rownames_to_column(ranef(fit)$pollster_id) %>% rename(pollster_id = rowname, house_effect = "(Intercept)") %>% mutate(pollster_id = factor(pollster_id), house_effect = -1 * house_effect)), join_by(pollster_id)) %>%  
   left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
-  left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
+  # left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
   left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
 
 polls <- polls %>% mutate(
-  yes = yes + (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
-  no = no - (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
-  net = net + house_effect + mode_adj + pop_adj + partisan_adj
+  rep = rep + (house_effect + mode_adj + partisan_adj) / 2,
+  dem = dem - (house_effect + mode_adj + partisan_adj) / 2,
+  net = net + house_effect + mode_adj + partisan_adj
 ) %>% arrange(end_date)
 
 # today_avg = poll_avg(polls, today())
-approval_stats <- avg_over_time(polls)
+generic_ballot_avg <- avg_over_time(polls)
 
 ggplot(
-  approval_stats, aes(x = end_date)
-) + geom_line(size = 1, mapping = aes(y = approve, color = "Approve")) +
-  geom_line(size = 1, mapping = aes(y = disapprove, color = "Disapprove")) +
+  generic_ballot_avg, aes(x = end_date)
+) + geom_line(size = 1, mapping = aes(y = rep, color = "Republicans")) +
+  geom_line(size = 1, mapping = aes(y = dem, color = "Democrats")) +
   scale_color_manual(
     name = "Legend",
-    values = c("Approve" = "#228833", "Disapprove" = "#aa3377")
+    values = c("Republicans" = "red", "Democrats" = "blue")
   ) +
-  geom_ribbon(aes(ymin = approve_lower_ci, ymax = approve_upper_ci), fill = "#60be65",
+  geom_ribbon(aes(ymin = rep_lower_ci, ymax = rep_upper_ci), fill = "#fa928e",
               alpha = 0.4) +
-  geom_ribbon(aes(ymin = disapprove_lower_ci, ymax = disapprove_upper_ci), fill = "#e86eaf",
+  geom_ribbon(aes(ymin = dem_lower_ci, ymax = dem_upper_ci), fill = "#8e96fa",
               alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = yes), color = "#228833", alpha = 0.2) +
-  geom_point(data = polls, mapping = aes(y = no), color = "#aa3377", alpha = 0.2) +
+  geom_point(data = polls, mapping = aes(y = rep), color = "red", alpha = 0.2) +
+  geom_point(data = polls, mapping = aes(y = dem), color = "blue", alpha = 0.2) +
   labs(
     x = "Date",
     y = "%",
-    title = "Presidential Approval"
-  )
+    title = "Generic Ballot"
+  ) + xlim(ymd('2025-01-21'), today())
 
 ggplot(
-  approval_stats, mapping = aes(x = end_date, y = net)
-) + geom_line(color = "red", size = 1) + 
-  geom_ribbon(aes(ymin = net_lower_ci, ymax = net_upper_ci), fill = "#dc9a88", alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = net), color = "red", alpha = 0.2) +
+  generic_ballot_avg, mapping = aes(x = end_date, y = net)
+) + geom_line(color = "purple", size = 1) + 
+  geom_ribbon(aes(ymin = net_lower_ci, ymax = net_upper_ci), fill = "#c39af5", alpha = 0.4) +
+  geom_point(data = polls, mapping = aes(y = net), color = "purple", alpha = 0.2) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 0.5) +
   labs(
   x = "Date",
-  y = "Net Approval %",
-  title = "Presidential Net Approval"
-)
+  y = "Rep-Dem Spread %",
+  title = "Generic Ballot Spread"
+) + xlim(ymd('2025-01-21'), today())
