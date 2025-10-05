@@ -212,7 +212,7 @@ df_avg <- avg_over_time(polls)
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + 
+fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + (1 | population) +
                     (1 | mode) + net_avg, # Population adjustment disabled due to current lack of variance,
                   # Will be turned out later
                   family = gaussian(),
@@ -228,7 +228,7 @@ print(summary(fit))
 print(fixef(fit))
 print(ranef(fit))
 
-# pop_a <- ranef(fit)$population[2, 1]
+pop_a <- ranef(fit)$population[2, 1]
 np_a <- ranef(fit)$partisan[1, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg
@@ -236,13 +236,13 @@ polls <- polls %>% select(-net_avg) # Drop net avg
 polls <- polls %>%
   left_join( (rownames_to_column(ranef(fit)$pollster_id) %>% rename(pollster_id = rowname, house_effect = "(Intercept)") %>% mutate(pollster_id = factor(pollster_id), house_effect = -1 * house_effect)), join_by(pollster_id)) %>%  
   left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
-  # left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
+  left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
   left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
 
 polls <- polls %>% mutate(
-  rep = rep + (house_effect + mode_adj + partisan_adj) / 2,
-  dem = dem - (house_effect + mode_adj + partisan_adj) / 2,
-  net = net + house_effect + mode_adj + partisan_adj
+  rep = rep + (house_effect + mode_adj + partisan_adj + pop_adj) / 2,
+  dem = dem - (house_effect + mode_adj + partisan_adj + pop_adj) / 2,
+  net = net + house_effect + mode_adj + partisan_adj + pop_adj
 ) %>% arrange(end_date)
 
 # today_avg = poll_avg(polls, today())
