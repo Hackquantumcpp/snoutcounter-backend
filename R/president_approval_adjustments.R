@@ -14,7 +14,9 @@ banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP", "Big Data Poll")
 
-url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=747663134#gid=747663134"
+## This is one a time limit; change if you're collecting manually or use FiftyPlusOne API
+## Or delete if you collect manually with local file
+url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=2116611784#gid=2116611784"
 
 polls <- read_csv(url)
 
@@ -108,7 +110,7 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  window <- 30
+  window <- 21
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ### Bring it all together

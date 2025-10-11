@@ -228,7 +228,10 @@ print(summary(fit))
 print(fixef(fit))
 print(ranef(fit))
 
-pop_a <- ranef(fit)$population[2, 1]
+## For now we may want to convert to RV due to likely voter samples being less
+## reliable at this point in time; later when the midterms near we may want to switch
+## to converting to LV.
+pop_a <- ranef(fit)$population[3, 1]
 np_a <- ranef(fit)$partisan[1, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg
