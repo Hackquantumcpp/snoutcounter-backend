@@ -273,7 +273,7 @@ for (i in issue_list) {
   
 }
 
-chosen_issue <- "trade_tariffs"
+chosen_issue <- "healthcare"
 
 ggplot(
   issue_avgs %>% filter(issue == chosen_issue), aes(x = end_date)
