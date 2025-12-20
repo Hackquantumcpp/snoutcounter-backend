@@ -22,8 +22,12 @@ polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
 write_csv(polls, "president_issue_approval_polls.csv")
 
+# issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
+#                'crime', 'healthcare')
+
 issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
-                'crime', 'healthcare')
+                'crime', 'healthcare', 'ukraine', 'israel_palestine', 'govt_spending',
+                'border_security', 'national_security', 'education')
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -273,7 +277,7 @@ for (i in issue_list) {
   
 }
 
-chosen_issue <- "healthcare"
+chosen_issue <- "education"
 
 ggplot(
   issue_avgs %>% filter(issue == chosen_issue), aes(x = end_date)
@@ -292,7 +296,7 @@ ggplot(
   labs(
     x = "Date",
     y = "%",
-    title = str_c(c("Presidential Approval (", chosen_issue, ")"), collapse = "")
+    title = str_c(c("Presidential Issue Approval (", chosen_issue, ")"), collapse = "")
   )
 
 ggplot(
@@ -304,7 +308,7 @@ ggplot(
   labs(
   x = "Date",
   y = "Net Approval %",
-  title = str_c(c("Presidential Net Approval (", chosen_issue, ")"), collapse = "")
+  title = str_c(c("Presidential Issue Net Approval (", chosen_issue, ")"), collapse = "")
 )
 
 write_csv(issue_avgs, "presidential_issue_approvals.csv")

@@ -1482,3 +1482,95 @@
 1480,inflation,YouGov,11/28/2025,12/01/2025,1628,A,32.0,59.0,-27.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,The Economist,Online Matched Sample,False,Affordability,,
 1481,civil_rights,YouGov,11/28/2025,12/01/2025,1628,A,36.0,51.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,The Economist,Online Matched Sample,False,,,
 1482,guns,YouGov,11/28/2025,12/01/2025,1628,A,37.0,46.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,The Economist,Online Matched Sample,False,Gun control,,
+1483,crime,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,51.0,44.0,7.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,Fighting crime in America's cities,,
+1484,immigration,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,50.0,47.0,3.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,,,
+1485,govt_management,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,45.0,49.0,-4.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,Administering the government,,
+1486,foreign_policy,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,45.0,47.0,-2.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,Foreign affairs,,
+1487,economy,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,44.0,52.0,-8.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,,,
+1488,trade_tariffs,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,42.0,52.0,-10.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,Tariffs and trade policy,,
+1489,inflation,Harris Insights & Analytics,12/02/2025,12/04/2025,2204,RV,40.0,55.0,-15.0,https://harvardharrispoll.com/key-results-december-3/,Harvard CAPS,Online Opt-In Panel,False,,,
+1490,economy,YouGov,12/05/2025,12/08/2025,1530,A,37.0,57.0,-20.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,The Economist,Online Matched Sample,False,,,
+1491,inflation,YouGov,12/05/2025,12/08/2025,1530,A,33.0,60.0,-27.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,The Economist,Online Matched Sample,False,,,
+1492,taxes,YouGov,12/05/2025,12/08/2025,1530,A,38.0,52.0,-14.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,The Economist,Online Matched Sample,False,,,
+1493,govt_spending,YouGov,12/05/2025,12/08/2025,1530,A,36.0,57.0,-21.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,The Economist,Online Matched Sample,False,,,
+1494,military,YouGov,12/05/2025,12/08/2025,1530,A,41.0,50.0,-9.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,The Economist,Online Matched Sample,False,,,
+1495,economy,Ipsos,12/03/2025,12/08/2025,4434,A,36.0,52.0,-16.0,https://www.reuters.com/world/trump-approval-rating-rises-republicans-back-cost-of-living-efforts-2025-12-09/,Reuters,Probability Panel,False,,,
+1496,immigration,Ipsos,12/03/2025,12/08/2025,4434,A,42.0,47.0,-5.0,https://www.reuters.com/world/trump-approval-rating-rises-republicans-back-cost-of-living-efforts-2025-12-09/,Reuters,Probability Panel,False,,,
+1497,immigration,Morning Consult,12/05/2025,12/07/2025,2201,RV,50.0,43.0,7.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,,Online Opt-In Panel,False,,,
+1498,economy,Morning Consult,12/05/2025,12/07/2025,2201,RV,44.0,48.0,-4.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,,Online Opt-In Panel,False,,,
+1499,trade_tariffs,Morning Consult,12/05/2025,12/07/2025,2201,RV,44.0,46.0,-2.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,,Online Opt-In Panel,False,,,
+1500,immigration,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,50.0,45.0,5.0,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,,Online Opt-In Panel,False,,,
+1501,crime,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,49.0,44.0,5.0,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,,Online Opt-In Panel,False,,,
+1502,trade_tariffs,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,43.0,52.0,-9.0,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,,Online Opt-In Panel,False,,,
+1503,diplomacy,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,43.0,49.0,-6.0,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,,Online Opt-In Panel,False,,,
+1504,economy,Global Strategy Group/GBAO (Navigator Research),12/04/2025,12/08/2025,1000,RV,42.0,55.0,-13.0,https://navigatorresearch.org/wp-content/uploads/2025/12/Navigator-Topline-F12.08.25.pdf,,Online Opt-In Panel,False,,,
+1505,economy,AP-NORC,12/04/2025,12/08/2025,1146,A,31.0,67.0,-36.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1506,immigration,AP-NORC,12/04/2025,12/08/2025,1146,A,38.0,60.0,-22.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1507,govt_management,AP-NORC,12/04/2025,12/08/2025,1146,A,35.0,63.0,-28.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,Managing the federal government,,
+1508,healthcare,AP-NORC,12/04/2025,12/08/2025,1146,A,29.0,69.0,-40.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1509,foreign_policy,AP-NORC,12/04/2025,12/08/2025,1146,A,37.0,60.0,-23.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1510,crime,AP-NORC,12/04/2025,12/08/2025,1146,A,43.0,55.0,-12.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1511,border_security,AP-NORC,12/04/2025,12/08/2025,1146,A,50.0,48.0,2.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1512,trade_tariffs,AP-NORC,12/04/2025,12/08/2025,1146,A,37.0,61.0,-24.0,https://apnorc.org/wp-content/uploads/2025/12/AP-NORC-December-2025-Topline-Trump.pdf,,Probability Panel,False,,,
+1513,border_security,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,51.0,49.0,2.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,,,
+1514,crime,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,47.0,52.0,-5.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,Crime and public safety,,
+1515,immigration,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,45.0,55.0,-10.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,,,
+1516,foreign_policy,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,42.0,57.0,-15.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,,,
+1517,economy,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,39.0,61.0,-22.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,,,
+1518,healthcare,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,37.0,62.0,-25.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,,,
+1519,govt_spending,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,37.0,62.0,-25.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,,,
+1520,trade_tariffs,Beacon Research/Shaw & Co. Research,12/12/2025,12/15/2025,1001,RV,36.0,64.0,-28.0,https://static.foxnews.com/foxnews.com/content/uploads/2025/12/fox_december-12-15-2025_national_topline_december-17-release.pdf,FOX News,Live Phone/Text-to-Web,False,Tariffs,,
+1521,economy,Hart Research Associates/Public Opinion Strategies,12/04/2025,12/08/2025,1000,A,43.0,54.0,-11.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/12/16/TOPLINES_250313_CNBC_AAES_Q4_2025_new.pdf,NBC News,,False,,,
+1522,deportations,Hart Research Associates/Public Opinion Strategies,12/04/2025,12/08/2025,1000,A,46.0,52.0,-6.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/12/16/TOPLINES_250313_CNBC_AAES_Q4_2025_new.pdf,NBC News,,False,Deporting illegal immigrants,,
+1523,trade_tariffs,Hart Research Associates/Public Opinion Strategies,12/04/2025,12/08/2025,1000,A,41.0,56.0,-15.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/12/16/TOPLINES_250313_CNBC_AAES_Q4_2025_new.pdf,NBC News,,False,Tariffs on goods from other countries,,
+1524,inflation,Hart Research Associates/Public Opinion Strategies,12/04/2025,12/08/2025,1000,A,31.0,66.0,-35.0,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/12/16/TOPLINES_250313_CNBC_AAES_Q4_2025_new.pdf,NBC News,,False,Inflation and cost of living,,
+1525,military,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,46.0,51.0,-5.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1526,immigration,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,44.0,54.0,-10.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1527,deportations,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,42.0,55.0,-13.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1528,foreign_policy,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,41.0,54.0,-13.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1529,trade_tariffs,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,40.0,55.0,-15.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1530,economy,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,40.0,57.0,-17.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1531,ukraine,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,35.0,55.0,-20.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,the Russia-Ukraine war,,
+1532,healthcare,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,34.0,59.0,-25.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1533,epstein_files,Quinnipiac University,12/11/2025,12/15/2025,1035,RV,26.0,65.0,-39.0,https://poll.qu.edu/poll-release?releaseid=3943,,Live Phone,False,,,
+1534,immigration,AtlasIntel,12/15/2025,12/19/2025,2315,A,41.0,57.0,-16.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1535,defense,AtlasIntel,12/15/2025,12/19/2025,2315,A,40.0,56.0,-16.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1536,democracy,AtlasIntel,12/15/2025,12/19/2025,2315,A,38.0,59.0,-21.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Safeguarding democracy,,Excellent/good vs poor/terrible
+1537,foreign_policy,AtlasIntel,12/15/2025,12/19/2025,2315,A,36.0,58.0,-22.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1538,trade_tariffs,AtlasIntel,12/15/2025,12/19/2025,2315,A,35.0,61.0,-26.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1539,energy,AtlasIntel,12/15/2025,12/19/2025,2315,A,37.0,57.0,-20.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1540,govt_management,AtlasIntel,12/15/2025,12/19/2025,2315,A,34.0,61.0,-27.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Government efficiency,,Excellent/good vs poor/terrible
+1541,inequality,AtlasIntel,12/15/2025,12/19/2025,2315,A,37.0,59.0,-22.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Inequality & social policy,,Excellent/good vs poor/terrible
+1542,taxes,AtlasIntel,12/15/2025,12/19/2025,2315,A,34.0,58.0,-24.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1543,economy,AtlasIntel,12/15/2025,12/19/2025,2315,A,35.0,60.0,-25.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,US economy & jobs,,Excellent/good vs poor/terrible
+1544,education,AtlasIntel,12/15/2025,12/19/2025,2315,A,34.0,60.0,-26.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1545,corruption,AtlasIntel,12/15/2025,12/19/2025,2315,A,32.0,63.0,-31.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1546,environment,AtlasIntel,12/15/2025,12/19/2025,2315,A,32.0,61.0,-29.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1547,national_debt,AtlasIntel,12/15/2025,12/19/2025,2315,A,28.0,64.0,-36.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Deficit & national debt,,Excellent/good vs poor/terrible
+1548,agriculture,AtlasIntel,12/15/2025,12/19/2025,2315,A,29.0,60.0,-31.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1549,healthcare,AtlasIntel,12/15/2025,12/19/2025,2315,A,29.0,64.0,-35.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,,,Excellent/good vs poor/terrible
+1550,israel_palestine,AtlasIntel,12/15/2025,12/19/2025,2315,A,38.0,56.0,-18.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Israeli-Palestinian conflict,,Excellent/good vs poor/terrible
+1551,middle_east,AtlasIntel,12/15/2025,12/19/2025,2315,A,40.0,54.0,-14.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Relationship with Arab states & Middle East policy,,Excellent/good vs poor/terrible
+1552,latin_america,AtlasIntel,12/15/2025,12/19/2025,2315,A,38.0,57.0,-19.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,Latin America - US relations,,Excellent/good vs poor/terrible
+1553,china,AtlasIntel,12/15/2025,12/19/2025,2315,A,36.0,57.0,-21.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,China - US competition,,Excellent/good vs poor/terrible
+1554,ukraine,AtlasIntel,12/15/2025,12/19/2025,2315,A,33.0,58.0,-25.0,https://www.atlasintel.org/poll/usa-national-2025-12-19,,Online Ad,False,War in Ukraine,,Excellent/good vs poor/terrible
+1555,economy,Ipsos,12/12/2025,12/15/2025,1016,A,33.0,58.0,-25.0,https://www.reuters.com/world/us/trumps-approval-rating-slips-39-economy-weighs-reutersipsos-poll-finds-2025-12-16/,Reuters,Probability Panel,False,,,
+1556,immigration,Ipsos,12/12/2025,12/15/2025,1016,A,41.0,52.0,-11.0,https://www.reuters.com/world/us/trumps-approval-rating-slips-39-economy-weighs-reutersipsos-poll-finds-2025-12-16/,Reuters,Probability Panel,False,,,
+1557,inflation,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,33.0,62.0,-29.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,Inflation and prices,,
+1558,epstein_files,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,31.0,54.0,-23.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,The Jeffrey Epstein investigation,,
+1559,healthcare,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,36.0,58.0,-22.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,,,
+1560,ukraine,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,34.0,53.0,-19.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,Russia/Ukraine conflict,,
+1561,economy,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,40.0,54.0,-14.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,Economy and jobs,,
+1562,immigration,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,44.0,50.0,-6.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,,,
+1563,national_security,Clarity Campaign Labs,12/04/2025,12/11/2025,1000,RV,48.0,43.0,5.0,https://www.claritycampaigns.com/clarity-omnibus-dec-2025,,Online Opt-In Panel,False,,,
+1564,crime,YouGov,12/12/2025,12/15/2025,1632,A,46.0,47.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,False,,,
+1565,immigration,YouGov,12/12/2025,12/15/2025,1632,A,45.0,50.0,-5.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,False,,,
+1566,race_relations,YouGov,12/12/2025,12/15/2025,1632,A,35.0,50.0,-15.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,False,,,
+1567,inflation,YouGov,12/12/2025,12/15/2025,1632,A,33.0,61.0,-28.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,False,Inflation/prices,,
+1568,national_security,YouGov,12/12/2025,12/15/2025,1632,A,45.0,46.0,-1.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,False,,,
+1569,immigration,Morning Consult,12/12/2025,12/15/2025,2201,RV,47.0,45.0,2.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,,Online Opt-In Panel,False,,,
+1570,economy,Morning Consult,12/12/2025,12/15/2025,2201,RV,43.0,49.0,-6.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,,Online Opt-In Panel,False,,,
+1571,trade_tariffs,Morning Consult,12/12/2025,12/15/2025,2201,RV,44.0,45.0,-1.0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,,Online Opt-In Panel,False,,,
+1572,economy,Echelon Insights,12/11/2025,12/15/2025,1011,LV,41.0,57.0,-16.0,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,,Online Opt-In Panel,False,,,
+1573,immigration,Echelon Insights,12/11/2025,12/15/2025,1011,LV,47.0,52.0,-5.0,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,,Online Opt-In Panel,False,,,
+1574,foreign_policy,Echelon Insights,12/11/2025,12/15/2025,1011,LV,45.0,53.0,-8.0,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,,Online Opt-In Panel,False,,,
