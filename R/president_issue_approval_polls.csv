@@ -1574,3 +1574,15 @@ trade_tariffs,Morning Consult,12/12/2025,12/15/2025,2201,RV,44,45,-1,https://pro
 economy,Echelon Insights,12/11/2025,12/15/2025,1011,LV,41,57,-16,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,12/11/2025,12/15/2025,1011,LV,47,52,-5,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,12/11/2025,12/15/2025,1011,LV,45,53,-8,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,YouGov,12/17/2025,12/19/2025,2300,A,37,63,-26,https://www.cbsnews.com/news/opinion-poll-cost-of-living-trump/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,12/17/2025,12/19/2025,2300,A,34,66,-32,https://www.cbsnews.com/news/opinion-poll-cost-of-living-trump/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,12/17/2025,12/19/2025,2300,A,46,54,-8,https://www.cbsnews.com/news/opinion-poll-cost-of-living-trump/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+economy,American Research Group,12/17/2025,12/20/2025,1100,A,33,64,-31,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
+economy,YouGov,12/20/2025,12/22/2025,1592,A,38,55,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+military,YouGov,12/20/2025,12/22/2025,1592,A,43,49,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,12/20/2025,12/22/2025,1592,A,44,50,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,YouGov,12/20/2025,12/22/2025,1592,A,36,56,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+foreign_policy,YouGov,12/20/2025,12/22/2025,1592,A,39,52,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Morning Consult,12/19/2025,12/21/2025,2203,RV,43,49,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,12/19/2025,12/21/2025,2203,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,12/19/2025,12/21/2025,2203,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
