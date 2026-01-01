@@ -277,7 +277,7 @@ for (i in issue_list) {
   
 }
 
-chosen_issue <- "education"
+chosen_issue <- "economy"
 
 ggplot(
   issue_avgs %>% filter(issue == chosen_issue), aes(x = end_date)
