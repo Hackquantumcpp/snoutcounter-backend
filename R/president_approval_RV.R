@@ -236,7 +236,7 @@ print(summary(fit))
 print(fixef(fit))
 print(ranef(fit))
 
-pop_a <- ranef(fit)$population[1, 1]
+pop_a <- ranef(fit)$population[2, 1]
 np_a <- ranef(fit)$partisan[2, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg
