@@ -3,6 +3,7 @@ library(rstan)
 library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
+library(progress)
 
 setwd("../")
 
@@ -12,26 +13,27 @@ setwd(paste0(getwd(), "/R/"))
 
 banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
-                      "TIPP", "Big Data Poll")
+                      "TIPP Insights", "Big Data Poll")
 
 ## This is one a time limit; change if you're collecting manually or use FiftyPlusOne API
 ## Or delete if you collect manually with local file
-url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=2116611784#gid=2116611784"
+url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vSj1f5S4BKqd_0T83atnX5WIXMhwd326O-jg5vXNjvylt8DIWNW07rXmMUy9wGEz5ZVDlfLbea_hrd9/pub?output=csv"
 
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters) & (politician_id == 11))
+polls <- polls %>% filter(!(pollster %in% banned_pollsters) & !(is.na(approve)) &
+                            !(is.na(disapprove)) & !(is.na(sample_size)))
 
 write_csv(polls, "president_approval_polls.csv")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
-  pollsters <- as.vector(df %>% distinct(pollster_id))$pollster_id
+  pollsters <- as.vector(df %>% distinct(pollster))$pollster
   
   df_tracking <- tibble()
   
   for (p in pollsters) {
-    df_pollst <- df %>% filter(pollster_id == p) %>%
+    df_pollst <- df %>% filter(pollster == p) %>%
       rowwise() %>%
       mutate(interval = start_date %--% end_date) %>%
       ungroup() %>%
@@ -77,19 +79,13 @@ poll_avg <- function(data_frame, date) {
   df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size, size_cap)) / sqrt(median(pmin(sample_size, size_cap))))
 
   # Quick wrangling
-  df$display_name[df$display_name == "Noble Predictive Insights"] <- "OH Predictive Insights"
-  for (har in c("HarrisX", "HarrisX/Harris Poll")) {
-    df$display_name[df$display_name == har] <- "Harris Insights & Analytics"
-  }
-  df$sponsors[df$display_name == "CNN/SSRS"] <- "CNN"
-  df$display_name[df$display_name == "CNN/SSRS"] <- "SSRS"
-  df$display_name[df$display_name == "University of Massachusetts Department of Political Science/YouGov"] <- "University of Massachusetts (Amherst)"
-  
+  df$sponsors[df$pollster == "CNN/SSRS"] <- "CNN"
+  df$pollster[df$pollster == "CNN/SSRS"] <- "SSRS"
   
   ### Quality weights
-  df <- df %>% left_join(ratings %>% rename(display_name = pollster), join_by(display_name)) %>%
+  df <- df %>% left_join(ratings, join_by(pollster)) %>%
     filter(
-      !(display_name %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+      !(pollster %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
@@ -103,10 +99,8 @@ poll_avg <- function(data_frame, date) {
   
   ### Multiple polls in short window weights
   df <- df %>% mutate(
-    sponsor_ids = coalesce(sponsor_ids, "NA"),
-    poll_spon_id = str_c(as.character(pollster_id), sponsor_ids)
-    )
-  df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, pollster_id))) %>%
+    poll_spon_id = group_indices(., pollster, sponsors))
+  df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
   ### Recency weight
@@ -143,46 +137,52 @@ avg_over_time <- function(data_frame) {
   
   date_interv <- seq(ymd("2025-01-21"), today(), by = "day")
   
+  # Progress bar
+  pb <- progress_bar$new(
+    format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
+    total = length(1:length(date_interv)),
+    clear = FALSE,
+    width = 60
+  )
+  
   for (i in 1:length(date_interv)) {
-    date = date_interv[i]  # Debug
+    date = date_interv[i]
     df_weights <- poll_avg(data_frame, date)
-    appr_avg <- sum(df_weights$total_weight * df_weights$yes)
-    disappr_avg <- sum(df_weights$total_weight * df_weights$no)
-    other_avg <- sum(df_weights$total_weight * df_weights$alternate_answers)
+    appr_avg <- sum(df_weights$total_weight * df_weights$approve)
+    disappr_avg <- sum(df_weights$total_weight * df_weights$disapprove)
+    # other_avg <- sum(df_weights$total_weight * df_weights$alternate_answers)
     net_avg <- sum(df_weights$total_weight * df_weights$net)
     
-    appr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$yes - appr_avg)^2))
-    disappr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$no - disappr_avg)^2))
-    other_sd <- sqrt(sum(df_weights$total_weight * (df_weights$alternate_answers - other_avg)^2))
+    appr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$approve - appr_avg)^2))
+    disappr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$disapprove - disappr_avg)^2))
+    # other_sd <- sqrt(sum(df_weights$total_weight * (df_weights$alternate_answers - other_avg)^2))
     net_sd <- sqrt(sum(df_weights$total_weight * (df_weights$net - net_avg)^2))
     
     yes_curve <- append(yes_curve, appr_avg)
     no_curve <- append(no_curve, disappr_avg)
-    other_curve <- append(other_curve, other_avg)
+    # other_curve <- append(other_curve, other_avg)
     net_curve <- append(net_curve, net_avg)
     
     yes_std <- append(yes_std, appr_sd)
     no_std <- append(no_std, disappr_sd)
-    other_std <- append(other_std, other_sd)
+    # other_std <- append(other_std, other_sd)
     net_std <- append(net_std, net_sd)
+    
+    pb$tick()
   }
   
   df_avg <- tibble(
     end_date = date_interv,
     approve = yes_curve,
     disapprove = no_curve,
-    other = other_curve,
     net = net_curve,
     approve_std = yes_std,
     disapprove_std = no_std,
-    other_std = other_std,
     net_std = net_std,
     approve_lower_ci = yes_curve - 1.96*yes_std,
     approve_upper_ci = yes_curve + 1.96*yes_std,
     disapprove_lower_ci = no_curve - 1.96*no_std,
     disapprove_upper_ci = no_curve + 1.96*no_std,
-    other_lower_ci = other_curve - 1.96*other_std,
-    other_upper_ci = other_curve + 1.96*other_std,
     net_lower_ci = net_curve - 1.96*net_std,
     net_upper_ci = net_curve + 1.96*net_std
   )
@@ -190,7 +190,9 @@ avg_over_time <- function(data_frame) {
   return(df_avg)
 }
 
-polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date))
+polls <- polls %>% mutate(end_date = ymd(end_date), 
+                          start_date = ymd(start_date),
+                          poll_id = group_indices(., pollster, sponsors, start_date, end_date))
 
 polls_tracking <- tracking_polls_pipeline(polls) %>% select(-interval) # Drop interval column
 
@@ -198,7 +200,7 @@ polls <- polls %>% filter(tracking == "FALSE")
 
 polls <- bind_rows(polls, polls_tracking)
 
-polls <- polls %>% arrange(pollster_id) %>%
+polls <- polls %>% arrange(pollster) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
 polls <- polls %>% 
@@ -207,9 +209,7 @@ polls <- polls %>%
   distinct(poll_id, .keep_all = TRUE) %>% 
   mutate(population = recode(population, "a" = "a", "b" = "rv", "c" = "lv"))
 
-polls <- polls %>% mutate(net = yes - no, partisan = replace_na(partisan, "NA")) 
-
-polls$pollster_id <- factor(polls$pollster_id)
+polls <- polls %>% mutate(net = approve - disapprove, partisan = replace_na(partisan, "NA")) 
 
 # polls <- poll_avg(polls, today())
 
@@ -220,7 +220,7 @@ df_avg <- df_avg %>% mutate(lagged_net = lag(net, 1))
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + (1 | population) + 
+fit <- stan_glmer(net ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
                     (1 | mode) + net_avg,
                   family = gaussian(),
                   data = polls,
@@ -241,14 +241,14 @@ np_a <- ranef(fit)$partisan[2, 1]
 polls <- polls %>% select(-net_avg) # Drop net avg
 
 polls <- polls %>%
-  left_join( (rownames_to_column(ranef(fit)$pollster_id) %>% rename(pollster_id = rowname, house_effect = "(Intercept)") %>% mutate(pollster_id = factor(pollster_id), house_effect = -1 * house_effect)), join_by(pollster_id)) %>%  
+  left_join( (rownames_to_column(ranef(fit)$pollster) %>% rename(pollster = rowname, house_effect = "(Intercept)") %>% mutate(house_effect = -1 * house_effect)), join_by(pollster)) %>%  
   left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
   left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
   left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
 
 polls <- polls %>% mutate(
-  yes = yes + (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
-  no = no - (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
+  approve = approve + (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
+  disapprove = disapprove - (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
   net = net + house_effect + mode_adj + pop_adj + partisan_adj
 ) %>% arrange(end_date)
 
@@ -267,8 +267,8 @@ ggplot(
               alpha = 0.4) +
   geom_ribbon(aes(ymin = disapprove_lower_ci, ymax = disapprove_upper_ci), fill = "#e86eaf",
               alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = yes), color = "#228833", alpha = 0.2) +
-  geom_point(data = polls, mapping = aes(y = no), color = "#aa3377", alpha = 0.2) +
+  geom_point(data = polls, mapping = aes(y = approve), color = "#228833", alpha = 0.2) +
+  geom_point(data = polls, mapping = aes(y = disapprove), color = "#aa3377", alpha = 0.2) +
   labs(
     x = "Date",
     y = "%",

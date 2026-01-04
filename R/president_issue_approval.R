@@ -14,7 +14,7 @@ banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP", "Big Data Poll")
 
-url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7cOF5NSArcxNxYjzDjjTnFNmG-l0zM8WqabuCqNmwKke7VTEMKjR1BamqigAFeRCvbhCylaspQpTG/pub?gid=0&single=true&output=csv"
+url <- "https://docs.google.com/spreadsheets/d/1og2eJ8w72fBs3EaslElb1IVOoZPluDt4A1cdjIRM0K8/export?format=csv&gid=327277770"
 
 polls <- read_csv(url)
 
