@@ -286,3 +286,4 @@ ggplot(
   y = "Net Approval %",
   title = "Presidential Net Approval"
 )
+write_csv(approval_stats, 'presidential_gen_approval.csv')
