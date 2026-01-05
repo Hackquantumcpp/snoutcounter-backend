@@ -299,12 +299,17 @@ setwd("../R/")
 
 # Polls dataset - display table
 
+avg_today <- poll_avg(polls, today())
+
 polls_display <- polls_og %>% select(pollster, sponsors, start_date,
                                      end_date, sample_size, population,
                                      approve, disapprove, url, poll_id,
                                      net) %>% left_join(
                                        polls %>% select(poll_id, net),
                                        join_by(poll_id)
+                                       ) %>% left_join(
+                                         avg_today %>% select(poll_id, total_weight),
+                                         join_by(poll_id)
                                        ) %>% rename(
                                          net = net.x, adj_net = net.y
                                        ) %>% select(-poll_id)
