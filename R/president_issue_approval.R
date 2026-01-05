@@ -3,6 +3,7 @@ library(rstan)
 library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
+library(progress)
 
 setwd("../")
 
@@ -134,6 +135,14 @@ avg_over_time <- function(data_frame) {
   
   date_interv <- seq(ymd("2025-01-21"), today(), by = "day")
   
+  # Progress bar
+  pb <- progress_bar$new(
+    format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
+    total = length(1:length(date_interv)),
+    clear = FALSE,
+    width = 60
+  )
+  
   for (i in 1:length(date_interv)) {
     date = date_interv[i]  # Debug
     df_weights <- poll_avg(data_frame, date)
@@ -152,6 +161,8 @@ avg_over_time <- function(data_frame) {
     yes_std <- append(yes_std, appr_sd)
     no_std <- append(no_std, disappr_sd)
     net_std <- append(net_std, net_sd)
+    
+    pb$tick()
   }
   
   df_avg <- tibble(
@@ -252,6 +263,8 @@ polls <- polls %>%
   left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
   left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
 
+polls_og <- polls %>% arrange(end_date)
+
 polls <- polls %>% mutate(
   approve = approve + (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
   disapprove = disapprove - (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
@@ -317,5 +330,23 @@ ggplot(
 setwd("../averages/")
 
 write_csv(issue_avgs, "presidential_issue_approvals.csv")
+
+setwd("../R/")
+
+# Polls dataset - display table
+
+polls_display <- polls_og %>% select(issue, pollster, sponsor, start_date,
+                                     end_date, sample_size, population,
+                                     approve, disapprove, url, entry_id,
+                                     net) %>% left_join(
+                                       polls %>% select(entry_id, net),
+                                       join_by(entry_id)
+                                     ) %>% rename(
+                                       net = net.x, adj_net = net.y
+                                     ) %>% select(-entry_id)
+
+setwd("../transformed_tables")
+
+write_csv(polls_display, 'issue_approval_polls.csv')
 
 setwd("../R/")
