@@ -273,7 +273,7 @@ ggplot(
   labs(
     x = "Date",
     y = "%",
-    title = "Presidential Approval"
+    title = "Presidential Approval (voters)"
   )
 
 ggplot(
@@ -285,6 +285,11 @@ ggplot(
   labs(
   x = "Date",
   y = "Net Approval %",
-  title = "Presidential Net Approval"
+  title = "Presidential Net Approval (voters)"
 )
+
+setwd("../averages/")
+
 write_csv(approval_stats, 'presidential_RV_approval.csv')
+
+setwd("../R/")

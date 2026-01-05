@@ -9,8 +9,6 @@ setwd("../")
 
 ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
-setwd(paste0(getwd(), "/R/"))
-
 banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP Insights", "Big Data Poll")
@@ -24,7 +22,11 @@ polls <- read_csv(url)
 polls <- polls %>% filter(!(pollster %in% banned_pollsters) & !(is.na(approve)) &
                             !(is.na(disapprove)) & !(is.na(sample_size)))
 
+setwed(paste0(getwd(), "/data/"))
+
 write_csv(polls, "president_approval_polls.csv")
+
+setwd("../R/")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -286,4 +288,9 @@ ggplot(
   y = "Net Approval %",
   title = "Presidential Net Approval"
 )
+
+setwd("../averages/")
+
 write_csv(approval_stats, 'presidential_gen_approval.csv')
+
+setwd("../R/")

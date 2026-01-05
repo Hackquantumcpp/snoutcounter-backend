@@ -8,19 +8,22 @@ setwd("../")
 
 ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
-setwd(paste0(getwd(), "/R/"))
 
 banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP", "Big Data Poll")
 
-url <- "https://docs.google.com/spreadsheets/d/1og2eJ8w72fBs3EaslElb1IVOoZPluDt4A1cdjIRM0K8/export?format=csv&gid=327277770"
+url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7cOF5NSArcxNxYjzDjjTnFNmG-l0zM8WqabuCqNmwKke7VTEMKjR1BamqigAFeRCvbhCylaspQpTG/pub?output=csv"
 
 polls <- read_csv(url)
 
 polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
+setwd(paste0(getwd(), "/data/"))
+
 write_csv(polls, "president_issue_approval_polls.csv")
+
+setwd("../R")
 
 # issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
 #                'crime', 'healthcare')
@@ -311,4 +314,8 @@ ggplot(
   title = str_c(c("Presidential Issue Net Approval (", chosen_issue, ")"), collapse = "")
 )
 
+setwd("../averages/")
+
 write_csv(issue_avgs, "presidential_issue_approvals.csv")
+
+setwd("../R/")

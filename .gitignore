@@ -4,3 +4,5 @@ keys.py
 .Rproj.user
 .Rhistory
 .RData
+old_csvs/
+.ipynb_checkpoints/
