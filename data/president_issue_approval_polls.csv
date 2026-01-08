@@ -1601,3 +1601,8 @@ epstein_files,YouGov,01/02/2026,01/05/2026,1551,A,25,56,-31,https://d3nkl3psvxxp
 immigration,Morning Consult,01/02/2026,01/04/2026,2201,RV,48,44,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,01/02/2026,01/04/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,01/02/2026,01/04/2026,2201,RV,45,44,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+venezuela,YouGov,01/02/2026,01/05/2026,1551,A,32,49,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+terrorism,YouGov,01/02/2026,01/05/2026,1551,A,45,40,5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,YouGov,01/05/2026,01/07/2026,2325,A,39,61,-22,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,01/05/2026,01/07/2026,2325,A,35,65,-30,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,01/05/2026,01/07/2026,2325,A,44,56,-12,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
