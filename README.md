@@ -2,13 +2,13 @@ The backend for SnoutCounter, a poll aggregation, electoral modeling, and other 
 
 ### Directory Map
 
-- `/R/` - R code for polling averages.
+- `R/` - R code for polling averages.
 
-- `/averages/` - Day-by-day data for polling averages.
+- `averages/` - Day-by-day data for polling averages.
 
-- `/data/` - Polling data, from which models draw from.
+- `data/` - Polling data, from which models draw from.
 
-- `/transformed_tables/` - Simplified polling data, for use in the polls display tables.
+- `transformed_tables/` - Simplified polling data, for use in the polls display tables.
 
 - `export.ipynb` - Exports all data for use on the SnoutCounter site.
 
