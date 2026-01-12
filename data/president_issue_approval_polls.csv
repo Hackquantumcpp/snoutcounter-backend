@@ -1607,3 +1607,15 @@ economy,YouGov,01/05/2026,01/07/2026,2325,A,39,61,-22,https://www.cbsnews.com/ne
 inflation,YouGov,01/05/2026,01/07/2026,2325,A,35,65,-30,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,01/05/2026,01/07/2026,2325,A,44,56,-12,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 venezuela,YouGov,01/05/2026,01/07/2026,2325,A,43,57,-14,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+economy,Morning Consult,01/09/2026,01/12/2026,2201,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,01/09/2026,01/12/2026,2201,RV,47,46,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,RMG Research,12/17/2025,12/18/2025,1000,RV,56,43,13,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,RMG Research,12/17/2025,12/18/2025,1000,RV,51,48,3,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+guns,RMG Research,12/17/2025,12/18/2025,1000,RV,50,49,1,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+education,RMG Research,12/17/2025,12/18/2025,1000,RV,50,46,4,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+crime,RMG Research,12/17/2025,12/18/2025,1000,RV,49,49,0,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,RMG Research,12/17/2025,12/18/2025,1000,RV,47,52,-5,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,RMG Research,12/17/2025,12/18/2025,1000,RV,43,56,-13,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,RMG Research,12/17/2025,12/18/2025,1000,RV,41,53,-12,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+inflation,RMG Research,12/17/2025,12/18/2025,1000,RV,39,59,-20,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+climate_change,RMG Research,12/17/2025,12/18/2025,1000,RV,38,52,-14,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA

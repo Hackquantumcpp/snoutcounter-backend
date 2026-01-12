@@ -5,18 +5,15 @@ library(janitor)
 library(rsample) # rsample in tidymodels
 library(progress)
 
+# Get banned pollsters
+source("banned_pollsters.R")
+
 setwd("../")
 
 ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
 setwd(paste0(getwd(), "/R/"))
 
-banned_pollsters <- c("ActiVote",
-                      "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
-                      "TIPP Insights", "Big Data Poll")
-
-## This is one a time limit; change if you're collecting manually or use FiftyPlusOne API
-## Or delete if you collect manually with local file
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vSj1f5S4BKqd_0T83atnX5WIXMhwd326O-jg5vXNjvylt8DIWNW07rXmMUy9wGEz5ZVDlfLbea_hrd9/pub?output=csv"
 
 polls <- read_csv(url)
