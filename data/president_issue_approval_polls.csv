@@ -1625,3 +1625,22 @@ immigration,YouGov,01/09/2026,01/12/2026,1602,A,44,51,-7,https://d3nkl3psvxxpe9.
 trade_tariffs,YouGov,01/09/2026,01/12/2026,1602,A,37,56,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 foreign_policy,YouGov,01/09/2026,01/12/2026,1602,A,39,50,-11,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,01/09/2026,01/12/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+israel_palestine,YouGov,01/09/2026,01/12/2026,1602,A,33,46,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+ukraine,YouGov,01/09/2026,01/12/2026,1602,A,32,49,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+israel_palestine,YouGov,02/05/2025,02/07/2025,2175,A,54,46,8,https://www.cbsnews.com/news/trump-approval-opinion-poll-2025-2-9/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,01/08/2026,01/12/2026,1709,A,44,53,-9,https://www.scribd.com/document/980617250/Yahoo-YouGov-ICE-Poll-January-2026,Yahoo News,Online Matched Sample,FALSE,NA,NA,NA
+economy,AP-NORC,01/08/2026,01/11/2026,1203,A,37,62,-25,https://apnorc.org/wp-content/uploads/2026/01/AP-NORC-January-2026-topline-Venezuela.pdf,NA,Probability Panel,FALSE,NA,NA,NA
+immigration,AP-NORC,01/08/2026,01/11/2026,1203,A,38,61,-23,https://apnorc.org/wp-content/uploads/2026/01/AP-NORC-January-2026-topline-Venezuela.pdf,NA,Probability Panel,FALSE,NA,NA,NA
+venezuela,AP-NORC,01/08/2026,01/11/2026,1203,A,41,57,-16,https://apnorc.org/wp-content/uploads/2026/01/AP-NORC-January-2026-topline-Venezuela.pdf,NA,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,AP-NORC,01/08/2026,01/11/2026,1203,A,37,61,-24,https://apnorc.org/wp-content/uploads/2026/01/AP-NORC-January-2026-topline-Venezuela.pdf,NA,Probability Panel,FALSE,NA,NA,NA
+military,Quinnipiac University,01/08/2026,01/12/2026,1133,RV,43,53,-10,https://poll.qu.edu/poll-release?releaseid=3945,NA,Live Phone,FALSE,NA,NA,NA
+economy,Quinnipiac University,01/08/2026,01/12/2026,1133,RV,42,53,-11,https://poll.qu.edu/poll-release?releaseid=3945,NA,Live Phone,FALSE,NA,NA,NA
+venezuela,Quinnipiac University,01/08/2026,01/12/2026,1133,RV,41,52,-11,https://poll.qu.edu/poll-release?releaseid=3945,NA,Live Phone,FALSE,NA,NA,NA
+foreign_policy,Quinnipiac University,01/08/2026,01/12/2026,1133,RV,41,56,-15,https://poll.qu.edu/poll-release?releaseid=3945,NA,Live Phone,FALSE,NA,NA,NA
+economy,Ipsos,01/12/2026,01/13/2026,1217,A,36,55,-19,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,01/12/2026,01/13/2026,1217,A,34,51,-17,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,01/12/2026,01/13/2026,1217,A,30,61,-31,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+epstein_files,Ipsos,01/12/2026,01/13/2026,1217,A,21,59,-38,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+venezuela,Ipsos,01/12/2026,01/13/2026,1217,A,36,49,-13,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,Ipsos,01/12/2026,01/13/2026,1217,A,33,43,-10,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,01/12/2026,01/13/2026,1217,A,42,45,-3,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
