@@ -1644,3 +1644,12 @@ epstein_files,Ipsos,01/12/2026,01/13/2026,1217,A,21,59,-38,https://www.ipsos.com
 venezuela,Ipsos,01/12/2026,01/13/2026,1217,A,36,49,-13,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 iran,Ipsos,01/12/2026,01/13/2026,1217,A,33,43,-10,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 crime,Ipsos,01/12/2026,01/13/2026,1217,A,42,45,-3,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Greenland%20Survey%20Topline%20January%202026%201.14%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Global Strategy Group/GBAO (Navigator Research),01/08/2026,01/12/2026,1000,RV,41,56,-15,https://navigatorresearch.org/wp-content/uploads/2026/01/Navigator-January-1-Topline-F01.12.26.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,SSRS,01/09/2026,01/12/2026,1209,A,39,61,-22,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+healthcare,SSRS,01/09/2026,01/12/2026,1209,A,36,63,-27,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+immigration,SSRS,01/09/2026,01/12/2026,1209,A,42,58,-16,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+foreign_policy,SSRS,01/09/2026,01/12/2026,1209,A,39,60,-21,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+military,SSRS,01/09/2026,01/12/2026,1209,A,41,59,-18,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+govt_management,SSRS,01/09/2026,01/12/2026,1209,A,39,60,-21,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+trade_tariffs,SSRS,01/09/2026,01/12/2026,1209,A,37,62,-25,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
+venezuela,SSRS,01/09/2026,01/12/2026,1209,A,42,58,-16,https://s3.documentcloud.org/documents/26490187/cnn-poll-on-trump-at-one-year.pdf,CNN,Live Phone/Probability Panel,FALSE,NA,NA,NA
