@@ -13,3 +13,5 @@ The backend for SnoutCounter, a poll aggregation, electoral modeling, and other 
 - `export.ipynb` - Exports all data for use on the SnoutCounter site.
 
 - `pollster_ratings_silver.csv` - Silver Bulletin pollster ratings, sourced from [this link](https://www.natesilver.net/p/pollster-ratings-silver-bulletin), last updated January 2026.
+
+- `pollster_ratings_silver_2024.csv` - Former Silver Bulletin pollster ratings, updated shortly after the 2024 elections.
