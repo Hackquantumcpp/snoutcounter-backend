@@ -4,18 +4,17 @@ library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
 library(DescTools)
+library(progress)
 
 setwd("../")
 
 ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
-setwd(paste0(getwd(), "/R/"))
-
 banned_pollsters <- c("ActiVote",
                       "Trafalgar Group", "Trafalgar Group/InsiderAdvantage",
                       "TIPP", "Big Data Poll")
 
-url <- "https://docs.google.com/spreadsheets/d/1_y0_LJmSY6sNx8qd51T70n0oa_ugN50AVFKuJmXO1-s/export?format=csv&gid=2042605142"
+url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3aMKZ85CaxcIMUp8m1n79clUPZFhgzhSsI-W48zCnwH5BdKB5q9TcreXPVA-YBNu40W3kISq_SQ4O/pub?output=csv"
   
 polls <- read_csv(url)
 
@@ -23,19 +22,23 @@ polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
 polls <- polls %>% filter(
   is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
-  is.na(state) == TRUE
 )
 
-# write_csv(polls, "generic_ballot_polls.csv")
+
+setwd(paste0(getwd(), "/data/"))
+
+write_csv(polls, "generic_ballot_polls.csv")
+
+setwd("../R")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
-  pollsters <- as.vector(df %>% distinct(pollster_id))$pollster_id
+  pollsters <- as.vector(df %>% distinct(pollster))$pollster
   
   df_tracking <- tibble()
   
   for (p in pollsters) {
-    df_pollst <- df %>% filter(pollster_id == p) %>%
+    df_pollst <- df %>% filter(pollster == p) %>%
       rowwise() %>%
       mutate(interval = start_date %--% end_date) %>%
       ungroup() %>%
@@ -78,23 +81,18 @@ poll_avg <- function(data_frame, date) {
   
   ### Sample size weights
   size_cap <- 5000
-  df <- df %>% mutate(sample_size = Winsorize(sample_size, val = quantile(sample_size, probs = c(0.025, 0.975), na.rm = FALSE)))
-  df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size, size_cap)) / sqrt(median(pmin(sample_size, size_cap))))
-
-  # Quick wrangling
-  df$display_name[df$display_name == "Noble Predictive Insights"] <- "OH Predictive Insights"
-  for (har in c("HarrisX", "HarrisX/Harris Poll")) {
-    df$display_name[df$display_name == har] <- "Harris Insights & Analytics"
-  }
-  df$sponsors[df$display_name == "CNN/SSRS"] <- "CNN"
-  df$display_name[df$display_name == "CNN/SSRS"] <- "SSRS"
-  df$display_name[df$display_name == "University of Massachusetts Department of Political Science/YouGov"] <- "University of Massachusetts (Amherst)"
+  df <- df %>% mutate(sample_size_winsr = pmin(sample_size, size_cap))
+  df <- df %>% mutate(sample_size_winsr = Winsorize(sample_size_winsr, val = quantile(sample_size_winsr, probs = c(0.025, 0.975), na.rm = FALSE)))
+  df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size_winsr, size_cap)) / sqrt(median(pmin(sample_size_winsr, size_cap))))
   
+  # Quick wrangling
+  df$sponsors[df$pollster == "CNN/SSRS"] <- "CNN"
+  df$pollster[df$pollster == "CNN/SSRS"] <- "SSRS"
   
   ### Quality weights
-  df <- df %>% left_join(ratings %>% rename(display_name = pollster), join_by(display_name)) %>%
+  df <- df %>% left_join(ratings, join_by(pollster)) %>%
     filter(
-      !(display_name %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+      !(pollster %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
@@ -108,18 +106,22 @@ poll_avg <- function(data_frame, date) {
   
   ### Multiple polls in short window weights
   df <- df %>% mutate(
-    sponsor_ids = coalesce(sponsor_ids, "NA"),
-    poll_spon_id = str_c(as.character(pollster_id), sponsor_ids)
-    )
-  df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, pollster_id))) %>%
+    poll_spon_id = group_indices(., pollster, sponsors))
+  df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
   ### Recency weight
-  window <- 30
+  window <- 21
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
+  ## Partisan downweight
+  partisan_dw <- 0.7
+  df <- df %>% mutate(
+    partisan_downweight = if_else(partisan == "NA", 1, partisan_dw)
+  )
+  
   ### Bring it all together
-  df <- df %>% mutate(total_weight = sample_size_weight * quality_weight * zone_flood_weight * recency_weight)
+  df <- df %>% mutate(total_weight = sample_size_weight * quality_weight * zone_flood_weight * recency_weight * partisan_downweight)
   df$total_weight <- df$total_weight / sum(df$total_weight)
   
   # Drop columns from ratings data frame
@@ -130,6 +132,7 @@ poll_avg <- function(data_frame, date) {
 
 avg_over_time <- function(data_frame) {
   df <- data_frame # Copy data frame
+  df <- df %>% mutate(net = rep - dem)
   
   # date_interv <- ymd("2025-01-23") %--% today()
   
@@ -142,6 +145,14 @@ avg_over_time <- function(data_frame) {
   net_std <- numeric(0)
   
   date_interv <- seq(ymd("2025-01-21"), today(), by = "day")
+  
+  # Progress bar
+  pb <- progress_bar$new(
+    format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
+    total = length(1:length(date_interv)),
+    clear = FALSE,
+    width = 60
+  )
   
   for (i in 1:length(date_interv)) {
     date = date_interv[i]  # Debug
@@ -161,6 +172,8 @@ avg_over_time <- function(data_frame) {
     rep_std <- append(rep_std, rep_sd)
     dem_std <- append(dem_std, dem_sd)
     net_std <- append(net_std, net_sd)
+    
+    pb$tick()
   }
   
   df_avg <- tibble(
@@ -182,7 +195,8 @@ avg_over_time <- function(data_frame) {
   return(df_avg)
 }
 
-polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date))
+polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date),
+                          poll_id = group_indices(., pollster, sponsors, start_date, end_date))
 
 polls_tracking <- tracking_polls_pipeline(polls) %>% select(-interval) # Drop interval column
 
@@ -190,7 +204,7 @@ polls <- polls %>% filter(tracking == "FALSE")
 
 polls <- bind_rows(polls, polls_tracking)
 
-polls <- polls %>% arrange(pollster_id) %>%
+polls <- polls %>% arrange(pollster) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
 polls <- polls %>% 
@@ -201,8 +215,6 @@ polls <- polls %>%
 
 polls <- polls %>% mutate(net = rep - dem, partisan = replace_na(partisan, "NA")) 
 
-polls$pollster_id <- factor(polls$pollster_id)
-
 # polls <- poll_avg(polls, today())
 
 df_avg <- avg_over_time(polls)
@@ -212,9 +224,8 @@ df_avg <- avg_over_time(polls)
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-fit <- stan_glmer(net ~ (1 | pollster_id) + (1 | partisan) + (1 | population) +
-                    (1 | mode) + net_avg, # Population adjustment disabled due to current lack of variance,
-                  # Will be turned out later
+fit <- stan_glmer(net ~ (1 | pollster) + (1 | partisan) + (1 | population) +
+                    (1 | mode) + net_avg,
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -237,10 +248,12 @@ np_a <- ranef(fit)$partisan[1, 1]
 polls <- polls %>% select(-net_avg) # Drop net avg
 
 polls <- polls %>%
-  left_join( (rownames_to_column(ranef(fit)$pollster_id) %>% rename(pollster_id = rowname, house_effect = "(Intercept)") %>% mutate(pollster_id = factor(pollster_id), house_effect = -1 * house_effect)), join_by(pollster_id)) %>%  
+  left_join( (rownames_to_column(ranef(fit)$pollster) %>% rename(pollster = rowname, house_effect = "(Intercept)") %>% mutate(house_effect = -1 * house_effect)), join_by(pollster)) %>%  
   left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
   left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
   left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
+
+polls_og <- polls %>% arrange(end_date)
 
 polls <- polls %>% mutate(
   rep = rep + (house_effect + mode_adj + partisan_adj + pop_adj) / 2,
@@ -282,3 +295,32 @@ ggplot(
   y = "Rep-Dem Spread %",
   title = "Generic Ballot Spread"
 ) + xlim(ymd('2025-01-21'), today())
+
+setwd("../averages/")
+
+write_csv(generic_ballot_avg, 'generic_ballot.csv')
+
+setwd("../R/")
+
+# Polls dataset - display table
+
+avg_today <- poll_avg(polls, today())
+
+polls_display <- polls_og %>% select(pollster, sponsors, start_date,
+                                     end_date, sample_size, population,
+                                     dem, rep, url, poll_id,
+                                     net) %>% left_join(
+                                       polls %>% select(poll_id, net),
+                                       join_by(poll_id)
+                                     ) %>% left_join(
+                                       avg_today %>% select(poll_id, total_weight),
+                                       join_by(poll_id)
+                                     ) %>% rename(
+                                       net = net.x, adj_net = net.y
+                                     ) %>% select(-poll_id)
+
+setwd("../transformed_tables")
+
+write_csv(polls_display, 'generic_ballot_polls_disp.csv')
+
+setwd("../R/")
