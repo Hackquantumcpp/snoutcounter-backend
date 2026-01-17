@@ -1,4 +1,4 @@
-The backend for SnoutCounter, a poll aggregation, electoral modeling, and other statistical modeling suite. Currently contains backend code and data for presidential approval polling averages, both general and issue-specific.
+The backend for SnoutCounter, a poll aggregation, electoral modeling, and other statistical modeling suite. Currently contains backend code and data for presidential approval polling averages, both general and issue-specific, and the generic ballot for the 2026 midterms.
 
 ### Directory Map
 
