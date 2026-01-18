@@ -144,7 +144,7 @@ avg_over_time <- function(data_frame) {
   dem_std <- numeric(0)
   net_std <- numeric(0)
   
-  date_interv <- seq(ymd("2025-01-21"), today(), by = "day")
+  date_interv <- seq(ymd("2025-01-03"), today(), by = "day")
   
   # Progress bar
   pb <- progress_bar$new(
