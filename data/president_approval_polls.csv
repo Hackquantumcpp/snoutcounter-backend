@@ -644,6 +644,8 @@ Ipsos,Reuters,2026-01-12,2026-01-13,1217,A,41,58,2,https://www.ipsos.com/en-us/a
 Global Strategy Group/GBAO (Navigator Research),NA,2026-01-08,2026-01-12,1000,RV,42,56,NA,https://navigatorresearch.org/americans-dont-want-greenland-they-just-want-lower-costs/,Online Opt-In Panel,FALSE,NA,NA
 Marist College,NPR | PBS News,2026-01-12,2026-01-13,1408,A,38,56,6,https://maristpoll.marist.edu/polls/u-s-foreign-policy-january-2026/,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
 Marist College,NPR | PBS News,2026-01-12,2026-01-13,1222,RV,40,57,4,https://maristpoll.marist.edu/wp-content/uploads/2026/01/Marist-Poll_USA-NOS-and-Tables_202601141623.pdf,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
-CNN/SSRS,NA,2026-01-09,2026-01-12,1209,A,39,61,1,https://www.cnn.com/2026/01/16/politics/trump-economy-first-year-cnn-poll,Live Phone/Probability Panel,FALSE,NA,NA
+CNN/SSRS,NA,2026-01-09,2026-01-12,1209,A,39,61,1,https://www.cnn.com/2026/01/16/politics/trump-economy-first-year-cnn-poll,Probability Panel,FALSE,NA,NA
 RMG Research,Napolitan News Service,2026-01-07,2026-01-14,3000,RV,48,51,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
-Impact Research/National Research,Wall Street Journal,2026-01-08,2026-01-13,1500,RV,45,54,NA,https://www.wsj.com/politics/elections/trump-approval-rating-economy-poll-b3a62e57,NA,FALSE,NA,NA
+Impact Research/National Research,Wall Street Journal,2026-01-08,2026-01-13,1500,RV,45,54,NA,https://www.wsj.com/politics/elections/trump-approval-rating-economy-poll-b3a62e57,Live Phone/Text-to-Web,FALSE,NA,NA
+YouGov,CBS News,2026-01-14,2026-01-16,2523,A,41,59,NA,https://www.cbsnews.com/news/trump-inflation-cbs-news-poll/,Online Matched Sample,FALSE,NA,NA
+Morning Consult,NA,2026-01-16,2026-01-18,2201,RV,46,51,NA,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
