@@ -208,10 +208,10 @@ polls <- polls %>% arrange(pollster) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
 polls <- polls %>% 
-  mutate(population = recode(population, "rv" = "a", "lv" = "b")) %>% 
+  mutate(population = recode(population, "RV" = "a", "LV" = "b")) %>% 
   arrange(population) %>% 
   distinct(poll_id, .keep_all = TRUE) %>% 
-  mutate(population = recode(population, "a" = "a", "b" = "rv", "c" = "lv"))
+  mutate(population = recode(population, "a" = "RV", "b" = "LV"))
 
 polls <- polls %>% mutate(net = approve - disapprove, partisan = replace_na(partisan, "NA")) 
 
