@@ -287,3 +287,5 @@ Cygnal,NA,2026-01-08,2026-01-08,1500,LV,48.1,44.6,https://www.cygn.al/polls/janu
 Impact Research/National Research,Wall Street Journal,2026-01-08,2026-01-13,1500,RV,47,43,https://www.wsj.com/politics/elections/trump-approval-rating-economy-poll-b3a62e57,Live Phone/Text-to-Web,FALSE,NA,NA
 CNN/SSRS,NA,2026-01-09,2026-01-12,968,RV,46,41,https://www.cnn.com/2026/01/18/politics/cnn-poll-democrats-are-deeply-motivated-for-the-midterms-despite-having-dismal-views-of-party-leaders,Probability Panel,FALSE,NA,NA
 Morning Consult,NA,2026-01-12,2026-01-18,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,Online Opt-In Panel,FALSE,NA,NA
+YouGov,The Economist,2026-01-16,2026-01-19,1722,A,39,34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-01-16,2026-01-19,1549,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,Online Matched Sample,FALSE,NA,NA
