@@ -1684,3 +1684,15 @@ iran,YouGov,01/16/2026,01/19/2026,1722,A,34,48,-14,https://d3nkl3psvxxpe9.cloudf
 immigration,Morning Consult,01/16/2026,01/18/2026,2201,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,48,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Verasight,01/14/2026,01/20/2026,1532,A,39,57,-18,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+inflation,Verasight,01/14/2026,01/20/2026,1532,A,32,63,-31,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+trade_tariffs,Verasight,01/14/2026,01/20/2026,1532,A,38,57,-19,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+foreign_policy,Verasight,01/14/2026,01/20/2026,1532,A,40,55,-15,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+immigration,Verasight,01/14/2026,01/20/2026,1532,A,44,52,-8,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+border_security,Verasight,01/14/2026,01/20/2026,1532,A,50,46,4,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+deportations,Verasight,01/14/2026,01/20/2026,1532,A,42,54,-12,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+education,Verasight,01/14/2026,01/20/2026,1532,A,37,54,-17,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+healthcare,Verasight,01/14/2026,01/20/2026,1532,A,33,61,-28,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+govt_spending,Verasight,01/14/2026,01/20/2026,1532,A,37,56,-19,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+crime,Verasight,01/14/2026,01/20/2026,1532,A,43,52,-9,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+economy,American Research Group,01/17/2026,01/20/2026,1100,A,32,64,-32,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
