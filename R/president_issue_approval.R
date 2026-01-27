@@ -22,14 +22,18 @@ setwd(paste0(getwd(), "/data/"))
 
 write_csv(polls, "president_issue_approval_polls.csv")
 
+setwd("../averages")
+
+general_appr <- read_csv("presidential_gen_approval.csv")
+
 setwd("../R")
 
-# issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
-#                'crime', 'healthcare')
-
 issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
-                'crime', 'healthcare', 'ukraine', 'israel_palestine', 'govt_spending',
-                'border_security', 'national_security', 'education')
+                'crime', 'healthcare')
+
+# issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
+#                 'crime', 'healthcare', 'ukraine', 'israel_palestine', 'govt_spending',
+#                 'border_security', 'national_security', 'education')
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -100,7 +104,7 @@ poll_avg <- function(data_frame, date) {
   
   ### Multiple polls in short window weights
   df <- df %>% mutate(
-    poll_spon_id = group_indices(., pollster, sponsor))
+    poll_spon_id = group_indices(., pollster))
   df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
@@ -241,14 +245,20 @@ polls <- polls %>% left_join(issue_avgs %>% select(end_date, issue, net), by=c('
                                                                            'issue' = 'issue')) %>%
   rename(net = net.x, net_avg = net.y)
 
+polls <- polls %>% left_join(
+  general_appr %>% select(end_date, approve, disapprove, net) %>% 
+    rename(approve_gen = approve, disapprove_gen = disapprove, net_gen = net), 
+  join_by(end_date)
+)
+
 fit <- stan_glmer(net ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
-                    (1 | mode) + (1 | issue) + net_avg,
+                    (1 | mode) + (1 | issue) + net_avg + net_gen,
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),
                   prior_covariance = decov(scale = 0.50),
                   adapt_delta = 0.95,
-                  refresh = 0,
+                  refresh = 100,
                   seed = 1010)
 
 print(fit)

@@ -1710,3 +1710,55 @@ venezuela,Emerson College,01/17/2026,01/19/2026,1000,LV,38.9,46.4,-7.5,https://d
 epstein_files,Angus Reid Global,01/16/2026,01/20/2026,1838,A,13,65,-52,https://angusreid.us/wp-content/uploads/2026/01/2026.01.22_Trump_Year_One_tables.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,Very happy/pleased vs displeased/very upset
 ukraine,Angus Reid Global,01/16/2026,01/20/2026,1838,A,22,54,-32,https://angusreid.us/wp-content/uploads/2026/01/2026.01.22_Trump_Year_One_tables.pdf,NA,Online Opt-In Panel,FALSE,Ukraine-Russia conflict,NA,Very happy/pleased vs displeased/very upset
 israel_palestine,Angus Reid Global,01/16/2026,01/20/2026,1838,A,27,48,-21,https://angusreid.us/wp-content/uploads/2026/01/2026.01.22_Trump_Year_One_tables.pdf,NA,Online Opt-In Panel,FALSE,Israel-Gaza conflict,NA,NA
+border_security,YouGov,01/16/2026,01/22/2026,2226,A,48,45,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+crime,YouGov,01/16/2026,01/22/2026,2226,A,41,47,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,01/16/2026,01/22/2026,2226,A,44,50,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+transgender,YouGov,01/16/2026,01/22/2026,2226,A,39,46,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+iran,YouGov,01/16/2026,01/22/2026,2226,A,35,44,-9,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+israel,YouGov,01/16/2026,01/22/2026,2226,A,36,47,-11,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+military,YouGov,01/16/2026,01/22/2026,2226,A,40,50,-10,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+venezuela,YouGov,01/16/2026,01/22/2026,2226,A,37,48,-11,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+dei,YouGov,01/16/2026,01/22/2026,2226,A,36,48,-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+guns,YouGov,01/16/2026,01/22/2026,2226,A,35,47,-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+national_security,YouGov,01/16/2026,01/22/2026,2226,A,39,51,-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+economy,YouGov,01/16/2026,01/22/2026,2226,A,39,51,-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,Jobs and the economy,NA,NA
+foreign_aid,YouGov,01/16/2026,01/22/2026,2226,A,34,47,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+deportations,YouGov,01/16/2026,01/22/2026,2226,A,39,53,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+foreign_policy,YouGov,01/16/2026,01/22/2026,2226,A,37,51,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+refugees,YouGov,01/16/2026,01/22/2026,2226,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,Refugee admissions,NA,NA
+womens_rights,YouGov,01/16/2026,01/22/2026,2226,A,33,48,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+taxes,YouGov,01/16/2026,01/22/2026,2226,A,37,52,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+free_speech,YouGov,01/16/2026,01/22/2026,2226,A,36,52,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+ai,YouGov,01/16/2026,01/22/2026,2226,A,26,42,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+social_security,YouGov,01/16/2026,01/22/2026,2226,A,34,50,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+vaccines,YouGov,01/16/2026,01/22/2026,2226,A,32,48,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+interest_rates,YouGov,01/16/2026,01/22/2026,2226,A,33,51,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+abortion,YouGov,01/16/2026,01/22/2026,2226,A,32,50,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+consumer_protection,YouGov,01/16/2026,01/22/2026,2226,A,30,48,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+unions,YouGov,01/16/2026,01/22/2026,2226,A,25,44,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+nato,YouGov,01/16/2026,01/22/2026,2226,A,31,49,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+environment,YouGov,01/16/2026,01/22/2026,2226,A,31,52,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+ukraine,YouGov,01/16/2026,01/22/2026,2226,A,31,51,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+civil_rights,YouGov,01/16/2026,01/22/2026,2226,A,33,54,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+race_relations,YouGov,01/16/2026,01/22/2026,2226,A,32,52,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+education,YouGov,01/16/2026,01/22/2026,2226,A,33,53,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+protests,YouGov,01/16/2026,01/22/2026,2226,A,32,55,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+democracy,YouGov,01/16/2026,01/22/2026,2226,A,31,53,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+cryptocurrency,YouGov,01/16/2026,01/22/2026,2226,A,19,40,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+canada,YouGov,01/16/2026,01/22/2026,2226,A,30,52,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+elections,YouGov,01/16/2026,01/22/2026,2226,A,31,53,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+housing,YouGov,01/16/2026,01/22/2026,2226,A,29,51,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,YouGov,01/16/2026,01/22/2026,2226,A,34,57,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+national_debt,YouGov,01/16/2026,01/22/2026,2226,A,33,55,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+healthcare,YouGov,01/16/2026,01/22/2026,2226,A,32,55,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+govt_spending,YouGov,01/16/2026,01/22/2026,2226,A,33,56,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+corruption,YouGov,01/16/2026,01/22/2026,2226,A,34,57,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+medicaire_medicaid,YouGov,01/16/2026,01/22/2026,2226,A,30,54,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+climate_change,YouGov,01/16/2026,01/22/2026,2226,A,27,53,-26,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,Climate change and the environment,NA,NA
+executive_orders,YouGov,01/16/2026,01/22/2026,2226,A,30,55,-25,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,Use of executive orders,NA,NA
+russia,YouGov,01/16/2026,01/22/2026,2226,A,29,53,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,01/16/2026,01/22/2026,2226,A,33,60,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+pardons,YouGov,01/16/2026,01/22/2026,2226,A,25,54,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+healthcare_costs,YouGov,01/16/2026,01/22/2026,2226,A,27,59,-32,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+greenland,YouGov,01/16/2026,01/22/2026,2226,A,24,58,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
+epstein_files,YouGov,01/16/2026,01/22/2026,2226,A,24,57,-33,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,Investigations into Jeffrey Epstein,NA,NA

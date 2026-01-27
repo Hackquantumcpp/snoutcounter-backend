@@ -97,7 +97,7 @@ poll_avg <- function(data_frame, date) {
   
   ### Multiple polls in short window weights
   df <- df %>% mutate(
-    poll_spon_id = group_indices(., pollster, sponsors))
+    poll_spon_id = group_indices(., pollster))
   df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
