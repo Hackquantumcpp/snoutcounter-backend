@@ -1762,3 +1762,19 @@ pardons,YouGov,01/16/2026,01/22/2026,2226,A,25,54,-29,https://d3nkl3psvxxpe9.clo
 healthcare_costs,YouGov,01/16/2026,01/22/2026,2226,A,27,59,-32,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
 greenland,YouGov,01/16/2026,01/22/2026,2226,A,24,58,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,NA,NA,NA
 epstein_files,YouGov,01/16/2026,01/22/2026,2226,A,24,57,-33,https://d3nkl3psvxxpe9.cloudfront.net/documents/Trump_Issue_Handling_poll_results_84DsE0W.pdf,NA,Online Matched Sample,FALSE,Investigations into Jeffrey Epstein,NA,NA
+environment,YouGov,01/23/2026,01/26/2026,1684,A,33,54,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8FWGyNz.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+education,YouGov,01/23/2026,01/26/2026,1684,A,36,52,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8FWGyNz.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+abortion,YouGov,01/23/2026,01/26/2026,1684,A,37,51,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8FWGyNz.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+healthcare,YouGov,01/23/2026,01/26/2026,1684,A,34,57,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8FWGyNz.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Ipsos,01/23/2026,01/25/2026,1139,A,35,56,-21,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,01/23/2026,01/25/2026,1139,A,39,53,-14,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Echelon Insights,01/22/2026,01/26/2026,1029,LV,39,58,-19,https://echelonin.wpenginepowered.com/wp-content/uploads/January-2026-Voter-Omnibus-Topline.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Echelon Insights,01/22/2026,01/26/2026,1029,LV,43,55,-12,https://echelonin.wpenginepowered.com/wp-content/uploads/January-2026-Voter-Omnibus-Topline.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Echelon Insights,01/22/2026,01/26/2026,1029,LV,41,56,-15,https://echelonin.wpenginepowered.com/wp-content/uploads/January-2026-Voter-Omnibus-Topline.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,J.L. Partners,01/26/2026,01/26/2026,1037,RV,39,47,-8,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,NA,NA,NA
+deportations,J.L. Partners,01/26/2026,01/26/2026,1037,RV,38,52,-14,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,Immigration enforcement/ICE/CBP,NA,NA
+border_security,J.L. Partners,01/26/2026,01/26/2026,1037,RV,42,41,1,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,Operations on the southern border,NA,NA
+economy,J.L. Partners,01/26/2026,01/26/2026,1037,RV,35,50,-15,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,NA,NA,NA
+inflation,J.L. Partners,01/26/2026,01/26/2026,1037,RV,33,53,-20,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,NA,NA,NA
+healthcare,J.L. Partners,01/26/2026,01/26/2026,1037,RV,31,49,-18,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,NA,NA,NA
+foreign_policy,J.L. Partners,01/26/2026,01/26/2026,1037,RV,36,47,-11,https://jlpartners.com/nationwide-registered-voters-january-2026,Daily Mail,NA,FALSE,NA,NA,NA
