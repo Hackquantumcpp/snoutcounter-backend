@@ -259,7 +259,6 @@ polls <- polls %>% mutate(
   net = net + house_effect + mode_adj + pop_adj + partisan_adj
 ) %>% arrange(end_date)
 
-# today_avg = poll_avg(polls, today())
 approval_stats <- avg_over_time(polls)
 
 ggplot(
