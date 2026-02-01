@@ -16,14 +16,14 @@ url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vSj1f5S4BKqd_0T83atnX5WI
 
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters) & !(is.na(approve)) &
-                            !(is.na(disapprove)) & !(is.na(sample_size)))
-
 setwd(paste0(getwd(), "/data/"))
 
 write_csv(polls, "president_approval_polls.csv")
 
 setwd("../R/")
+
+polls <- polls %>% filter(!(pollster %in% banned_pollsters) & !(is.na(approve)) &
+                            !(is.na(disapprove)) & !(is.na(sample_size)))
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)

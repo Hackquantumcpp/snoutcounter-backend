@@ -17,18 +17,17 @@ url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3aMKZ85CaxcIMUp8m1n79c
   
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters))
-
-polls <- polls %>% filter(
-  is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
-)
-
-
 setwd(paste0(getwd(), "/data/"))
 
 write_csv(polls, "generic_ballot_polls.csv")
 
 setwd("../R")
+
+polls <- polls %>% filter(!(pollster %in% banned_pollsters))
+
+polls <- polls %>% filter(
+  is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
+)
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)

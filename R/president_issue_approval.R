@@ -16,11 +16,11 @@ url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7cOF5NSArcxNxYjzDjjTnF
 
 polls <- read_csv(url)
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters))
-
 setwd(paste0(getwd(), "/data/"))
 
 write_csv(polls, "president_issue_approval_polls.csv")
+
+polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
 setwd("../averages")
 
