@@ -309,7 +309,7 @@ avg_today <- poll_avg(polls, today())
 polls_display <- polls_og %>% select(pollster, sponsors, start_date,
                                      end_date, sample_size, population,
                                      dem, rep, url, poll_id,
-                                     net) %>% left_join(
+                                     net, partisan) %>% left_join(
                                        polls %>% select(poll_id, net),
                                        join_by(poll_id)
                                      ) %>% left_join(
