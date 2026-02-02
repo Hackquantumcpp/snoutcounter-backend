@@ -14,7 +14,7 @@ setwd("../")
 
 ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
 
-url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQzijZM9kDwQu_HbygxxuQH_a3580U9aEZnANak3FKU3KoxG7Ytjlg8GGwRPurfp4-E3ZgYzMBXLKCn/pub?output=csv"
+url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vS44BPz-G66BfAboUhIo6LWQ06u4rwtVnMUGovoFn9T3dPAZA-Dux9CMl9GzzyTaWGFb3kTzHLm0faf/pub?output=csv"
   
 polls <- read_csv(url)
 
@@ -171,15 +171,15 @@ polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date)
                           poll_id = group_indices(., pollster, sponsors, sponsor_candidate, start_date, end_date))
 
 polls <- polls %>% pivot_wider(
-  names_from = candidate_name,
+  names_from = c(candidate_name, party),
   values_from = pct
 ) %>% janitor::clean_names()
 
-polls_tracking <- tracking_polls_pipeline(polls) %>% select(-interval) # Drop interval column
+# polls_tracking <- tracking_polls_pipeline(polls) %>% select(-interval) # Drop interval column
 
-polls <- polls %>% filter(tracking == "FALSE")
+# polls <- polls %>% filter(tracking == "FALSE")
 
-polls <- bind_rows(polls, polls_tracking)
+# polls <- bind_rows(polls, polls_tracking)
 
 polls <- polls %>% arrange(pollster) %>%
   mutate(mode = replace_na(mode, "Unknown"))
@@ -190,7 +190,7 @@ polls <- polls %>%
   distinct(poll_id, .keep_all = TRUE) %>% 
   mutate(population = recode(population, "b" = "LV", "c" = "RV", "e" = "A"))
 
-polls <- polls %>% mutate(net = rep - dem, partisan = replace_na(partisan, "NA")) 
+polls <- polls %>% mutate(partisan = replace_na(partisan, "NA")) 
 
 # polls <- poll_avg(polls, today())
 
