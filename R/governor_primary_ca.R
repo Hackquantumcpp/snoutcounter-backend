@@ -24,7 +24,8 @@ write_csv(polls, "governor_primary_ca.csv")
 
 setwd("../R")
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters))
+polls <- polls %>% filter(!(pollster %in% banned_pollsters)) %>% 
+  filter(is.na(sample_size) == FALSE) ## For now, can impute sample sizes later
 
 polls <- polls %>% filter(
   is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
@@ -125,7 +126,7 @@ poll_avg <- function(data_frame, date) {
   ## Internals downweight
   internals_dw <- 0.7
   df <- df %>% mutate(
-    internals_downweight = ife_else(internal == "NA", 1, internals_dw)
+    internals_downweight = if_else(internal == FALSE, 1, internals_dw)
   )
   
   ### Bring it all together
@@ -184,19 +185,42 @@ polls <- polls %>% pivot_wider(
 polls <- polls %>% arrange(pollster) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
+question_dup <- polls %>%
+  group_by(poll_id) %>%
+  filter(n() > 1) %>%
+  ungroup()
+
+question_ids_excl <- c(217016, 218250, 219208, 222699, 211099)
+
+polls <- polls %>% filter(!(question_id %in% question_ids_excl))
+
 polls <- polls %>% 
   mutate(population = recode(population, "LV" = "b", "RV" = "c", "A" = "e")) %>% 
   arrange(population) %>% 
   distinct(poll_id, .keep_all = TRUE) %>% 
   mutate(population = recode(population, "b" = "LV", "c" = "RV", "e" = "A"))
 
-polls <- polls %>% mutate(partisan = replace_na(partisan, "NA")) 
+polls <- polls %>% mutate(partisan = replace_na(partisan, "NA"))  %>%
+  arrange(end_date)
 
-# polls <- poll_avg(polls, today())
+df_weights <- poll_avg(polls, today())
 
-df_avg <- avg_over_time(polls)
+## df_avg <- avg_over_time(polls) # Comment out FOR NOW
 
-# df_avg <- df_avg %>% mutate(lagged_net = lag(net, 1))
+porter_polls <- df_weights %>% filter(!is.na(katie_porter_dem))
+
+porter_loess <- locpol(
+  katie_porter_dem ~ as.numeric(end_date),
+  data = porter_polls,
+  weig = porter_polls$total_weight,
+  bw = 0.5 * sd(as.numeric(porter_polls$end_date)),
+)
+
+ggplot(
+  porter_lpfit, aes(x = end_date, y = katie_porter_dem)
+) + geom_line(size = 1) +
+  geom_point(data = porter_polls, 
+             mapping = aes(x = end_date, y = katie_porter_dem), alpha = 0.2)
 
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
