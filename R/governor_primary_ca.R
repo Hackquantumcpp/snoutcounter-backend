@@ -163,6 +163,10 @@ avg_over_time <- function(data_frame) {
     width = 60
   )
   
+  cand_cols <- c("katie_porter_dem", "eleni_kounalakis_dem",
+                 "steve_hilton_rep", "chad_bianco_rep", "xavier_becerra_dem",
+                 "eric_swalwell_dem", "tom_steyer_dem", "matt_mahan_dem")
+  
   
   
   return(df_avg)
@@ -203,6 +207,12 @@ polls <- polls %>%
 polls <- polls %>% mutate(partisan = replace_na(partisan, "NA"))  %>%
   arrange(end_date)
 
+polls <- polls %>% filter(is.na(john_cox_rep) == TRUE) %>% filter(
+  is.na(steve_garvey_rep) == TRUE
+) %>% filter(
+  is.na(brian_dahle_rep) == TRUE
+)
+
 df_weights <- poll_avg(polls, today())
 
 ## df_avg <- avg_over_time(polls) # Comment out FOR NOW
@@ -213,14 +223,28 @@ porter_loess <- locpol(
   katie_porter_dem ~ as.numeric(end_date),
   data = porter_polls,
   weig = porter_polls$total_weight,
-  bw = 0.5 * sd(as.numeric(porter_polls$end_date)),
+  bw = 0.85 * sd(as.numeric(porter_polls$end_date)),
 )
+porter_lpfit <- tibble(porter_loess$lpFit)
+porter_lpfit <- porter_lpfit %>% rename(end_date = `as.numeric(end_date)`)
+porter_lpfit <- porter_lpfit %>% mutate(end_date = as_date(end_date))
 
 ggplot(
   porter_lpfit, aes(x = end_date, y = katie_porter_dem)
 ) + geom_line(size = 1) +
   geom_point(data = porter_polls, 
              mapping = aes(x = end_date, y = katie_porter_dem), alpha = 0.2)
+
+polls <- polls %>% mutate(
+  harris_in = if_else(is.na(kamala_harris_dem), 0, 1),
+  caruso_in = if_else(is.na(rick_caruso_dem), 0, 1),
+  kouna_in = if_else(is.na(eleni_kounalakis_dem), 0, 1),
+  atkins_in = if_else(is.na(toni_g_atkins_dem), 0, 1),
+  becerra_in = if_else(is.na(xavier_becerra_dem), 0, 1),
+  steyer_in = if_else(is.na(tom_steyer_dem), 0, 1),
+  swalwell_in = if_else(is.na(eric_swalwell_dem), 0, 1),
+  mahan_in = if_else(is.na(matt_mahan_dem), 0, 1)
+)
 
 polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)

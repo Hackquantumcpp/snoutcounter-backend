@@ -241,8 +241,8 @@ for (i in issue_list) {
 
 }
 
-polls <- polls %>% left_join(issue_avgs %>% select(end_date, issue, net), by=c('end_date' = 'end_date',
-                                                                           'issue' = 'issue')) %>%
+polls <- polls %>% left_join(df_avg %>% select(end_date, net, approve, disapprove) %>% rename(appr_avg = approve, disappr_avg = disapprove), 
+                             join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
 polls <- polls %>% left_join(
@@ -251,13 +251,14 @@ polls <- polls %>% left_join(
   join_by(end_date)
 )
 
-fit <- stan_glmer(net ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
-                    (1 | mode) + (1 | issue) + net_avg + net_gen,
+## Approval adjustments
+fit <- stan_glmer(approve ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
+                    (1 | mode) + (1 | issue) + appr_avg + approve_gen,
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),
                   prior_covariance = decov(scale = 0.50),
-                  adapt_delta = 0.95,
+                  adapt_delta = 0.99,
                   refresh = 100,
                   seed = 1010)
 
@@ -280,10 +281,43 @@ polls <- polls %>%
 polls_og <- polls %>% arrange(end_date)
 
 polls <- polls %>% mutate(
-  approve = approve + (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
-  disapprove = disapprove - (house_effect + mode_adj + pop_adj + partisan_adj) / 2,
-  net = net + house_effect + mode_adj + pop_adj + partisan_adj
+  approve = approve + house_effect + mode_adj + pop_adj + partisan_adj
 ) %>% arrange(end_date)
+
+polls <- polls %>% select(-house_effect, -mode_adj, -pop_adj, -partisan_adj)
+
+## Disapproval adjustments
+fit <- stan_glmer(disapprove ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
+                    (1 | mode) + (1 | issue) + disappr_avg + disapprove_gen,
+                  family = gaussian(),
+                  data = polls,
+                  prior = normal(0, 1, autoscale = TRUE),
+                  prior_covariance = decov(scale = 0.50),
+                  adapt_delta = 0.99,
+                  refresh = 100,
+                  seed = 1010)
+
+print(fit)
+print(summary(fit))
+print(fixef(fit))
+print(ranef(fit))
+
+pop_a <- ranef(fit)$population[1, 1]
+np_a <- ranef(fit)$partisan[2, 1]
+
+polls <- polls %>%
+  left_join( (rownames_to_column(ranef(fit)$pollster) %>% rename(pollster = rowname, house_effect = "(Intercept)") %>% mutate(house_effect = -1 * house_effect)), join_by(pollster)) %>%  
+  left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
+  left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
+  left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
+
+polls <- polls %>% mutate(
+  disapprove = disapprove + house_effect + mode_adj + pop_adj + partisan_adj
+) %>% arrange(end_date)
+
+polls <- polls %>% mutate(
+  net = approve - disapprove
+)
 
 # today_avg = poll_avg(polls, today())
 # approval_stats <- avg_over_time(polls)

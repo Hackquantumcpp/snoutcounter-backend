@@ -114,9 +114,9 @@ YouGov,The Economist,2025-08-15,2025-08-18,1408,RV,44,39,https://d3nkl3psvxxpe9.
 Verasight,Strength In Numbers,2025-08-18,2025-08-21,1500,A,49,41,https://www.gelliottmorris.com/p/democrats-lead-the-us-house-generic,Text/Online Ad/Email,FALSE,NA,NA
 RMG Research,Napolitan Institute,2025-08-18,2025-08-21,2000,RV,47,47,https://napolitannews.org/posts/generic-ballot-gop-44-percent-dem-44,Online Opt-In Panel,TRUE,NA,NA
 SoCal Strategies,"Red Eagle Politics, On Point Politics",2025-08-18,2025-08-18,700,A,42,37,https://substack.com/inbox/post/171344467?r=4aupgp,Online Opt-In Panel,FALSE,REP,NA
-CNN/SSRS,NA,2025-08-21,2025-09-01,2077,A,52,47,https://www.cnn.com/2025/09/26/politics/us-politics-negative-sentiment-republicans-democrats,Live Phone/Probability Panel,FALSE,NA,NA
+SSRS,CNN,2025-08-21,2025-09-01,2077,A,52,47,https://www.cnn.com/2025/09/26/politics/us-politics-negative-sentiment-republicans-democrats,Live Phone/Probability Panel,FALSE,NA,NA
 McLaughlin & Associates,NA,2025-08-21,2025-08-26,1000,LV,45,47,https://mclaughlinonline.com/2025/09/02/national-monthly-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=national-monthly-august-2025,Online Opt-In Panel,FALSE,NA,NA
-CNN/SSRS,NA,2025-08-21,2025-09-01,1768,RV,52,48,https://www.cnn.com/2025/09/26/politics/us-politics-negative-sentiment-republicans-democrats,Live Phone/Probability Panel,FALSE,NA,NA
+SSRS,CNN,2025-08-21,2025-09-01,1768,RV,52,48,https://www.cnn.com/2025/09/26/politics/us-politics-negative-sentiment-republicans-democrats,Live Phone/Probability Panel,FALSE,NA,NA
 YouGov,The Economist,2025-08-22,2025-08-25,1377,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_ziFpJLd.pdf,Online Matched Sample,FALSE,NA,NA
 Ipsos,Reuters,2025-08-22,2025-08-24,1022,A,38,34,https://www.ipsos.com/en-us/ipsos-core-political-survey-presidential-approval-tracker-august-2025,Probability Panel,FALSE,NA,NA
 YouGov,The Economist,2025-08-22,2025-08-25,1523,A,41,36,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_ziFpJLd.pdf,Online Matched Sample,FALSE,NA,NA
@@ -174,7 +174,7 @@ Verasight,Strength In Numbers,2025-10-24,2025-10-29,1352,LV,49,41,https://www.ge
 Ipsos,ABC News | The Washington Post,2025-10-24,2025-10-28,2203,RV,46,44,https://www.washingtonpost.com/politics/2025/11/02/trump-democrats-poll-post-abc-ipsos/,Probability Panel,FALSE,NA,NA
 Hart Research Associates/Public Opinion Strategies,NBC News,2025-10-24,2025-10-28,1000,RV,50,42,https://www.nbcnews.com/politics/elections/poll-frustration-trump-gives-democrats-opening-year-midterms-rcna240551,NA,FALSE,NA,NA
 NewsNation,Decision Desk HQ,2025-10-27,2025-10-29,1158,LV,47,47,https://www.newsnationnow.com/polls/,Online Opt-In Panel,FALSE,NA,NA
-CNN/SSRS,NA,2025-10-27,2025-10-30,954,RV,47,42,https://s3.documentcloud.org/documents/26211915/cnn-poll-trump-midterms-east-wing-parties.pdf,Probability Panel,FALSE,NA,NA
+SSRS,CNN,2025-10-27,2025-10-30,954,RV,47,42,https://s3.documentcloud.org/documents/26211915/cnn-poll-trump-midterms-east-wing-parties.pdf,Probability Panel,FALSE,NA,NA
 Morning Consult,NA,2025-10-31,2025-11-02,2202,RV,45,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
 YouGov,The Economist,2025-10-31,2025-11-03,1470,RV,44,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5RO6eos.pdf,Online Matched Sample,FALSE,NA,NA
 Emerson College,NA,2025-11-03,2025-11-04,1000,RV,44,40,https://emersoncollegepolling.com/november-2025-national-poll/,Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
@@ -293,7 +293,7 @@ Ipsos,Reuters,2026-01-12,2026-01-13,941,RV,40,38,https://www.reuters.com/data/tr
 YouGov,Yahoo News,2026-01-08,2026-01-12,1148,RV,45,40,https://www.yahoo.com/news/us/article/poll-only-27-of-americans-think-minneapolis-ice-shooting-was-justified-142831951.html,Online Matched Sample,FALSE,NA,NA
 Cygnal,NA,2026-01-08,2026-01-08,1500,LV,48.1,44.6,https://www.cygn.al/polls/january-2026-national-voter-trends-nvt-poll/,NA,FALSE,NA,NA
 Impact Research/National Research,Wall Street Journal,2026-01-08,2026-01-13,1500,RV,47,43,https://www.wsj.com/politics/elections/trump-approval-rating-economy-poll-b3a62e57,Live Phone/Text-to-Web,FALSE,NA,NA
-CNN/SSRS,NA,2026-01-09,2026-01-12,968,RV,46,41,https://www.cnn.com/2026/01/18/politics/cnn-poll-democrats-are-deeply-motivated-for-the-midterms-despite-having-dismal-views-of-party-leaders,Probability Panel,FALSE,NA,NA
+SSRS,CNN,2026-01-09,2026-01-12,968,RV,46,41,https://www.cnn.com/2026/01/18/politics/cnn-poll-democrats-are-deeply-motivated-for-the-midterms-despite-having-dismal-views-of-party-leaders,Probability Panel,FALSE,NA,NA
 Morning Consult,NA,2026-01-12,2026-01-18,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,Online Opt-In Panel,FALSE,NA,NA
 YouGov,The Economist,2026-01-16,2026-01-19,1722,A,39,34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-01-16,2026-01-19,1549,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,Online Matched Sample,FALSE,NA,NA

@@ -219,17 +219,20 @@ df_avg <- avg_over_time(polls)
 
 # df_avg <- df_avg %>% mutate(lagged_net = lag(net, 1))
 
-polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
+polls <- polls %>% left_join(df_avg %>% select(end_date, dem, rep, net) %>% rename(dem_avg = dem, rep_avg = rep)
+                             , join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-fit <- stan_glmer(net ~ (1 | pollster) + (1 | partisan) + (1 | population) +
-                    (1 | mode) + net_avg,
+
+## Democratic adjustments
+fit <- stan_glmer(dem ~ (1 | pollster) + (1 | partisan) + (1 | population) +
+                    (1 | mode) + dem_avg,
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),
                   prior_covariance = decov(scale = 0.50),
-                  adapt_delta = 0.95,
-                  refresh = 0,
+                  adapt_delta = 0.99,
+                  refresh = 100,
                   seed = 1010)
 
 print(fit)
@@ -242,7 +245,7 @@ print(ranef(fit))
 ## to converting to LV.
 ## TODO: Edit to account for the Labor Day switch!
 pop_a <- ranef(fit)$population[3, 1]
-np_a <- ranef(fit)$partisan[1, 1]
+np_a <- ranef(fit)$partisan[2, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg
 
@@ -255,10 +258,44 @@ polls <- polls %>%
 polls_og <- polls %>% arrange(end_date)
 
 polls <- polls %>% mutate(
-  rep = rep + (house_effect + mode_adj + partisan_adj + pop_adj) / 2,
-  dem = dem - (house_effect + mode_adj + partisan_adj + pop_adj) / 2,
-  net = net + house_effect + mode_adj + partisan_adj + pop_adj
+  dem = dem + house_effect + mode_adj + partisan_adj + pop_adj
 ) %>% arrange(end_date)
+
+polls <- polls %>% select(-house_effect, -mode_adj, -partisan_adj, -pop_adj)
+
+
+## Republican adjustments
+fit <- stan_glmer(rep ~ (1 | pollster) + (1 | partisan) + (1 | population) +
+                    (1 | mode) + rep_avg,
+                  family = gaussian(),
+                  data = polls,
+                  prior = normal(0, 1, autoscale = TRUE),
+                  prior_covariance = decov(scale = 0.50),
+                  adapt_delta = 0.99,
+                  refresh = 100,
+                  seed = 1010)
+
+print(fit)
+print(summary(fit))
+print(fixef(fit))
+print(ranef(fit))
+
+pop_a <- ranef(fit)$population[3, 1]
+np_a <- ranef(fit)$partisan[2, 1]
+
+polls <- polls %>%
+  left_join( (rownames_to_column(ranef(fit)$pollster) %>% rename(pollster = rowname, house_effect = "(Intercept)") %>% mutate(house_effect = -1 * house_effect)), join_by(pollster)) %>%  
+  left_join( (rownames_to_column(ranef(fit)$mode) %>% rename(mode = rowname, mode_adj = "(Intercept)") %>% mutate(mode_adj = -1 * mode_adj)), join_by(mode)) %>%
+  left_join((rownames_to_column(ranef(fit)$population) %>% rename(population = rowname, pop_adj = "(Intercept)") %>% mutate(population = as.character(population), pop_adj = pop_a - pop_adj)), join_by(population))%>%
+  left_join( (rownames_to_column(ranef(fit)$partisan) %>% rename(partisan = rowname, partisan_adj = "(Intercept)") %>% mutate(partisan_adj = np_a - partisan_adj)), join_by(partisan))
+
+polls <- polls %>% mutate(
+  rep = rep + house_effect + mode_adj + partisan_adj + pop_adj
+) %>% arrange(end_date)
+
+polls <- polls %>% mutate(
+  net = rep - dem
+)
 
 # today_avg = poll_avg(polls, today())
 generic_ballot_avg <- avg_over_time(polls)
