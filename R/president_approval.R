@@ -78,13 +78,16 @@ poll_avg <- function(data_frame, date) {
   df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size, size_cap)) / sqrt(median(pmin(sample_size, size_cap))))
 
   # Quick wrangling
-  df$sponsors[df$pollster == "CNN/SSRS"] <- "CNN"
-  df$pollster[df$pollster == "CNN/SSRS"] <- "SSRS"
+  df <- df %>% mutate(
+    pollster_ratname = recode(pollster,
+                      "Quantus Insights" = "Quantus Polls and News",
+                      )
+  )
   
   ### Quality weights
-  df <- df %>% left_join(ratings, join_by(pollster)) %>%
+  df <- df %>% left_join(ratings %>% rename(pollster_ratname = pollster), join_by(pollster_ratname)) %>%
     filter(
-      !(pollster %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+      !(pollster_ratname %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
@@ -127,6 +130,7 @@ avg_over_time <- function(data_frame) {
   
   ## Coalesce for alternate answers
   df <- df %>% mutate(alternate_answers = coalesce(alternate_answers, 0))
+
   
   # date_interv <- ymd("2025-01-23") %--% today()
   
@@ -142,13 +146,17 @@ avg_over_time <- function(data_frame) {
   
   date_interv <- seq(ymd("2025-01-21"), today(), by = "day")
   
+  print(interactive())
+  
   # Progress bar
   pb <- progress_bar$new(
     format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
     total = length(1:length(date_interv)),
     clear = FALSE,
-    width = 60
+    width = 60,
+    force = TRUE
   )
+  
   
   for (i in 1:length(date_interv)) {
     date = date_interv[i]
@@ -336,7 +344,9 @@ setwd("../R/")
 
 # Polls dataset - display table
 
-avg_today <- poll_avg(polls, today())
+avg_today <- poll_avg(polls, today()) 
+
+avg_today <- avg_today %>% select(-pollster_ratname)
 
 polls_display <- polls_og %>% select(pollster, sponsors, start_date,
                                      end_date, sample_size, population,
