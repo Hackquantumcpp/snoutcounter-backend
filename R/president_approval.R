@@ -3,14 +3,16 @@ library(rstan)
 library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
-library(progress)
+library(progressr)
 
 # Get banned pollsters
 source("banned_pollsters.R")
 
 setwd("../")
 
-ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
+ratings <- read_csv("ratings/pollster_ratings_silver.csv") %>% janitor::clean_names()
+
+ratings_24 <- read_csv("ratings/pollster_ratings_silver_2024.csv") %>% janitor::clean_names()
 
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vSj1f5S4BKqd_0T83atnX5WIXMhwd326O-jg5vXNjvylt8DIWNW07rXmMUy9wGEz5ZVDlfLbea_hrd9/pub?output=csv"
 
@@ -85,7 +87,13 @@ poll_avg <- function(data_frame, date) {
   )
   
   ### Quality weights
-  df <- df %>% left_join(ratings %>% rename(pollster_ratname = pollster), join_by(pollster_ratname)) %>%
+  df_25 <- df %>% filter(end_date < ymd("2026-01-14")) %>% left_join(ratings_24 %>% rename(pollster_ratname = pollster),
+                                                                     join_by(pollster_ratname))
+  df_26 <- df %>% filter(end_date >= ymd("2026-01-14")) %>% left_join(ratings %>% rename(pollster_ratname = pollster),
+                                                                      join_by(pollster_ratname))
+  df <- bind_rows(df_25, df_26)
+  
+  df <- df %>%
     filter(
       !(pollster_ratname %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
@@ -157,47 +165,48 @@ avg_over_time <- function(data_frame) {
     force = TRUE
   )
   
+  df_avg <- tibble(
+    end_date = date_interv
+  )
   
-  for (i in 1:length(date_interv)) {
-    date = date_interv[i]
+  avg_oneday <- function(date) {
     df_weights <- poll_avg(data_frame, date)
     appr_avg <- sum(df_weights$total_weight * df_weights$approve)
     disappr_avg <- sum(df_weights$total_weight * df_weights$disapprove)
-    # other_avg <- sum(df_weights$total_weight * df_weights$alternate_answers)
     net_avg <- sum(df_weights$total_weight * df_weights$net)
     
     appr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$approve - appr_avg)^2))
     disappr_sd <- sqrt(sum(df_weights$total_weight * (df_weights$disapprove - disappr_avg)^2))
-    # other_sd <- sqrt(sum(df_weights$total_weight * (df_weights$alternate_answers - other_avg)^2))
     net_sd <- sqrt(sum(df_weights$total_weight * (df_weights$net - net_avg)^2))
     
-    yes_curve <- append(yes_curve, appr_avg)
-    no_curve <- append(no_curve, disappr_avg)
-    # other_curve <- append(other_curve, other_avg)
-    net_curve <- append(net_curve, net_avg)
-    
-    yes_std <- append(yes_std, appr_sd)
-    no_std <- append(no_std, disappr_sd)
-    # other_std <- append(other_std, other_sd)
-    net_std <- append(net_std, net_sd)
-    
-    pb$tick()
+    return(list(approve = appr_avg, 
+             disapprove = disappr_avg, 
+             net = net_avg,
+             approve_std = appr_sd,
+             disapprove_std = disappr_sd,
+             net_std = net_sd))
   }
   
-  df_avg <- tibble(
-    end_date = date_interv,
-    approve = yes_curve,
-    disapprove = no_curve,
-    net = net_curve,
-    approve_std = yes_std,
-    disapprove_std = no_std,
-    net_std = net_std,
-    approve_lower_ci = yes_curve - 1.96*yes_std,
-    approve_upper_ci = yes_curve + 1.96*yes_std,
-    disapprove_lower_ci = no_curve - 1.96*no_std,
-    disapprove_upper_ci = no_curve + 1.96*no_std,
-    net_lower_ci = net_curve - 1.96*net_std,
-    net_upper_ci = net_curve + 1.96*net_std
+  with_progress({
+    p <- progressor(along = df_avg$end_date)
+    
+    df_avg <- bind_cols(
+      df_avg,
+      map_dfr(df_avg$end_date, function(d) {
+        p()
+        avg_oneday(d)
+      })
+    )
+  })
+  
+  
+  df_avg <- df_avg %>% mutate(
+    approve_lower_ci = approve - 1.96*approve_std,
+    approve_upper_ci = approve + 1.96*approve_std,
+    disapprove_lower_ci = disapprove - 1.96*disapprove_std,
+    disapprove_upper_ci = disapprove + 1.96*disapprove_std,
+    net_lower_ci = net - 1.96*net_std,
+    net_upper_ci = net + 1.96*net_std
   )
   
   return(df_avg)
@@ -235,7 +244,7 @@ polls <- polls %>% left_join(df_avg %>% select(end_date, net, approve, disapprov
   rename(net = net.x, net_avg = net.y)
 
 ## Approval adjustments
-fit <- stan_glmer(approve ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
+fit <- stan_glmer(approve ~ 0 + (1 | pollster) + (1 | partisan) + (1 | population) + 
                     (1 | mode) + appr_avg,
                   family = gaussian(),
                   data = polls,
@@ -270,7 +279,7 @@ polls <- polls %>% mutate(
 polls <- polls %>% select(-house_effect, -mode_adj, -pop_adj, -partisan_adj)
 
 ## Disapproval adjustments
-fit <- stan_glmer(disapprove ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
+fit <- stan_glmer(disapprove ~ 0 + (1 | pollster) + (1 | partisan) + (1 | population) + 
                     (1 | mode) + disappr_avg,
                   family = gaussian(),
                   data = polls,

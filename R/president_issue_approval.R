@@ -11,7 +11,9 @@ source("banned_pollsters.R")
 
 setwd("../")
 
-ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
+ratings <- read_csv("ratings/pollster_ratings_silver.csv") %>% janitor::clean_names()
+
+ratings_24 <- read_csv("ratings/pollster_ratings_silver_2024.csv") %>% janitor::clean_names()
 
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7cOF5NSArcxNxYjzDjjTnFNmG-l0zM8WqabuCqNmwKke7VTEMKjR1BamqigAFeRCvbhCylaspQpTG/pub?output=csv"
 
@@ -88,10 +90,23 @@ poll_avg <- function(data_frame, date) {
   size_cap <- 5000
   df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size, size_cap)) / sqrt(median(pmin(sample_size, size_cap))))
   
+  ## Quick wrangling
+  df <- df %>% mutate(
+    pollster_ratname = recode(pollster,
+                              "Quantus Insights" = "Quantus Polls and News",
+    )
+  )
+  
   ### Quality weights
-  df <- df %>% left_join(ratings, join_by(pollster)) %>%
+  df_25 <- df %>% filter(end_date < ymd("2026-01-14")) %>% left_join(ratings_24 %>% rename(pollster_ratname = pollster),
+                                                                     join_by(pollster_ratname))
+  df_26 <- df %>% filter(end_date >= ymd("2026-01-14")) %>% left_join(ratings %>% rename(pollster_ratname = pollster),
+                                                                      join_by(pollster_ratname))
+  df <- bind_rows(df_25, df_26)
+  
+  df <- df %>%
     filter(
-      !(pollster %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+      !(pollster_ratname %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
@@ -254,7 +269,7 @@ polls <- polls %>% left_join(
 
 ## Approval adjustments
 fit <- stan_glmer(approve ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
-                    (1 | mode) + (1 | issue) + appr_avg + approve_gen,
+                    (1 | mode) + (1 | issue) + appr_avg,
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -289,7 +304,7 @@ polls <- polls %>% select(-house_effect, -mode_adj, -pop_adj, -partisan_adj)
 
 ## Disapproval adjustments
 fit <- stan_glmer(disapprove ~ (1 | pollster) + (1 | partisan) + (1 | population) + 
-                    (1 | mode) + (1 | issue) + disappr_avg + disapprove_gen,
+                    (1 | mode) + (1 | issue) + disappr_avg,
                   family = gaussian(),
                   data = polls,
                   prior = normal(0, 1, autoscale = TRUE),

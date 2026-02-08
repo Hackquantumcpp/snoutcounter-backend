@@ -11,7 +11,9 @@ source("banned_pollsters.R")
 
 setwd("../")
 
-ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
+ratings <- read_csv("ratings/pollster_ratings_silver.csv") %>% janitor::clean_names()
+
+ratings_24 <- read_csv("ratings/pollster_ratings_silver_2024.csv") %>% janitor::clean_names()
 
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3aMKZ85CaxcIMUp8m1n79clUPZFhgzhSsI-W48zCnwH5BdKB5q9TcreXPVA-YBNu40W3kISq_SQ4O/pub?output=csv"
   
@@ -86,11 +88,22 @@ poll_avg <- function(data_frame, date) {
   # Quick wrangling
   df$sponsors[df$pollster == "CNN/SSRS"] <- "CNN"
   df$pollster[df$pollster == "CNN/SSRS"] <- "SSRS"
+  df <- df %>% mutate(
+    pollster_ratname = recode(pollster,
+                              "Quantus Insights" = "Quantus Polls and News",
+    )
+  )
   
   ### Quality weights
-  df <- df %>% left_join(ratings, join_by(pollster)) %>%
+  df_25 <- df %>% filter(end_date < ymd("2026-01-14")) %>% left_join(ratings_24 %>% rename(pollster_ratname = pollster),
+                                                                     join_by(pollster_ratname))
+  df_26 <- df %>% filter(end_date >= ymd("2026-01-14")) %>% left_join(ratings %>% rename(pollster_ratname = pollster),
+                                                                      join_by(pollster_ratname))
+  df <- bind_rows(df_25, df_26)
+  
+  df <- df %>%
     filter(
-      !(pollster %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+      !(pollster_ratname %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
@@ -130,30 +143,16 @@ poll_avg <- function(data_frame, date) {
 
 avg_over_time <- function(data_frame) {
   df <- data_frame # Copy data frame
-  df <- df %>% mutate(net = rep - dem)
-  
-  # date_interv <- ymd("2025-01-23") %--% today()
-  
-  rep_curve <- numeric(0)
-  dem_curve <- numeric(0)
-  net_curve <- numeric(0)
-  
-  rep_std <- numeric(0)
-  dem_std <- numeric(0)
-  net_std <- numeric(0)
   
   date_interv <- seq(ymd("2025-01-03"), today(), by = "day")
   
-  # Progress bar
-  pb <- progress_bar$new(
-    format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
-    total = length(1:length(date_interv)),
-    clear = FALSE,
-    width = 60
+  print(interactive())
+  
+  df_avg <- tibble(
+    end_date = date_interv
   )
   
-  for (i in 1:length(date_interv)) {
-    date = date_interv[i]  # Debug
+  avg_oneday <- function(date) {
     df_weights <- poll_avg(data_frame, date)
     rep_avg <- sum(df_weights$total_weight * df_weights$rep)
     dem_avg <- sum(df_weights$total_weight * df_weights$dem)
@@ -163,31 +162,34 @@ avg_over_time <- function(data_frame) {
     dem_sd <- sqrt(sum(df_weights$total_weight * (df_weights$dem - dem_avg)^2))
     net_sd <- sqrt(sum(df_weights$total_weight * (df_weights$net - net_avg)^2))
     
-    rep_curve <- append(rep_curve, rep_avg)
-    dem_curve <- append(dem_curve, dem_avg)
-    net_curve <- append(net_curve, net_avg)
-    
-    rep_std <- append(rep_std, rep_sd)
-    dem_std <- append(dem_std, dem_sd)
-    net_std <- append(net_std, net_sd)
-    
-    pb$tick()
+    return(list(dem = dem_avg, 
+                rep = rep_avg, 
+                net = net_avg,
+                dem_std = dem_sd,
+                rep_std = rep_sd,
+                net_std = net_sd))
   }
   
-  df_avg <- tibble(
-    end_date = date_interv,
-    rep = rep_curve,
-    dem = dem_curve,
-    net = net_curve,
-    rep_std = rep_std,
-    dem_std = dem_std,
-    net_std = net_std,
-    rep_lower_ci = rep_curve - 1.96*rep_std,
-    rep_upper_ci = rep_curve + 1.96*rep_std,
-    dem_lower_ci = dem_curve - 1.96*dem_std,
-    dem_upper_ci = dem_curve + 1.96*dem_std,
-    net_lower_ci = net_curve - 1.96*net_std,
-    net_upper_ci = net_curve + 1.96*net_std
+  with_progress({
+    p <- progressor(along = df_avg$end_date)
+    
+    df_avg <- bind_cols(
+      df_avg,
+      map_dfr(df_avg$end_date, function(d) {
+        p()
+        avg_oneday(d)
+      })
+    )
+  })
+  
+  
+  df_avg <- df_avg %>% mutate(
+    dem_lower_ci = dem - 1.96*dem_std,
+    dem_upper_ci = dem + 1.96*dem_std,
+    rep_lower_ci = rep - 1.96*rep_std,
+    rep_upper_ci = rep + 1.96*rep_std,
+    net_lower_ci = net - 1.96*net_std,
+    net_upper_ci = net + 1.96*net_std
   )
   
   return(df_avg)
