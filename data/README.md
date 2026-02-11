@@ -1,6 +1,6 @@
 ### Data Acknowledgement
 
-Historical polling datasets from [538](https://web.archive.org/web/20250131211134/https://projects.fivethirtyeight.com/polls/). Polling datasets for current cycle are collected and maintained by myself, with data before January 4, 2026 being sourced from Mary Radcliffe's dataset of polls (before it was merged into [FiftyPlusOne](https://fiftyplusone.news/)) and [The New York Times](https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html).
+Historical polling datasets from [538](https://web.archive.org/web/20250131211134/https://projects.fivethirtyeight.com/polls/). Polling datasets for current cycle are collected and maintained by myself, with general presidential approval and generic ballot data before January 4, 2026 being sourced from Mary Radcliffe's dataset of polls (before it was merged into [FiftyPlusOne](https://fiftyplusone.news/)) and [The New York Times](https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html).
 
 ### Directory Map
 
