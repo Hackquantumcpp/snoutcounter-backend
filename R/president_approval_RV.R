@@ -157,15 +157,6 @@ avg_over_time <- function(data_frame) {
   
   print(interactive())
   
-  # Progress bar
-  pb <- progress_bar$new(
-    format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
-    total = length(1:length(date_interv)),
-    clear = FALSE,
-    width = 60,
-    force = TRUE
-  )
-  
   df_avg <- tibble(
     end_date = date_interv
   )

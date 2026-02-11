@@ -225,7 +225,7 @@ fit <- stan_glmer(approve ~ 0 + (1 | pollster) + (1 | partisan) + (1 | populatio
                   prior = normal(0, 1, autoscale = TRUE),
                   prior_covariance = decov(scale = 0.50),
                   adapt_delta = 0.99,
-                  refresh = 100,
+                  refresh = 1,
                   seed = 1010)
 
 print(fit)
