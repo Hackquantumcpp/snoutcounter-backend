@@ -8,7 +8,7 @@ The backend for SnoutCounter, a poll aggregation, electoral modeling, and other 
 
 - `data/` - Polling data, from which models draw from.
 
-- `ratings/` - Ratings sourced from the [Silver Bulletin](https://www.natesilver.net/p/pollster-ratings-silver-bulletin).
+- `ratings/` - Pollster ratings sourced from the [Silver Bulletin](https://www.natesilver.net/p/pollster-ratings-silver-bulletin).
 
 - `transformed_tables/` - Simplified polling data, for use in the polls display tables.
 
