@@ -227,7 +227,7 @@ polls <- polls %>% left_join(df_avg %>% select(end_date, dem, rep, net) %>% rena
 
 
 ## Democratic adjustments
-fit <- stan_glmer(dem ~ (1 | pollster) + (1 | partisan) + (1 | population) +
+fit <- stan_glmer(dem ~ 0 + (1 | pollster) + (1 | partisan) + (1 | population) +
                     (1 | mode) + dem_avg,
                   family = gaussian(),
                   data = polls,
@@ -267,7 +267,7 @@ polls <- polls %>% select(-house_effect, -mode_adj, -partisan_adj, -pop_adj)
 
 
 ## Republican adjustments
-fit <- stan_glmer(rep ~ (1 | pollster) + (1 | partisan) + (1 | population) +
+fit <- stan_glmer(rep ~ 0 + (1 | pollster) + (1 | partisan) + (1 | population) +
                     (1 | mode) + rep_avg,
                   family = gaussian(),
                   data = polls,
