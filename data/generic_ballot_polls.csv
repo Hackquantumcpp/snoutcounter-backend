@@ -211,7 +211,7 @@ Morning Consult,NA,2025-12-05,2025-12-07,2201,RV,46,43,https://pro.morningconsul
 Ipsos,Reuters,2025-12-03,2025-12-08,3521,RV,40,39,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,Probability Panel,FALSE,NA,NA
 YouGov,The Economist,2025-12-05,2025-12-08,1379,RV,42,37,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,Online Matched Sample,FALSE,NA,NA
 Big Data Poll,Public Polling Project,2025-12-10,2025-12-12,3004,RV,47,43,https://www.bigdatapoll.com/blog/republicans-fall-further-behind-democrats-on-generic-ballot-in-mid-december/,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,NA,NA
-Cygnal,NA,2025-12-05,2025-12-07,1500,LV,48,44,https://www.cygn.al/polls/december-2025-national-voter-trends-nvt-poll/,NA,FALSE,NA,NA
+Cygnal,NA,2025-12-05,2025-12-07,1500,LV,48,44.1,https://www.cygn.al/polls/december-2025-national-voter-trends-nvt-poll/,NA,FALSE,NA,NA
 Yale University Institution for Social and Policy Studies,NA,2025-10-29,2025-11-11,3426,RV,45,43,https://youthpoll.yale.edu/fall-2025-results,Text/Online Ad/Email,FALSE,NA,NA
 Morning Consult,NA,2025-12-12,2025-12-15,2201,RV,45,44,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
 YouGov,The Economist,2025-12-12,2025-12-15,1451,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,Online Matched Sample,FALSE,NA,NA
@@ -339,3 +339,5 @@ Morning Consult,NA,2026-02-02,2026-02-08,29303,RV,45,42,https://pro.morningconsu
 Morning Consult,NA,2026-01-26,2026-02-01,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,Online Opt-In Panel,FALSE,NA,NA
 YouGov,The Economist,2026-02-06,2026-02-09,1551,RV,44,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-02-06,2026-02-09,1730,A,39,31,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,Online Matched Sample,FALSE,NA,NA
+Echelon Insights/GBAO,AARP,2025-12-09,2025-12-16,2023,LV,47,43,https://www.aarp.org/pri/topics/work-finances-retirement/financial-security-retirement/shes-the-difference-financial-security/,Online Opt-In Panel,FALSE,NA,NA
+Cygnal,NA,2026-02-03,2026-02-04,1500,LV,47.8,44.4,https://www.cygn.al/polls/february-2026-national-voter-trends-nvt-poll/,NA,FALSE,NA,NA
