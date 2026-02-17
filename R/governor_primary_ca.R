@@ -4,7 +4,7 @@ library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
 library(DescTools)
-library(progress)
+library(progressr)
 library(locpol)
 
 # Get banned pollsters
@@ -114,8 +114,8 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  # window <- 21
-  # df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
+  window <- 21
+  df <- df %>% mutate(recency_weight = 0.15^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
   partisan_dw <- 0.7
@@ -124,7 +124,7 @@ poll_avg <- function(data_frame, date) {
   )
   
   ## Internals downweight
-  internals_dw <- 0.7
+  internals_dw <- 0.5
   df <- df %>% mutate(
     internals_downweight = if_else(internal == FALSE, 1, internals_dw)
   )
