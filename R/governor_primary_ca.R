@@ -12,7 +12,7 @@ source("banned_pollsters.R")
 
 setwd("../")
 
-ratings <- read_csv("pollster_ratings_silver.csv") %>% janitor::clean_names()
+ratings <- read_csv("ratings/pollster_ratings_silver.csv") %>% janitor::clean_names()
 
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vS44BPz-G66BfAboUhIo6LWQ06u4rwtVnMUGovoFn9T3dPAZA-Dux9CMl9GzzyTaWGFb3kTzHLm0faf/pub?output=csv"
   
