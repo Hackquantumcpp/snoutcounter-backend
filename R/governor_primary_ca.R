@@ -14,6 +14,8 @@ setwd("../")
 
 ratings <- read_csv("ratings/pollster_ratings_silver.csv") %>% janitor::clean_names()
 
+ratings_24 <- read_csv("ratings/pollster_ratings_silver_2024.csv") %>% janitor::clean_names()
+
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vS44BPz-G66BfAboUhIo6LWQ06u4rwtVnMUGovoFn9T3dPAZA-Dux9CMl9GzzyTaWGFb3kTzHLm0faf/pub?output=csv"
   
 polls <- read_csv(url)
@@ -32,7 +34,13 @@ polls <- polls %>% filter(
 )
 
 cands <- c("Eric Swalwell", "Tom Steyer", "Steve Hilton", "Xavier Becerra",
-           "Katie Porter", "Chad Bianco")
+           "Katie Porter", "Chad Bianco", "Matt Mahan", "Eleni Kounalakis",
+           "Antonio Ramón Villaraigosa")
+
+cand_cols <- c("eric_swalwell_dem", "katie_porter_dem", "eleni_kounalakis_dem",
+               "steve_hilton_rep", "chad_bianco_rep", "xavier_becerra_dem",
+               "tom_steyer_dem", "matt_mahan_dem",
+               "antonio_ramon_villaraigosa_dem")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -115,7 +123,7 @@ poll_avg <- function(data_frame, date) {
   
   ### Recency weight
   window <- 21
-  df <- df %>% mutate(recency_weight = 0.15^(as.numeric(date - end_date, units = "days")/window))
+  df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
   partisan_dw <- 0.7
@@ -141,33 +149,52 @@ poll_avg <- function(data_frame, date) {
 
 avg_over_time <- function(data_frame) {
   df <- data_frame # Copy data frame
-  df <- df %>% mutate(net = rep - dem)
   
-  # date_interv <- ymd("2025-01-23") %--% today()
+  df_avg <- tibble()
   
-  rep_curve <- numeric(0)
-  dem_curve <- numeric(0)
-  net_curve <- numeric(0)
+  avg_oneday <- function(date, cand) {
+    df_weights <- poll_avg(data_frame, date) %>% filter(is.na(.[[cand]]) == FALSE)
+    df_weights$total_weight <- df_weights$total_weight / sum(df_weights$total_weight)
+    cand_avg <- sum(df_weights$total_weight * df_weights[[cand]])
+    cand_sd <- sqrt(sum(df_weights$total_weight * (df_weights[[cand]] - cand_avg)^2))
+    
+    return(
+      list(
+        avg = cand_avg,
+        sd = cand_sd,
+        cand = cand
+      )
+    )
+  }
   
-  rep_std <- numeric(0)
-  dem_std <- numeric(0)
-  net_std <- numeric(0)
-  
-  date_interv <- seq(ymd("2025-01-03"), today(), by = "day")
-  
-  # Progress bar
-  pb <- progress_bar$new(
-    format = "[:bar] :percent | elapsed: :elapsed | eta: :eta",
-    total = length(1:length(date_interv)),
-    clear = FALSE,
-    width = 60
-  )
-  
-  cand_cols <- c("katie_porter_dem", "eleni_kounalakis_dem",
-                 "steve_hilton_rep", "chad_bianco_rep", "xavier_becerra_dem",
-                 "eric_swalwell_dem", "tom_steyer_dem", "matt_mahan_dem")
-  
-  
+  for (cand in cand_cols) {
+    
+    print(cand)
+    
+    df_cand <- tibble()
+    df_only_cand <- df_weights %>% filter(is.na(df_weights[[cand]]) == FALSE)
+    date_interv <- seq(max(c(ymd("2025-06-01"), min(df_only_cand$end_date, na.rm = TRUE))), today(), by = "day")
+    
+    with_progress({
+      p <- progressor(along = date_interv)
+        
+      df_cand <- bind_cols(
+        tibble(end_date = date_interv),
+        map_dfr(date_interv, function(d) {
+          p()
+          avg_oneday(d, cand)
+        })
+      )
+    })
+    
+    if (nrow(df_avg) == 0) {
+      df_avg <- df_cand
+    }
+    
+    else {
+      df_avg <- bind_rows(df_avg, df_cand)
+    }
+  }
   
   return(df_avg)
 }
@@ -207,67 +234,91 @@ polls <- polls %>%
 polls <- polls %>% mutate(partisan = replace_na(partisan, "NA"))  %>%
   arrange(end_date)
 
-polls <- polls %>% filter(is.na(john_cox_rep) == TRUE) %>% filter(
-  is.na(steve_garvey_rep) == TRUE
-) %>% filter(
-  is.na(brian_dahle_rep) == TRUE
-)
-
 df_weights <- poll_avg(polls, today())
 
-## df_avg <- avg_over_time(polls) # Comment out FOR NOW
+df_avg <- avg_over_time(polls)
 
-porter_polls <- df_weights %>% filter(!is.na(katie_porter_dem))
-
-porter_loess <- locpol(
-  katie_porter_dem ~ as.numeric(end_date),
-  data = porter_polls,
-  weig = porter_polls$total_weight,
-  bw = 0.85 * sd(as.numeric(porter_polls$end_date)),
-)
-porter_lpfit <- tibble(porter_loess$lpFit)
-porter_lpfit <- porter_lpfit %>% rename(end_date = `as.numeric(end_date)`)
-porter_lpfit <- porter_lpfit %>% mutate(end_date = as_date(end_date))
-
-ggplot(
-  porter_lpfit, aes(x = end_date, y = katie_porter_dem)
-) + geom_line(size = 1) +
-  geom_point(data = porter_polls, 
-             mapping = aes(x = end_date, y = katie_porter_dem), alpha = 0.2)
+# polls <- polls %>% filter(
+#   (is.na(john_cox_rep) == TRUE)) %>% 
+#  filter(is.na(kamala_harris_dem) == TRUE) %>%
+#  filter(is.na(steve_garvey_rep) == TRUE) %>% 
+#  filter(is.na(brian_dahle_rep) == TRUE)
 
 polls <- polls %>% mutate(
-  harris_in = if_else(is.na(kamala_harris_dem), 0, 1),
-  caruso_in = if_else(is.na(rick_caruso_dem), 0, 1),
-  kouna_in = if_else(is.na(eleni_kounalakis_dem), 0, 1),
-  atkins_in = if_else(is.na(toni_g_atkins_dem), 0, 1),
-  becerra_in = if_else(is.na(xavier_becerra_dem), 0, 1),
-  steyer_in = if_else(is.na(tom_steyer_dem), 0, 1),
-  swalwell_in = if_else(is.na(eric_swalwell_dem), 0, 1),
-  mahan_in = if_else(is.na(matt_mahan_dem), 0, 1)
+  ## Dropouts
+  kouna_in = as.numeric(if_else(is.na(eleni_kounalakis_dem), 0, 1)),
+  atkins_in = as.numeric(if_else(is.na(toni_g_atkins_dem), 0, 1)),
+  langford_in = as.numeric(if_else(is.na(kyle_langford_rep), 0, 1)),
+  cloobeck_in = as.numeric(if_else(is.na(stephen_j_cloobeck_dem), 0, 1)),
+  
+  ## Dropins
+  steyer_in = as.numeric(if_else(is.na(tom_steyer_dem), 0, 1)),
+  swalwell_in = as.numeric(if_else(is.na(eric_swalwell_dem), 0, 1)),
+  mahan_in = as.numeric(if_else(is.na(matt_mahan_dem), 0, 1)),
+  
+  ## Selectively excluded candidates
+  yee_in = as.numeric(if_else(is.na(betty_t_yee_dem), 0, 1)),
+  
+  ## Hypotheticals
+  cox_in = as.numeric(if_else(is.na(john_cox_rep), 0, 1)),
+  chen_in = as.numeric(if_else(is.na(lanhee_chen_rep), 0, 1)),
+  garvey_in = as.numeric(if_else(is.na(steve_garvey_rep), 0, 1)),
+  laphonza_in = as.numeric(if_else(is.na(laphonza_romanique_butler_dem), 0, 1)),
+  dahle_in = as.numeric(if_else(is.na(brian_dahle_rep), 0, 1)),
+  harris_in = as.numeric(if_else(is.na(kamala_harris_dem), 0, 1)),
+  caruso_in = as.numeric(if_else(is.na(rick_caruso_dem), 0, 1)),
+  bonta_in = as.numeric(if_else(is.na(rob_bonta_dem), 0, 1)),
+  grenell_in = as.numeric(if_else(is.na(richard_allen_grenell_rep), 0, 1)),
+  
+  ## Minor candidates
+  minor_cands_in = as.numeric(if_else(is.na(butch_ware_gre), 0, 1))
 )
 
-polls <- polls %>% left_join(df_avg %>% select(end_date, net), join_by(end_date)) %>%
-  rename(net = net.x, net_avg = net.y)
+  cand_name = "katie_porter_dem"
+  
+  print(cand_name)
 
-fit <- stan_glmer(net ~ (1 | pollster) + (1 | partisan) + (1 | population) +
-                    (1 | mode) + net_avg,
-                  family = gaussian(),
-                  data = polls,
-                  prior = normal(0, 1, autoscale = TRUE),
-                  prior_covariance = decov(scale = 0.50),
-                  adapt_delta = 0.95,
-                  refresh = 0,
-                  seed = 1010)
+  polls_cand <- polls %>% left_join(df_avg %>% filter(cand == cand_name) %>%
+                               select(end_date, avg), join_by(end_date))
+  
+  ## Remove if REP-sponsored polls are conducted
+  polls_cand <- polls_cand %>% mutate(
+    partisan = replace_na(partisan, "NA")
+  ) %>% mutate(
+    partisan = case_match(partisan, "NA" ~ 0, "DEM" ~ 1)
+  )
+  
+  polls_cand <- polls_cand %>% rename(cand = !!cand_name)
+  polls_cand$cand <- as.numeric(polls_cand$cand)
+  
+  View(polls_cand)
+  
+  # kouna_in +
+  # atkins_in + steyer_in +
+  #  swalwell_in + mahan_in
+  
+  fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+                      (1 | population) + (1 | sponsor_candidate) + partisan +
+                      minor_cands_in + factor(kouna_in) + avg,
+                    family = gaussian(),
+                    data = polls_cand,
+                    prior = normal(0, 1, autoscale = TRUE),
+                    prior_covariance = decov(scale = 0.50),
+                    adapt_delta = 0.99,
+                    refresh = 100,
+                    seed = 1010)
+  
+  print(fit)
+  print(summary(fit))
+  print(fixef(fit))
+  print(ranef(fit))
+  
+  ## For now we want to convert to RV due to likely voter samples being less
+  ## reliable at this point in time; come Labor Day we want to switch
+  ## to converting to LV.
+  ## TODO: Edit to account for the Labor Day switch!
+  
 
-print(fit)
-print(summary(fit))
-print(fixef(fit))
-print(ranef(fit))
-
-## For now we want to convert to RV due to likely voter samples being less
-## reliable at this point in time; come Labor Day we want to switch
-## to converting to LV.
-## TODO: Edit to account for the Labor Day switch!
 pop_a <- ranef(fit)$population[3, 1]
 np_a <- ranef(fit)$partisan[1, 1]
 
