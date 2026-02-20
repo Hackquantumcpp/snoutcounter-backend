@@ -173,7 +173,7 @@ avg_over_time <- function(data_frame) {
     
     df_cand <- tibble()
     df_only_cand <- df_weights %>% filter(is.na(df_weights[[cand]]) == FALSE)
-    date_interv <- seq(max(c(ymd("2025-06-01"), min(df_only_cand$end_date, na.rm = TRUE))), today(), by = "day")
+    date_interv <- seq(min(df_only_cand$end_date, na.rm = TRUE), today(), by = "day")
     
     with_progress({
       p <- progressor(along = date_interv)
@@ -240,9 +240,14 @@ df_avg <- avg_over_time(polls)
 
 # polls <- polls %>% filter(
 #   (is.na(john_cox_rep) == TRUE)) %>% 
-#  filter(is.na(kamala_harris_dem) == TRUE) %>%
-#  filter(is.na(steve_garvey_rep) == TRUE) %>% 
-#  filter(is.na(brian_dahle_rep) == TRUE)
+#   filter(is.na(steve_garvey_rep) == TRUE) %>% 
+#   filter(is.na(brian_dahle_rep) == TRUE) %>%
+#   filter(is.na(lanhee_chen_rep) == TRUE) %>%
+#   filter(is.na(laphonza_romanique_butler_dem) == TRUE) %>%
+#   filter(is.na(kamala_harris_dem) == TRUE) %>%
+#   filter(is.na(rick_caruso_dem) == TRUE) %>%
+#   filter(is.na(rob_bonta_dem) == TRUE) %>%
+#   filter(is.na(richard_allen_grenell_rep) == TRUE)
 
 polls <- polls %>% mutate(
   ## Dropouts
@@ -272,6 +277,9 @@ polls <- polls %>% mutate(
   
   ## Minor candidates
   minor_cands_in = as.numeric(if_else(is.na(butch_ware_gre), 0, 1))
+) %>% mutate(
+  sponsors = replace_na(sponsors, "NA"),
+  sponsor_candidate = replace_na(sponsor_candidate, "NA")
 )
 
   cand_name = "katie_porter_dem"
@@ -281,11 +289,8 @@ polls <- polls %>% mutate(
   polls_cand <- polls %>% left_join(df_avg %>% filter(cand == cand_name) %>%
                                select(end_date, avg), join_by(end_date))
   
-  ## Remove if REP-sponsored polls are conducted
   polls_cand <- polls_cand %>% mutate(
     partisan = replace_na(partisan, "NA")
-  ) %>% mutate(
-    partisan = case_match(partisan, "NA" ~ 0, "DEM" ~ 1)
   )
   
   polls_cand <- polls_cand %>% rename(cand = !!cand_name)
@@ -298,8 +303,16 @@ polls <- polls %>% mutate(
   #  swalwell_in + mahan_in
   
   fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
-                      (1 | population) + (1 | sponsor_candidate) + partisan +
-                      minor_cands_in + factor(kouna_in) + avg,
+                      (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
+                      factor(minor_cands_in) + factor(kouna_in) + factor(atkins_in) + 
+                      factor(steyer_in) +
+                      factor(swalwell_in) + factor(mahan_in) +
+                      factor(kouna_in) + factor(atkins_in) +
+                      factor(langford_in) + factor(cloobeck_in) +
+                      factor(yee_in) + factor(cox_in) + factor(chen_in) + 
+                      factor(garvey_in) + factor(laphonza_in) + 
+                      factor(dahle_in) + factor(harris_in) + factor(caruso_in) +
+                      factor(bonta_in) + factor(grenell_in) + avg,
                     family = gaussian(),
                     data = polls_cand,
                     prior = normal(0, 1, autoscale = TRUE),
