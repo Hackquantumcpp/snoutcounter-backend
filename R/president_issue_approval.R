@@ -119,8 +119,9 @@ poll_avg <- function(data_frame, date) {
   }
   
   ### Multiple polls in short window weights
-  df <- df %>% mutate(
-    poll_spon_id = group_indices(., pollster))
+  df <- df %>% group_by(pollster) %>%
+    mutate(poll_spon_id = cur_group_id()) %>%
+    ungroup()
   df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
@@ -209,11 +210,10 @@ avg_over_time <- function(data_frame) {
 }
 
 polls <- polls %>% mutate(end_date = mdy(end_date), 
-                          start_date = mdy(start_date),
-                          poll_id = group_indices(., pollster, sponsor, end_date),
-                          issue_id = group_indices(., issue)) %>% mutate(
-                            entry_id = group_indices(., poll_id, issue_id)
-                          )
+                          start_date = mdy(start_date)) %>%
+  group_by(pollster, sponsor, end_date) %>% mutate(poll_id = cur_group_id()) %>% ungroup() %>%
+  group_by(issue) %>% mutate(issue_id = cur_group_id()) %>% ungroup() %>%
+  group_by(poll_id, issue_id) %>% mutate(entry_id = cur_group_id()) %>% ungroup()
 
 polls_tracking <- tracking_polls_pipeline(polls) %>% select(-interval) # Drop interval column
 
