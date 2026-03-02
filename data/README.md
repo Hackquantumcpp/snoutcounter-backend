@@ -2,6 +2,10 @@
 
 Historical polling datasets from [538](https://web.archive.org/web/20250131211134/https://projects.fivethirtyeight.com/polls/). Polling datasets for current cycle are collected and maintained by myself, with general presidential approval and generic ballot data before January 4, 2026 being sourced from Mary Radcliffe's dataset of polls (before it was merged into [FiftyPlusOne](https://fiftyplusone.news/)) and [The New York Times](https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html).
 
+### Notes
+
+- The `israel_iran_conflict` issue has been renamed to `twelve_day_war` for ease in retroactive analysis, and to distinguish polling on the Twelve-Day War from polling on current or future conflicts involving Iran and Israel.
+
 ### Directory Map
 
 - `fte/` - Polling datasets from 538
