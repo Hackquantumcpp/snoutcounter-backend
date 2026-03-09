@@ -6,6 +6,7 @@ library(rsample) # rsample in tidymodels
 library(DescTools)
 library(progressr)
 library(locpol)
+library(broom.mixed)
 
 # Get banned pollsters
 source("banned_pollsters.R")
@@ -37,7 +38,7 @@ cands <- c("Eric Swalwell", "Tom Steyer", "Steve Hilton", "Xavier Becerra",
            "Katie Porter", "Chad Bianco", "Matt Mahan", "Eleni Kounalakis",
            "Antonio Ramón Villaraigosa")
 
-cand_cols <- c("eric_swalwell_dem", "katie_porter_dem", "eleni_kounalakis_dem",
+cand_cols <- c("eric_swalwell_dem", "katie_porter_dem",
                "steve_hilton_rep", "chad_bianco_rep", "xavier_becerra_dem",
                "tom_steyer_dem", "matt_mahan_dem",
                "antonio_ramon_villaraigosa_dem")
@@ -116,13 +117,14 @@ poll_avg <- function(data_frame, date) {
   }
   
   ### Multiple polls in short window weights
-  df <- df %>% mutate(
-    poll_spon_id = group_indices(., pollster))
+  df <- df %>% group_by(pollster) %>%
+    mutate(poll_spon_id = cur_group_id()) %>%
+    ungroup()
   df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
   ### Recency weight
-  window <- 21
+  window <- 14
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
@@ -173,7 +175,7 @@ avg_over_time <- function(data_frame) {
     
     df_cand <- tibble()
     df_only_cand <- df_weights %>% filter(is.na(df_weights[[cand]]) == FALSE)
-    date_interv <- seq(min(df_only_cand$end_date, na.rm = TRUE), today(), by = "day")
+    date_interv <- seq(pmax(min(df_only_cand$end_date, na.rm = TRUE), ymd("2025-08-01")), today(), by = "day")
     
     with_progress({
       p <- progressor(along = date_interv)
@@ -199,8 +201,145 @@ avg_over_time <- function(data_frame) {
   return(df_avg)
 }
 
-polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date),
-                          poll_id = group_indices(., pollster, sponsors, sponsor_candidate, start_date, end_date))
+#### With adjustments
+avg_over_time_w_adj <- function(data_frame, model, cand) {
+  df <- data_frame # Copy data frame
+  
+  fixed <- tidy(model, effects = "fixed", conf.int = TRUE, conf.level = 0.95)
+  randomeff <- tidy(model, effects = "ran_vals", conf.int = TRUE, conf.level = 0.95)
+  
+  cand_sponsor_effs <- randomeff %>% filter(group == "sponsor_candidate")
+  na_candspon_eff <- (cand_sponsor_effs %>% filter(level == "NA"))$estimate[1]
+  
+  cand_sponsor_effs$estimate <- na_candspon_eff - cand_sponsor_effs$estimate
+  
+  df_avg <- tibble()
+  
+  avg_oneday <- function(date, cand) {
+    df_weights <- poll_avg(data_frame, date) %>% filter(is.na(.[[cand]]) == FALSE)
+    
+    df_weights <- df_weights %>% mutate(
+      ## Dropouts
+      kouna_in = as.numeric(if_else(is.na(eleni_kounalakis_dem), 0, 1)),
+      atkins_in = as.numeric(if_else(is.na(toni_g_atkins_dem), 0, 1)),
+      langford_in = as.numeric(if_else(is.na(kyle_langford_rep), 0, 1)),
+      cloobeck_in = as.numeric(if_else(is.na(stephen_j_cloobeck_dem), 0, 1)),
+      calderon_in = as.numeric(if_else(is.na(ian_calderon_dem), 0, 1)),
+      
+      ## Dropins
+      steyer_in = as.numeric(if_else(is.na(tom_steyer_dem), 0, 1)),
+      swalwell_in = as.numeric(if_else(is.na(eric_swalwell_dem), 0, 1)),
+      mahan_in = as.numeric(if_else(is.na(matt_mahan_dem), 0, 1)),
+      
+      ## Selectively excluded candidates
+      yee_in = as.numeric(if_else(is.na(betty_t_yee_dem), 0, 1)),
+      
+      ## Hypotheticals
+      cox_in = as.numeric(if_else(is.na(john_cox_rep), 0, 1)),
+      chen_in = as.numeric(if_else(is.na(lanhee_chen_rep), 0, 1)),
+      garvey_in = as.numeric(if_else(is.na(steve_garvey_rep), 0, 1)),
+      laphonza_in = as.numeric(if_else(is.na(laphonza_romanique_butler_dem), 0, 1)),
+      dahle_in = as.numeric(if_else(is.na(brian_dahle_rep), 0, 1)),
+      harris_in = as.numeric(if_else(is.na(kamala_harris_dem), 0, 1)),
+      caruso_in = as.numeric(if_else(is.na(rick_caruso_dem), 0, 1)),
+      bonta_in = as.numeric(if_else(is.na(rob_bonta_dem), 0, 1)),
+      grenell_in = as.numeric(if_else(is.na(richard_allen_grenell_rep), 0, 1)),
+      
+      ## Minor candidates
+      minor_cands_in = as.numeric(if_else(is.na(butch_ware_gre), 0, 1))
+    ) %>% mutate(
+      sponsors = replace_na(sponsors, "NA"),
+      sponsor_candidate = replace_na(sponsor_candidate, "NA")
+    )
+    
+    ## Dropins
+    if (date < ymd("2025-11-19")) { ## Tom Steyer
+      eff <- (fixed %>% filter(term == "factor(steyer_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$steyer_in
+    }
+    else { ## Tom Steyer
+      eff <- (fixed %>% filter(term == "factor(steyer_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$steyer_in)
+    }
+    
+    if (date < ymd("2025-11-20")) { ## Eric Swalwell
+      eff <- (fixed %>% filter(term == "factor(swalwell_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$swalwell_in
+    }
+    else { ## Eric Swalwell
+      eff <- (fixed %>% filter(term == "factor(swalwell_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$swalwell_in)
+    }
+    
+    if (date < ymd("2026-01-29")) { ## Matt Mahan
+      eff <- (fixed %>% filter(term == "factor(mahan_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$mahan_in
+    }
+    else { ## Matt Mahan
+      eff <- (fixed %>% filter(term == "factor(mahan_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$mahan_in)
+    }
+    
+    ## Dropouts
+    
+    if (date >= ymd("2026-08-08")) { # Eleni Kounalakis
+      eff <- (fixed %>% filter(term == "factor(kouna_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] -  eff*(1-df_weights$kouna_in)
+    }
+    if (date >= ymd("2026-09-29")) { # Toni Atkins
+      eff <- (fixed %>% filter(term == "factor(atkins_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] - eff*(1-df_weights$atkins_in)
+    }
+    
+    df_weights$total_weight <- df_weights$total_weight / sum(df_weights$total_weight)
+    cand_avg <- sum(df_weights$total_weight * df_weights[[cand]])
+    cand_sd <- sqrt(sum(df_weights$total_weight * (df_weights[[cand]] - cand_avg)^2))
+    
+    return(
+      list(
+        avg = cand_avg,
+        sd = cand_sd,
+        cand = cand
+      )
+    )
+  }
+  
+  for (cand in cand_cols) {
+    
+    print(cand)
+    
+    df_cand <- tibble()
+    df_only_cand <- df_weights %>% filter(is.na(df_weights[[cand]]) == FALSE)
+    date_interv <- seq(pmax(min(df_only_cand$end_date, na.rm = TRUE), ymd("2025-08-01")), today(), by = "day")
+    
+    with_progress({
+      p <- progressor(along = date_interv)
+      
+      df_cand <- bind_cols(
+        tibble(end_date = date_interv),
+        map_dfr(date_interv, function(d) {
+          p()
+          avg_oneday(d, cand)
+        })
+      )
+    })
+    
+    if (nrow(df_avg) == 0) {
+      df_avg <- df_cand
+    }
+    
+    else {
+      df_avg <- bind_rows(df_avg, df_cand)
+    }
+  }
+  
+  return(df_avg)
+}
+
+polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date)) %>%
+  group_by(pollster, sponsors, sponsor_candidate, start_date, end_date) %>%
+  mutate(poll_id = cur_group_id()) %>%
+  ungroup()
 
 polls <- polls %>% pivot_wider(
   names_from = c(candidate_name, party),
@@ -255,6 +394,7 @@ polls <- polls %>% mutate(
   atkins_in = as.numeric(if_else(is.na(toni_g_atkins_dem), 0, 1)),
   langford_in = as.numeric(if_else(is.na(kyle_langford_rep), 0, 1)),
   cloobeck_in = as.numeric(if_else(is.na(stephen_j_cloobeck_dem), 0, 1)),
+  calderon_in = as.numeric(if_else(is.na(ian_calderon_dem), 0, 1)),
   
   ## Dropins
   steyer_in = as.numeric(if_else(is.na(tom_steyer_dem), 0, 1)),
@@ -282,27 +422,27 @@ polls <- polls %>% mutate(
   sponsor_candidate = replace_na(sponsor_candidate, "NA")
 )
 
-  cand_name = "katie_porter_dem"
+cand_name = "katie_porter_dem"
   
-  print(cand_name)
+print(cand_name)
 
-  polls_cand <- polls %>% left_join(df_avg %>% filter(cand == cand_name) %>%
+polls_cand <- polls %>% left_join(df_avg %>% filter(cand == cand_name) %>%
                                select(end_date, avg), join_by(end_date))
   
-  polls_cand <- polls_cand %>% mutate(
+polls_cand <- polls_cand %>% mutate(
     partisan = replace_na(partisan, "NA")
-  )
+)
   
-  polls_cand <- polls_cand %>% rename(cand = !!cand_name)
-  polls_cand$cand <- as.numeric(polls_cand$cand)
+polls_cand <- polls_cand %>% rename(cand = !!cand_name)
+polls_cand$cand <- as.numeric(polls_cand$cand)
   
-  View(polls_cand)
+View(polls_cand)
   
   # kouna_in +
   # atkins_in + steyer_in +
   #  swalwell_in + mahan_in
   
-  fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                       (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                       factor(minor_cands_in) + factor(kouna_in) + factor(atkins_in) + 
                       factor(steyer_in) +
@@ -312,7 +452,7 @@ polls <- polls %>% mutate(
                       factor(yee_in) + factor(cox_in) + factor(chen_in) + 
                       factor(garvey_in) + factor(laphonza_in) + 
                       factor(dahle_in) + factor(harris_in) + factor(caruso_in) +
-                      factor(bonta_in) + factor(grenell_in) + avg,
+                      factor(bonta_in) + factor(grenell_in) + factor(calderon_in) + avg,
                     family = gaussian(),
                     data = polls_cand,
                     prior = normal(0, 1, autoscale = TRUE),
@@ -321,10 +461,10 @@ polls <- polls %>% mutate(
                     refresh = 100,
                     seed = 1010)
   
-  print(fit)
-  print(summary(fit))
-  print(fixef(fit))
-  print(ranef(fit))
+print(fit)
+print(summary(fit))
+print(fixef(fit))
+print(ranef(fit))
   
   ## For now we want to convert to RV due to likely voter samples being less
   ## reliable at this point in time; come Labor Day we want to switch
