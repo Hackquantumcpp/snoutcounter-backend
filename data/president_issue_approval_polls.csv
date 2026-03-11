@@ -2053,3 +2053,21 @@ border_security,Hart Research Associates/Public Opinion Strategies,02/27/2026,3/
 immigration,Hart Research Associates/Public Opinion Strategies,02/27/2026,3/3/2026,1000,RV,44,54,-10,https://www.nbcnews.com/politics/2026-election/poll-trump-struggles-immigration-prices-iran-democrats-midterm-edge-rcna261861,NBC News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 foreign_policy,Hart Research Associates/Public Opinion Strategies,02/27/2026,3/3/2026,1000,RV,43,54,-11,https://www.nbcnews.com/politics/2026-election/poll-trump-struggles-immigration-prices-iran-democrats-midterm-edge-rcna261861,NBC News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 inflation,Hart Research Associates/Public Opinion Strategies,02/27/2026,3/3/2026,1000,RV,36,62,-26,https://www.nbcnews.com/politics/2026-election/poll-trump-struggles-immigration-prices-iran-democrats-midterm-edge-rcna261861,NBC News,Live Phone/Text-to-Web,FALSE,Inflation and the cost of living,NA,NA
+military,Quinnipiac University,03/06/2026,3/8/2026,1002,RV,42,55,-13,https://poll.qu.edu/poll-release?releaseid=3952,NA,Live Phone,FALSE,his job as Commander in Chief of the U.S. military,NA,NA
+foreign_policy,Quinnipiac University,03/06/2026,3/8/2026,1002,RV,40,57,-17,https://poll.qu.edu/poll-release?releaseid=3952,NA,Live Phone,FALSE,NA,NA,NA
+economy,Quinnipiac University,03/06/2026,3/8/2026,1002,RV,39,58,-19,https://poll.qu.edu/poll-release?releaseid=3952,NA,Live Phone,FALSE,NA,NA,NA
+iran,Quinnipiac University,03/06/2026,3/8/2026,1002,RV,38,57,-19,https://poll.qu.edu/poll-release?releaseid=3952,NA,Live Phone,FALSE,NA,NA,NA
+economy,YouGov,03/06/2026,3/9/2026,1563,A,37,58,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,03/06/2026,3/9/2026,1563,A,33,62,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+taxes,YouGov,03/06/2026,3/9/2026,1563,A,38,54,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+govt_spending,YouGov,03/06/2026,3/9/2026,1563,A,35,58,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,03/06/2026,3/9/2026,1563,A,45,52,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+foreign_policy,YouGov,03/06/2026,3/9/2026,1563,A,39,54,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+crime,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,51,42,9,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Fighting crime in America's cities,NA,NA
+immigration,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,48,46,2,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,45,46,-1,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Foreign Affairs,NA,NA
+economy,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,45,49,-4,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+inflation,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,44,50,-6,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+govt_management,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,44,48,-4,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Administering the government,NA,NA
+trade_tariffs,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,43,50,-7,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+metro_surge_minn,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,42,50,-8,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Responding to anti-ICE protests in Minneapolis,NA,NA
