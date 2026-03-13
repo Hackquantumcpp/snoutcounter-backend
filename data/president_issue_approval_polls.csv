@@ -2085,3 +2085,9 @@ medicaire_social_security,Morning Consult,03/06/2026,3/8/2026,2202,RV,42,49,-7,h
 healthcare,Morning Consult,03/06/2026,3/8/2026,2202,RV,41,51,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,03/06/2026,3/8/2026,2202,RV,38,48,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,03/06/2026,3/8/2026,2202,RV,32,46,-14,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Focaldata,03/06/2026,03/10/2026,1782,A,39,46,-7,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,Immigration and border security,NA,NA
+foreign_policy,Focaldata,03/06/2026,03/10/2026,1782,A,33,47,-14,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,NA,NA,NA
+iran,Focaldata,03/06/2026,03/10/2026,1782,A,32,48,-16,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,NA,NA,NA
+economy,Focaldata,03/06/2026,03/10/2026,1782,A,31,50,-19,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,Jobs and the economy,NA,NA
+healthcare,Focaldata,03/06/2026,03/10/2026,1782,A,27,51,-24,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,NA,NA,NA
+inflation,Focaldata,03/06/2026,03/10/2026,1782,A,27,56,-29,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,Inflation and the cost of living,NA,NA
