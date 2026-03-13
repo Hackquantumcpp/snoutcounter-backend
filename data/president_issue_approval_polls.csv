@@ -2073,3 +2073,15 @@ trade_tariffs,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,43,50,-7,
 metro_surge_minn,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,42,50,-8,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Responding to anti-ICE protests in Minneapolis,NA,NA
 economy,Marist College,03/02/2026,3/4/2026,1591,A,35,58,-23,https://maristpoll.marist.edu/polls/election-security-march-2026/,NPR | PBS News,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA,NA
 immigration,Marist College,03/02/2026,3/4/2026,1591,A,40,57,-17,https://maristpoll.marist.edu/polls/election-security-march-2026/,NPR | PBS News,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA,NA
+national_security,Morning Consult,03/06/2026,3/8/2026,2202,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,03/06/2026,3/8/2026,2202,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+taxes,Morning Consult,03/06/2026,3/8/2026,2202,RV,46,47,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,03/06/2026,3/8/2026,2202,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,03/06/2026,3/8/2026,2202,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,03/06/2026,3/8/2026,2202,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+economy,Morning Consult,03/06/2026,3/8/2026,2202,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,03/06/2026,3/8/2026,2202,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+medicaire_social_security,Morning Consult,03/06/2026,3/8/2026,2202,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,03/06/2026,3/8/2026,2202,RV,41,51,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,Morning Consult,03/06/2026,3/8/2026,2202,RV,38,48,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,03/06/2026,3/8/2026,2202,RV,32,46,-14,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
