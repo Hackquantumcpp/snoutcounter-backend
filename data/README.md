@@ -16,4 +16,4 @@ Historical polling datasets from [538](https://web.archive.org/web/2025013121113
 
 - `president_issue_approval_polls.csv` - Polls measuring presidential approval on specific issues for current president (Donald Trump, second term).
 
-- `governor_primary_ca.gov` - Polls measuring electoral intent for 2026 California gubernatorial primary.
+- `governor_primary_ca.csv` - Polls measuring electoral intent for 2026 California gubernatorial primary.
