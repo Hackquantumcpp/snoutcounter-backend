@@ -100,17 +100,34 @@ poll_avg <- function(data_frame, date) {
   # Quick wrangling
   df$sponsors[df$pollster == "CNN/SSRS"] <- "CNN"
   df$pollster[df$pollster == "CNN/SSRS"] <- "SSRS"
+  df <- df %>% mutate(
+    pollster_ratname = recode(pollster,
+                              "Quantus Insights" = "Quantus Polls and News",
+                              "University of California Berkeley Institute of Governmental Studies" = "University of California Berkeley"
+    )
+  )
   
   ### Quality weights
-  df <- df %>% left_join(ratings, join_by(pollster)) %>%
+  df_25 <- df %>% filter(end_date < ymd("2026-01-14")) %>% left_join(ratings_24 %>% rename(pollster_ratname = pollster),
+                                                                     join_by(pollster_ratname))
+  
+  df_26 <- df %>% filter(end_date >= ymd("2026-01-14")) %>% left_join(ratings %>% rename(pollster_ratname = pollster),
+                                                                      join_by(pollster_ratname))
+  df <- bind_rows(df_25, df_26)
+  
+  df <- df %>%
     filter(
-      !(pollster %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
+      !(pollster_ratname %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
     ) %>%
     mutate(
       predictive_plus_minus = coalesce(predictive_plus_minus, 5),
       # quality_weight = if_else(predictive_plus_minus < 0.5, exp(-predictive_plus_minus/1.3), 0.2)
       quality_weight = if_else(predictive_plus_minus <= 1, sqrt(1/2.4 * (1 - predictive_plus_minus)) + 0.2, 0.2)    
     )
+  
+  pid_in_window <- function(end_date, pid) {
+    return(polls_in_window(df, end_date, pid))
+  }
   
   pid_in_window <- function(end_date, pid) {
     return(polls_in_window(df, end_date, pid))
