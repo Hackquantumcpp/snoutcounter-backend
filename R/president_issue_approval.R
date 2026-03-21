@@ -32,7 +32,7 @@ general_appr <- read_csv("presidential_gen_approval.csv")
 setwd("../R")
 
 issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
-                'crime', 'healthcare')
+                'crime', 'healthcare', 'iran')
 
 # issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
 #                 'crime', 'healthcare', 'ukraine', 'israel_palestine', 'govt_spending',
@@ -357,10 +357,22 @@ for (i in issue_list) {
   
 }
 
-chosen_issue <- "economy"
+setwd("../averages/")
+
+iran_war_appr <- issue_avgs %>% filter(issue == 'iran')
+
+issue_avgs <- issue_avgs %>% filter(issue != 'iran')
+
+write_csv(issue_avgs, "presidential_issue_approvals.csv")
+
+write_csv(iran_war_appr, "presidential_2026_iran_war_approvals.csv")
+
+setwd("../R/")
+
+chosen_issue <- "iran"
 
 ggplot(
-  issue_avgs %>% filter(issue == chosen_issue), aes(x = end_date)
+  iran_war_appr, aes(x = end_date)
 ) + geom_line(size = 1, mapping = aes(y = approve, color = "Approve")) +
   geom_line(size = 1, mapping = aes(y = disapprove, color = "Disapprove")) +
   scale_color_manual(
@@ -376,26 +388,42 @@ ggplot(
   labs(
     x = "Date",
     y = "%",
-    title = str_c(c("Presidential Issue Approval (", chosen_issue, ")"), collapse = "")
+    title = str_c(c("Presidential Issue Approval (", str_to_sentence(chosen_issue), ")"), collapse = "")
+  ) + xlim(ymd("2026-01-01"), today()) + ylim(20, 75) +
+  geom_vline(
+    xintercept = ymd("2026-02-28"),
+    linetype = "solid",
+    color = "black"
+  ) + annotate(
+    "text",
+    x = ymd("2026-02-28"),
+    y = 75,
+    label = "Iran war begins",
+    hjust = -0.05
   )
 
 ggplot(
-  issue_avgs %>% filter(issue == chosen_issue), mapping = aes(x = end_date, y = net)
+  iran_war_appr, mapping = aes(x = end_date, y = net)
 ) + geom_line(color = "red", size = 1) + 
   geom_ribbon(aes(ymin = net_lower_ci, ymax = net_upper_ci), fill = "#dc9a88", alpha = 0.4) +
   geom_point(data = polls %>% filter(issue == chosen_issue), mapping = aes(y = net), color = "red", alpha = 0.2) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 0.5) +
   labs(
-  x = "Date",
-  y = "Net Approval %",
-  title = str_c(c("Presidential Issue Net Approval (", chosen_issue, ")"), collapse = "")
-)
-
-setwd("../averages/")
-
-write_csv(issue_avgs, "presidential_issue_approvals.csv")
-
-setwd("../R/")
+    x = "Date",
+    y = "Net Approval %",
+    title = str_c(c("Presidential Issue Net Approval (", chosen_issue, ")"), collapse = "")
+  ) + xlim(ymd("2026-01-01"), today()) +
+  geom_vline(
+    xintercept = ymd("2026-02-28"),
+    linetype = "solid",
+    color = "black"
+  ) + annotate(
+    "text",
+    x = ymd("2026-02-28"),
+    y = 1,
+    label = "Iran war begins",
+    hjust = -0.05
+  )
 
 # Polls dataset - display table
 
