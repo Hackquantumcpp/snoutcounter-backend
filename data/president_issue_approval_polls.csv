@@ -2155,3 +2155,8 @@ iran,RMG Research,03/02/2026,3/3/2026,1000,RV,42,49,-7,https://napolitannews.org
 crime,Ipsos,03/17/2026,3/19/2026,1545,A,42,47,-5,https://www.ipsos.com/en-us/americans-think-its-likely-us-will-send-troops-iran,Reuters,Probability Panel,FALSE,NA,NA,NA
 foreign_policy,Ipsos,03/17/2026,3/19/2026,1545,A,34,56,-22,https://www.ipsos.com/en-us/americans-think-its-likely-us-will-send-troops-iran,Reuters,Probability Panel,FALSE,NA,NA,NA
 inflation,Ipsos,03/17/2026,3/19/2026,1545,A,29,63,-34,https://www.ipsos.com/en-us/americans-think-its-likely-us-will-send-troops-iran,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+economy,YouGov,03/17/2026,3/20/2026,3335,A,36,64,-28,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,03/17/2026,3/20/2026,3335,A,33,67,-34,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,03/17/2026,3/20/2026,3335,A,45,55,-10,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+economy,American Research Group,03/16/2026,3/20/2026,1100,A,33,64,-31,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
+iran,YouGov,03/17/2026,3/20/2026,3335,A,38,62,-24,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
