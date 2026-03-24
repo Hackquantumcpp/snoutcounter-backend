@@ -2012,7 +2012,7 @@ crime,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,39.1,48.8,-9.7,
 foreign_policy,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,38.5,55.1,-16.6,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,Foreign Policy & National Security,NA,NA
 healthcare,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,31.2,62.6,-31.4,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Healthcare, Social Security & Medicare",NA,NA
 education,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,32.6,59.4,-26.8,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Education, Housing & Family Issues",NA,NA
-energy,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,37.6,54.2,-16.6,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Energy, Climate & The Environment",NA,NA
+environment,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,37.6,54.2,-16.6,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Energy, Climate & The Environment",NA,NA
 guns,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,43.6,41.3,2.3,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,Guns & Second Amendment Rights,NA,NA
 civil_rights,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,32.3,56.1,-23.8,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Civil Rights, Personal Freedoms & Social Issues",NA,NA
 corruption,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,30.9,57.7,-26.8,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Political Corruption, Lobbying & Money in Politics",NA,NA
@@ -2134,9 +2134,9 @@ inflation,Angus Reid Global,03/02/2026,3/5/2026,1529,A,40,45,-5,https://angusrei
 healthcare,Angus Reid Global,03/02/2026,3/5/2026,1529,A,41,43,-2,https://angusreid.org/tariffs-trade-trump-maga-canada-uscma-nafta-carney/,NA,Online Opt-In Panel,FALSE,Improving the accessibility (including the cost) of health care,NA,NA
 deportations,Angus Reid Global,03/02/2026,3/5/2026,1529,A,34,57,-23,https://angusreid.org/tariffs-trade-trump-maga-canada-uscma-nafta-carney/,NA,Online Opt-In Panel,FALSE,ICE enforcement operations,NA,NA
 illegal_immigration,Angus Reid Global,03/02/2026,3/5/2026,1529,A,47,42,5,https://angusreid.org/tariffs-trade-trump-maga-canada-uscma-nafta-carney/,NA,Online Opt-In Panel,FALSE,Reducing illegal immigration,NA,NA
-iran,John Zogby Strategies,03/17/2026,3/19/2026,1000,LV,43,52,-9,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,Online Opt-In Panel,FALSE,the war in Iran,NA,NA
-economy,John Zogby Strategies,03/17/2026,3/19/2026,1000,LV,41,55,-14,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,John Zogby Strategies,03/17/2026,3/19/2026,1000,LV,40,54,-14,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,John Zogby Strategies,03/17/2026,3/19/2026,1000,LV,43,52,-9,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,NA,FALSE,the war in Iran,NA,NA
+economy,John Zogby Strategies,03/17/2026,3/19/2026,1000,LV,41,55,-14,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,John Zogby Strategies,03/17/2026,3/19/2026,1000,LV,40,54,-14,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,NA,FALSE,NA,NA,NA
 iran,RMG Research,03/18/2026,3/19/2026,1000,RV,42,57,-15,https://napolitannews.org/posts/iran-becomes-most-followed-story-in-years-amidst-chaos-disapproval-at-57-percent,Napolitan News Service,Online Opt-In Panel,FALSE,the situation in Iran,NA,NA
 national_security,RMG Research,03/16/2026,3/19/2026,1000,RV,49,50,-1,https://napolitannews.org/posts/trumps-approval-largely-unchanged-on-key-issues-from-february-lows,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 crime,RMG Research,03/16/2026,3/19/2026,1000,RV,49,48,1,https://napolitannews.org/posts/trumps-approval-largely-unchanged-on-key-issues-from-february-lows,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2160,3 +2160,15 @@ inflation,YouGov,03/17/2026,3/20/2026,3335,A,33,67,-34,https://www.cbsnews.com/n
 immigration,YouGov,03/17/2026,3/20/2026,3335,A,45,55,-10,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 economy,American Research Group,03/16/2026,3/20/2026,1100,A,33,64,-31,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
 iran,YouGov,03/17/2026,3/20/2026,3335,A,38,62,-24,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+economy,The Argument/Verasight,03/12/2026,3/17/2026,1519,RV,39,58,-19,https://substack.com/inbox/post/191802614,NA,Text/Online Ad/Email,FALSE,NA,NA,NA
+immigration,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,49.9,46,3.9,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Immigration & Border,NA,NA
+guns,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,42.5,43.3,-0.8,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Guns & 2nd Amendment,NA,NA
+crime,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,43.9,50.3,-6.4,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Crime & Public Safety,NA,NA
+foreign_policy,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,44.1,52.7,-8.6,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Foreign Policy & National Security,NA,NA
+healthcare,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,39.7,53,-13.3,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Healthcare & Social Security,NA,NA
+civil_rights,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,39.4,51.6,-12.2,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Civil rights & freedoms,NA,NA
+education,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,35.5,53.5,-18,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,"Education, Housing & Family",NA,NA
+environment,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,38.8,52.3,-13.5,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,"Energy, Climate & Environment",NA,NA
+economy,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,38.6,57.4,-18.8,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,"Economy, Jobs & Cost of Living",NA,NA
+corruption,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,33.4,56.1,-22.7,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,Political corruption,NA,NA
+epstein_files,The Public Sentiment Institute,03/20/2026,3/20/2026,373,RV,27.3,59.5,-32.2,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,NA,Online Opt-In Panel,FALSE,NA,NA,NA

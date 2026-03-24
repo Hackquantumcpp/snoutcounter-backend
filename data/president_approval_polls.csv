@@ -1153,7 +1153,7 @@ Tavern Research,Searchlight Institute,2026-02-18,2026-02-19,1526,LV,41,56,NA,htt
 Tavern Research,Searchlight Institute,2025-09-28,2025-09-28,2589,LV,40,56,NA,https://www.searchlightinstitute.org/wp-content/uploads/2026/03/Searchlight-Tavern-Research-September-2025-Toplines.pdf,Online Opt-In Panel,FALSE,NA,NA
 Rasmussen Reports,NA,2026-03-12,2026-03-18,1500,LV,44,55,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
 Emerson College,NA,2026-03-16,2026-03-17,1000,LV,41.9,51.4,6.7,https://emersoncollegepolling.com/march-2026-national-poll-47-oppose-us-military-action-in-iran-40-support/,Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
-John Zogby Strategies,NA,2026-03-17,2026-03-19,1000,LV,44,54,NA,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,Online Opt-In Panel,FALSE,NA,NA
+John Zogby Strategies,NA,2026-03-17,2026-03-19,1000,LV,44,54,NA,https://johnzogbystrategies.com/decisive-poll-on-war-with-iran/,NA,FALSE,NA,NA
 RMG Research,Napolitan News Service,2026-03-11,2026-03-19,3000,RV,46,53,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
 Rasmussen Reports,NA,2026-03-13,2026-03-19,1500,LV,45,54,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
 Quantus Insights,NA,2026-03-17,2026-03-18,1053,LV,44.1,55.1,0.5,https://quantusinsights.org/f/national-survey-a-divided-country-and-a-motivated-electorate#ddfaccf9-bede-412a-8ce9-6f9ddda07554,Text-to-Web/Text,FALSE,NA,NA
@@ -1162,3 +1162,7 @@ J.L. Partners,Daily Mail,2026-03-18,2026-03-20,1037,RV,39,53,7,https://jlpartner
 YouGov,CBS News,2026-03-17,2026-03-20,3335,A,40,60,NA,https://www.cbsnews.com/news/opinion-poll-iran-war-regime-2028-03-22/,Online Matched Sample,FALSE,NA,NA
 American Research Group,NA,2026-03-16,2026-03-20,1100,A,34,63,3,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
 American Research Group,NA,2026-03-16,2026-03-20,1008,RV,34,63,3,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
+The Argument/Verasight,NA,2026-03-12,2026-03-17,1519,RV,40,58,2,https://substack.com/inbox/post/191802614,Text/Online Ad/Email,FALSE,NA,NA
+Rasmussen Reports,NA,2026-03-16,2026-03-20,1500,LV,45,54,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+The Public Sentiment Institute,NA,2026-03-20,2026-03-20,373,LV,45.4,53.6,0.9,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,Online Opt-In Panel,FALSE,NA,NA
+The Public Sentiment Institute,NA,2026-03-20,2026-03-20,373,RV,45.3,54,0.7,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march,Online Opt-In Panel,FALSE,NA,NA
