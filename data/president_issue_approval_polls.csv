@@ -2180,5 +2180,29 @@ economy,YouGov,03/20/2026,3/23/2026,1665,A,35,60,-25,https://d3nkl3psvxxpe9.clou
 inflation,YouGov,03/20/2026,3/23/2026,1665,A,30,64,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 us_allies,YouGov,03/20/2026,3/23/2026,1665,A,35,53,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,The Economist,Online Matched Sample,FALSE,relations with foreign allies,NA,NA
 iran,YouGov,03/20/2026,3/23/2026,1665,A,36,55,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-economy,Ipsos,03/20/2026,3/23/2026,1272,A,29,62,-33,https://www.reuters.com/world/us/trumps-approval-hits-new-36-low-fuel-prices-surge-amid-iran-war-reutersipsos-2026-03-24/,Reuters,Probability Panel,FALSE,NA,NA,NA
-immigration,Ipsos,03/20/2026,3/23/2026,1272,A,40,53,-13,https://www.reuters.com/world/us/trumps-approval-hits-new-36-low-fuel-prices-surge-amid-iran-war-reutersipsos-2026-03-24/,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Ipsos,03/20/2026,3/23/2026,1272,A,29,62,-33,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,03/20/2026,3/23/2026,1272,A,40,53,-13,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,03/20/2026,3/23/2026,1272,A,39,49,-10,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,03/20/2026,3/23/2026,1272,A,31,58,-27,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,03/20/2026,3/23/2026,1272,A,23,68,-45,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,03/20/2026,3/23/2026,1272,A,29,60,-31,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Quinnipiac University,03/19/2026,3/23/2026,1191,RV,38,58,-20,https://poll.qu.edu/poll-release?releaseid=3953,NA,Live Phone,FALSE,NA,NA,NA
+foreign_policy,Quinnipiac University,03/19/2026,3/23/2026,1191,RV,36,59,-23,https://poll.qu.edu/poll-release?releaseid=3953,NA,Live Phone,FALSE,NA,NA,NA
+iran,Quinnipiac University,03/19/2026,3/23/2026,1191,RV,34,59,-25,https://poll.qu.edu/poll-release?releaseid=3953,NA,Live Phone,FALSE,NA,NA,NA
+economy,AP-NORC,03/19/2026,3/23/2026,1150,A,38,61,-23,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
+trade_tariffs,AP-NORC,03/19/2026,3/23/2026,1150,A,38,61,-23,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,Trade negotiations with other countries,NA,NA
+foreign_policy,AP-NORC,03/19/2026,3/23/2026,1150,A,34,64,-30,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
+iran,AP-NORC,03/19/2026,3/23/2026,1150,A,35,63,-28,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
+cuba,AP-NORC,03/19/2026,3/23/2026,1150,A,36,62,-26,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,03/20/2026,3/22/2026,2202,RV,47,46,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,03/20/2026,3/22/2026,2202,RV,47,44,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,03/20/2026,3/22/2026,2202,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+taxes,Morning Consult,03/20/2026,3/22/2026,2202,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,03/20/2026,3/22/2026,2202,RV,43,47,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,03/20/2026,3/22/2026,2202,RV,43,47,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+economy,Morning Consult,03/20/2026,3/22/2026,2202,RV,42,51,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+medicaire_social_security,Morning Consult,03/20/2026,3/22/2026,2202,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,03/20/2026,3/22/2026,2202,RV,41,51,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,03/20/2026,3/22/2026,2202,RV,41,50,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,Morning Consult,03/20/2026,3/22/2026,2202,RV,38,47,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,03/20/2026,3/22/2026,2202,RV,33,46,-13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA

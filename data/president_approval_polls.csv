@@ -1168,4 +1168,10 @@ Verasight,Strength In Numbers,2026-03-16,2026-03-18,1530,A,37,60,3,https://www.g
 Survey 160,NA,2026-03-09,2026-03-15,1546,RV,38,59,2,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-march-2026,Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
 YouGov,The Economist,2026-03-20,2026-03-23,1665,A,38,56,6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-03-20,2026-03-23,1502,RV,41,55,4,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,Online Matched Sample,FALSE,NA,NA
-Ipsos,Reuters,2026-03-20,2026-03-23,1272,A,36,62,NA,https://www.reuters.com/world/us/trumps-approval-hits-new-36-low-fuel-prices-surge-amid-iran-war-reutersipsos-2026-03-24/,Probability Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-03-20,2026-03-23,1272,A,36,61,3,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Probability Panel,FALSE,NA,NA
+Rasmussen Reports,NA,2026-03-17,2026-03-23,1500,LV,44,55,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+Ipsos,Reuters,2026-03-20,2026-03-23,985,RV,40,59,1,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,Probability Panel,FALSE,NA,NA
+AP-NORC,NA,2026-03-19,2026-03-23,1150,A,38,60,NA,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,Probability Panel,FALSE,NA,NA
+Quinnipiac University,NA,2026-03-19,2026-03-23,1191,RV,38,56,NA,https://poll.qu.edu/poll-release?releaseid=3953,Live Phone,FALSE,NA,NA
+Morning Consult,NA,2026-03-20,2026-03-22,2202,RV,43,54,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
+Rasmussen Reports,NA,2026-03-18,2026-03-24,1500,LV,43,56,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA

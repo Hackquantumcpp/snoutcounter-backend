@@ -30,10 +30,6 @@ setwd("../R")
 polls <- polls %>% filter(!(pollster %in% banned_pollsters)) %>% 
   filter(is.na(sample_size) == FALSE) ## For now, can impute sample sizes later
 
-polls <- polls %>% filter(
-  is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
-)
-
 cands <- c("Eric Swalwell", "Tom Steyer", "Steve Hilton", "Xavier Becerra",
            "Katie Porter", "Chad Bianco", "Matt Mahan", "Eleni Kounalakis",
            "Antonio Ramón Villaraigosa")
