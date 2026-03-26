@@ -89,8 +89,39 @@ poll_avg <- function(data_frame, date) {
   
   ### Sample size weights
   size_cap <- 2000
+  
+  df_nullsampsize <- df %>% filter(is.na(sample_size) == TRUE)
+  
+  impute_sample_size <- function(data_frame, pollster, mode) {
+    df <- data_frame # Copy data farme
+    df_pollst <- df %>% filter(pollster == pollster)
+    df_mode <- df %>% filter(mode == mode)
+    
+    if (nrow(df_pollst) != 0) {
+      return(median(df_pollst$sample_size))
+    }
+    else if (nrow(df_mode) != 0) {
+      return (median(df_mode$sample_size))
+    }
+    else {
+      return (median(df$sample_size))
+    }
+  }
+  
+  impute_sample_size_dfnullsampsize <- function(pollster, mode) {
+    return(impute_sample_size(df_nullsampsize %>% select(pollster, mode, sample_size), pollster, mode))
+  }
+  
+  df <- df %>% filter(is.na(sample_size) == FALSE)
   df <- df %>% mutate(sample_size_winsr = pmin(sample_size, size_cap))
   df <- df %>% mutate(sample_size_winsr = Winsorize(sample_size_winsr, val = quantile(sample_size_winsr, probs = c(0.025, 0.975), na.rm = FALSE)))
+  
+  df_nullsampsize <- df_nullsampsize %>% rowwise() %>%
+    mutate(sample_size_winsr = impute_sample_size_dfnullsampsize(pollster, mode)) %>%
+    ungroup()
+  
+  df <- bind_rows(df, df_nullsampsize)
+  
   df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size_winsr, size_cap)) / sqrt(median(pmin(sample_size_winsr, size_cap))))
   
   # Quick wrangling
