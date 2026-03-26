@@ -147,7 +147,7 @@ poll_avg <- function(data_frame, date) {
   )
   
   ## Internals downweight
-  internals_dw <- 0.714
+  internals_dw <- 0.571
   df <- df %>% mutate(
     internals_downweight = if_else(internal == FALSE, 1, internals_dw)
   )
@@ -304,13 +304,27 @@ avg_over_time_w_adj <- function(data_frame, model, cand) {
       eff <- (fixed %>% filter(term == "factor(langford_in)1"))$estimate[1]
       df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$langford_in)
     }
+    else if ("factor(langford_in)1" %in% fixed$term) {
+      eff <- (fixed %>% filter(term == "factor(langford_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$langford_in)
+    }
+    
     if ("factor(cloobeck_in)1" %in% fixed$term && date >= ymd("2025-11-14")) { # Stephen Cloobeck
       eff <- (fixed %>% filter(term == "factor(cloobeck_in)1"))$estimate[1]
       df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$cloobeck_in)
     }
+    else if ("factor(cloobeck_in)1" %in% fixed$term) {
+      eff <- (fixed %>% filter(term == "factor(cloobeck_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$cloobeck_in)
+    }
+    
     if ("factor(calderon_in)1" %in% fixed$term && date >= ymd("2026-03-05")) { # Stephen Cloobeck
       eff <- (fixed %>% filter(term == "factor(calderon_in)1"))$estimate[1]
       df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$calderon_in)
+    }
+    else if ("factor(calderon_in)1" %in% fixed$term) {
+      eff <- (fixed %>% filter(term == "factor(calderon_in)1"))$estimate[1]
+      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$calderon_in)
     }
     
     ## Minor candidates
@@ -365,8 +379,6 @@ avg_over_time_w_adj <- function(data_frame, model, cand) {
   })
   
   options(warn = 0)
-  
-  print(colnames(df_weights))
   
   return(df_cand)
 }
@@ -711,44 +723,94 @@ df_becerra <- avg_over_time_w_adj(polls, fit, "xavier_becerra_dem")
 
 df_allavg <- bind_rows(df_allavg, df_becerra)
 
-# today_avg = poll_avg(polls, today())
-generic_ballot_avg <- avg_over_time(polls)
+## Antonio Villaraigosa
+cand_name = "antonio_ramon_villaraigosa_dem"
 
-ggplot(
-  generic_ballot_avg, aes(x = end_date)
-) + geom_line(size = 1, mapping = aes(y = rep, color = "Republicans")) +
-  geom_line(size = 1, mapping = aes(y = dem, color = "Democrats")) +
-  scale_color_manual(
-    name = "Legend",
-    values = c("Republicans" = "red", "Democrats" = "blue")
-  ) +
-  geom_ribbon(aes(ymin = rep_lower_ci, ymax = rep_upper_ci), fill = "#fa928e",
-              alpha = 0.4) +
-  geom_ribbon(aes(ymin = dem_lower_ci, ymax = dem_upper_ci), fill = "#8e96fa",
-              alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = rep), color = "red", alpha = 0.2) +
-  geom_point(data = polls, mapping = aes(y = dem), color = "blue", alpha = 0.2) +
-  labs(
-    x = "Date",
-    y = "%",
-    title = "Generic Ballot"
-  ) + xlim(ymd('2025-01-21'), today())
+print(cand_name)
 
-ggplot(
-  generic_ballot_avg, mapping = aes(x = end_date, y = net)
-) + geom_line(color = "purple", size = 1) + 
-  geom_ribbon(aes(ymin = net_lower_ci, ymax = net_upper_ci), fill = "#c39af5", alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = net), color = "purple", alpha = 0.2) +
-  geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 0.5) +
-  labs(
-  x = "Date",
-  y = "Rep-Dem Spread %",
-  title = "Generic Ballot Spread"
-) + xlim(ymd('2025-01-21'), today())
+polls_cand <- polls %>% left_join(df_avg %>% filter(cand == cand_name) %>%
+                                    select(end_date, avg), join_by(end_date))
+
+polls_cand <- polls_cand %>% mutate(
+  partisan = replace_na(partisan, "NA")
+)
+
+polls_cand <- polls_cand %>% rename(cand = !!cand_name)
+polls_cand$cand <- as.numeric(polls_cand$cand)
+
+fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+                    (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
+                    factor(minor_cands_in) + 
+                    factor(steyer_in) +
+                    factor(swalwell_in) + factor(mahan_in) +
+                    factor(kouna_in) + factor(atkins_in) +
+                    factor(langford_in) + factor(cloobeck_in) + 
+                    factor(calderon_in) + avg,
+                  family = gaussian(),
+                  data = polls_cand,
+                  prior = normal(0, 1, autoscale = TRUE),
+                  prior_covariance = decov(scale = 0.50),
+                  adapt_delta = 0.99,
+                  refresh = 100,
+                  seed = 1010)
+
+print(fit)
+print(summary(fit))
+print(fixef(fit))
+print(ranef(fit))
+
+df_villaraigosa <- avg_over_time_w_adj(polls, fit, "antonio_ramon_villaraigosa_dem")
+
+df_allavg <- bind_rows(df_allavg, df_villaraigosa)
+
+## Matt Mahan
+cand_name = "matt_mahan_dem"
+
+print(cand_name)
+
+polls_cand <- polls %>% left_join(df_avg %>% filter(cand == cand_name) %>%
+                                    select(end_date, avg), join_by(end_date))
+
+polls_cand <- polls_cand %>% mutate(
+  partisan = replace_na(partisan, "NA")
+)
+
+polls_cand <- polls_cand %>% rename(cand = !!cand_name)
+polls_cand$cand <- as.numeric(polls_cand$cand)
+
+fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+                    (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
+                    factor(minor_cands_in) +
+                    factor(langford_in) +
+                    factor(calderon_in) + avg,
+                  family = gaussian(),
+                  data = polls_cand,
+                  prior = normal(0, 1, autoscale = TRUE),
+                  prior_covariance = decov(scale = 0.50),
+                  adapt_delta = 0.99,
+                  refresh = 100,
+                  seed = 1010)
+
+print(fit)
+print(summary(fit))
+print(fixef(fit))
+print(ranef(fit))
+
+df_mahan <- avg_over_time_w_adj(polls, fit, "matt_mahan_dem")
+
+df_allavg <- bind_rows(df_allavg, df_mahan)
+
+ggplot(df_allavg, aes(x = end_date, y = avg, group = cand, color = cand)) + geom_line(
+  size = 1)
+
+df_allavg <- df_allavg %>% mutate(
+  upper_ci = avg + 1.96*sd,
+  lower_ci = avg - 1.96*sd
+)
 
 setwd("../averages/")
 
-write_csv(generic_ballot_avg, 'generic_ballot.csv')
+write_csv(generic_ballot_avg, 'ca_governor_primary_2026.csv')
 
 setwd("../R/")
 
@@ -756,21 +818,8 @@ setwd("../R/")
 
 avg_today <- poll_avg(polls, today())
 
-polls_display <- polls_og %>% select(pollster, sponsors, start_date,
-                                     end_date, sample_size, population,
-                                     dem, rep, url, poll_id,
-                                     net, partisan) %>% left_join(
-                                       polls %>% select(poll_id, net),
-                                       join_by(poll_id)
-                                     ) %>% left_join(
-                                       avg_today %>% select(poll_id, total_weight),
-                                       join_by(poll_id)
-                                     ) %>% rename(
-                                       net = net.x, adj_net = net.y
-                                     ) %>% select(-poll_id)
+setwd("../transformed_tables/")
 
-setwd("../transformed_tables")
-
-write_csv(polls_display, 'generic_ballot_polls_disp.csv')
+write_csv(avg_today, 'ca_gov_primary_2026_transf.csv')
 
 setwd("../R/")
