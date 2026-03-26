@@ -263,69 +263,69 @@ avg_over_time_w_adj <- function(data_frame, model, cand) {
     )
     
     ## Dropins
-    if ("factor(steyer_in)1" %in% fixed$term && date < ymd("2025-11-19")) { ## Tom Steyer
-      eff <- (fixed %>% filter(term == "factor(steyer_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$steyer_in
-    }
-    else if ("factor(steyer_in)1" %in% fixed$term) { ## Tom Steyer
-      eff <- (fixed %>% filter(term == "factor(steyer_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$steyer_in)
-    }
+    # if ("factor(steyer_in)1" %in% fixed$term && date < ymd("2025-11-19")) { ## Tom Steyer
+    #   eff <- (fixed %>% filter(term == "factor(steyer_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$steyer_in
+    # }
+    # else if ("factor(steyer_in)1" %in% fixed$term) { ## Tom Steyer
+    #   eff <- (fixed %>% filter(term == "factor(steyer_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$steyer_in)
+    # }
     
-    if ("factor(swalwell_in)1" %in% fixed$term && date < ymd("2025-11-20")) { ## Eric Swalwell
-      eff <- (fixed %>% filter(term == "factor(swalwell_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$swalwell_in
-    }
-    else if ("factor(swalwell_in)1" %in% fixed$term) { ## Eric Swalwell
-      eff <- (fixed %>% filter(term == "factor(swalwell_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$swalwell_in)
-    }
+    # if ("factor(swalwell_in)1" %in% fixed$term && date < ymd("2025-11-20")) { ## Eric Swalwell
+    #   eff <- (fixed %>% filter(term == "factor(swalwell_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$swalwell_in
+    # }
+    # else if ("factor(swalwell_in)1" %in% fixed$term) { ## Eric Swalwell
+    #   eff <- (fixed %>% filter(term == "factor(swalwell_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$swalwell_in)
+    # }
     
-    if ("factor(mahan_in)1" %in% fixed$term && date < ymd("2026-01-29")) { ## Matt Mahan
-      eff <- (fixed %>% filter(term == "factor(mahan_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$mahan_in
-    }
-    else if ("factor(mahan_in)1" %in% fixed$term) { ## Matt Mahan
-      eff <- (fixed %>% filter(term == "factor(mahan_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$mahan_in)
-    }
+    # if ("factor(mahan_in)1" %in% fixed$term && date < ymd("2026-01-29")) { ## Matt Mahan
+    #   eff <- (fixed %>% filter(term == "factor(mahan_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*df_weights$mahan_in
+    # }
+    # else if ("factor(mahan_in)1" %in% fixed$term) { ## Matt Mahan
+    #   eff <- (fixed %>% filter(term == "factor(mahan_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$mahan_in)
+    # }
     
     ## Dropouts
     
-    if ("factor(kouna_in)1" %in% fixed$term && date >= ymd("2025-08-08")) { # Eleni Kounalakis
-      eff <- (fixed %>% filter(term == "factor(kouna_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] -  eff*(df_weights$kouna_in)
-    }
-    if ("factor(atkins_in)1" %in% fixed$term && date >= ymd("2025-09-29")) { # Toni Atkins
-      eff <- (fixed %>% filter(term == "factor(atkins_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$atkins_in)
-    }
-    if ("factor(langford_in)1" %in% fixed$term && date >= ymd("2026-01-12")) { # Kyle Langford
-      eff <- (fixed %>% filter(term == "factor(langford_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$langford_in)
-    }
-    else if ("factor(langford_in)1" %in% fixed$term) {
-      eff <- (fixed %>% filter(term == "factor(langford_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$langford_in)
-    }
+    # if ("factor(kouna_in)1" %in% fixed$term && date >= ymd("2025-08-08")) { # Eleni Kounalakis
+    #   eff <- (fixed %>% filter(term == "factor(kouna_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] -  eff*(df_weights$kouna_in)
+    # }
+    # if ("factor(atkins_in)1" %in% fixed$term && date >= ymd("2025-09-29")) { # Toni Atkins
+    #   eff <- (fixed %>% filter(term == "factor(atkins_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$atkins_in)
+    # }
+    # if ("factor(langford_in)1" %in% fixed$term && date >= ymd("2026-01-12")) { # Kyle Langford
+    #   eff <- (fixed %>% filter(term == "factor(langford_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$langford_in)
+    # }
+    # else if ("factor(langford_in)1" %in% fixed$term) {
+    #   eff <- (fixed %>% filter(term == "factor(langford_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$langford_in)
+    # }
     
-    if ("factor(cloobeck_in)1" %in% fixed$term && date >= ymd("2025-11-14")) { # Stephen Cloobeck
-      eff <- (fixed %>% filter(term == "factor(cloobeck_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$cloobeck_in)
-    }
-    else if ("factor(cloobeck_in)1" %in% fixed$term) {
-      eff <- (fixed %>% filter(term == "factor(cloobeck_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$cloobeck_in)
-    }
+    # if ("factor(cloobeck_in)1" %in% fixed$term && date >= ymd("2025-11-14")) { # Stephen Cloobeck
+    #   eff <- (fixed %>% filter(term == "factor(cloobeck_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$cloobeck_in)
+    # }
+    # else if ("factor(cloobeck_in)1" %in% fixed$term) {
+    #   eff <- (fixed %>% filter(term == "factor(cloobeck_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$cloobeck_in)
+    # }
     
-    if ("factor(calderon_in)1" %in% fixed$term && date >= ymd("2026-03-05")) { # Stephen Cloobeck
-      eff <- (fixed %>% filter(term == "factor(calderon_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$calderon_in)
-    }
-    else if ("factor(calderon_in)1" %in% fixed$term) {
-      eff <- (fixed %>% filter(term == "factor(calderon_in)1"))$estimate[1]
-      df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$calderon_in)
-    }
+    # if ("factor(calderon_in)1" %in% fixed$term && date >= ymd("2026-03-05")) { # Stephen Cloobeck
+    #   eff <- (fixed %>% filter(term == "factor(calderon_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] - eff*(df_weights$calderon_in)
+    # }
+    # else if ("factor(calderon_in)1" %in% fixed$term) {
+    #   eff <- (fixed %>% filter(term == "factor(calderon_in)1"))$estimate[1]
+    #   df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$calderon_in)
+    # }
     
     ## Minor candidates
     
@@ -505,11 +505,12 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                       (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                       factor(minor_cands_in) + 
-                      factor(steyer_in) +
-                      factor(swalwell_in) + factor(mahan_in) +
-                      factor(kouna_in) + factor(atkins_in) +
-                      factor(langford_in) + factor(cloobeck_in) + 
-                      factor(calderon_in) + avg,
+                      # factor(steyer_in) +
+                      # factor(swalwell_in) + factor(mahan_in) +
+                      # factor(kouna_in) + factor(atkins_in) +
+                      # factor(langford_in) + factor(cloobeck_in) + 
+                      # factor(calderon_in) + 
+                      avg,
                     family = gaussian(),
                     data = polls_cand,
                     prior = normal(0, 1, autoscale = TRUE),
@@ -546,11 +547,12 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) + 
-                    factor(steyer_in) +
-                    factor(swalwell_in) + factor(mahan_in) +
-                    factor(kouna_in) + factor(atkins_in) +
-                    factor(langford_in) + factor(cloobeck_in) + 
-                    factor(calderon_in) + avg,
+                    # factor(steyer_in) +
+                    # factor(swalwell_in) + factor(mahan_in) +
+                    # factor(kouna_in) + factor(atkins_in) +
+                    # factor(langford_in) + factor(cloobeck_in) + 
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -586,10 +588,11 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) + 
-                    factor(steyer_in) +
-                    factor(swalwell_in) + factor(mahan_in) +
-                    factor(langford_in) + factor(cloobeck_in) + 
-                    factor(calderon_in) + avg,
+                    # factor(steyer_in) +
+                    # factor(swalwell_in) + factor(mahan_in) +
+                    # factor(langford_in) + factor(cloobeck_in) + 
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -625,9 +628,10 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) + 
-                    factor(mahan_in) +
-                    factor(langford_in) + 
-                    factor(calderon_in) + avg,
+                    # factor(mahan_in) +
+                    # factor(langford_in) + 
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -663,9 +667,10 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) +
-                    factor(swalwell_in) + factor(mahan_in) +
-                    factor(langford_in) + factor(cloobeck_in) + 
-                    factor(calderon_in) + avg,
+                    # factor(swalwell_in) + factor(mahan_in) +
+                    # factor(langford_in) + factor(cloobeck_in) + 
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -701,11 +706,12 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) + 
-                    factor(steyer_in) +
-                    factor(swalwell_in) + factor(mahan_in) +
-                    factor(kouna_in) + factor(atkins_in) +
-                    factor(langford_in) + factor(cloobeck_in) + 
-                    factor(calderon_in) + avg,
+                    # factor(steyer_in) +
+                    # factor(swalwell_in) + factor(mahan_in) +
+                    # factor(kouna_in) + factor(atkins_in) +
+                    # factor(langford_in) + factor(cloobeck_in) + 
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -741,11 +747,12 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) + 
-                    factor(steyer_in) +
-                    factor(swalwell_in) + factor(mahan_in) +
-                    factor(kouna_in) + factor(atkins_in) +
-                    factor(langford_in) + factor(cloobeck_in) + 
-                    factor(calderon_in) + avg,
+                    # factor(steyer_in) +
+                    # factor(swalwell_in) + factor(mahan_in) +
+                    # factor(kouna_in) + factor(atkins_in) +
+                    # factor(langford_in) + factor(cloobeck_in) + 
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -781,8 +788,9 @@ polls_cand$cand <- as.numeric(polls_cand$cand)
 fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
                     factor(minor_cands_in) +
-                    factor(langford_in) +
-                    factor(calderon_in) + avg,
+                    # factor(langford_in) +
+                    # factor(calderon_in) + 
+                    avg,
                   family = gaussian(),
                   data = polls_cand,
                   prior = normal(0, 1, autoscale = TRUE),
@@ -810,7 +818,7 @@ df_allavg <- df_allavg %>% mutate(
 
 setwd("../averages/")
 
-write_csv(generic_ballot_avg, 'ca_governor_primary_2026.csv')
+write_csv(df_allavg, 'ca_governor_primary_2026.csv')
 
 setwd("../R/")
 
