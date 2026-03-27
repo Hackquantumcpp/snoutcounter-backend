@@ -27,8 +27,8 @@ write_csv(polls, "governor_primary_ca.csv")
 
 setwd("../R")
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters)) %>% 
-  filter(is.na(sample_size) == FALSE) ## For now, can impute sample sizes later
+polls <- polls %>% filter(!(pollster %in% banned_pollsters)) %>%
+  filter(is.na(population) == FALSE)
 
 cands <- c("Eric Swalwell", "Tom Steyer", "Steve Hilton", "Xavier Becerra",
            "Katie Porter", "Chad Bianco", "Matt Mahan", "Eleni Kounalakis",
@@ -92,7 +92,7 @@ poll_avg <- function(data_frame, date) {
   
   df_nullsampsize <- df %>% filter(is.na(sample_size) == TRUE)
   
-  impute_sample_size <- function(data_frame, pollster, mode) {
+  impute_sample_size <- function(data_frame, data_frame_nullsampsize, pollster, mode) {
     df <- data_frame # Copy data farme
     df_pollst <- df %>% filter(pollster == pollster)
     df_mode <- df %>% filter(mode == mode)
@@ -109,7 +109,7 @@ poll_avg <- function(data_frame, date) {
   }
   
   impute_sample_size_dfnullsampsize <- function(pollster, mode) {
-    return(impute_sample_size(df_nullsampsize %>% select(pollster, mode, sample_size), pollster, mode))
+    return(impute_sample_size(df %>% select(pollster, mode, sample_size), df_nullsampesize, pollster, mode))
   }
   
   df <- df %>% filter(is.na(sample_size) == FALSE)
@@ -178,7 +178,7 @@ poll_avg <- function(data_frame, date) {
   )
   
   ## Internals downweight
-  internals_dw <- 0.571
+  internals_dw <- 0.714
   df <- df %>% mutate(
     internals_downweight = if_else(internal == FALSE, 1, internals_dw)
   )
@@ -816,8 +816,11 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
-                    (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
+fit <- stan_glmer(cand ~ (1 | pollster) + 
+                    (1 | mode) +
+                    (1 | sponsor_candidate) + 
+                    (1 | partisan) +
+                    (1 | population) + 
                     factor(minor_cands_in) +
                     # factor(langford_in) +
                     # factor(calderon_in) + 
@@ -847,9 +850,14 @@ df_allavg <- df_allavg %>% mutate(
   lower_ci = avg - 1.96*sd
 )
 
+df_ca_avg <- df_allavg %>% pivot_wider(
+  names_from = cand,
+  values_from = c(avg, sd, upper_ci, lower_ci)
+)
+
 setwd("../averages/")
 
-write_csv(df_allavg, 'ca_governor_primary_2026.csv')
+write_csv(df_ca_avg, 'ca_governor_primary_2026.csv')
 
 setwd("../R/")
 
