@@ -4,7 +4,7 @@
 
 - `generic_ballot.R` - Generic ballot average model.
 
-- `governor_primary_ca.R` - **WIP**. Model for 2026 California governor primary.
+- `governor_primary_ca.R` - Model for 2026 California governor primary.
 
 - `historical_president_approval.R` - **WIP**. Model for historical presidential approval.
 
