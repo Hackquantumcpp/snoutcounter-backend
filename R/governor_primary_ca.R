@@ -360,8 +360,8 @@ avg_over_time_w_adj <- function(data_frame, model, cand) {
     
     ## Minor candidates
     
-    eff <- (fixed %>% filter(term == "factor(minor_cands_in)1"))$estimate[1]
-    df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$minor_cands_in)
+    # eff <- (fixed %>% filter(term == "factor(minor_cands_in)1"))$estimate[1]
+    # df_weights[[cand]] <- df_weights[[cand]] + eff*(1-df_weights$minor_cands_in)
     
     ## All other adjustments
     
@@ -533,9 +533,9 @@ polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
   
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                       (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                      factor(minor_cands_in) + 
+                      # factor(minor_cands_in) + 
                       # factor(steyer_in) +
                       # factor(swalwell_in) + factor(mahan_in) +
                       # factor(kouna_in) + factor(atkins_in) +
@@ -575,9 +575,9 @@ polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                    factor(minor_cands_in) + 
+                    # factor(minor_cands_in) + 
                     # factor(steyer_in) +
                     # factor(swalwell_in) + factor(mahan_in) +
                     # factor(kouna_in) + factor(atkins_in) +
@@ -616,9 +616,9 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                    factor(minor_cands_in) + 
+                    # factor(minor_cands_in) + 
                     # factor(steyer_in) +
                     # factor(swalwell_in) + factor(mahan_in) +
                     # factor(langford_in) + factor(cloobeck_in) + 
@@ -656,9 +656,9 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                    factor(minor_cands_in) + 
+                    # factor(minor_cands_in) + 
                     # factor(mahan_in) +
                     # factor(langford_in) + 
                     # factor(calderon_in) + 
@@ -695,9 +695,9 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                    factor(minor_cands_in) +
+                    # factor(minor_cands_in) +
                     # factor(swalwell_in) + factor(mahan_in) +
                     # factor(langford_in) + factor(cloobeck_in) + 
                     # factor(calderon_in) + 
@@ -734,9 +734,9 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                    factor(minor_cands_in) + 
+                    # factor(minor_cands_in) + 
                     # factor(steyer_in) +
                     # factor(swalwell_in) + factor(mahan_in) +
                     # factor(kouna_in) + factor(atkins_in) +
@@ -775,9 +775,9 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + (1 | mode) +
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + (1 | mode) +
                     (1 | population) + (1 | sponsor_candidate) + (1 | partisan) +
-                    factor(minor_cands_in) + 
+                    # factor(minor_cands_in) + 
                     # factor(steyer_in) +
                     # factor(swalwell_in) + factor(mahan_in) +
                     # factor(kouna_in) + factor(atkins_in) +
@@ -816,12 +816,12 @@ polls_cand <- polls_cand %>% mutate(
 polls_cand <- polls_cand %>% rename(cand = !!cand_name)
 polls_cand$cand <- as.numeric(polls_cand$cand)
 
-fit <- stan_glmer(cand ~ (1 | pollster) + 
+fit <- stan_glmer(cand ~ 0 + (1 | pollster) + 
                     (1 | mode) +
                     (1 | sponsor_candidate) + 
                     (1 | partisan) +
                     (1 | population) + 
-                    factor(minor_cands_in) +
+                    # factor(minor_cands_in) +
                     # factor(langford_in) +
                     # factor(calderon_in) + 
                     avg,

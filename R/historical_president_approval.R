@@ -5,6 +5,8 @@ library(janitor)
 library(rsample) # rsample in tidymodels
 library(progressr)
 
+options(mc.cores = parallel::detectCores(logical = FALSE))
+
 # Get banned pollsters
 source("banned_pollsters.R")
 
@@ -26,7 +28,7 @@ polls <- polls %>% rename(approve = yes, disapprove = no,
 polls <- polls %>% filter(!(pollster %in% banned_pollsters) & !(is.na(approve)) &
                             !(is.na(disapprove)) & !(is.na(sample_size)))
 
-politic_fig <- "Joe Biden"
+politic_fig <- "Donald Trump"
 
 polls <- polls %>% filter(politician == politic_fig)
 
@@ -103,8 +105,10 @@ poll_avg <- function(data_frame, date) {
   }
   
   ### Multiple polls in short window weights
-  df <- df %>% mutate(
-    poll_spon_id = group_indices(., pollster))
+  df <- df %>% group_by(
+    pollster
+  ) %>% mutate(poll_spon_id = cur_group_id()) %>%
+    ungroup()
   df <- df %>% rowwise() %>% mutate(zone_flood_weight = 1 / sqrt(pid_in_window(end_date, poll_spon_id))) %>%
     ungroup()
   
@@ -299,8 +303,8 @@ ggplot(
               alpha = 0.4) +
   geom_ribbon(aes(ymin = disapprove_lower_ci, ymax = disapprove_upper_ci), fill = "#e86eaf",
               alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = approve), color = "#228833", alpha = 0.2) +
-  geom_point(data = polls, mapping = aes(y = disapprove), color = "#aa3377", alpha = 0.2) +
+  # geom_point(data = polls, mapping = aes(y = approve), color = "#228833", alpha = 0.2) +
+  # geom_point(data = polls, mapping = aes(y = disapprove), color = "#aa3377", alpha = 0.2) +
   labs(
     x = "Date",
     y = "%",
@@ -311,7 +315,7 @@ ggplot(
   approval_stats, mapping = aes(x = end_date, y = net)
 ) + geom_line(color = "red", size = 1) + 
   geom_ribbon(aes(ymin = net_lower_ci, ymax = net_upper_ci), fill = "#dc9a88", alpha = 0.4) +
-  geom_point(data = polls, mapping = aes(y = net), color = "red", alpha = 0.2) +
+  # geom_point(data = polls, mapping = aes(y = net), color = "red", alpha = 0.2) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 0.5) +
   labs(
   x = "Date",
@@ -319,11 +323,20 @@ ggplot(
   title = "Presidential Net Approval"
 )
 
-setwd("../averages/")
+setwd("../averages/historical/")
 
-write_csv(approval_stats, 'historical_presidential_approval.csv')
+data_filename <- ""
 
-setwd("../R/")
+if (politic_fig == "Joe Biden") {
+  data_filename <- "historical_presidential_approval_biden.csv"
+}
+if (politic_fig == "Donald Trump") {
+  data_filename <- "historical_presidential_approval_trump_firstterm.csv"
+}
+
+write_csv(approval_stats, data_filename)
+
+setwd("../../R/")
 
 # Polls dataset - display table
 

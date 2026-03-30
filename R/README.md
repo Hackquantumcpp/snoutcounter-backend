@@ -6,7 +6,7 @@
 
 - `governor_primary_ca.R` - Model for 2026 California governor primary.
 
-- `historical_president_approval.R` - **WIP**. Model for historical presidential approval.
+- `historical_president_approval.R` - Model for historical presidential approval.
 
 - `president_approval.R` - Model for presidential approval average over the course of Donald Trump's second term.
 
