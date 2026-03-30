@@ -4,7 +4,7 @@ library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
 library(DescTools)
-library(progress)
+library(progressr)
 
 # Get banned pollsters
 source("banned_pollsters.R")

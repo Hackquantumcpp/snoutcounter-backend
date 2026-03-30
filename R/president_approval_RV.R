@@ -3,7 +3,7 @@ library(rstan)
 library(rstanarm)
 library(janitor)
 library(rsample) # rsample in tidymodels
-library(progress)
+library(progressr)
 library(posterior)
 
 # Get banned pollsters

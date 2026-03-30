@@ -1,3 +1,4 @@
+options(mc.cores = parallel::detectCores(logical = FALSE))
 source("president_approval.R")
 source("president_approval_RV.R")
 source("generic_ballot.R")
