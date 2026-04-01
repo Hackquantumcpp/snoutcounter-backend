@@ -1271,7 +1271,7 @@ immigration,YouGov,10/24/2025,10/27/2025,1623,A,42,52,-10,https://d3nkl3psvxxpe9
 climate_change,YouGov,10/24/2025,10/27/2025,1623,A,29,50,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0AkNOQp.pdf,The Economist,Online Matched Sample,FALSE,Climate change and the environment,NA,NA
 education,YouGov,10/24/2025,10/27/2025,1623,A,33,52,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0AkNOQp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,10/24/2025,10/27/2025,1623,A,32,49,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0AkNOQp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-ballroom,YouGov,10/23/2025,10/27/2025,1770,A,28,55,-27,https://www.scribd.com/document/939641649/Yahoo-YouGov-Ballroom-Poll-October-2025,Yahoo News,Online Matched Sample,FALSE,the construction of a new White House ballroom,NA,NA
+white_house_renovations,YouGov,10/23/2025,10/27/2025,1770,A,28,55,-27,https://www.scribd.com/document/939641649/Yahoo-YouGov-Ballroom-Poll-October-2025,Yahoo News,Online Matched Sample,FALSE,the construction of a new White House ballroom,NA,NA
 economy,Ipsos,10/24/2025,10/26/2025,1018,A,34,58,-24,https://www.reuters.com/world/us/trumps-popularity-dips-americans-sweat-cost-living-reutersipsos-poll-finds-2025-10-28/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,10/24/2025,10/26/2025,1018,A,43,50,-7,https://www.reuters.com/world/us/trumps-popularity-dips-americans-sweat-cost-living-reutersipsos-poll-finds-2025-10-28/,Reuters,Probability Panel,FALSE,NA,NA,NA
 govt_shutdown,Hart Research Associates,10/17/2025,10/19/2025,1221,LV,36,55,-19,https://senatemajority.com/wp-content/uploads/Hart-Research-SMP-Oct-24.pdf,Senate Majority PAC,Online Opt-In Panel,FALSE,NA,DEM,NA
@@ -2232,3 +2232,9 @@ economy,Harris Insights & Analytics,03/25/2026,3/26/2026,2009,RV,40,60,-20,https
 immigration,Harris Insights & Analytics,03/25/2026,3/26/2026,2009,RV,46,54,-8,https://harvardharrispoll.com/key-results-march-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 crime,Harris Insights & Analytics,03/25/2026,3/26/2026,2009,RV,47,53,-6,https://harvardharrispoll.com/key-results-march-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,Harris Insights & Analytics,03/25/2026,3/26/2026,2009,RV,51,49,2,https://harvardharrispoll.com/key-results-march-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,YouGov,03/27/2026,3/30/2026,1679,A,30,60,-30,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+environment,YouGov,03/27/2026,3/30/2026,1679,A,32,53,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+education,YouGov,03/27/2026,3/30/2026,1679,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+abortion,YouGov,03/27/2026,3/30/2026,1679,A,32,50,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+healthcare,YouGov,03/27/2026,3/30/2026,1679,A,33,57,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+white_house_renovations,YouGov,03/27/2026,3/30/2026,1679,A,28,56,-28,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,The Economist,Online Matched Sample,FALSE,Renovating the White House,NA,NA

@@ -6,6 +6,8 @@ Historical polling datasets from [538](https://web.archive.org/web/2025013121113
 
 - The `israel_iran_conflict` issue has been renamed to `twelve_day_war` for ease in retroactive analysis, and to distinguish polling on the Twelve-Day War from polling on current or future conflicts involving Iran and Israel.
 
+- The `ballroom` issue has been renamed to `white_house_renovations`.
+
 ### Directory Map
 
 - `fte/` - Polling datasets from 538
