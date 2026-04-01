@@ -847,7 +847,7 @@ ggplot(df_allavg, aes(x = end_date, y = avg, group = cand, color = cand)) + geom
 
 df_allavg <- df_allavg %>% mutate(
   upper_ci = avg + 1.96*sd,
-  lower_ci = avg - 1.96*sd
+  lower_ci = pmax(avg - 1.96*sd, 0)
 )
 
 df_ca_avg <- df_allavg %>% pivot_wider(
