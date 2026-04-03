@@ -1188,3 +1188,13 @@ Harris Insights & Analytics,Harvard CAPS,2026-03-25,2026-03-26,NA,LV,46,52,NA,ht
 J.L. Partners,Daily Mail,2026-03-23,2026-03-24,1019,RV,41,49,NA,https://www.dailymail.co.uk/news/article-15692097/amp/donald-trump-polling-iran-rebound.html,NA,FALSE,NA,NA
 YouGov,The Economist,2026-03-27,2026-03-30,1679,A,35,58,7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-03-27,2026-03-30,1505,RV,39,58,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,Online Matched Sample,FALSE,NA,NA
+SSRS,CNN,2026-03-26,2026-03-30,1201,A,35,64,1,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,Probability Panel,FALSE,NA,NA
+Morning Consult,NA,2026-03-27,2026-03-29,2203,RV,43,54,NA,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
+SSRS,CNN,2026-03-26,2026-03-30,951,RV,38,62,NA,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,Probability Panel,FALSE,NA,NA
+Change Research,NA,2026-02-05,2026-02-18,1741,RV,43,55,NA,https://changeresearch.com/voters-voice-frustration-and-financial-strain/,Text-to-Web/Online Ad/Online Opt-In Panel,FALSE,NA,NA
+ActiVote,NA,2026-03-01,2026-03-31,598,A,42,55,NA,https://www.activote.net/trumps-approval-holding-steady-2/,App Panel,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-03-25,2026-04-02,3000,RV,40,58,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
+Rasmussen Reports,NA,2026-03-24,2026-03-30,1500,LV,44,54,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+Rasmussen Reports,NA,2026-03-25,2026-03-31,1500,LV,45,53,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+Rasmussen Reports,NA,2026-03-26,2026-04-01,1500,LV,46,52,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+Rasmussen Reports,NA,2026-03-27,2026-04-02,1500,LV,46,52,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
