@@ -2268,3 +2268,4 @@ economy,YouGov,04/03/2026,4/6/2026,1750,A,37,56,-19,https://d3nkl3psvxxpe9.cloud
 inflation,YouGov,04/03/2026,4/6/2026,1750,A,29,64,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
 govt_spending,YouGov,04/03/2026,4/6/2026,1750,A,34,58,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,The Economist,Online Matched Sample,FALSE,Taxes and government spending,NA,NA
 iran,YouGov,04/07/2026,4/7/2026,2970,A,34,56,-22,https://yougov.com/en-us/daily-results/20260407-6e79e-3,NA,Online Matched Sample,FALSE,NA,NA,NA
+economy,Global Strategy Group/GBAO (Navigator Research),04/02/2026,4/6/2026,1000,RV,40,59,-19,https://navigatorresearch.org/americans-blame-trump-for-rising-gas-prices/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
