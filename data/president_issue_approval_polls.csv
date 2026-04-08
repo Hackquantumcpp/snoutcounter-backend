@@ -2264,3 +2264,7 @@ trade_tariffs,Change Research,02/05/2026,2/18/2026,1741,RV,39,55,-16,https://cha
 inflation,Change Research,02/05/2026,2/18/2026,1741,RV,37,59,-22,https://changeresearch.com/voters-voice-frustration-and-financial-strain/,NA,Text-to-Web/Online Ad/Online Opt-In Panel,FALSE,Inflation and cost of living,NA,NA
 immigration,Change Research,02/05/2026,2/18/2026,1741,RV,45,52,-7,https://changeresearch.com/voters-voice-frustration-and-financial-strain/,NA,Text-to-Web/Online Ad/Online Opt-In Panel,FALSE,NA,NA,NA
 deportations,Change Research,02/05/2026,2/18/2026,1741,RV,44,54,-10,https://changeresearch.com/voters-voice-frustration-and-financial-strain/,NA,Text-to-Web/Online Ad/Online Opt-In Panel,FALSE,NA,NA,NA
+economy,YouGov,04/03/2026,4/6/2026,1750,A,37,56,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,The Economist,Online Matched Sample,FALSE,Jobs and the economy,NA,NA
+inflation,YouGov,04/03/2026,4/6/2026,1750,A,29,64,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
+govt_spending,YouGov,04/03/2026,4/6/2026,1750,A,34,58,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,The Economist,Online Matched Sample,FALSE,Taxes and government spending,NA,NA
+iran,YouGov,04/07/2026,4/7/2026,2970,A,34,56,-22,https://yougov.com/en-us/daily-results/20260407-6e79e-3,NA,Online Matched Sample,FALSE,NA,NA,NA
