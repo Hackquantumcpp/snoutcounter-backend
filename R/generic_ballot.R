@@ -249,7 +249,7 @@ print(ranef(fit))
 ## reliable at this point in time; come Labor Day we want to switch
 ## to converting to LV.
 ## TODO: Edit to account for the Labor Day switch!
-pop_a <- ranef(fit)$population[3, 1]
+pop_a <- ranef(fit)$population[2, 1]
 np_a <- ranef(fit)$partisan[2, 1]
 
 polls <- polls %>% select(-net_avg) # Drop net avg

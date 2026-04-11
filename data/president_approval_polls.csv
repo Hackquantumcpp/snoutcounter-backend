@@ -1185,7 +1185,7 @@ University of Massachusetts (Amherst),NA,2026-03-20,2026-03-25,1000,A,33,62,6,ht
 Rasmussen Reports,NA,2026-03-23,2026-03-27,1500,LV,43,56,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
 Harris Insights & Analytics,Harvard CAPS,2026-03-25,2026-03-26,2009,RV,43,53,4,https://harvardharrispoll.com/key-results-march-2026/,Online Opt-In Panel,FALSE,NA,NA
 Harris Insights & Analytics,Harvard CAPS,2026-03-25,2026-03-26,NA,LV,46,52,NA,https://harvardharrispoll.com/key-results-march-2026/,Online Opt-In Panel,FALSE,NA,NA
-J.L. Partners,Daily Mail,2026-03-23,2026-03-24,1019,RV,41,49,NA,https://www.dailymail.co.uk/news/article-15692097/amp/donald-trump-polling-iran-rebound.html,NA,FALSE,NA,NA
+J.L. Partners,Daily Mail,2026-03-23,2026-03-24,1019,RV,46,54,NA,https://www.dailymail.co.uk/news/article-15692097/amp/donald-trump-polling-iran-rebound.html,NA,FALSE,NA,NA
 YouGov,The Economist,2026-03-27,2026-03-30,1679,A,35,58,7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-03-27,2026-03-30,1505,RV,39,58,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,Online Matched Sample,FALSE,NA,NA
 SSRS,CNN,2026-03-26,2026-03-30,1201,A,35,64,1,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,Probability Panel,FALSE,NA,NA
@@ -1210,3 +1210,8 @@ Rasmussen Reports,NA,2026-04-01,2026-04-07,1500,LV,46,52,NA,https://www.rasmusse
 University of Massachusetts Lowell,NA,2026-03-26,2026-03-30,1000,A,39,61,NA,https://www.uml.edu/news/press-releases/2026/2026-nat-poll-march.aspx,Online Matched Sample,FALSE,NA,NA
 The Winston Group,Winning the Issues,2026-03-15,2026-03-17,1000,RV,37,58,5,https://www.winningtheissues.org/wp-content/uploads/2026/04/March-2026-Winning-the-Issues-Survey.pdf,NA,FALSE,REP,NA
 Rasmussen Reports,NA,2026-04-02,2026-04-08,1500,LV,45,54,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+RMG Research,Napolitan News Service,2026-04-01,2026-04-09,4000,RV,45,54,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
+J.L. Partners,Daily Mail,2026-04-08,2026-04-08,1000,RV,43,57,NA,https://www.dailymail.co.uk/news/article-15718939/Trump-approval-sinks-Iran-war-prices-weigh-voters.html,NA,FALSE,NA,NA
+Rasmussen Reports,NA,2026-04-02,2026-04-08,1500,LV,45,54,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+Rasmussen Reports,NA,2026-04-03,2026-04-09,1500,LV,45,54,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
+Morning Consult,NA,2026-04-03,2026-04-05,2203,RV,45,52,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
