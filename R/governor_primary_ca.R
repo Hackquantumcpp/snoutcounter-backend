@@ -172,13 +172,13 @@ poll_avg <- function(data_frame, date) {
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
-  partisan_dw <- 0.7
+  partisan_dw <- 0.8
   df <- df %>% mutate(
     partisan_downweight = if_else(partisan == "NA", 1, partisan_dw)
   )
   
   ## Internals downweight
-  internals_dw <- 0.714
+  internals_dw <- 0.5 / partisan_dw
   df <- df %>% mutate(
     internals_downweight = if_else(internal == FALSE, 1, internals_dw)
   )

@@ -2286,3 +2286,7 @@ medicaire_social_security,Morning Consult,04/03/2026,4/5/2026,2203,RV,43,48,-5,h
 national_debt,Morning Consult,04/03/2026,4/5/2026,2203,RV,40,50,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,04/03/2026,4/5/2026,2203,RV,38,46,-8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,04/03/2026,4/5/2026,2203,RV,36,45,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,YouGov,04/08/2026,4/10/2026,2387,A,35,65,-30,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,04/08/2026,4/10/2026,2387,A,31,69,-38,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,04/08/2026,4/10/2026,2387,A,44,56,-12,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+iran,YouGov,04/08/2026,4/10/2026,2387,A,36,64,-28,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
