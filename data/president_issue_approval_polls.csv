@@ -2290,3 +2290,13 @@ economy,YouGov,04/08/2026,4/10/2026,2387,A,35,65,-30,https://www.cbsnews.com/new
 inflation,YouGov,04/08/2026,4/10/2026,2387,A,31,69,-38,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,04/08/2026,4/10/2026,2387,A,44,56,-12,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,04/08/2026,4/10/2026,2387,A,36,64,-28,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+economy,Morning Consult,04/06/2026,4/9/2026,2200,RV,42,52,-10,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,04/06/2026,4/9/2026,2200,RV,40,52,-12,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,04/06/2026,4/9/2026,2200,RV,50,45,5,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,04/06/2026,4/9/2026,2200,RV,44,47,-3,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,04/06/2026,4/9/2026,2200,RV,43,49,-6,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,YouGov,04/10/2026,4/13/2026,1748,A,35,57,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+crime,YouGov,04/10/2026,4/13/2026,1748,A,43,45,-2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,04/10/2026,4/13/2026,1748,A,43,51,-8,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+race_relations,YouGov,04/10/2026,4/13/2026,1748,A,35,51,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+environment,YouGov,04/10/2026,4/13/2026,1748,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
