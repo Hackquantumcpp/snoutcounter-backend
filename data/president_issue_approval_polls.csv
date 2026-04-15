@@ -2300,3 +2300,5 @@ crime,YouGov,04/10/2026,4/13/2026,1748,A,43,45,-2,https://d3nkl3psvxxpe9.cloudfr
 immigration,YouGov,04/10/2026,4/13/2026,1748,A,43,51,-8,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 race_relations,YouGov,04/10/2026,4/13/2026,1748,A,35,51,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 environment,YouGov,04/10/2026,4/13/2026,1748,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Quinnipiac University,04/09/2026,4/13/2026,1028,RV,38,57,-19,https://poll.qu.edu/poll-release?releaseid=3956,NA,Live Phone,FALSE,NA,NA,NA
+iran,Quinnipiac University,04/09/2026,4/13/2026,1028,RV,36,58,-22,https://poll.qu.edu/poll-release?releaseid=3956,NA,Live Phone,FALSE,NA,NA,NA
