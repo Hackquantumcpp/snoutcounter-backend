@@ -2302,3 +2302,8 @@ race_relations,YouGov,04/10/2026,4/13/2026,1748,A,35,51,-16,https://d3nkl3psvxxp
 environment,YouGov,04/10/2026,4/13/2026,1748,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 economy,Quinnipiac University,04/09/2026,4/13/2026,1028,RV,38,57,-19,https://poll.qu.edu/poll-release?releaseid=3956,NA,Live Phone,FALSE,NA,NA,NA
 iran,Quinnipiac University,04/09/2026,4/13/2026,1028,RV,36,58,-22,https://poll.qu.edu/poll-release?releaseid=3956,NA,Live Phone,FALSE,NA,NA,NA
+border_security,Impact Research/BSP Research,03/10/2026,3/20/2026,1000,LV,41,56,-15,https://www.thirdway.org/memo/president-trumps-immigration-problem,Third Way | UnidosUS,Live Phone/Text-to-Web,FALSE,NA,NA,Positive/negative
+crime,Impact Research/BSP Research,03/10/2026,3/20/2026,1000,LV,47,49,-2,https://www.thirdway.org/memo/president-trumps-immigration-problem,Third Way | UnidosUS,Live Phone/Text-to-Web,FALSE,Crime and public safety,NA,Positive/negative
+immigration,Impact Research/BSP Research,03/10/2026,3/20/2026,1000,LV,44,54,-10,https://www.thirdway.org/memo/president-trumps-immigration-problem,Third Way | UnidosUS,Live Phone/Text-to-Web,FALSE,NA,NA,Positive/negative
+deportations,Impact Research/BSP Research,03/10/2026,3/20/2026,1000,LV,41,57,-16,https://www.thirdway.org/memo/president-trumps-immigration-problem,Third Way | UnidosUS,Live Phone/Text-to-Web,FALSE,ICE in American cities,NA,Positive/negative
+economy,Impact Research/BSP Research,03/10/2026,3/20/2026,1000,LV,40,59,-19,https://www.thirdway.org/memo/president-trumps-immigration-problem,Third Way | UnidosUS,Live Phone/Text-to-Web,FALSE,NA,NA,Positive/negative

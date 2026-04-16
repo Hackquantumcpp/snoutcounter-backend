@@ -28,7 +28,7 @@ write_csv(polls, "governor_primary_ca.csv")
 setwd("../R")
 
 polls <- polls %>% filter(!(pollster %in% banned_pollsters)) %>%
-  filter(is.na(population) == FALSE)
+  filter(is.na(population) == FALSE) %>% filter(is.na(end_date) == FALSE)
 
 cands <- c("Eric Swalwell", "Tom Steyer", "Steve Hilton", "Xavier Becerra",
            "Katie Porter", "Chad Bianco", "Matt Mahan", "Eleni Kounalakis",
