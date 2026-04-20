@@ -130,7 +130,8 @@ poll_avg <- function(data_frame, date) {
   df <- df %>% mutate(
     pollster_ratname = recode(pollster,
                               "Quantus Insights" = "Quantus Polls and News",
-                              "University of California Berkeley Institute of Governmental Studies" = "University of California Berkeley"
+                              "University of California Berkeley Institute of Governmental Studies" = "University of California Berkeley",
+                              "University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona" = "University of Southern California"
     )
   )
   
