@@ -439,7 +439,7 @@ question_dup <- polls %>%
   filter(n() > 1) %>%
   ungroup()
 
-question_ids_excl <- c(217016, 218250, 219208, 222699, 211099)
+question_ids_excl <- c(217016, 218250, 219208, 222699, 211099, 0)
 
 polls <- polls %>% filter(!(question_id %in% question_ids_excl))
 
