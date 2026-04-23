@@ -5,6 +5,8 @@ library(janitor)
 library(rsample) # rsample in tidymodels
 library(progressr)
 
+options(mc.cores = parallel::detectCores(logical = FALSE))
+
 # Get banned pollsters
 source("banned_pollsters.R")
 

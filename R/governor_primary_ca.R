@@ -8,6 +8,8 @@ library(progressr)
 library(locpol)
 library(broom.mixed)
 
+options(mc.cores = parallel::detectCores(logical = FALSE))
+
 # Get banned pollsters
 source("banned_pollsters.R")
 
