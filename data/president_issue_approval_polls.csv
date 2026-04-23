@@ -2352,8 +2352,8 @@ national_security,YouGov,04/17/2026,4/20/2026,1707,A,43,48,-5,https://d3nkl3psvx
 iran,YouGov,04/17/2026,4/20/2026,1707,A,34,55,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_I24AWdp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 ukraine,YouGov,04/17/2026,4/20/2026,1707,A,28,49,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_I24AWdp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 economy,American Research Group,04/16/2026,4/20/2026,1100,A,31,65,-34,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
-economy,Ipsos,04/15/2026,4/20/2026,4557,A,30,63,-33,https://www.reuters.com/world/us/many-americans-question-trumps-temperament-amid-iran-war-pope-spat-reutersipsos-2026-04-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
-immigration,Ipsos,04/15/2026,4/20/2026,4557,A,40,53,-13,https://www.reuters.com/world/us/many-americans-question-trumps-temperament-amid-iran-war-pope-spat-reutersipsos-2026-04-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Ipsos,04/15/2026,4/20/2026,4557,A,30,63,-33,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,04/15/2026,4/20/2026,4557,A,40,53,-13,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,Echelon Insights,04/17/2026,4/20/2026,1012,LV,40,58,-18,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,04/17/2026,4/20/2026,1012,LV,44,54,-10,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,04/17/2026,4/20/2026,1012,LV,40,57,-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2361,3 +2361,15 @@ economy,AP-NORC,04/16/2026,4/20/2026,2596,A,30,70,-40,https://apnorc.org/project
 immigration,AP-NORC,04/16/2026,4/20/2026,2596,A,40,59,-19,https://apnorc.org/projects/fewer-approve-of-trumps-handling-of-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
 iran,AP-NORC,04/16/2026,4/20/2026,2596,A,38,61,-23,https://apnorc.org/projects/fewer-approve-of-trumps-handling-of-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
 inflation,AP-NORC,04/16/2026,4/20/2026,2596,A,23,76,-53,https://apnorc.org/projects/fewer-approve-of-trumps-handling-of-the-economy/,NA,Probability Panel,FALSE,Cost of living,NA,NA
+crime,Ipsos,04/15/2026,4/20/2026,4557,A,40,49,-9,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,04/15/2026,4/20/2026,4557,A,31,59,-28,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,NA,NA,NA
+rule_of_law,Ipsos,04/15/2026,4/20/2026,4557,A,32,56,-24,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,04/15/2026,4/20/2026,4557,A,24,69,-45,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,04/15/2026,4/20/2026,4557,A,31,58,-27,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Marquette University Law School,04/08/2026,4/16/2026,982,A,32,68,-36,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
+inflation,Marquette University Law School,04/08/2026,4/16/2026,982,A,24,76,-52,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
+immigration,Marquette University Law School,04/08/2026,4/16/2026,982,A,44,55,-11,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
+border_security,Marquette University Law School,04/08/2026,4/16/2026,982,A,52,47,5,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
+trade_tariffs,Marquette University Law School,04/08/2026,4/16/2026,982,A,34,65,-31,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,NA,Probability Panel,FALSE,Tariffs,NA,NA
+iran,Marquette University Law School,04/08/2026,4/16/2026,982,A,32,68,-36,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,NA,Probability Panel,FALSE,Iran war,NA,NA
+iran,RMG Research,04/20/2026,4/21/2026,1000,RV,39,57,-18,https://napolitannews.org/posts/35-percent-favor-iran-attacksties-low,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
