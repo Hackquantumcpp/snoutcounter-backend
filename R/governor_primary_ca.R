@@ -174,8 +174,8 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  window <- 14
-  df <- df %>% mutate(recency_weight = 0.05^(as.numeric(date - end_date, units = "days")/window))
+  window <- 21
+  df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
   partisan_dw <- 0.8
@@ -190,7 +190,7 @@ poll_avg <- function(data_frame, date) {
   )
   
   ### Bring it all together
-  df <- df %>% mutate(total_weight = sample_size_weight * quality_weight * zone_flood_weight * partisan_downweight * internals_downweight)
+  df <- df %>% mutate(total_weight = sample_size_weight * recency_weight * quality_weight * zone_flood_weight * partisan_downweight * internals_downweight)
   df$total_weight <- df$total_weight / sum(df$total_weight)
   
   # Drop columns from ratings data frame

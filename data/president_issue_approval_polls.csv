@@ -2401,3 +2401,15 @@ education,YouGov,04/24/2026,4/27/2026,1836,A,35,52,-17,https://d3nkl3psvxxpe9.cl
 abortion,YouGov,04/24/2026,4/27/2026,1836,A,33,52,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 healthcare,YouGov,04/24/2026,4/27/2026,1836,A,34,56,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,04/24/2026,4/27/2026,1836,A,32,59,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Ipsos,04/24/2026,4/27/2026,1269,A,27,63,-36,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,04/24/2026,4/27/2026,1269,A,38,55,-17,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,04/24/2026,4/27/2026,1269,A,37,51,-14,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,04/24/2026,4/27/2026,1269,A,30,59,-29,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,04/24/2026,4/27/2026,1269,A,21,70,-49,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,04/24/2026,4/27/2026,1269,A,29,59,-30,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Global Strategy Group/GBAO (Navigator Research),04/23/2026,4/27/2026,1000,RV,36,61,-25,https://navigatorresearch.org/two-months-later-most-americans-dont-think-trumps-war-with-iran-is-worth-it-and-see-no-end-in-sight/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Global Strategy Group/GBAO (Navigator Research),04/23/2026,4/27/2026,1000,RV,37,58,-21,https://navigatorresearch.org/two-months-later-most-americans-dont-think-trumps-war-with-iran-is-worth-it-and-see-no-end-in-sight/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+gas_prices,Global Strategy Group/GBAO (Navigator Research),04/23/2026,4/27/2026,1000,RV,30,63,-33,https://navigatorresearch.org/two-months-later-most-americans-dont-think-trumps-war-with-iran-is-worth-it-and-see-no-end-in-sight/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Emerson College,04/24/2026,4/26/2026,1000,LV,38.5,54.3,-15.8,https://emersoncollegepolling.com/april-2026-national-poll/,NA,Probability Panel/Text-to-Web,FALSE,NA,NA,NA
+economy,Emerson College,04/24/2026,4/26/2026,1000,LV,37.7,56.1,-18.4,https://emersoncollegepolling.com/april-2026-national-poll/,NA,Probability Panel/Text-to-Web,FALSE,NA,NA,NA
+immigration,Emerson College,04/24/2026,4/26/2026,1000,LV,42.7,53,-10.3,https://emersoncollegepolling.com/april-2026-national-poll/,NA,Probability Panel/Text-to-Web,FALSE,NA,NA,NA
