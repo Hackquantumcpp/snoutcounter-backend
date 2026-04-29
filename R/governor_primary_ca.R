@@ -133,7 +133,10 @@ poll_avg <- function(data_frame, date) {
     pollster_ratname = recode(pollster,
                               "Quantus Insights" = "Quantus Polls and News",
                               "University of California Berkeley Institute of Governmental Studies" = "University of California Berkeley",
-                              "University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona" = "University of Southern California"
+                              "University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona" = "University of Southern California",
+                              "University of California Irvine School of Social Ecology/Truedot" = "Truedot",
+                              "University of California Berkeley Jack Citrin Center for Public Opinion Research/Possibility Lab/TrueDot" = "Truedot",
+                              "University of California Berkeley Jack Citrin Center for Public Opinion Research/TrueDot" = "Truedot"
     )
   )
   
