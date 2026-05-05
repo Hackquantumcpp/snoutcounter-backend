@@ -2422,3 +2422,39 @@ inflation,Ipsos,04/24/2026,4/28/2026,2560,A,27,72,-45,https://www.washingtonpost
 border_security,Ipsos,04/24/2026,4/28/2026,2560,A,45,54,-9,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,ABC News | The Washington Post,Probability Panel,FALSE,The immigration situation at the U.S.-Mexico border,NA,NA
 taxes,Ipsos,04/24/2026,4/28/2026,2560,A,38,61,-23,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,ABC News | The Washington Post,Probability Panel,FALSE,NA,NA,NA
 us_allies,Ipsos,04/24/2026,4/28/2026,2560,A,33,65,-32,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,ABC News | The Washington Post,Probability Panel,FALSE,Relations with U.S. allies,NA,NA
+immigration,Change Research,03/08/2026,3/12/2026,1540,RV,48,51,-3,https://portal.changeresearch.com/portal/projects/61cdcd30-3c32-4785-9ccb-5fe82cb36389,NA,NA,FALSE,NA,NA,NA
+immigration,Change Research,02/05/2026,2/18/2026,1741,RV,45,52,-7,https://portal.changeresearch.com/portal/projects/9c8a3c8a-70c6-47f8-80bf-596426bc3318,NA,NA,FALSE,NA,NA,NA
+immigration,Change Research,01/13/2026,1/19/2026,1348,RV,47,51,-4,https://portal.changeresearch.com/portal/projects/45449a2d-6c0e-412f-a3e1-a053b39f12b0,NA,NA,FALSE,NA,NA,NA
+immigration,Change Research,12/05/2025,12/10/2025,1520,RV,48,50,-2,https://portal.changeresearch.com/portal/projects/462322ed-5e5a-43bd-b4ff-43acb1d433e2,NA,NA,FALSE,NA,NA,NA
+immigration,Change Research,11/06/2025,11/10/2025,1572,RV,45,52,-7,https://portal.changeresearch.com/portal/projects/f8ad986a-d2e5-4fb6-a21f-63b6b92c2998,NA,NA,FALSE,NA,NA,NA
+immigration,Change Research,09/28/2025,10/6/2025,1596,RV,46,52,-6,https://portal.changeresearch.com/portal/projects/0326caf4-1de0-4774-8b12-23385ba6d752,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,03/08/2026,3/12/2026,1540,RV,39,58,-19,https://portal.changeresearch.com/portal/projects/61cdcd30-3c32-4785-9ccb-5fe82cb36389,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,02/05/2026,2/18/2026,1741,RV,41,55,-14,https://portal.changeresearch.com/portal/projects/9c8a3c8a-70c6-47f8-80bf-596426bc3318,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,01/13/2026,1/19/2026,1348,RV,45,53,-8,https://portal.changeresearch.com/portal/projects/45449a2d-6c0e-412f-a3e1-a053b39f12b0,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,12/05/2025,12/10/2025,1520,RV,42,55,-13,https://portal.changeresearch.com/portal/projects/462322ed-5e5a-43bd-b4ff-43acb1d433e2,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,11/06/2025,11/10/2025,1572,RV,41,56,-15,https://portal.changeresearch.com/portal/projects/f8ad986a-d2e5-4fb6-a21f-63b6b92c2998,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,09/28/2025,10/6/2025,1596,RV,42,55,-13,https://portal.changeresearch.com/portal/projects/0326caf4-1de0-4774-8b12-23385ba6d752,NA,NA,FALSE,NA,NA,NA
+economy,Change Research,09/05/2025,9/10/2025,2223,RV,44,54,-10,https://portal.changeresearch.com/portal/projects/9b77cc10-feae-4dd6-b303-1b83ee015192,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Change Research,03/08/2026,3/12/2026,1540,RV,40,56,-16,https://portal.changeresearch.com/portal/projects/61cdcd30-3c32-4785-9ccb-5fe82cb36389,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Change Research,02/05/2026,2/18/2026,1741,RV,39,55,-16,https://portal.changeresearch.com/portal/projects/9c8a3c8a-70c6-47f8-80bf-596426bc3318,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Change Research,01/13/2026,1/19/2026,1348,RV,43,54,-11,https://portal.changeresearch.com/portal/projects/45449a2d-6c0e-412f-a3e1-a053b39f12b0,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Change Research,12/05/2025,12/10/2025,1520,RV,42,53,-11,https://portal.changeresearch.com/portal/projects/462322ed-5e5a-43bd-b4ff-43acb1d433e2,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Change Research,11/06/2025,11/10/2025,1572,RV,42,55,-13,https://portal.changeresearch.com/portal/projects/f8ad986a-d2e5-4fb6-a21f-63b6b92c2998,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Change Research,09/28/2025,10/6/2025,1596,RV,40,57,-17,https://portal.changeresearch.com/portal/projects/0326caf4-1de0-4774-8b12-23385ba6d752,NA,NA,FALSE,NA,NA,NA
+inflation,Change Research,03/08/2026,3/12/2026,1540,RV,36,62,-26,https://portal.changeresearch.com/portal/projects/61cdcd30-3c32-4785-9ccb-5fe82cb36389,NA,NA,FALSE,NA,NA,NA
+inflation,Change Research,02/05/2026,2/18/2026,1741,RV,37,59,-22,https://portal.changeresearch.com/portal/projects/9c8a3c8a-70c6-47f8-80bf-596426bc3318,NA,NA,FALSE,NA,NA,NA
+inflation,Change Research,01/13/2026,1/19/2026,1348,RV,41,56,-15,https://portal.changeresearch.com/portal/projects/45449a2d-6c0e-412f-a3e1-a053b39f12b0,NA,NA,FALSE,NA,NA,NA
+inflation,Change Research,12/05/2025,12/10/2025,1520,RV,37,59,-22,https://portal.changeresearch.com/portal/projects/462322ed-5e5a-43bd-b4ff-43acb1d433e2,NA,NA,FALSE,NA,NA,NA
+inflation,Change Research,11/06/2025,11/10/2025,1572,RV,34,61,-27,https://portal.changeresearch.com/portal/projects/f8ad986a-d2e5-4fb6-a21f-63b6b92c2998,NA,NA,FALSE,NA,NA,NA
+inflation,Change Research,09/28/2025,10/6/2025,1596,RV,37,60,-23,https://portal.changeresearch.com/portal/projects/0326caf4-1de0-4774-8b12-23385ba6d752,NA,NA,FALSE,NA,NA,NA
+economy,YouGov,05/01/2026,5/4/2026,1573,A,34,58,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,Jobs and the economy,NA,NA
+inflation,YouGov,05/01/2026,5/4/2026,1573,A,25,69,-44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
+govt_spending,YouGov,05/01/2026,5/4/2026,1573,A,33,60,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,Taxes and government spending,NA,NA
+iran,YouGov,05/01/2026,5/4/2026,1573,A,31,60,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Morning Consult,04/30/2026,5/3/2026,2200,RV,42,52,-10,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,04/30/2026,5/3/2026,2200,RV,41,50,-9,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,04/30/2026,5/3/2026,2200,RV,48,46,2,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,04/30/2026,5/3/2026,2200,RV,43,47,-4,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,04/30/2026,5/3/2026,2200,RV,42,48,-6,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,04/30/2026,5/3/2026,2200,RV,49,44,5,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,04/30/2026,5/3/2026,2200,RV,43,48,-5,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
