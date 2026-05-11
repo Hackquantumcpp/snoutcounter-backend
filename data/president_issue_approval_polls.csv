@@ -2482,3 +2482,9 @@ economy,Harris Insights & Analytics,04/23/2026,4/26/2026,2745,RV,39,55,-16,https
 inflation,Harris Insights & Analytics,04/23/2026,4/26/2026,2745,RV,37,57,-20,https://harvardharrispoll.com/topline-april-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,05/05/2026,5/6/2026,1000,RV,40,57,-17,https://napolitannews.org/posts/39-percent-say-u-s-is-winning-iran-war,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,04/29/2026,4/30/2026,1000,RV,39,59,-20,https://napolitannews.org/posts/as-war-passes-60-days-majority-still-opposed,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Focaldata,05/01/2026,5/5/2026,3612,A,40,46,-6,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,Immigration & border security,NA,NA
+inflation,Focaldata,05/01/2026,5/5/2026,3612,A,27,58,-31,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,Inflation & cost of living,NA,NA
+economy,Focaldata,05/01/2026,5/5/2026,3612,A,33,51,-18,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
+healthcare,Focaldata,05/01/2026,5/5/2026,3612,A,31,51,-20,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,NA,NA,NA
+foreign_policy,Focaldata,05/01/2026,5/5/2026,3612,A,32,51,-19,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,NA,NA,NA
+iran,Focaldata,05/01/2026,5/5/2026,3612,A,30,54,-24,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,NA,NA,NA
