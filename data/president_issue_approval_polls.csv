@@ -2488,3 +2488,41 @@ economy,Focaldata,05/01/2026,5/5/2026,3612,A,33,51,-18,https://www.focaldata.com
 healthcare,Focaldata,05/01/2026,5/5/2026,3612,A,31,51,-20,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,NA,NA,NA
 foreign_policy,Focaldata,05/01/2026,5/5/2026,3612,A,32,51,-19,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,NA,NA,NA
 iran,Focaldata,05/01/2026,5/5/2026,3612,A,30,54,-24,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,NA,NA,NA
+economy,Ipsos,05/08/2026,5/11/2026,1254,A,30,64,-34,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,05/08/2026,5/11/2026,1254,A,40,54,-14,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,05/08/2026,5/11/2026,1254,A,41,49,-8,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,05/08/2026,5/11/2026,1254,A,34,59,-25,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,05/08/2026,5/11/2026,1254,A,23,72,-49,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+immigration,AtlasIntel,05/04/2026,5/7/2026,2069,A,41,58,-17,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+defense,AtlasIntel,05/04/2026,5/7/2026,2069,A,41,56,-15,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+democracy,AtlasIntel,05/04/2026,5/7/2026,2069,A,40,59,-19,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+foreign_policy,AtlasIntel,05/04/2026,5/7/2026,2069,A,40,60,-20,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+trade_tariffs,AtlasIntel,05/04/2026,5/7/2026,2069,A,39,59,-20,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+economy,AtlasIntel,05/04/2026,5/7/2026,2069,A,38,60,-22,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,U.S. economy & jobs,NA,Excellent/good vs poor/terrible
+energy,AtlasIntel,05/04/2026,5/7/2026,2069,A,39,59,-20,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+inequality,AtlasIntel,05/04/2026,5/7/2026,2069,A,37,60,-23,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+taxes,AtlasIntel,05/04/2026,5/7/2026,2069,A,37,59,-22,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+govt_management,AtlasIntel,05/04/2026,5/7/2026,2069,A,37,61,-24,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,Government efficiency,NA,Excellent/good vs poor/terrible
+corruption,AtlasIntel,05/04/2026,5/7/2026,2069,A,37,59,-22,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+environment,AtlasIntel,05/04/2026,5/7/2026,2069,A,34,60,-26,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+agriculture,AtlasIntel,05/04/2026,5/7/2026,2069,A,35,57,-22,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+education,AtlasIntel,05/04/2026,5/7/2026,2069,A,34,59,-25,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+national_debt,AtlasIntel,05/04/2026,5/7/2026,2069,A,34,61,-27,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,Deficit and national debt,NA,Excellent/good vs poor/terrible
+healthcare,AtlasIntel,05/04/2026,5/7/2026,2069,A,32,60,-28,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+cuba_venezuela,AtlasIntel,05/04/2026,5/7/2026,2069,A,40,59,-19,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,US policy on Cuba and Venezuela,NA,Excellent/good vs poor/terrible
+middle_east,AtlasIntel,05/04/2026,5/7/2026,2069,A,39,58,-19,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,Relationship with Arab states & Middle East policy,NA,Excellent/good vs poor/terrible
+latin_america,AtlasIntel,05/04/2026,5/7/2026,2069,A,40,59,-19,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,Latin America - US relations,NA,Excellent/good vs poor/terrible
+israel_palestine,AtlasIntel,05/04/2026,5/7/2026,2069,A,38,58,-20,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,Israeli-Palestinian conflict,NA,Excellent/good vs poor/terrible
+china,AtlasIntel,05/04/2026,5/7/2026,2069,A,40,58,-18,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,China - US competition,NA,Excellent/good vs poor/terrible
+nato,AtlasIntel,05/04/2026,5/7/2026,2069,A,39,59,-20,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,NATO and relationship with US allies,NA,Excellent/good vs poor/terrible
+ukraine,AtlasIntel,05/04/2026,5/7/2026,2069,A,35,59,-24,https://www.atlasintel.org/poll/usa-national-2026-05-11,NA,Online Ad,FALSE,War in Ukraine,NA,Excellent/good vs poor/terrible
+economy,SSRS,04/30/2026,5/4/2026,1499,A,30,70,-40,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,NA,NA,NA
+immigration,SSRS,04/30/2026,5/4/2026,1499,A,41,59,-18,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,SSRS,04/30/2026,5/4/2026,1499,A,31,69,-38,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,Foreign affairs,NA,NA
+taxes,SSRS,04/30/2026,5/4/2026,1499,A,37,62,-25,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,NA,NA,NA
+inflation,SSRS,04/30/2026,5/4/2026,1499,A,26,74,-48,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,NA,NA,NA
+gas_prices,SSRS,04/30/2026,5/4/2026,1499,A,21,79,-58,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,NA,NA,NA
+political_violence,SSRS,04/30/2026,5/4/2026,1499,A,36,64,-28,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,CNN,Probability Panel,FALSE,NA,NA,NA
+crime,YouGov,05/09/2026,5/11/2026,1549,A,43,48,-5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,05/09/2026,5/11/2026,1549,A,41,54,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+race_relations,YouGov,05/09/2026,5/11/2026,1549,A,32,54,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
