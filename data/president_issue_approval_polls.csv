@@ -2535,3 +2535,6 @@ inflation,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,28,69,-4
 israel_palestine,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,31,62,-31,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,NA,NA,NA
 iran,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,31,65,-34,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,The war in Iran,NA,NA
 iran,RMG Research,05/13/2026,5/14/2026,1000,RV,36,60,-24,https://napolitannews.org/posts/iran-support-hits-new-low-voters-split-on-if-iran-was-a-threat-prior-to-attacks,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,YouGov,05/15/2026,5/18/2026,1549,A,36,56,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,YouGov,05/15/2026,5/18/2026,1549,A,31,60,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,Tariffs,NA,NA
+national_security,YouGov,05/15/2026,5/18/2026,1549,A,42,49,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
