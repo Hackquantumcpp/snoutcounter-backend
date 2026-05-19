@@ -1296,3 +1296,7 @@ SSRS,CNN,2026-04-30,2026-05-04,NA,RV,36,63,NA,https://www.cnn.com/2026/05/12/pol
 YouGov,The Economist,2026-05-09,2026-05-11,1549,A,36,58,5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-05-09,2026-05-11,1410,RV,41,57,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,Online Matched Sample,FALSE,NA,NA
 GBAO,Third Way,2026-04-08,2026-04-15,2000,RV,39,60,1,https://www.thirdway.org/memo/the-cost-of-misplaced-priorities-trumps-coalition-frays,NA,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-05-05,2026-05-14,3000,RV,42,57,NA,https://napolitannews.org/assets/pdfs/6a071302915bb-gcm26-0513-toplines-trump-job-approval.pdf,Online Opt-In Panel,FALSE,NA,NA
+Tavern Research,Searchlight Institute,2026-01-17,2026-01-21,2997,LV,44,53,3,https://www.searchlightinstitute.org/research/voters-want-predictability-lower-costs-and-some-government-involvement-in-health-care/,Online Opt-In Panel,FALSE,NA,NA
+YouGov,CBS News,2026-05-13,2026-05-15,2064,A,37,63,NA,https://www.cbsnews.com/news/cbs-news-poll-stress-uncertainty-economy-views-decline/,Online Matched Sample,FALSE,NA,NA
+The New York Times/Siena College,NA,2026-05-11,2026-05-15,1507,RV,37,59,5,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,Live Phone,FALSE,NA,NA

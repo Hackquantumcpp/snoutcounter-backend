@@ -2526,3 +2526,12 @@ political_violence,SSRS,04/30/2026,5/4/2026,1499,A,36,64,-28,https://www.cnn.com
 crime,YouGov,05/09/2026,5/11/2026,1549,A,43,48,-5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,05/09/2026,5/11/2026,1549,A,41,54,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 race_relations,YouGov,05/09/2026,5/11/2026,1549,A,32,54,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,YouGov,05/13/2026,5/15/2026,2064,A,33,67,-34,https://www.cbsnews.com/news/cbs-news-poll-stress-uncertainty-economy-views-decline/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,05/13/2026,5/15/2026,2064,A,27,73,-46,https://www.cbsnews.com/news/cbs-news-poll-stress-uncertainty-economy-views-decline/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,05/13/2026,5/15/2026,2064,A,43,57,-14,https://www.cbsnews.com/news/cbs-news-poll-stress-uncertainty-economy-views-decline/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,41,56,-15,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,NA,NA,NA
+economy,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,33,64,-31,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,NA,NA,NA
+inflation,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,28,69,-41,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,The cost of living,NA,NA
+israel_palestine,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,31,62,-31,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,NA,NA,NA
+iran,The New York Times/Siena College,05/11/2026,5/15/2026,1507,RV,31,65,-34,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,NA,Live Phone,FALSE,The war in Iran,NA,NA
+iran,RMG Research,05/13/2026,5/14/2026,1000,RV,36,60,-24,https://napolitannews.org/posts/iran-support-hits-new-low-voters-split-on-if-iran-was-a-threat-prior-to-attacks,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
