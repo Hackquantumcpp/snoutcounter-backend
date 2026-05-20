@@ -2538,3 +2538,19 @@ iran,RMG Research,05/13/2026,5/14/2026,1000,RV,36,60,-24,https://napolitannews.o
 foreign_policy,YouGov,05/15/2026,5/18/2026,1549,A,36,56,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,05/15/2026,5/18/2026,1549,A,31,60,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,Tariffs,NA,NA
 national_security,YouGov,05/15/2026,5/18/2026,1549,A,42,49,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Echelon Insights,05/14/2026,5/18/2026,1008,LV,34,63,-29,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Echelon Insights,05/14/2026,5/18/2026,1008,LV,43,55,-12,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Echelon Insights,05/14/2026,5/18/2026,1008,LV,38,59,-21,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Echelon Insights,05/14/2026,5/18/2026,1008,LV,34,62,-28,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,Tariffs,NA,NA
+economy,Ipsos,05/15/2026,5/18/2026,1271,A,26,67,-41,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,05/15/2026,5/18/2026,1271,A,40,53,-13,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,05/15/2026,5/18/2026,1271,A,37,51,-14,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,05/15/2026,5/18/2026,1271,A,30,59,-29,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,05/15/2026,5/18/2026,1271,A,19,74,-55,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,05/15/2026,5/18/2026,1271,A,27,61,-34,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,Ipsos,05/15/2026,5/18/2026,1271,A,28,62,-34,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,AP-NORC,05/14/2026,5/18/2026,1117,A,33,67,-34,https://apnorc.org/projects/trump-approval-on-the-economy-remains-low/,NA,Probability Panel,FALSE,NA,NA,NA
+immigration,AP-NORC,05/14/2026,5/18/2026,1117,A,45,54,-9,https://apnorc.org/projects/trump-approval-on-the-economy-remains-low/,NA,Probability Panel,FALSE,NA,NA,NA
+iran,AP-NORC,05/14/2026,5/18/2026,1117,A,34,64,-30,https://apnorc.org/projects/trump-approval-on-the-economy-remains-low/,NA,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,AP-NORC,05/14/2026,5/18/2026,1117,A,36,62,-26,https://apnorc.org/projects/trump-approval-on-the-economy-remains-low/,NA,Probability Panel,FALSE,NA,NA,NA
+economy,Global Strategy Group/GBAO (Navigator Research),05/13/2026,5/18/2026,1000,RV,36,62,-26,https://navigatorresearch.org/low-awareness-high-stakes-views-on-the-recent-supreme-court-ruling-on-the-voting-rights-act/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
