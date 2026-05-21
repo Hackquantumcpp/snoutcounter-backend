@@ -2554,3 +2554,8 @@ immigration,AP-NORC,05/14/2026,5/18/2026,1117,A,45,54,-9,https://apnorc.org/proj
 iran,AP-NORC,05/14/2026,5/18/2026,1117,A,34,64,-30,https://apnorc.org/projects/trump-approval-on-the-economy-remains-low/,NA,Probability Panel,FALSE,NA,NA,NA
 foreign_policy,AP-NORC,05/14/2026,5/18/2026,1117,A,36,62,-26,https://apnorc.org/projects/trump-approval-on-the-economy-remains-low/,NA,Probability Panel,FALSE,NA,NA,NA
 economy,Global Strategy Group/GBAO (Navigator Research),05/13/2026,5/18/2026,1000,RV,36,62,-26,https://navigatorresearch.org/low-awareness-high-stakes-views-on-the-recent-supreme-court-ruling-on-the-voting-rights-act/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+border_security,Beacon Research/Shaw & Co. Research,05/15/2026,5/18/2026,1002,RV,49,51,-2,https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+foreign_policy,Beacon Research/Shaw & Co. Research,05/15/2026,5/18/2026,1002,RV,38,62,-24,https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+economy,Beacon Research/Shaw & Co. Research,05/15/2026,5/18/2026,1002,RV,29,71,-42,https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+inflation,Beacon Research/Shaw & Co. Research,05/15/2026,5/18/2026,1002,RV,24,76,-52,https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+economy,American Research Group,05/16/2026,5/20/2026,1100,A,29,67,-38,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
