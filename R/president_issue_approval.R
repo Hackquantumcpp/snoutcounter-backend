@@ -36,6 +36,8 @@ setwd("../R")
 issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
                 'crime', 'healthcare', 'iran')
 
+polls <- polls %>% filter(is.na(sample_size) == FALSE)
+
 # issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
 #                 'crime', 'healthcare', 'ukraine', 'israel_palestine', 'govt_spending',
 #                 'border_security', 'national_security', 'education')
