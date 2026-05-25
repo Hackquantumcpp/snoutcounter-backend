@@ -95,7 +95,7 @@ poll_avg <- function(data_frame, date) {
   df_nullsampsize <- df %>% filter(is.na(sample_size) == TRUE)
   
   impute_sample_size <- function(data_frame, data_frame_nullsampsize, pollster, mode) {
-    df <- data_frame # Copy data farme
+    df <- data_frame # Copy data frame
     df_pollst <- df %>% filter(pollster == pollster)
     df_mode <- df %>% filter(mode == mode)
     

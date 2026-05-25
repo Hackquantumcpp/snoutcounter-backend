@@ -17,21 +17,19 @@ ratings <- read_csv("ratings/pollster_ratings_silver.csv") %>% janitor::clean_na
 
 ratings_24 <- read_csv("ratings/pollster_ratings_silver_2024.csv") %>% janitor::clean_names()
 
-url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3aMKZ85CaxcIMUp8m1n79clUPZFhgzhSsI-W48zCnwH5BdKB5q9TcreXPVA-YBNu40W3kISq_SQ4O/pub?output=csv"
-  
-polls <- read_csv(url)
+filepath <- "data/fte/generic_ballot_polls_historical.csv"
 
-setwd(paste0(getwd(), "/data/"))
+polls <- read_csv(filepath)
 
-write_csv(polls, "generic_ballot_polls.csv")
+setwd(paste0(getwd(), "/R/"))
 
-setwd("../R")
+polls <- polls %>% filter(!(display_name %in% banned_pollsters))
 
-polls <- polls %>% filter(!(pollster %in% banned_pollsters))
+year <- 2024
 
-# polls <- polls %>% filter(
-#   is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
-# )
+polls <- polls %>% filter(cycle == year)
+
+labor_day <- ymd("2024-09-02")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -117,30 +115,12 @@ poll_avg <- function(data_frame, date) {
   
   df <- df %>% mutate(sample_size_weight = sqrt(pmin(sample_size_winsr, size_cap)) / sqrt(median(pmin(sample_size_winsr, size_cap))))
   
-  # Quick wrangling
-  df$sponsors[df$pollster == "CNN/SSRS"] <- "CNN"
-  df$pollster[df$pollster == "CNN/SSRS"] <- "SSRS"
-  df <- df %>% mutate(
-    pollster_ratname = recode(pollster,
-                              "Quantus Insights" = "Quantus Polls and News",
-    )
-  )
-  
   ### Quality weights
-  df_25 <- df %>% filter(end_date < ymd("2026-01-14")) %>% left_join(ratings_24 %>% rename(pollster_ratname = pollster),
-                                                                     join_by(pollster_ratname))
-  df_26 <- df %>% filter(end_date >= ymd("2026-01-14")) %>% left_join(ratings %>% rename(pollster_ratname = pollster),
-                                                                      join_by(pollster_ratname))
-  df <- bind_rows(df_25, df_26)
-  
   df <- df %>%
-    filter(
-      !(pollster_ratname %in% (ratings %>% filter(grade == "F@@16") %>% select(pollster)))
-    ) %>%
     mutate(
-      predictive_plus_minus = coalesce(predictive_plus_minus, 5),
+      pollscore = coalesce(pollscore, 5),
       # quality_weight = if_else(predictive_plus_minus < 0.5, exp(-predictive_plus_minus/1.3), 0.2)
-      quality_weight = if_else(predictive_plus_minus <= 1, sqrt(1/2.4 * (1 - predictive_plus_minus)) + 0.2, 0.2)    
+      quality_weight = if_else(pollscore <= 1, sqrt(1/2.4 * (1 - pollscore)) + 0.2, 0.2)    
     )
   
   pid_in_window <- function(end_date, pid) {
@@ -155,7 +135,13 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  window <- 21
+  if (date < labor_day) {
+    window <- 21
+  }
+  else {
+    delta <- as.numeric(date - labor_day, units = "days")
+    window <- max(-(7/30)*delta + 21, 14)
+  }
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
@@ -168,16 +154,15 @@ poll_avg <- function(data_frame, date) {
   df <- df %>% mutate(total_weight = sample_size_weight * quality_weight * zone_flood_weight * recency_weight * partisan_downweight)
   df$total_weight <- df$total_weight / sum(df$total_weight)
   
-  # Drop columns from ratings data frame
-  df <- df %>% select(-predictive_plus_minus, -mean_reverted_bias, -number_of_polls, -cat, -grade)
-  
   return(df)
 }
 
 avg_over_time <- function(data_frame) {
   df <- data_frame # Copy data frame
   
-  date_interv <- seq(ymd("2025-01-03"), today(), by = "day")
+  #date_interv <- seq(ymd("2025-01-03"), today(), by = "day")
+  
+  date_interv <- seq(min(df$end_date), max(df$end_date), by = "day")
   
   print(interactive())
   
@@ -228,10 +213,10 @@ avg_over_time <- function(data_frame) {
   return(df_avg)
 }
 
-polls <- polls %>% mutate(end_date = ymd(end_date), start_date = ymd(start_date)) %>%
-  group_by(pollster, sponsors, start_date, end_date) %>%
-  mutate(poll_id = cur_group_id()) %>%
-  ungroup()
+polls <- polls %>% mutate(end_date = mdy(end_date), 
+                          start_date = mdy(start_date),
+                          tracking = if_else(is.na(tracking), FALSE, TRUE),
+                          population = toupper(population))
 
 polls_tracking <- tracking_polls_pipeline(polls) %>% select(-interval) # Drop interval column
 
@@ -240,6 +225,7 @@ polls <- polls %>% filter(tracking == "FALSE")
 polls <- bind_rows(polls, polls_tracking)
 
 polls <- polls %>% arrange(pollster) %>%
+  rename(mode = methodology) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
 polls <- polls %>% 
@@ -354,8 +340,8 @@ ggplot(
   labs(
     x = "Date",
     y = "%",
-    title = "Generic Ballot"
-  ) + xlim(ymd('2025-01-21'), today())
+    title = paste("Generic Ballot", year)
+  )
 
 ggplot(
   generic_ballot_avg, mapping = aes(x = end_date, y = net)
@@ -364,36 +350,13 @@ ggplot(
   geom_point(data = polls, mapping = aes(y = net), color = "purple", alpha = 0.2) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black", linewidth = 0.5) +
   labs(
-  x = "Date",
-  y = "Rep-Dem Spread %",
-  title = "Generic Ballot Spread"
-) + xlim(ymd('2025-01-21'), today())
+    x = "Date",
+    y = "Rep-Dem Spread %",
+    title = "Generic Ballot Spread"
+  )
 
-setwd("../averages/")
+setwd("../averages/historical/")
 
-write_csv(generic_ballot_avg, 'generic_ballot.csv')
+write_csv(generic_ballot_avg, paste0('historical_generic_ballot_', year, '.csv'))
 
-setwd("../R/")
-
-# Polls dataset - display table
-
-avg_today <- poll_avg(polls, today())
-
-polls_display <- polls_og %>% select(pollster, sponsors, start_date,
-                                     end_date, sample_size, population,
-                                     dem, rep, url, poll_id,
-                                     net, partisan) %>% left_join(
-                                       polls %>% select(poll_id, net),
-                                       join_by(poll_id)
-                                     ) %>% left_join(
-                                       avg_today %>% select(poll_id, total_weight),
-                                       join_by(poll_id)
-                                     ) %>% rename(
-                                       net = net.x, adj_net = net.y
-                                     ) %>% select(-poll_id)
-
-setwd("../transformed_tables")
-
-write_csv(polls_display, 'generic_ballot_polls_disp.csv')
-
-setwd("../R/")
+setwd("../../R/")
