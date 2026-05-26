@@ -25,11 +25,11 @@ setwd(paste0(getwd(), "/R/"))
 
 polls <- polls %>% filter(!(display_name %in% banned_pollsters))
 
-year <- 2024
+year <- 2018
 
 polls <- polls %>% filter(cycle == year)
 
-labor_day <- ymd("2024-09-02")
+labor_day <- ymd("2018-09-03")
 
 tracking_polls_pipeline <- function(data_frame) {
   df <- data_frame %>% filter(tracking == TRUE)
@@ -136,11 +136,11 @@ poll_avg <- function(data_frame, date) {
   
   ### Recency weight
   if (date < labor_day) {
-    window <- 21
+    window <- 30
   }
   else {
     delta <- as.numeric(date - labor_day, units = "days")
-    window <- max(-(7/30)*delta + 21, 14)
+    window <- max(-(7/30)*delta + 30, 21)
   }
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   

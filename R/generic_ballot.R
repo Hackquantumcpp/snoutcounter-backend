@@ -155,7 +155,7 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  window <- 21
+  window <- 30
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
