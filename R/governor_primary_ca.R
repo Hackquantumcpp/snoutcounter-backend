@@ -475,8 +475,6 @@ polls <- polls %>% filter(
   is.na(rob_bonta_dem) == TRUE
 ) %>% filter(
   is.na(richard_allen_grenell_rep) == TRUE
-) %>% filter(
-  is.na(katie_porter_dem) == FALSE
 )
 
 df_weights <- poll_avg(polls, today())
