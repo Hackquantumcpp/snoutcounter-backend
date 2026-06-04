@@ -2480,8 +2480,8 @@ trade_tariffs,Harris Insights & Analytics,04/23/2026,4/26/2026,2745,RV,40,54,-14
 iran,Harris Insights & Analytics,04/23/2026,4/26/2026,2745,RV,39,53,-14,https://harvardharrispoll.com/topline-april-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Managing the Iran conflict,NA,NA
 economy,Harris Insights & Analytics,04/23/2026,4/26/2026,2745,RV,39,55,-16,https://harvardharrispoll.com/topline-april-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Harris Insights & Analytics,04/23/2026,4/26/2026,2745,RV,37,57,-20,https://harvardharrispoll.com/topline-april-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
-iran,RMG Research,05/05/2026,5/6/2026,1000,RV,40,57,-17,https://napolitannews.org/posts/39-percent-say-u-s-is-winning-iran-war,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,04/29/2026,4/30/2026,1000,RV,39,59,-20,https://napolitannews.org/posts/as-war-passes-60-days-majority-still-opposed,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,RMG Research,05/05/2026,5/6/2026,1000,RV,40,57,-17,https://napolitannews.org/posts/39-percent-say-u-s-is-winning-iran-war,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Focaldata,05/01/2026,5/5/2026,3612,A,40,46,-6,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,Immigration & border security,NA,NA
 inflation,Focaldata,05/01/2026,5/5/2026,3612,A,27,58,-31,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,Inflation & cost of living,NA,NA
 economy,Focaldata,05/01/2026,5/5/2026,3612,A,33,51,-18,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
@@ -2665,3 +2665,6 @@ trade_tariffs,Marquette University Law School,05/20/2026,5/26/2026,1001,A,32,67,
 iran,Marquette University Law School,05/20/2026,5/26/2026,1001,A,33,67,-34,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
 gas_prices,Marquette University Law School,05/20/2026,5/26/2026,1001,A,19,81,-62,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
 foreign_policy,Marquette University Law School,05/20/2026,5/26/2026,1001,A,38,62,-24,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
+iran,Quantus Insights,06/01/2026,6/2/2026,1050,LV,39,59.5,-20.5,https://quantusinsights.org/f/quantus-insights-trump-underwater-democrats-hold-edge,NA,Text,FALSE,NA,NA,NA
+iran,RMG Research,05/26/2026,5/26/2026,1000,RV,40,54,-14,https://napolitannews.org/posts/support-in-iran-holds-steady-at-38-percent,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,RMG Research,05/20/2026,5/21/2026,1000,RV,40,56,-16,https://napolitannews.org/posts/short-term-gas-prices-no-longer-worth-it-to-voters,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
