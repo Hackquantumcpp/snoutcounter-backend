@@ -2668,3 +2668,13 @@ foreign_policy,Marquette University Law School,05/20/2026,5/26/2026,1001,A,38,62
 iran,Quantus Insights,06/01/2026,6/2/2026,1050,LV,39,59.5,-20.5,https://quantusinsights.org/f/quantus-insights-trump-underwater-democrats-hold-edge,NA,Text,FALSE,NA,NA,NA
 iran,RMG Research,05/26/2026,5/26/2026,1000,RV,40,54,-14,https://napolitannews.org/posts/support-in-iran-holds-steady-at-38-percent,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,05/20/2026,5/21/2026,1000,RV,40,56,-16,https://napolitannews.org/posts/short-term-gas-prices-no-longer-worth-it-to-voters,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Focaldata,05/29/2026,6/1/2026,1719,A,41,46,-5,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,Immigration and border security,NA,NA
+inflation,Focaldata,05/29/2026,6/1/2026,1719,A,18,69,-51,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,Inflation and the cost of living,NA,NA
+economy,Focaldata,05/29/2026,6/1/2026,1719,A,28,55,-27,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
+healthcare,Focaldata,05/29/2026,6/1/2026,1719,A,28,51,-23,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
+foreign_policy,Focaldata,05/29/2026,6/1/2026,1719,A,30,50,-20,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
+iran,Focaldata,05/29/2026,6/1/2026,1719,A,26,56,-30,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
+trade_tariffs,Focaldata,05/29/2026,6/1/2026,1719,A,26,57,-31,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
+housing,Focaldata,05/29/2026,6/1/2026,1719,A,22,51,-29,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
+govt_spending,Focaldata,05/29/2026,6/1/2026,1719,A,22,59,-37,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,The national debt and government spending,NA,NA
+ai,Focaldata,05/29/2026,6/1/2026,1719,A,24,38,-14,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
