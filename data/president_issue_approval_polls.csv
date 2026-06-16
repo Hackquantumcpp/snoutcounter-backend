@@ -2736,3 +2736,12 @@ healthcare,Global Strategy Group/GBAO (Navigator Research),06/04/2026,6/8/2026,1
 foreign_policy,Global Strategy Group/GBAO (Navigator Research),06/04/2026,6/8/2026,1000,RV,36,57,-21,https://navigatorresearch.org/trumps-ballroom-and-other-recent-actions-lead-americans-to-believe-hes-focused-on-the-wrong-things/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Global Strategy Group/GBAO (Navigator Research),06/04/2026,6/8/2026,1000,RV,33,56,-23,https://navigatorresearch.org/trumps-ballroom-and-other-recent-actions-lead-americans-to-believe-hes-focused-on-the-wrong-things/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Global Strategy Group/GBAO (Navigator Research),06/04/2026,6/8/2026,1000,RV,42,54,-12,https://navigatorresearch.org/trumps-ballroom-and-other-recent-actions-lead-americans-to-believe-hes-focused-on-the-wrong-things/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Ipsos,06/12/2026,6/15/2026,1537,A,30,63,-33,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,06/12/2026,6/15/2026,1537,A,40,52,-12,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,06/12/2026,6/15/2026,1537,A,41,47,-6,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,06/12/2026,6/15/2026,1537,A,34,56,-22,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,06/12/2026,6/15/2026,1537,A,23,70,-47,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+crime,YouGov,06/13/2026,6/15/2026,1549,A,44,45,-1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,06/13/2026,6/15/2026,1549,A,44,50,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+race_relations,YouGov,06/13/2026,6/15/2026,1549,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+environment,YouGov,06/13/2026,6/15/2026,1549,A,36,53,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
