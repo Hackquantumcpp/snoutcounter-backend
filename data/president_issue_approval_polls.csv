@@ -2745,3 +2745,6 @@ crime,YouGov,06/13/2026,6/15/2026,1549,A,44,45,-1,https://d3nkl3psvxxpe9.cloudfr
 immigration,YouGov,06/13/2026,6/15/2026,1549,A,44,50,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 race_relations,YouGov,06/13/2026,6/15/2026,1549,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 environment,YouGov,06/13/2026,6/15/2026,1549,A,36,53,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Echelon Insights,05/14/2026,5/18/2026,2000,RV,37,61,-24,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Echelon Insights,05/14/2026,5/18/2026,2000,RV,44,53,-9,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Echelon Insights,05/14/2026,5/18/2026,2000,RV,40,57,-17,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
