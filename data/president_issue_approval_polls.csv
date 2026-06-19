@@ -2666,8 +2666,8 @@ iran,Marquette University Law School,05/20/2026,5/26/2026,1001,A,33,67,-34,https
 gas_prices,Marquette University Law School,05/20/2026,5/26/2026,1001,A,19,81,-62,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
 foreign_policy,Marquette University Law School,05/20/2026,5/26/2026,1001,A,38,62,-24,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
 iran,Quantus Insights,06/01/2026,6/2/2026,1050,LV,39,59.5,-20.5,https://quantusinsights.org/f/quantus-insights-trump-underwater-democrats-hold-edge,NA,Text,FALSE,NA,NA,NA
-iran,RMG Research,05/26/2026,5/26/2026,1000,RV,40,54,-14,https://napolitannews.org/posts/support-in-iran-holds-steady-at-38-percent,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,05/20/2026,5/21/2026,1000,RV,40,56,-16,https://napolitannews.org/posts/short-term-gas-prices-no-longer-worth-it-to-voters,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,RMG Research,05/26/2026,5/26/2026,1000,RV,40,54,-14,https://napolitannews.org/posts/support-in-iran-holds-steady-at-38-percent,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Focaldata,05/29/2026,6/1/2026,1719,A,41,46,-5,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,Immigration and border security,NA,NA
 inflation,Focaldata,05/29/2026,6/1/2026,1719,A,18,69,-51,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,Inflation and the cost of living,NA,NA
 economy,Focaldata,05/29/2026,6/1/2026,1719,A,28,55,-27,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
@@ -2748,3 +2748,10 @@ environment,YouGov,06/13/2026,6/15/2026,1549,A,36,53,-17,https://d3nkl3psvxxpe9.
 economy,Echelon Insights,05/14/2026,5/18/2026,2000,RV,37,61,-24,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,05/14/2026,5/18/2026,2000,RV,44,53,-9,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,05/14/2026,5/18/2026,2000,RV,40,57,-17,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Beacon Research/Shaw & Co. Research,06/12/2026,6/15/2026,1002,RV,43,57,-14,https://www.foxnews.com/politics/fox-news-poll-most-rate-economy-negatively-including-half-republicans,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+iran,Beacon Research/Shaw & Co. Research,06/12/2026,6/15/2026,1002,RV,35,64,-29,https://www.foxnews.com/politics/fox-news-poll-most-rate-economy-negatively-including-half-republicans,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+economy,Beacon Research/Shaw & Co. Research,06/12/2026,6/15/2026,1002,RV,31,68,-37,https://www.foxnews.com/politics/fox-news-poll-most-rate-economy-negatively-including-half-republicans,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+gas_prices,Beacon Research/Shaw & Co. Research,06/12/2026,6/15/2026,1002,RV,23,77,-54,https://www.foxnews.com/politics/fox-news-poll-most-rate-economy-negatively-including-half-republicans,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+economy,Marist College,06/08/2026,6/11/2026,1340,A,33,60,-27,https://maristpoll.marist.edu/polls/its-trumps-economy-and-americans-are-not-impressed-june-2026/,NPR | PBS News,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA,NA
+iran,RMG Research,06/10/2026,6/11/2026,1000,RV,40,57,-17,https://napolitannews.org/posts/majority-expect-at-least-6-more-months-of-war,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,RMG Research,06/03/2026,6/4/2026,1000,RV,35,62,-27,https://napolitannews.org/posts/36-percent-favor-iran-attacks-as-conflict-slogs-on,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
