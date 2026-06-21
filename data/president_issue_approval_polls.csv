@@ -2759,3 +2759,7 @@ economy,AP-NORC,06/11/2026,6/17/2026,3040,A,33,66,-33,https://apnorc.org/project
 immigration,AP-NORC,06/11/2026,6/17/2026,3040,A,40,59,-19,https://apnorc.org/projects/trumps-overall-approval-rating-is-steady/?doing_wp_cron=1781890416.8100750446319580078125,NA,Probability Panel,FALSE,NA,NA,NA
 iran,AP-NORC,06/11/2026,6/17/2026,3040,A,34,65,-31,https://apnorc.org/projects/trumps-overall-approval-rating-is-steady/?doing_wp_cron=1781890416.8100750446319580078125,NA,Probability Panel,FALSE,NA,NA,NA
 israel,AP-NORC,06/11/2026,6/17/2026,3040,A,35,64,-29,https://apnorc.org/projects/trumps-overall-approval-rating-is-steady/?doing_wp_cron=1781890416.8100750446319580078125,NA,Probability Panel,FALSE,NA,NA,NA
+economy,YouGov,06/17/2026,6/19/2026,2519,A,34,66,-32,https://www.cbsnews.com/news/opinion-poll-iran-war/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,06/17/2026,6/19/2026,2519,A,27,73,-46,https://www.cbsnews.com/news/opinion-poll-iran-war/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,06/17/2026,6/19/2026,2519,A,43,57,-14,https://www.cbsnews.com/news/opinion-poll-iran-war/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+iran,YouGov,06/17/2026,6/19/2026,2519,A,36,64,-28,https://www.cbsnews.com/news/opinion-poll-iran-war/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
