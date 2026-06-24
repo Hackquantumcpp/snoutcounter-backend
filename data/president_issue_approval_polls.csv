@@ -2678,8 +2678,8 @@ trade_tariffs,Focaldata,05/29/2026,6/1/2026,1719,A,26,57,-31,https://www.focalda
 housing,Focaldata,05/29/2026,6/1/2026,1719,A,22,51,-29,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
 govt_spending,Focaldata,05/29/2026,6/1/2026,1719,A,22,59,-37,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,The national debt and government spending,NA,NA
 ai,Focaldata,05/29/2026,6/1/2026,1719,A,24,38,-14,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,Financial Times,NA,FALSE,NA,NA,NA
-economy,Ipsos,06/03/2026,6/8/2026,4531,A,29,64,-35,https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/,Reuters,Probability Panel,FALSE,NA,NA,NA
-immigration,Ipsos,06/03/2026,6/8/2026,4531,A,39,53,-14,https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Ipsos,06/03/2026,6/8/2026,4531,A,29,64,-35,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,06/03/2026,6/8/2026,4531,A,39,53,-14,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,YouGov,06/05/2026,6/8/2026,1568,A,29,63,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,06/05/2026,6/8/2026,1568,A,24,68,-44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 taxes,YouGov,06/05/2026,6/8/2026,1568,A,31,58,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -2764,3 +2764,23 @@ inflation,YouGov,06/17/2026,6/19/2026,2519,A,27,73,-46,https://www.cbsnews.com/n
 immigration,YouGov,06/17/2026,6/19/2026,2519,A,43,57,-14,https://www.cbsnews.com/news/opinion-poll-iran-war/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,06/17/2026,6/19/2026,2519,A,36,64,-28,https://www.cbsnews.com/news/opinion-poll-iran-war/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 economy,American Research Group,06/16/2026,6/20/2026,1100,A,26,70,-44,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
+foreign_policy,YouGov,06/19/2026,6/22/2026,1679,A,38,53,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,YouGov,06/19/2026,6/22/2026,1679,A,32,61,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,The Economist,Online Matched Sample,FALSE,Tariffs,NA,NA
+military,YouGov,06/19/2026,6/22/2026,1679,A,41,50,-9,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+iran,YouGov,06/19/2026,6/22/2026,1679,A,34,55,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Ipsos,06/18/2026,6/22/2026,1262,A,29,62,-33,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,06/18/2026,6/22/2026,1262,A,37,55,-18,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,06/18/2026,6/22/2026,1262,A,37,52,-15,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,06/18/2026,6/22/2026,1262,A,32,56,-24,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,06/18/2026,6/22/2026,1262,A,22,69,-47,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,06/18/2026,6/22/2026,1262,A,27,60,-33,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,Ipsos,06/18/2026,6/22/2026,1262,A,28,61,-33,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Reuters%20Ipsos%20June%20Core%20Political%20Topline.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Echelon Insights,06/18/2026,6/22/2026,1003,LV,38,60,-22,https://echeloninsights.com/insights/june-2026-america-250-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Echelon Insights,06/18/2026,6/22/2026,1003,LV,44,54,-10,https://echeloninsights.com/insights/june-2026-america-250-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Echelon Insights,06/18/2026,6/22/2026,1003,LV,38,59,-21,https://echeloninsights.com/insights/june-2026-america-250-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+crime,Ipsos,06/03/2026,6/8/2026,4531,A,39,48,-9,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,06/03/2026,6/8/2026,4531,A,31,57,-26,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,06/03/2026,6/8/2026,4531,A,31,72,-41,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+iran,Ipsos,06/03/2026,6/8/2026,4531,A,29,59,-30,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+epstein_files,Ipsos,06/03/2026,6/8/2026,4531,A,21,61,-40,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+abortion,Ipsos,06/03/2026,6/8/2026,4531,A,31,52,-21,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA

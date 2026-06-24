@@ -1381,5 +1381,11 @@ RMG Research,Napolitan News Service,2026-06-10,2026-06-18,3000,RV,43,55,NA,https
 YouGov,CBS News,2026-06-17,2026-06-19,2519,A,38,62,NA,https://www.cbsnews.com/news/opinion-poll-iran-war/,Online Matched Sample,FALSE,NA,NA
 The Bullfinch Group,The Independent Center,2026-06-12,2026-06-16,1200,A,40,56,4,https://independentcentervoice.com/insights/the-local-antidote-how-stepping-away-from-national-screens-unites-americans,NA,FALSE,NA,NA
 The Bullfinch Group,The Independent Center,2026-06-12,2026-06-16,1000,RV,42,56,2,https://independentcentervoice.com/insights/the-local-antidote-how-stepping-away-from-national-screens-unites-americans,NA,FALSE,NA,NA
-American Research Group,NA,2026-06-16,2026-06-20,1100,A,30,66,NA,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
+American Research Group,NA,2026-06-16,2026-06-20,1100,A,30,66,4,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
 American Research Group,NA,2026-06-16,2026-06-20,1006,RV,30,67,NA,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
+YouGov,The Economist,2026-06-19,2026-06-22,1679,A,36,58,5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-06-19,2026-06-22,1517,RV,39,58,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,Online Matched Sample,FALSE,NA,NA
+J.L. Partners,Daily Mail,2026-06-19,2026-06-21,1040,RV,47,53,NA,https://www.dailymail.com/news/article-15921233/trump-approval-bounces-iran-deal.html,NA,FALSE,NA,NA
+Ipsos,Reuters,2026-06-18,2026-06-22,1262,A,34,64,NA,https://www.ipsos.com/en-us/few-expect-us-iran-preliminary-agreement-bring-lasting-peace,Probability Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-06-18,2026-06-22,978,RV,37,62,NA,https://www.ipsos.com/en-us/few-expect-us-iran-preliminary-agreement-bring-lasting-peace,Probability Panel,FALSE,NA,NA
+Echelon Insights,NA,2026-06-18,2026-06-22,1003,LV,41,58,1,https://echeloninsights.com/insights/june-2026-america-250-verified-voter-omnibus,Online Opt-In Panel,FALSE,NA,NA
