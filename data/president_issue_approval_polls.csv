@@ -2784,3 +2784,31 @@ inflation,Ipsos,06/03/2026,6/8/2026,4531,A,31,72,-41,https://www.ipsos.com/en-us
 iran,Ipsos,06/03/2026,6/8/2026,4531,A,29,59,-30,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
 epstein_files,Ipsos,06/03/2026,6/8/2026,4531,A,21,61,-40,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
 abortion,Ipsos,06/03/2026,6/8/2026,4531,A,31,52,-21,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Verasight,06/17/2026,6/22/2026,2087,A,25,71,-46,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Prices/inflation,NA,NA
+healthcare,Verasight,06/17/2026,6/22/2026,2087,A,30,62,-32,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+govt_spending,Verasight,06/17/2026,6/22/2026,2087,A,34,59,-25,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Government funding and social programs,NA,NA
+economy,Verasight,06/17/2026,6/22/2026,2087,A,35,60,-25,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Jobs and the economy,NA,NA
+trade_tariffs,Verasight,06/17/2026,6/22/2026,2087,A,35,58,-23,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Trade with other countries,NA,NA
+foreign_policy,Verasight,06/17/2026,6/22/2026,2087,A,35,57,-22,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+democracy,Verasight,06/17/2026,6/22/2026,2087,A,36,57,-21,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Elections and democracy,NA,NA
+education,Verasight,06/17/2026,6/22/2026,2087,A,36,56,-20,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+immigration,Verasight,06/17/2026,6/22/2026,2087,A,42,54,-12,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+crime,Verasight,06/17/2026,6/22/2026,2087,A,42,52,-10,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Crime and public safety,NA,NA
+deportations,Verasight,06/17/2026,6/22/2026,2087,A,43,53,-10,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+border_security,Verasight,06/17/2026,6/22/2026,2087,A,48,46,2,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
+immigration,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,42,55,-13,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
+economy,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,39,59,-20,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
+foreign_policy,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,37,59,-22,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
+iran,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,34,62,-28,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
+immigration,Morning Consult,06/19/2026,6/22/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,06/19/2026,6/22/2026,2200,RV,47,44,3,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,06/19/2026,6/22/2026,2200,RV,43,46,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,06/19/2026,6/22/2026,2200,RV,42,47,-5,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+medicaire_social_security,Morning Consult,06/19/2026,6/22/2026,2200,RV,42,49,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,Protecting Medicare and Social Security,NA,NA
+foreign_policy,Morning Consult,06/19/2026,6/22/2026,2200,RV,42,49,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+taxes,Morning Consult,06/19/2026,6/22/2026,2200,RV,41,49,-8,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,06/19/2026,6/22/2026,2200,RV,41,52,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,Morning Consult,06/19/2026,6/22/2026,2200,RV,37,49,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,06/19/2026,6/22/2026,2200,RV,39,52,-13,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,06/19/2026,6/22/2026,2200,RV,38,52,-14,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,06/19/2026,6/22/2026,2200,RV,33,47,-14,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
