@@ -1,486 +1,487 @@
 pollster,sponsors,start_date,end_date,sample_size,population,dem,rep,url,net,partisan,adj_net,total_weight
-Cygnal,NA,2024-12-09,2024-12-11,1500,LV,44.6,48.4,https://www.cygn.al/poll-musk-most-effective-trump-surrogate-as-voters-rally-behind-doge-deportations-and-congressional-republicans/,3.799999999999997,NA,3.094642316052692,6.261134650776763e-21
-McLaughlin & Associates,NA,2024-12-11,2024-12-16,1000,LV,42,47,https://mclaughlinonline.com/2024/12/18/ma-poll-national-monthly-december-2024/,5,NA,0.7058397640575222,1.394843430457896e-21
-Cygnal,NA,2025-01-09,2025-01-12,1500,LV,44.6,46.8,https://www.cygn.al/voters-back-kingmaker-trumps-policies-on-economy-energy-and-health/,2.1999999999999957,NA,1.4946423160526905,7.464011296114233e-20
-RMG Research,Napolitan Institute,2025-01-15,2025-01-16,1000,RV,44,51,https://napolitannews.org/posts/generic-ballot-gop-51-percent-dem-44,7,NA,3.8173985532558063,6.697099117732904e-20
-Quantus Insights,TrendingPolitics,2025-01-22,2025-01-23,1000,RV,45,48,https://quantusinsights.org/f/trump%E2%80%99s-second-term-begins-what-voters-think,3,REP,1.7009859960402878,2.2043374977245312e-20
-Morning Consult,NA,2025-01-20,2025-01-26,33299,RV,42,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,3,NA,1.052780035848933,1.1288947123180545e-19
-McLaughlin & Associates,NA,2025-01-22,2025-01-27,1000,LV,40,48,https://mclaughlinonline.com/pols/wp-content/uploads/2025/01/National-January-Presentation-RELEASE-01-28-25.pdf,8,NA,3.7058397640575222,3.579045043310493e-20
-"Fabrizio, Lee & Associates/Impact Research",AARP,2025-01-27,2025-02-01,3000,RV,43,43,https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/federal-tax-package-legislative-priorities.doi.10.26419-2fres.00921.001.pdf,0,NA,1.2324284855979784,2.5194036187443673e-19
-Morning Consult,NA,2025-01-27,2025-02-02,29303,RV,43,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,1,NA,-0.947219964151067,1.9319094736084618e-19
-Cygnal,NA,2025-02-04,2025-02-05,1500,LV,46.2,47.2,https://www.cygn.al/poll-trump-winning-over-black-men-dei-skeptics-and-border-hawks-as-democrats-lose-ground/,1,NA,0.29464231605269475,4.82029903298016e-19
-Clarity Campaign Labs,NA,2025-01-31,2025-02-06,1102,RV,45,44,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67aa57a7976e415c4d212706/1739216809584/Clarity+Omnibus+Overview+-+Jan_Feb+2025.pdf,-1,NA,-0.4237329689415006,4.2970621478231407e-19
-Morning Consult,NA,2025-02-03,2025-02-09,26690,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,3.3061313632644277e-19
-Quantus Insights,TrendingPolitics,2025-02-10,2025-02-12,1000,RV,44,48,https://quantusinsights.org/f/quantus-insights-latest-national-survey---february-13-2025,4,REP,2.7009859960402878,1.048429915989128e-19
-Echelon Insights,NA,2025-02-10,2025-02-13,1010,LV,46,47,https://echeloninsights.com/in-the-news/feb-2025-verified-voter-omnibus-2-2/,1,NA,-0.3212694265445677,6.32869995322023e-19
-Morning Consult,NA,2025-02-10,2025-02-16,27303,RV,42,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,3,NA,1.052780035848933,5.688213534392168e-19
-McLaughlin & Associates,U.S. Chamber of Commerce,2025-02-13,2025-02-17,1600,LV,43,47,https://www.uschamber.com/assets/documents/USCC_National-Tax-Survey_Deck_Feb-2025.pdf,4,REP,-0.1038901959957812,1.8559647353742554e-19
-co/efficient,NA,2025-02-15,2025-02-17,2063,LV,44,46,https://coefficient.org/doge-part-2/,2,REP,1.0277989450551601,2.5959972808807383e-18
-McLaughlin & Associates,NA,2025-02-11,2025-02-18,1000,LV,41,48,https://mclaughlinonline.com/pols/wp-content/uploads/2025/02/National-February-Presentation-RELEASE-02-18-25.pdf,7,NA,2.7058397640575222,1.9804007178271922e-19
-Change Research,NA,2025-02-05,2025-02-18,1741,RV,43,40,https://portal.changeresearch.com/portal/projects/9c8a3c8a-70c6-47f8-80bf-596426bc3318,-3,NA,-3.6591190496768746,1.3023886871018973e-18
-YouGov,The Economist,2025-02-16,2025-02-18,1451,RV,42,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,-1,NA,-1.4350793679194496,5.434392993339526e-19
-RMG Research,Napolitan Institute,2025-02-20,2025-02-21,1000,RV,46,48,https://x.com/ScottWRasmussen/status/1894720317291114920,2,NA,-0.650051433875646,1.094085332757015e-18
-Morning Consult,NA,2025-02-17,2025-02-23,27621,RV,42,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,3,NA,1.052780035848933,9.787162188031955e-19
-Morning Consult,NA,2025-02-24,2025-03-02,28087,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,1.6840823960475904e-18
-Public Opinion Strategies,Paragon Health Institute,2025-02-25,2025-03-02,1000,RV,44,46,https://paragoninstitute.org/medicaid/paragon-health-policy-survey-2025/,2,NA,0.9814398419467096,7.59610918819495e-18
-Emerson College,NA,2025-03-02,2025-03-03,1000,RV,44.4,41.4,https://emersoncollegepolling.com/march-2025-national-poll/,-3,NA,-1.3445892038799911,3.52378736559322e-18
-Cygnal,NA,2025-03-03,2025-03-05,1500,LV,47.4,45.9,https://www.cygn.al/poll-48-percent-support-trump-negotiating-settlement-to-war-in-ukraine-as-optimism-at-home-rises/,-1.5,NA,-2.2053576839473052,4.236448818040794e-18
-McLaughlin & Associates,America's New Majority Project,2025-03-04,2025-03-07,1655,LV,45.1,47.8,https://americasnewmajorityproject.com/most-americans-support-trumps-maha-agenda/,2.6999999999999957,REP,-1.4038901959957855,7.881430865772328e-19
-Clarity Campaign Labs,NA,2025-03-03,2025-03-09,1036,RV,46,44,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67d0921f11ba8d57a17670a9/1741722147070/Clarity+Omnibus+Overview+-+March+2025+PUBLIC.pdf,-2,NA,-1.4237329689415006,4.6988148119309815e-18
-Morning Consult,NA,2025-03-03,2025-03-09,27685,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,2.8979848510902178e-18
-Hart Research Associates/Public Opinion Strategies,NBC News,2025-03-07,2025-03-11,1000,RV,48,47,https://www.nbcnews.com/politics/politics-news/democratic-party-hits-new-polling-low-voters-want-fight-trump-harder-rcna196161,-1,NA,-1.1674352755764517,7.153589194335552e-18
-Echelon Insights,NA,2025-03-10,2025-03-13,1007,LV,46,47,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/,1,NA,-0.3212694265445677,5.553880580288237e-18
-Morning Consult,NA,2025-03-10,2025-03-16,26877,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,4.987187491209552e-18
-"Normington, Petts & Associates",Third Way,2025-03-12,2025-03-19,800,LV,50,50,https://www.thirdway.org/polling/democrats-immigration-opportunity,0,NA,-0.9850048070410864,1.25144820031258e-17
-Morning Consult,NA,2025-03-17,2025-03-23,27364,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,8.583070825247756e-18
-Quantus Insights,TrendingPolitics,2025-03-25,2025-03-27,1000,RV,45.4,46.3,https://quantusinsights.org/f/trump%E2%80%99s-standing-steadies-but-crosscurrents-remain-ahead-of-2026,0.8999999999999986,REP,-0.39901400395971365,2.917500474402827e-18
-Morning Consult,NA,2025-03-24,2025-03-30,27397,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,1.4772627239247882e-17
-"Fabrizio, Lee & Associates/Impact Research",The Wall Street Journal,2025-03-27,2025-04-01,1500,RV,44,43,https://www.wsj.com/politics/policy/trump-foreign-policy-approval-voters-poll-c0c29dd0,-1,NA,-0.47084402659265834,2.0206683875887057e-17
-Cygnal,NA,2025-04-01,2025-04-03,1500,LV,47.5,46.5,https://www.cygn.al/poll-democrats-continue-to-struggle-as-trump-maintains-strong-approval-even-in-light-of-tariffs/,-1,NA,-1.7053576839473052,4.025379475905594e-17
-Yale University Institution for Social and Policy Studies,NA,2025-04-01,2025-04-03,4100,RV,43.3,41.7,https://youthpoll.yale.edu/spring-2025-results,-1.5999999999999943,NA,-3.7111840662149476,3.1802582151901756e-17
-Morning Consult,NA,2025-03-31,2025-04-06,25977,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,2.5427371799096632e-17
-YouGov,The Economist,2025-04-05,2025-04-08,1558,RV,43,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_Emo4hnf.pdf,-1,NA,-1.4350793679194496,2.4374155488225764e-17
-The Winston Group,Winning the Issues,2025-04-08,2025-04-10,1000,RV,46,44,https://www.winningtheissues.org/2025/04/30/winning-the-issues-april-2025-national-survey/,-2,REP,-1.478238399344555,6.25068968332828e-17
-RealClear Opinion Research,NA,2025-04-10,2025-04-12,1000,RV,39.8,39.2,https://www.realclearpolitics.com/articles/2025/04/18/rcp_poll_voters_see_campus_bias_reject_trumps_tariff_pitch_152678.html,-0.5999999999999943,NA,-1.3578044049468687,5.4278905544147326e-17
-Morning Consult,NA,2025-04-07,2025-04-13,26749,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,4.3769800732917256e-17
-Hart Research Associates/Public Opinion Strategies,CNBC,2025-04-09,2025-04-13,1000,A,48,46,https://www.cnbc.com/video/2025/04/17/tariffs-weight-on-trump-approval-cnbc-survey-finds.html,-2,NA,-1.0212287427658353,9.552130733889765e-17
-Echelon Insights,NA,2025-04-10,2025-04-14,1014,LV,47,47,https://echeloninsights.com/in-the-news/april-2025-verified-voter-omnibus-2-2-2-2/,0,NA,-1.3212694265445677,6.666619120005122e-17
-Clarity Campaign Labs,NA,2025-04-09,2025-04-14,1008,RV,44,45,https://45840940.fs1.hubspotusercontent-na1.net/hubfs/45840940/Clarity%20Omnibus%20Overview_April%202025.pdf,1,NA,1.5762670310584994,7.704333252612061e-17
-RMG Research,Napolitan Institute,2025-04-16,2025-04-16,1000,RV,50,45,https://napolitannews.org/posts/democrats-make-huge-gains-on-generic-ballot,-5,NA,-8.182601446744194,7.129606450459784e-17
-OH Predictive Insights,The Center Square,2025-04-15,2025-04-18,2527,RV,45,42,https://www.thecentersquare.com/polls/,-3,NA,-3.7606643126162496,3.1271506714367723e-16
-McLaughlin & Associates,America's New Majority Project,2025-04-16,2025-04-19,1638,LV,45.7,47.1,https://americasnewmajorityproject.com/most-support-blocking-states-from-giving-medicaid-to-illegal-immigrants/,1.3999999999999986,REP,-2.7038901959957826,2.1818985351197966e-17
-Morning Consult,NA,2025-04-14,2025-04-20,26905,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,7.534903984972978e-17
-Beacon Research/Shaw & Co. Research,Fox News,2025-04-18,2025-04-21,1104,RV,49,42,https://www.foxnews.com/official-polls/fox-news-poll-democrats-favorability-hits-new-low-still-favored-over-gop-2026-midterms,-7,NA,-5.752585225490485,3.3687544812386714e-16
-The New York Times/Siena College,NA,2025-04-21,2025-04-24,913,RV,47,44,https://www.nytimes.com/2025/04/25/us/politics/trump-poll-approval.html,-3,NA,-2.6524949453084616,3.4435645063607106e-16
-Morning Consult,NA,2025-04-21,2025-04-27,25544,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,1.2972140767317884e-16
-NewsNation,NA,2025-04-23,2025-04-27,1448,RV,45,40,https://www.newsnationnow.com/politics/recession-inflation-immigration-ddhq-poll/,-5,NA,-5.853380020198713,4.3873413196875664e-16
-McLaughlin & Associates,NA,2025-04-22,2025-04-29,1000,LV,43,45,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-April-Presentation-RELEASE-04-29-25.pdf,2,NA,-2.2941602359424778,4.5911443576840676e-17
-Morning Consult,NA,2025-04-28,2025-05-04,25876,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,2.2334544828688397e-16
-Verasight,Strength In Numbers,2025-05-01,2025-05-06,813,RV,49,43,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-6,NA,-3.7838756654177885,8.564552557152824e-17
-Quantus Insights,TrendingPolitics,2025-05-05,2025-05-07,1000,RV,45.2,44.8,https://quantusinsights.org/f/the-nation-divided-the-president-holding-ground,-0.4000000000000057,REP,-0.8940438682657188,6.972975670863632e-17
-Cygnal,NA,2025-05-06,2025-05-08,1500,LV,47.1,46.6,https://www.cygn.al/poll-aoc-more-popular-than-schumer-trump-image-improving-republicans-decimating-democrats-on-key-issue-trust-and-more/,-0.5,NA,-1.2053576839473052,6.070354339817719e-16
-co/efficient,NA,2025-05-07,2025-05-09,1462,LV,45,42,https://coefficient.org/national-approval-study/,-3,REP,-3.97220105494484,1.3414482865827104e-15
-Morning Consult,NA,2025-05-05,2025-05-11,27882,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,3.8456951645814277e-16
-Echelon Insights,NA,2025-05-08,2025-05-12,1000,LV,47,48,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/,1,NA,-0.3212694265445677,5.833921046679004e-16
-Morning Consult,NA,2025-05-12,2025-05-18,28103,RV,43,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,1,NA,-0.947219964151067,6.622252035151078e-16
-Fabrizio Ward,Pinpoint Policy Institute,2025-05-15,2025-05-19,800,RV,42,42,https://pinpointpolicyinstitute.org/pinpoint-policy-institute-quarterly-economic-tracking-poll/,0,NA,1.0787397645077235,5.874817922957273e-16
-YouGov,The Economist,2025-05-16,2025-05-19,1558,RV,43,42,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-1,NA,-1.4350793679194496,5.709963311864424e-16
-RMG Research,Napolitan Institute,2025-05-20,2025-05-21,1000,RV,48,45,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-43,-3,NA,-6.182601446744194,1.0832129317012828e-15
-Morning Consult,NA,2025-05-19,2025-05-25,28855,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,1.1404348668514678e-15
-McLaughlin & Associates,NA,2025-05-21,2025-05-26,1000,LV,43,47,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-May-Presentation-RELEASE-05-27-25.pdf,4,NA,-0.29416023594247775,3.8554341345999405e-16
-YouGov,The Economist,2025-05-23,2025-05-26,1486,RV,43,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-2,NA,-2.4350793679194496,9.543162723135665e-16
-AtlasIntel,NA,2025-05-21,2025-05-27,3469,A,50.9,41.7,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf,-9.199999999999996,NA,-2.900184075148367,7.886106833369672e-15
-Morning Consult,NA,2025-05-26,2025-06-01,29002,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,1.9641292547140308e-15
-YouGov,The Economist,2025-05-30,2025-06-02,1436,RV,44,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_uOptfZ9.pdf,-2,NA,-2.4350793679194496,1.605437776064895e-15
-Cygnal,NA,2025-06-03,2025-06-04,1500,LV,47.2,46.9,https://www.cygn.al/national-poll-record-number-say-nation-is-on-right-track-voters-back-trumps-one-big-beautiful-bill-for-tax-relief-and-border-security/,-0.30000000000000426,NA,-1.0053576839473095,4.961646675042125e-15
-Quantus Insights,TrendingPolitics,2025-06-01,2025-06-04,1000,RV,46,45,https://quantusinsights.org/f/quantus-insights-approval-poll-the-divide-holds,-1,REP,-1.4940438682657131,6.154081949289516e-16
-J.L. Partners,Daily Mail,2025-06-06,2025-06-06,1006,RV,42,35,https://www.dailymail.co.uk/news/article-14796175/polling-donald-trump-2024-election-elon-musk.html,-7,NA,-5.877161234863962,8.331250882766164e-15
-Morning Consult,NA,2025-06-02,2025-06-08,28551,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.05278003584893298,3.3830260065423844e-15
-RMG Research,Napolitan Institute,2025-06-09,2025-06-09,1000,RV,35,35,https://napolitannews.org/posts/musk-3rd-party-would-get-8-percent-of-voters,0,NA,-3.1826014467441865,4.8321400295373675e-15
-YouGov,The Economist,2025-06-06,2025-06-09,1397,RV,44,43,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-1,NA,-1.4350793679194496,2.72915340874087e-15
-McLaughlin & Associates,Club for Growth (PAC),2025-06-09,2025-06-11,1000,LV,44,46,https://www.clubforgrowth.org/icymi-new-cfg-poll-finds-vast-majority-of-republicans-democrats-support-school-freedom-bills/,2,REP,-2.103890195995781,1.0855781108829467e-15
-Quantus Insights,TrendingPolitics,2025-06-09,2025-06-11,1000,RV,43,43,https://quantus.substack.com/p/quantus-insights-june-12-national,0,REP,-0.4940438682657131,1.0531654625950281e-15
-Verasight,Strength In Numbers,2025-06-06,2025-06-12,1320,RV,50,44,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-6,NA,-3.7838756654177885,1.9438410891961005e-15
-Clarity Campaign Labs,NA,2025-06-05,2025-06-14,1000,RV,50,45,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/6852fc5a3ac4c05449fc450e/1750269023826/Clarity+Omnibus+Overview+-+June+2025+%5BPUBLIC%5D.pdf,-5,NA,-4.423732968941501,8.734074108506566e-15
-The Winston Group,Winning the Issues,2025-06-12,2025-06-14,1000,RV,46,42,https://www.winningtheissues.org/2025/06/30/winning-the-issues-june-2025-national-survey/,-4,REP,-3.478238399344555,9.909870979876166e-15
-McLaughlin & Associates,NA,2025-06-10,2025-06-15,1000,LV,42,47,https://mclaughlinonline.com/pols/wp-content/uploads/2025/06/National-June-Presentation-RELEASE-6-16-25.pdf,5,NA,0.7058397640575222,1.8446094285332105e-15
-McLaughlin & Associates,America's New Majority Project,2025-06-12,2025-06-15,1637,LV,47.2,46.4,https://americasnewmajorityproject.com/how-to-talk-about-taxes-and-the-budget-bill-what-voters-respond-to-best/,-0.8000000000000043,REP,-4.9038901959957855,1.8880728657219783e-15
-Morning Consult,NA,2025-06-09,2025-06-15,28058,RV,44,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,1,NA,-0.947219964151067,5.827432291119721e-15
-co/efficient,NA,2025-06-12,2025-06-16,1035,LV,46,46,https://coefficient.org/one-big-beautiful-bill/,0,REP,-1.48619767198322,2.949525044808707e-14
-YouGov,The Economist,2025-06-13,2025-06-16,1351,RV,44,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-3,NA,-3.4350793679194496,4.626102252919756e-15
-Echelon Insights,NA,2025-06-12,2025-06-17,982,LV,47,48,https://echeloninsights.com/in-the-news/june-2025-verified-voter-omnibus-2-2-2-2-2-2/,1,NA,-0.3212694265445677,9.428184726279149e-15
-Echelon Insights,NA,2025-06-17,2025-06-18,1002,LV,47,48,https://echeloninsights.com/in-the-news/middle-east-update/,1,NA,-0.3212694265445677,1.0283466396882689e-14
-RMG Research,Napolitan Institute,2025-06-18,2025-06-19,1000,RV,44,52,https://napolitannews.org/posts/generic-ballot-gop-holds-largest-lead-of-the-year,8,NA,4.817398553255806,1.0410530106726968e-14
-Cygnal,NA,2025-06-19,2025-06-21,800,LV,48.4,46,https://www.cygn.al/poll-bitcoin-owners-lean-republican-emerging-as-sought-after-voting-bloc-in-2026-elections/,-2.3999999999999986,NA,-3.105357683947304,1.3770710060035687e-14
-Morning Consult,NA,2025-06-16,2025-06-22,28021,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,1.0038914003306364e-14
-YouGov,The Economist,2025-06-20,2025-06-23,1455,RV,44,40,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-4,NA,-4.43507936791945,8.276037930708464e-15
-American Pulse Research & Polling,NA,2025-06-23,2025-06-25,633,RV,46.6,42.4,https://www.americanpulse.us/thankyou-pollresults-publicopinion-post-landscape-shaping-events-2,-4.200000000000003,NA,-2.4797579232025058,3.379568366882003e-14
-Emerson College,NA,2025-06-24,2025-06-25,1000,RV,42.5,39.8,https://emersoncollegepolling.com/june-national-poll/,-2.700000000000003,NA,-1.281039449939989,2.3141459573414538e-14
-Quantus Insights,NA,2025-06-23,2025-06-25,1000,RV,43,42,https://quantusinsights.org/f/quantus-insights-june-26-2025-national-political-survey,-1,NA,-1.6843139082124097,3.9740905423918426e-15
-Morning Consult,NA,2025-06-23,2025-06-29,27694,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,1.7295568396035825e-14
-YouGov,The Economist,2025-06-27,2025-06-30,1491,RV,44,40,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-4,NA,-4.43507936791945,1.4443757417645782e-14
-Cygnal,NA,2025-07-01,2025-07-02,1500,LV,47.1,45.7,https://www.cygn.al/poll-karens-freak-out-over-ice-raids-as-hispanic-support-for-deportations-surges/,-1.3999999999999986,NA,-2.105357683947304,4.3865555862188005e-14
-Morning Consult,NA,2025-06-30,2025-07-06,27913,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,2.9800434909089183e-14
-YouGov,The Economist,2025-07-04,2025-07-07,1389,RV,43,40,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-3,NA,-3.4350793679194496,2.4037608298521286e-14
-Morning Consult,NA,2025-07-07,2025-07-13,28276,RV,45,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,5.135126155113461e-14
-Echelon Insights,NA,2025-07-10,2025-07-14,1084,LV,47,48,https://echeloninsights.com/in-the-news/july-2025-verified-voter-omnibus-2-2-2-2-2-2-2/,1,NA,-0.3212694265445677,8.376562079302888e-14
-McLaughlin & Associates,NA,2025-07-09,2025-07-14,1000,LV,42,47,https://mclaughlinonline.com/2025/07/17/ma-poll-national-monthly-july-2025/,5,NA,0.7058397640575222,1.8952190190419272e-14
-YouGov,The Economist,2025-07-11,2025-07-14,1506,RV,43,39,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-4,NA,-4.43507936791945,4.316196813282807e-14
-Quantus Insights,NA,2025-07-14,2025-07-16,1000,RV,44,42,https://quantusinsights.org/f/quantus-insights-survey-what-julys-numbers-tell-us,-2,NA,-2.6843139082124097,2.1292846877602224e-14
-RMG Research,Napolitan Institute,2025-07-14,2025-07-16,2000,RV,45,49,https://napolitannews.org/posts/generic-ballot-july-2025-republicans-46-percent-democrats-42,4,NA,0.8173985532558063,1.271344287156417e-13
-Verasight,Strength In Numbers,2025-07-14,2025-07-16,1334,RV,49,44,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-5,NA,-2.7838756654177885,2.7744654503305515e-14
-AtlasIntel,NA,2025-07-13,2025-07-18,1935,A,51.3,42.7,https://atlasintel.org/poll/usa-national-2025-07-18,-8.599999999999994,NA,-2.3001840751483655,3.563603122276208e-13
-"Fabrizio, Lee & Associates/Impact Research",The Wall Street Journal,2025-07-16,2025-07-20,1500,RV,46,43,https://www.wsj.com/politics/elections/trump-approval-rating-poll-july-2025-745b0f5f,-3,NA,-2.4708440265926583,1.3264067144890925e-13
-Morning Consult,NA,2025-07-14,2025-07-20,28190,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,8.849556871886616e-14
-YouGov,The Economist,2025-07-18,2025-07-21,1551,RV,44,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-3,NA,-3.4350793679194496,7.554307821403759e-14
-Emerson College,Nexstar,2025-07-21,2025-07-22,1400,RV,44,41.5,https://www.conchovalleyhomepage.com/news/majority-disapprove-of-trumps-handling-of-epstein-files-emerson-college-polling-survey/,-2.5,NA,-1.3534595727654377,2.2716898913560555e-13
-McLaughlin & Associates,America's New Majority Project,2025-07-21,2025-07-24,1633,LV,48,43.9,https://americasnewmajorityproject.com/winning-with-one-big-beautiful-bill/,-4.100000000000001,REP,-8.203890195995783,4.1742246529917843e-14
-Morning Consult,NA,2025-07-21,2025-07-27,28524,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,1.5252288529778976e-13
-YouGov,Yahoo News,2025-07-24,2025-07-28,1167,RV,46,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/20250728_yahoo.pdf,-7,NA,-7.43507936791945,1.1302571215040864e-13
-YouGov,The Economist,2025-07-25,2025-07-28,1610,RV,43,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-2,NA,-2.4350793679194496,1.327561845293804e-13
-Grayhouse,America One Policies (super PAC),2025-07-27,2025-07-29,2000,RV,47,44,https://www.americaonepolicies.com/polls/selling-the-one-big-beautiful-bill,-3,REP,-3.7596712705319746,1.4114823102622815e-13
-Clarity Campaign Labs,NA,2025-07-24,2025-07-31,1018,RV,51,43,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,-8,NA,-7.423732968941501,3.4461461315635956e-13
-Hart Research Associates/Public Opinion Strategies,CNBC,2025-07-29,2025-08-03,NA,RV,49,44,https://www.cnbc.com/video/2025/08/07/cnbc-all-america-economic-survey-45-percent-approve-of-pres-trumps-handling-of-the-economy.html,-5,NA,-4.736582886211266,6.625726291669372e-13
-Morning Consult,NA,2025-07-28,2025-08-03,27432,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,2.629013524497044e-13
-YouGov,The Economist,2025-08-01,2025-08-04,1528,RV,43.7,38.4,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-5.300000000000004,NA,-5.735079367919454,2.2310600748776973e-13
-Cygnal,NA,2025-08-07,2025-08-09,1500,LV,47.4,46.4,https://www.cygn.al/national-poll-69-percent-of-americans-reject-race-based-redistricting-views-on-the-american-dream-on-life-support-and-the-fed-gets-low-marks-on-handling-of-interest-rates/,-1,NA,-1.7053576839473052,8.665353359212591e-13
-Morning Consult,NA,2025-08-04,2025-08-10,26631,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,4.5320661752135715e-13
-YouGov,The Economist,2025-08-09,2025-08-11,1474,RV,42,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_V8D6b4L.pdf,-2,NA,-2.4350793679194496,3.780616189339567e-13
-Quantus Insights,NA,2025-08-11,2025-08-13,1000,RV,45,42,https://quantusinsights.org/f/middle-america-shrugs-inflation-fatigue-and-electoral-flux,-3,NA,-3.6843139082124097,1.8952190190419274e-13
-Echelon Insights,NA,2025-08-14,2025-08-17,1057,LV,47,46,https://echeloninsights.com/in-the-news/august-2025-verified-voter-omnibus/,-1,NA,-2.3212694265445677,1.163867682090778e-12
-Morning Consult,NA,2025-08-11,2025-08-17,27248,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,7.813518251424917e-13
-The Argument/Verasight,NA,2025-08-08,2025-08-17,1562,RV,50.7,49.3,https://www.theargumentmag.com/p/when-americans-bite-their-tongues,-1.4000000000000057,NA,-1.3635919018958234,3.671173673049936e-13
-YouGov,The Economist,2025-08-15,2025-08-18,1408,RV,44,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_ep7WXyn.pdf,-5,NA,-5.43507936791945,6.429651299622277e-13
-SoCal Strategies,"Red Eagle Politics, On Point Politics",2025-08-18,2025-08-18,700,A,42,37,https://substack.com/inbox/post/171344467?r=4aupgp,-5,REP,-3.769055530061543,6.986475572364679e-13
-RMG Research,Napolitan Institute,2025-08-18,2025-08-21,2000,RV,47,47,https://napolitannews.org/posts/generic-ballot-gop-44-percent-dem-44,0,NA,-3.1826014467441937,2.1132920459761433e-12
-Verasight,Strength In Numbers,2025-08-18,2025-08-21,1336,RV,50,43,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-7,NA,-4.7838756654177885,4.615311072965136e-13
-Morning Consult,NA,2025-08-18,2025-08-24,27673,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,1.347241331337172e-12
-Ipsos,Reuters,2025-08-22,2025-08-24,1022,A,38,34,https://www.ipsos.com/en-us/ipsos-core-political-survey-presidential-approval-tracker-august-2025,-4,NA,-5.443744693789256,1.1423069925782103e-12
-YouGov,The Economist,2025-08-22,2025-08-25,1377,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_ziFpJLd.pdf,-2,NA,-2.4350793679194496,1.0974845256937122e-12
-McLaughlin & Associates,NA,2025-08-21,2025-08-26,1000,LV,45,47,https://mclaughlinonline.com/2025/09/02/national-monthly-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=national-monthly-august-2025,2,NA,-2.2941602359424778,5.588150228438361e-13
-Emerson College,NA,2025-08-25,2025-08-26,1000,RV,43.3,43,https://emersoncollegepolling.com/august-2025-national/,-0.29999999999999716,NA,-0.9019002047782152,2.955616190488234e-12
-Morning Consult,NA,2025-08-29,2025-08-31,2202,RV,45,41,https://links.morningconsult.com/s/vb/zpOJTp1fd-BIR_rEUoDVVpbxjXadg6zyKojmasnqASm1Hp621kq0xaatdElmOwOyNR5BxVXYL1h85IVSEMQ-rZTd-Yz0U-hjJgu1WfIkrldD66UKOSCLbrYHiSzLtKjUuUOD33LEK9wVgTQl22Ic8BUrAP0z3AlRWdSJsA/dAaqMr_Kzp13zZAl6CKc8AYgFM7Csr5U/12,-4,NA,-5.947219964151067,1.5417632014653013e-12
-Morning Consult,NA,2025-08-25,2025-08-31,26531,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,2.3232397013206184e-12
-SSRS,CNN,2025-08-21,2025-09-01,1768,RV,52,48,https://www.cnn.com/2025/09/26/politics/us-politics-negative-sentiment-republicans-democrats,-4,NA,-2.3884511609268557,2.773368296384826e-12
-Survey 160,NA,2025-08-26,2025-09-01,1437,RV,46,39,https://www.survey160.com/methodological-research-blog/introducing-the-survey-160-tracking-poll,-7,NA,-3.4415476916187586,1.7606085391011176e-12
-The Winston Group,Winning the Issues,2025-08-30,2025-09-01,1000,RV,47,43,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-4,REP,-3.478238399344555,4.6665073762533694e-12
-YouGov,Yahoo News,2025-08-29,2025-09-02,1136,RV,44,40,https://www.scribd.com/document/911899946/Yahoo-YouGov-Newsom-Poll-August-2025,-4,NA,-4.43507936791945,1.8745941223673175e-12
-YouGov,The Economist,2025-08-29,2025-09-02,1549,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_yFjgYJq.pdf,-4,NA,-4.43507936791945,2.1889900837346395e-12
-Cygnal,NA,2025-09-02,2025-09-03,1500,LV,47.6,45.2,https://www.cygn.al/poll-optimism-drops-while-trump-gop-maintain-issue-trust-with-midterm-voters-including-on-inflation-crime/,-2.3999999999999986,NA,-3.105357683947304,6.126493149958432e-12
-Echelon Insights,Internet for Growth,2025-09-05,2025-09-07,1030,LV,45,44,https://internetforgrowth.com/wp-content/uploads/2025/11/Internet-For-Growth-Survey-Topline-Results.pdf,-1,NA,-2.3212694265445677,5.97553878227178e-12
-Morning Consult,NA,2025-09-01,2025-09-07,25541,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,4.006766603917354e-12
-YouGov,The Economist,2025-09-05,2025-09-08,1487,RV,44,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_7flqP0S.pdf,-4,NA,-4.43507936791945,3.399175356871328e-12
-Public Religion Research Institute,"Brookings Institute, Carnegie Corporation of New York, Ford Foundation, Unitarian Universalist Veatch Program at Shelter Rock",2025-08-15,2025-09-08,5543,A,33,30,https://prri.org/research/trumps-unprecedented-actions-deepen-asymmetric-divides/,-3,NA,-3.5844177937733193,4.55830911698685e-11
-Change Research,NA,2025-09-05,2025-09-10,2223,RV,45,43,https://portal.changeresearch.com/portal/projects/9b77cc10-feae-4dd6-b303-1b83ee015192,-2,NA,-2.6591190496768746,9.848888531313478e-12
-Clarity Campaign Labs,NA,2025-09-04,2025-09-11,1001,RV,50,44,https://www.claritycampaigns.com/clarity-omnibus-september-2025,-6,NA,-5.423732968941501,9.176410067473725e-12
-i360,Americans for Prosperity,2025-09-10,2025-09-12,577,RV,35,32,https://americansforprosperity.org/wp-content/uploads/2025/10/ACA-Enhanced-Subsidy-Expiration-Poll-Toplines-100625.pdf,-3,REP,-3.976373177582012,4.7598303981192415e-12
-Morning Consult,NA,2025-09-08,2025-09-14,23465,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,6.911098629492751e-12
-YouGov,The Economist,2025-09-12,2025-09-15,1420,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_XBYs983.pdf,-2,NA,-2.4350793679194496,5.735988336778746e-12
-"Normington, Petts & Associates",Third Way,2025-09-11,2025-09-16,800,RV,51,49,https://www.thirdway.org/memo/americans-caught-between-trumps-cruelty-and-democrats-chaos,-2,NA,-2.7942276432620545,1.9110022977996905e-11
-AtlasIntel,NA,2025-09-12,2025-09-16,1066,A,51.8,43.5,https://atlasintel.org/poll/usa-national-2025-09-19,-8.299999999999997,NA,-2.0001840751483684,3.0541953861510406e-11
-The Argument/Verasight,NA,2025-09-15,2025-09-18,1541,RV,53,47,https://www.theargumentmag.com/p/chatgpt-and-the-end-of-learning,-6,NA,-5.963591901895818,4.4813735526845185e-12
-Verasight,Strength In Numbers,2025-09-15,2025-09-19,1356,RV,48,43,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-5,NA,-2.7838756654177885,4.539134018522781e-12
-Morning Consult,NA,2025-09-15,2025-09-21,21386,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,1.201948283162637e-11
-Echelon Insights,NA,2025-09-18,2025-09-22,1071,LV,47,46,https://echeloninsights.com/in-the-news/september-2025-verified-voter-omnibus/,-1,NA,-2.3212694265445677,2.0055534718375924e-11
-McLaughlin & Associates,NA,2025-09-17,2025-09-22,1000,LV,41,47,https://mclaughlinonline.com/2025/09/30/national-monthly-september-2025/,6,NA,1.7058397640575222,4.6554794665217715e-12
-YouGov,The Economist,2025-09-19,2025-09-22,1392,RV,45,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_EYduduY.pdf,-3,NA,-3.4350793679194496,9.900575690246956e-12
-RMG Research,Napolitan Institute,2025-09-22,2025-09-24,2000,RV,45,46,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-41,1,NA,-2.1826014467441937,3.028109648808713e-11
-The New York Times/Siena College,NA,2025-09-22,2025-09-27,1313,RV,47,45,https://www.nytimes.com/2025/09/30/polls/trump-approval-poll.html,-2,NA,-1.8022621777426409,7.557437519562784e-11
-Morning Consult,NA,2025-09-22,2025-09-28,21729,RV,43,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,2.0739983526899785e-11
-YouGov,Yahoo News,2025-09-25,2025-09-29,1126,RV,44,40,https://www.yahoo.com/entertainment/tv/article/poll-americans-approve-of-jimmy-kimmels-return-to-tv-by-a-more-than-2-to-1-margin-183746388.html,-4,NA,-4.43507936791945,1.538436666836874e-11
-YouGov,The Economist,2025-09-26,2025-09-29,1518,RV,44,41,https://today.yougov.com/politics/articles/53094-donald-trump-approval-rebound-government-shutdown-chances-james-comey-flu-covid-vaccines-economy-september-26-29-2025-economist-yougov-poll,-3,NA,-3.4350793679194496,1.7862667439783047e-11
-Morning Consult,NA,2025-10-03,2025-10-05,2200,RV,46,43,https://pro.morningconsult.com/analysis/government-shutdown-polling-october-2025,-3,NA,-4.947219964151067,2.3742021725312564e-11
-Morning Consult,NA,2025-09-29,2025-10-05,21493,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,3.579244446696734e-11
-Change Research,NA,2025-09-28,2025-10-06,1596,RV,46,42,https://portal.changeresearch.com/portal/projects/0326caf4-1de0-4774-8b12-23385ba6d752,-4,NA,-4.659119049676875,6.562911901947483e-11
-OH Predictive Insights,Center Square,2025-10-02,2025-10-06,2565,RV,45,43,https://www.thecentersquare.com/north_carolina/article_1ca4f129-6cbd-4a04-a83b-4e98ad17c137.html,-2,NA,-3.033084435441701,1.8233046470686377e-10
-YouGov,The Economist,2025-10-04,2025-10-06,1490,RV,44,39,https://today.yougov.com/politics/articles/53131-government-shutdown-2026-congressional-election-donald-trump-job-approval-the-economy-october-4-6-2025-economist-yougov-poll,-5,NA,-5.43507936791945,3.058112643441293e-11
-Cygnal,NA,2025-10-07,2025-10-08,1500,LV,47.5,45.3,https://www.cygn.al/poll-42-of-liberals-approve-of-law-breaking-in-response-to-disagreeing-with-a-government-action/,-2.200000000000003,NA,-2.905357683947308,9.359651363522385e-11
-Quantus Insights,NA,2025-10-06,2025-10-08,1000,LV,42,43,https://quantusinsights.org/f/the-nation%E2%80%99s-pulse-trump-approval-poll-october-2025#ddfaccf9-bede-412a-8ce9-6f9ddda07554,1,NA,0.12490892800855846,1.4511326904239686e-11
-Hart Research Associates/Public Opinion Strategies,CNBC,2025-10-08,2025-10-12,NA,RV,48,47,https://www.cnbc.com/2025/10/17/trumps-economic-approval-rating-drops-says-cnbc-survey.html,-1,NA,-0.7365828862112664,1.541843234223984e-10
-YouGov,The Economist,2025-10-10,2025-10-13,1467,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_GWBYlDD.pdf,-3,NA,-3.4350793679194496,5.244557125232415e-11
-Emerson College,NA,2025-10-13,2025-10-14,1000,RV,44,43,https://emersoncollegepolling.com/october-2025-poll/,-1,NA,-1.601900204778218,1.339245252508073e-10
-J.L. Partners,Daily Mail,2025-10-14,2025-10-15,1004,RV,43,37,https://www.dailymail.co.uk/news/article-15199427/donald-trump-polling-peace-president.html,-6,NA,-4.3446112219954145,2.3713211510324775e-10
-The Argument/Verasight,NA,2025-10-10,2025-10-16,1530,RV,51,49,https://www.theargumentmag.com/p/the-immigration-problem-is-a-crime,-2,NA,-1.9635919018958177,4.062235876440422e-11
-The Winston Group,Winning the Issues,2025-10-15,2025-10-16,1000,RV,47,43,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-4,REP,-3.478238399344555,1.6498595051029e-10
-Morning Consult,NA,2025-10-17,2025-10-19,2200,RV,46,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.947219964151067,7.074128472160486e-11
-Morning Consult,NA,2025-10-13,2025-10-19,21839,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,1.0664649936784745e-10
-Echelon Insights,NA,2025-10-16,2025-10-20,1010,LV,48,46,https://echeloninsights.com/in-the-news/october-2025-verified-voter-omnibus-2/,-2,NA,-3.3212694265445677,1.7447283214002462e-10
-Ipsos,Reuters,2025-10-15,2025-10-20,3439,RV,41,38,https://www.reuters.com/world/us/trumps-approval-edges-up-despite-americans-blaming-republicans-shutdown-2025-10-21/,-3,NA,-5.159098837234687,1.7018687075051666e-10
-Quinnipiac University,NA,2025-10-16,2025-10-20,1327,RV,50,41,https://poll.qu.edu/poll-release?releaseid=3938,-9,NA,-6.057957324419199,3.0355041702381223e-10
-YouGov,The Economist,2025-10-17,2025-10-20,1447,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_9BPkYGS.pdf,-5,NA,-5.43507936791945,9.097577118015649e-11
-University of Massachusetts Lowell,NA,2025-10-16,2025-10-20,1000,A,38,35,https://www.uml.edu/news/press-releases/2025/national-poll-10292025.aspx,-3,NA,-4.42244597532099,4.0711040416618545e-10
-Clarity Campaign Labs,NA,2025-10-16,2025-10-23,1047,RV,47,46,https://www.claritycampaigns.com/clarity-omnibus-oct-2025,-1,NA,-0.4237329689415006,2.54625860454789e-10
-Ipsos,Reuters,2025-10-24,2025-10-26,805,RV,39,39,https://www.reuters.com/world/us/trumps-popularity-dips-americans-sweat-cost-living-reutersipsos-poll-finds-2025-10-28/,0,NA,-2.159098837234687,1.304992167892189e-10
-Manhattan Institute,NA,2025-10-15,2025-10-26,500,RV,47,44,https://manhattan.institute/article/the-new-gop-survey-analysis-of-americans-overall-todays-republican-coalition-and-the-minorities-of-maga,-3,NA,-3.2143845285112818,1.742481427998737e-10
-Morning Consult,NA,2025-10-24,2025-10-26,2202,RV,45,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.947219964151067,1.232990345548449e-10
-Morning Consult,NA,2025-10-20,2025-10-26,21290,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,1.857958549925641e-10
-McLaughlin & Associates,NA,2025-10-21,2025-10-27,1000,LV,44,46,https://mclaughlinonline.com/2025/10/30/national-monthly-october-2025/,2,NA,-2.2941602359424778,7.202940502307001e-11
-YouGov,The Economist,2025-10-24,2025-10-27,1472,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_6P3FccQ.pdf,-3,NA,-3.4350793679194496,1.586903098715822e-10
-YouGov,Yahoo News,2025-10-23,2025-10-27,1197,RV,45,40,https://www.scribd.com/document/940273112/Yahoo-YouGov-Shutdown-Poll-October-2025,-5,NA,-5.43507936791945,1.4310129975887747e-10
-Hart Research Associates/Public Opinion Strategies,NBC News,2025-10-24,2025-10-28,1000,RV,50,42,https://www.nbcnews.com/politics/elections/poll-frustration-trump-gives-democrats-opening-year-midterms-rcna240551,-8,NA,-7.736582886211266,4.810168047069551e-10
-Ipsos,ABC News | The Washington Post,2025-10-24,2025-10-28,2203,RV,46,44,https://www.washingtonpost.com/politics/2025/11/02/trump-democrats-poll-post-abc-ipsos/,-2,NA,-4.159098837234687,2.517003852388353e-10
-NewsNation,Decision Desk HQ,2025-10-27,2025-10-29,1158,LV,47,47,https://www.newsnationnow.com/polls/,0,NA,-1.0441571839777453,8.144287300272254e-10
-Verasight,Strength In Numbers,2025-10-24,2025-10-29,1352,LV,49,41,https://www.gelliottmorris.com/p/new-poll-voters-want-democrats-to,-8,NA,-5.97465282919682,1.0357169914653483e-10
-RMG Research,Napolitan News Service,2025-10-27,2025-10-30,2000,RV,44,46,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-42,2,NA,-1.1826014467441937,5.090352506982192e-10
-SSRS,CNN,2025-10-27,2025-10-30,954,RV,47,42,https://s3.documentcloud.org/documents/26211915/cnn-poll-trump-midterms-east-wing-parties.pdf,-5,NA,-5.288201444590733,2.1094161990813994e-10
-Morning Consult,NA,2025-10-31,2025-11-02,2202,RV,45,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.947219964151067,2.1100512770952755e-10
-Morning Consult,NA,2025-10-27,2025-11-02,22207,RV,43,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.947219964151067,3.1795770544471284e-10
-YouGov,The Economist,2025-10-31,2025-11-03,1470,RV,44,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5RO6eos.pdf,-3,NA,-3.4350793679194496,2.743206600113077e-10
-Emerson College,NA,2025-11-03,2025-11-04,1000,RV,44,40,https://emersoncollegepolling.com/november-2025-national-poll/,-4,NA,-2.5810394499399862,7.119284962802892e-10
-Cygnal,NA,2025-11-05,2025-11-06,1500,LV,50,44,https://www.cygn.al/poll-voters-say-less-socialism-more-stabilityeconomic-concerns-surge-heading-into-2026/,-6,NA,-6.705357683947305,9.05358574693738e-10
-Morning Consult,NA,2025-11-07,2025-11-09,2201,RV,48,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-5,NA,-6.947219964151067,3.6776561081653743e-10
-Morning Consult,NA,2025-11-03,2025-11-09,21394,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,5.543015557198704e-10
-Change Research,NA,2025-11-06,2025-11-10,1572,RV,47,43,https://portal.changeresearch.com/portal/projects/f8ad986a-d2e5-4fb6-a21f-63b6b92c2998,-4,NA,-4.659119049676875,1.0326341022510455e-9
-Survey 160,NA,2025-11-06,2025-11-10,1513,RV,46,39,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-november-2025-update,-7,NA,-3.6720181464672876,4.4942433602402976e-10
-YouGov,The Economist,2025-11-07,2025-11-10,1499,RV,46,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_L33vOWV.pdf,-7,NA,-7.43507936791945,4.792991494986745e-10
-YouGov Blue,The Downballot,2025-11-07,2025-11-10,517,RV,48,45,https://www.the-downballot.com/p/new-poll-shows-democrats-best-path,-3,DEM,-3.9615438065624105,4.408168074414962e-10
-Yale University Institution for Social and Policy Studies,NA,2025-10-29,2025-11-11,3426,RV,45,43,https://youthpoll.yale.edu/fall-2025-results,-2,NA,-3.2382540942813307,8.943546382338971e-10
-Ipsos,Reuters,2025-11-07,2025-11-12,938,RV,41,40,https://www.reuters.com/world/us/democrats-more-energized-2026-elections-than-republicans-reutersipsos-poll-finds-2025-11-13/,-1,NA,-3.159098837234687,5.588723078097472e-10
-Marquette University Law School,NA,2025-11-05,2025-11-12,903,RV,49,44,https://law.marquette.edu/poll/2025/11/18/detailed-results-of-the-marquette-law-school-supreme-court-poll-nov-5-12-2025-national-issues/,-5,NA,-4.444834562107978,1.7159485617191653e-9
-Quantus Insights,NA,2025-11-11,2025-11-12,1000,RV,44,39,https://quantusinsights.org/f/survey-shows-public-discontent-with-trump-direction-of-us,-5,NA,-5.68431390821241,2.224682676071473e-10
-Marist College,NPR | PBS News,2025-11-10,2025-11-13,1291,RV,55,41,https://maristpoll.marist.edu/polls/a-look-to-the-2026-midterms-november-2025/,-14,NA,-8.981665673704867,2.5444180880268282e-9
-Verasight,Strength In Numbers,2025-11-12,2025-11-14,860,LV,49,45,https://www.gelliottmorris.com/p/new-poll-democrats-lead-the-2026,-4,NA,-1.9746528291968204,3.0153052770969283e-10
-High Point University,NA,2025-11-10,2025-11-14,837,RV,48,39,https://www.highpoint.edu/src/files/2023/08/HPUPoll-115-and-116-Memo.pdf,-9,NA,-6.8078594331275895,2.7353757470714874e-9
-Morning Consult,NA,2025-11-14,2025-11-16,2201,RV,46,44,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.947219964151067,6.415895721658704e-10
-Morning Consult,NA,2025-11-10,2025-11-16,21313,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,9.670129221587246e-10
-Echelon Insights,NA,2025-11-13,2025-11-17,1051,LV,49,45,https://echeloninsights.com/in-the-news/november-2025-verified-voter-omnibus/,-4,NA,-5.321269426544568,1.601025163648919e-9
-Ipsos,Reuters,2025-11-14,2025-11-17,818,RV,38,36,https://www.reuters.com/world/us/trump-approval-falls-lowest-his-term-over-prices-epstein-files-reutersipsos-poll-2025-11-18/,-2,NA,-4.159098837234687,7.660453666255417e-10
-The Argument/Verasight,NA,2025-11-10,2025-11-17,1508,RV,53,47,https://www.theargumentmag.com/p/2026-is-looking-terrible-for-republicans,-6,NA,-5.963591901895818,5.026697293585394e-10
-The Winston Group,Winning the Issues,2025-11-15,2025-11-17,1000,RV,47,42,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-5,REP,-4.478238399344555,2.2211761323824914e-9
-YouGov,The Economist,2025-11-15,2025-11-17,1380,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Hb6uOe2.pdf,-3,NA,-3.4350793679194496,8.051017072060559e-10
-J.L. Partners,Daily Mail,2025-11-19,2025-11-20,797,LV,50,46,https://jlpartners.com/nov25-rv,-4,NA,-2.5353883857744464,4.735520021678812e-9
-Morning Consult,NA,2025-11-21,2025-11-23,2200,RV,45,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.947219964151067,1.1198993619054228e-9
-Morning Consult,NA,2025-11-17,2025-11-23,19675,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,1.6883118119994177e-9
-McLaughlin & Associates,NA,2025-11-17,2025-11-24,1000,LV,45,44,https://mclaughlinonline.com/2025/11/26/national-monthly-november-2025/,-1,NA,-5.294160235942478,6.552686974932032e-10
-YouGov,The Economist,2025-11-21,2025-11-24,1511,RV,44,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_dEPgjvs.pdf,-5,NA,-5.43507936791945,1.458768418279412e-9
-YouGov,Yahoo News,2025-11-21,2025-11-24,1131,RV,43,40,https://www.scribd.com/document/955164028/Yahoo-YouGov-Epstein-Poll-November-2025,-3,NA,-3.4350793679194496,1.2620757518186715e-9
-The Bullfinch Group,NA,2025-11-21,2025-11-25,1000,RV,41,35,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-q4-nationwide-survey-3,-6,NA,-3.1309892126561323,8.949787972335328e-10
-GBAO,Third Way,2025-11-19,2025-11-26,2000,RV,48,42,https://uploads.thirdway.org/downloads/food-medicine-fuel-for-a-wave/Third-WayGBAO-National-Framing-Survey-Toplines-November-2025.pdf,-6,NA,-4.609867674416428,7.631141328600055e-9
-Morning Consult,NA,2025-11-26,2025-11-30,2200,RV,45,41,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.414669951282519,1.9568675951243937e-9
-Morning Consult,NA,2025-11-24,2025-11-30,21658,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,2.9500888988330535e-9
-YouGov,The Economist,2025-11-28,2025-12-01,1452,RV,45,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,-6,NA,-6.43507936791945,2.476871515098018e-9
-RMG Research,Napolitan News Service,2025-12-01,2025-12-04,2000,RV,44,48,https://napolitannews.org/assets/pdfs/693313e5180f3-gcm25-1203-toplines-generic-ballot.pdf,4,NA,0.8173985532558063,7.98749314471966e-9
-Quantus Insights,NA,2025-12-04,2025-12-05,1000,RV,44,40,https://quantusinsights.org/f/new-poll-strong-disapproval-drives-overall-assessment-of-trump,-4,NA,-4.68431390821241,1.3634244635353359e-9
-Cygnal,NA,2025-12-05,2025-12-07,1500,LV,48,44.1,https://www.cygn.al/polls/december-2025-national-voter-trends-nvt-poll/,-3.8999999999999986,NA,-4.605357683947304,1.0252984364370367e-8
-Morning Consult,NA,2025-12-05,2025-12-07,2201,RV,46,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.947219964151067,3.4232303811435826e-9
-Morning Consult,NA,2025-12-01,2025-12-07,19970,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,5.159541485247775e-9
-Grayhouse,America One Policies (super PAC),2025-12-06,2025-12-08,2058,RV,45,41,https://www.americaonepolicies.com/polls/national-poll-on-the-working-families-tax-cut-and-health-care,-4,REP,-4.759671270531975,4.404825989821978e-9
-Hart Research Associates/Public Opinion Strategies,CNBC,2025-12-04,2025-12-08,800,RV,50,46,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/12/16/TOPLINES_250313_CNBC_AAES_Q4_2025_new.pdf,-4,NA,-3.7365828862112664,1.1189918301758351e-8
-Ipsos,Reuters,2025-12-03,2025-12-08,3521,RV,40,39,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,-1,NA,-3.159098837234687,8.42099075579891e-9
-YouGov,The Economist,2025-12-05,2025-12-08,1379,RV,42,37,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,-5,NA,-5.43507936791945,4.182130394748762e-9
-Change Research,NA,2025-12-05,2025-12-10,1520,RV,43,43,https://portal.changeresearch.com/portal/projects/462322ed-5e5a-43bd-b4ff-43acb1d433e2,0,NA,-0.6591190496768746,1.1123273337076904e-8
-Clarity Campaign Labs,NA,2025-12-04,2025-12-11,1000,LV,49,44,https://www.claritycampaigns.com/clarity-omnibus-dec-2025?submissionGuid=49882900-7ea0-44c8-8c7c-579c65ead3af,-5,NA,-4.6145101327205325,1.171799005628493e-8
-The Argument/Verasight,NA,2025-12-05,2025-12-11,1521,RV,51,49,https://www.theargumentmag.com/p/have-democrats-lost-their-education,-2,NA,-1.9635919018958177,3.4404881312643093e-9
-Morning Consult,NA,2025-12-08,2025-12-14,19954,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,9.032676805039714e-9
-Echelon Insights,NA,2025-12-11,2025-12-15,1011,LV,48,45,https://echeloninsights.com/in-the-news/december-2025-verified-voter-omnibus/,-3,NA,-4.321269426544568,1.4196603606770175e-8
-Emerson College,NA,2025-12-14,2025-12-15,1000,RV,44,42,https://emersoncollegepolling.com/december-2025-national-poll-trumps-approval-flips-since-start-of-the-year/,-2,NA,-2.601900204778218,1.7705125800156075e-8
-Ipsos,Reuters,2025-12-12,2025-12-15,775,RV,40,36,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,-4,NA,-6.159098837234687,6.761053346623837e-9
-Morning Consult,NA,2025-12-12,2025-12-15,2201,RV,45,44,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-1,NA,-2.947219964151067,6.627002326370575e-9
-Quinnipiac University,NA,2025-12-11,2025-12-15,1035,RV,47,43,https://poll.qu.edu/poll-release?releaseid=3943,-4,NA,-1.057957324419199,2.2048914860632098e-8
-YouGov,The Economist,2025-12-12,2025-12-15,1451,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,-4,NA,-4.43507936791945,7.532179711852152e-9
-Echelon Insights/GBAO,AARP,2025-12-09,2025-12-16,2023,LV,47,43,https://www.aarp.org/pri/topics/work-finances-retirement/financial-security-retirement/shes-the-difference-financial-security/,-4,NA,-3.894003733157696,1.4265785516868543e-8
-Quantus Insights,NA,2025-12-15,2025-12-16,1000,RV,43,41,https://drive.google.com/file/d/14uRV2kwTVNEO4EIXGv7TCQZtmlMK0owX/view,-2,NA,-2.6843139082124097,3.1717412382034623e-9
-Fabrizio Ward,Building America's Future,2025-12-15,2025-12-17,1000,RV,45,38,https://www.politico.com/newsletters/playbook/2025/12/22/cbs-controversial-call-00702480,-7,REP,-6.721304572233109,8.664052378399395e-9
-McLaughlin & Associates,NA,2025-12-12,2025-12-19,1000,LV,46,45,https://mclaughlinonline.com/2025/12/23/national-monthly-december-2025/,-1,NA,-5.294160235942478,4.772530678860171e-9
-AtlasIntel,NA,2025-12-15,2025-12-19,2315,A,54,38,https://www.atlasintel.org/poll/usa-national-2025-12-19,-16,NA,-9.700184075148371,7.493292316476573e-8
-Morning Consult,NA,2025-12-19,2025-12-21,2203,RV,47,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.947219964151067,1.0507861753077673e-8
-Morning Consult,NA,2025-12-15,2025-12-21,20240,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,1.5830407846225302e-8
-YouGov,The Economist,2025-12-20,2025-12-22,1424,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_s4jyXBa.pdf,-3,NA,-3.4350793679194496,1.2940952151597513e-8
-YouGov,The Economist,2025-12-26,2025-12-29,1417,RV,42,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_h1aYmmb.pdf,-4,NA,-4.43507936791945,2.2396445973848507e-8
-The Bullfinch Group,Independent Center,2025-12-30,2026-01-01,1000,RV,44,33,https://independentcentervoice.com/insights/2026-tune-in-as-america-approaches-its-250th-voters-declare-the-status-quo-broken-and-demand-new-options,-11,NA,-8.403409335481584,1.7123837051713204e-8
-Morning Consult,NA,2026-01-02,2026-01-04,2201,RV,44,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.947219964151067,3.237985175153944e-8
-Morning Consult,NA,2025-12-29,2026-01-04,22709,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,4.8803372778676346e-8
-YouGov,The Economist,2026-01-02,2026-01-05,1386,RV,45,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,-6,NA,-6.43507936791945,3.8443804358018473e-8
-Cygnal,NA,2026-01-08,2026-01-08,1500,LV,48.1,44.6,https://www.cygn.al/polls/january-2026-national-voter-trends-nvt-poll/,-3.5,NA,-4.205357683947305,1.2600730032937226e-7
-RMG Research,Napolitan News Service,2026-01-05,2026-01-08,2000,RV,47,46,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-44,-1,NA,-4.182601446744194,1.2663406844198e-7
-Morning Consult,NA,2026-01-05,2026-01-11,17701,RV,45,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,8.587168999944784e-8
-Morning Consult,NA,2026-01-09,2026-01-12,2201,RV,46,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.947219964151067,6.151887183740011e-8
-SSRS,CNN,2026-01-09,2026-01-12,968,RV,46,41,https://www.cnn.com/2026/01/18/politics/cnn-poll-democrats-are-deeply-motivated-for-the-midterms-despite-having-dismal-views-of-party-leaders,-5,NA,-5.288201444590733,7.185579572496207e-8
-The Winston Group,Winning the Issues,2026-01-08,2026-01-12,1000,RV,46,43,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-3,REP,-2.478238399344555,2.0012221186783348e-7
-YouGov,The Economist,2026-01-09,2026-01-12,1433,RV,44,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,-4,NA,-4.43507936791945,6.787279526505309e-8
-YouGov,Yahoo News,2026-01-08,2026-01-12,1148,RV,45,40,https://www.yahoo.com/news/us/article/poll-only-27-of-americans-think-minneapolis-ice-shooting-was-justified-142831951.html,-5,NA,-5.43507936791945,6.07496226069072e-8
-Impact Research/National Research,Wall Street Journal,2026-01-08,2026-01-13,1500,RV,47,43,https://www.wsj.com/politics/elections/trump-approval-rating-economy-poll-b3a62e57,-4,NA,-3.9202734836520463,7.450093338650899e-8
-Ipsos,Reuters,2026-01-12,2026-01-13,941,RV,40,38,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,-2,NA,-4.159098837234687,7.345203304750194e-8
-Public Policy Polling,Progress Action Fund (hybrid PAC),2026-01-13,2026-01-14,597,RV,50,42,https://progressactionfund.com/new-poll-independent-voters-would-rather-shut-down-the-government-than-fund-ice-by-16-points/,-8,DEM,-5.768055084704102,1.9436373128843405e-7
-Research Co.,NA,2026-01-13,2026-01-15,1002,A,42,36,https://researchco.ca/2026/01/26/amendment/,-6,NA,-5.8764777950094,2.9282219862123506e-7
-The New York Times/Siena College,NA,2026-01-12,2026-01-17,1625,RV,48,43,https://www.nytimes.com/2026/01/22/us/politics/trump-poll-second-term.html,-5,NA,-4.802262177742641,5.618716861780715e-7
-Morning Consult,NA,2026-01-12,2026-01-18,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,1.2869084630061355e-7
-Morning Consult,NA,2026-01-16,2026-01-18,2201,RV,45,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.947219964151067,8.538324889739377e-8
-Emerson College,NA,2026-01-17,2026-01-19,1000,LV,48.1,41.7,https://emersoncollegepolling.com/january-2026-national-poll/,-6.399999999999999,NA,-5.171816613719017,2.8376555339853183e-7
-Change Research,NA,2026-01-13,2026-01-19,1348,RV,46,43,https://portal.changeresearch.com/portal/projects/45449a2d-6c0e-412f-a3e1-a053b39f12b0,-3,NA,-3.6591190496768746,2.088500138666117e-7
-YouGov,The Economist,2026-01-16,2026-01-19,1549,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,-4,NA,-4.43507936791945,1.1955400766290044e-7
-KFF,NA,2026-01-13,2026-01-20,1141,RV,49,42,https://www.kff.org/public-opinion/kff-health-tracking-poll-health-care-costs-expiring-aca-tax-credits-and-the-2026-midterms/,-7,NA,-4.010536611132082,1.1119678732121208e-7
-Verasight,Strength In Numbers,2026-01-14,2026-01-20,1352,RV,51,43,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,-8,NA,-5.7838756654177885,6.988390040328096e-8
-Clarity Campaign Labs,NA,2026-01-15,2026-01-22,1147,LV,51,42,https://www.claritycampaigns.com/clarity-omnibus-jan-2026,-9,NA,-8.614510132720532,3.6331902424398695e-7
-Quantus Insights,NA,2026-01-20,2026-01-22,1000,RV,47.2,40.7,https://v0-quantus-insights-website.vercel.app/polls/2601412-weighted-ziw7630t?tab=toplines,-6.5,NA,-7.18431390821241,6.068566127050166e-8
-Ipsos,Reuters,2026-01-23,2026-01-25,906,RV,41,37,https://www.reuters.com/data/which-party-do-americans-want-run-congress-2025-11-05/,-4,NA,-6.159098837234687,2.0725834243530118e-7
-Morning Consult,NA,2026-01-19,2026-01-25,12505,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.947219964151067,2.2680782948593848e-7
-Echelon Insights,NA,2026-01-22,2026-01-26,1029,LV,49,44,https://echelonin.wpenginepowered.com/wp-content/uploads/January-2026-Voter-Omnibus-Topline.pdf,-5,NA,-6.321269426544568,4.1965094686605643e-7
-Beacon Research/Shaw & Co. Research,FOX News,2026-01-23,2026-01-26,1005,RV,52,46,https://static.foxnews.com/foxnews.com/content/uploads/2026/01/fox_january-23-26_national_topline_january-29-release.pdf,-6,NA,-4.752585225490485,8.263871563693346e-7
-YouGov,The Economist,2026-01-23,2026-01-26,1520,RV,43,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8FWGyNz.pdf,-5,NA,-5.43507936791945,2.0581429617152571e-7
-Focaldata,NA,2026-01-23,2026-01-26,2037,A,39,35,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling,-4,NA,-3.1201590347424926,5.087289544573639e-7
-McLaughlin & Associates,NA,2026-01-21,2026-01-27,1000,LV,46,44,https://mclaughlinonline.com/2026/02/04/national-monthly-january-2026/,-2,NA,-6.294160235942478,1.0285422203408572e-7
-The Argument/Verasight,NA,2026-01-26,2026-01-27,1515,RV,52,48,https://www.theargumentmag.com/p/immigration-is-turning-into-a-disaster,-4,NA,-3.9635919018958177,1.3868167009468435e-7
-Cygnal,NA,2026-01-27,2026-01-28,1004,LV,48,44,https://www.cygn.al/polls/national-poll-deportation-ice-overwhelmingly-supported-by-voters-and-democrats-pay-a-political-price-on-the-issue-especially-over-a-shutdown/,-4,NA,-5.1362100733124905,5.147555045894207e-7
-Marquette University Law School,NA,2026-01-21,2026-01-28,577,LV,52,45,https://law.marquette.edu/poll/2026/02/04/detailed-results-of-the-marquette-law-school-supreme-court-poll-jan-21-28-2025-national-issues/,-7,NA,-6.63561172588701,6.587799541086708e-7
-Harris Insights & Analytics,Harvard CAPS,2026-01-28,2026-01-29,NA,LV,52,48,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf,-4,NA,-6.587205598670366,4.4896481887492614e-7
-TIPP Insights,Issues & Insights,2026-01-27,2026-01-29,1126,LV,45,42,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/,-3,NA,-5.231927606799893,9.70803093416379e-7
-Public Policy Polling,NA,2026-01-29,2026-01-30,652,RV,48,41,https://e1.nmcdn.io/assets/ppp/wp-content/uploads/2026/01/January2026NationalSurvey.pdf,-7,DEM,-4.768055084704102,9.385632798929878e-7
-Morning Consult,NA,2026-01-30,2026-02-01,2201,RV,47,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-5,NA,-6.947219964151067,2.6570058948603134e-7
-Morning Consult,NA,2026-01-26,2026-02-01,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.947219964151067,4.004677049080172e-7
-YouGov,The Economist,2026-01-30,2026-02-02,1504,RV,44,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_DDIQ8jz.pdf,-4,NA,-4.43507936791945,3.6184731759582567e-7
-Cygnal,NA,2026-02-03,2026-02-04,1500,LV,47.8,44.4,https://www.cygn.al/polls/february-2026-national-voter-trends-nvt-poll/,-3.3999999999999986,NA,-4.105357683947304,1.076745600496813e-6
-John Zogby Strategies,NA,2026-02-04,2026-02-05,1000,LV,47,42,https://johnzogbystrategies.com/democrats-lead-republicans-47-42-in-congressional-generic-poll/,-5,NA,-7.147633805440293,8.622580476576872e-7
-Morning Consult,NA,2026-02-02,2026-02-08,29303,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,7.085698682569929e-7
-Morning Consult,NA,2026-02-06,2026-02-09,2200,RV,45,41,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.947219964151067,5.164904966675501e-7
-YouGov,The Economist,2026-02-06,2026-02-09,1551,RV,44,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,-6,NA,-6.43507936791945,6.395909353332624e-7
-Focaldata,NA,2026-02-10,2026-02-10,NA,LV,51,44,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling,-7,NA,-7.026290341966956,1.510949241595255e-6
-The Argument/Verasight,NA,2026-02-04,2026-02-10,3003,RV,53,47,https://substack.com/home/post/p-188193326,-6,NA,-5.963591901895818,5.718170220154652e-7
-RMG Research,Napolitan News Service,2026-02-09,2026-02-12,2000,RV,45,47,https://napolitannews.org/posts/generic-ballot-gop-44-percent-dem-41-but-dems-more-enthusiastic,2,NA,-1.1826014467441937,2.1209545857412584e-6
-YouGov,Yahoo News,2026-02-09,2026-02-12,1149,RV,44,41,https://www.yahoo.com/news/politics/article/poll-as-the-2026-midterm-elections-approach-just-23-of-americans-are-confident-the-vote-will-not-be-rigged-221139207.html,-3,NA,-3.4350793679194496,7.053040842537951e-7
-Quantus Insights,NA,2026-02-12,2026-02-13,1515,LV,48.4,41.9,https://quantusinsights.org/f/quantus-insights-national-survey-2026-midterms-break-democrat,-6.5,NA,-6.657196818129364,4.3213725798254547e-7
-Morning Consult,NA,2026-02-09,2026-02-15,12505,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,1.2340592076011453e-6
-Ipsos,Reuters,2026-02-13,2026-02-16,846,RV,41,37,https://www.reuters.com/world/us/trumps-immigration-approval-hits-new-low-according-reutersipsos-poll-2026-02-17/,-4,NA,-6.159098837234687,1.16423429958779e-6
-Morning Consult,NA,2026-02-13,2026-02-16,2200,RV,45,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.947219964151067,9.172506116058471e-7
-The Bullfinch Group,MainFrame,2026-02-13,2026-02-16,1000,RV,46,35,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-mainframe-q1-nationwide-survey,-11,NA,-8.130989212656132,6.751554661691095e-7
-YouGov,The Economist,2026-02-13,2026-02-16,1512,RV,47,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_usZL1Jt.pdf,-7,NA,-7.43507936791945,1.099830130649203e-6
-Ipsos,ABC News | The Washington Post,2026-02-12,2026-02-17,2087,RV,47,45,https://www.washingtonpost.com/politics/2026/02/25/poll-democrats-trump-republicans-midterms/,-2,NA,-4.159098837234687,1.974466484693359e-6
-YouGov,Bowling Green State University Democracy and Public Policy Network,2026-02-13,2026-02-18,1200,RV,49,41,https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1017&context=depo,-8,NA,-8.43507936791945,1.1633332497135666e-6
-Talker Research,Scripps News,2026-02-13,2026-02-19,1000,A,42,36,https://www.scrippsnews.com/politics/scripps-news-talker-research-poll-high-interest-in-state-of-the-union-amid-economic-worries,-6,NA,-5.203742761706096,1.4721918714354369e-6
-Verasight,Strength In Numbers,2026-02-18,2026-02-20,1401,RV,52,42,https://www.gelliottmorris.com/p/ahead-of-state-of-the-union-address,-10,NA,-7.7838756654177885,8.414567804072863e-7
-Emerson College,NA,2026-02-21,2026-02-22,1000,LV,50.4,42.4,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/,-8,NA,-6.771816613719018,4.2255537578786354e-6
-Global Strategy Group,Campaign for a Family Friendly Economy PAC,2026-02-17,2026-02-22,1051,LV,48,40,https://www.semafor.com/article/03/23/2026/poll-caretaking-anecdotes-resonate-with-voters,-8,NA,-6.691383251255239,6.403524126427092e-6
-Morning Consult,NA,2026-02-20,2026-02-22,2202,RV,46,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.947219964151067,1.4544048928438923e-6
-Morning Consult,NA,2026-02-16,2026-02-22,26087,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,2.191601917621677e-6
-Echelon Insights,NA,2026-02-19,2026-02-23,1002,LV,50,46,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/,-4,NA,-5.321269426544568,3.797027019408281e-6
-Grayhouse,America One Policies (super PAC),2026-02-20,2026-02-23,1394,RV,46,43,https://www.americaonepolicies.com/polls/attitudes-on-iran-the-economy-and-affordability,-3,REP,-3.7596712705319746,1.890249460118217e-6
-Ipsos,Reuters,2026-02-18,2026-02-23,3686,RV,40,38,https://www.reuters.com/world/us/most-americans-say-trump-is-growing-erratic-with-age-reutersipsos-poll-finds-2026-02-24/,-2,NA,-4.159098837234687,4.158782493905829e-6
-YouGov,The Economist,2026-02-20,2026-02-23,1402,RV,45,41,https://today.yougov.com/politics/articles/54156-two-thirds-independents-disapprove-donald-trump-job-performance-february-20-23-2026-economist-yougov-poll,-4,NA,-4.43507936791945,1.845670587916913e-6
-YouGov,Pennsylvania State University McCourtney Institute for Democracy,2026-02-18,2026-02-23,824,RV,42,37,https://democracy.psu.edu/poll-report-archive/democrats-have-edge-in-congressional-generic-ballot/,-5,NA,-5.43507936791945,1.4149587870327547e-6
-Cygnal,American Principles Project (super PAC),2026-02-24,2026-02-26,1048,LV,48.3,44.6,https://act.americanprinciplesproject.org/p/protect-kids-online/results?access=press,-3.6999999999999957,REP,-4.491007295460925,4.499257055508597e-6
-Harris Insights & Analytics,Harvard CAPS,2026-02-25,2026-02-26,NA,LV,50,50,https://harvardharrispoll.com/key-results-february-2026/,0,NA,-2.5872055986703657,4.159288439030764e-6
-TIPP Insights,Issues & Insights,2026-02-24,2026-02-27,1264,RV,45.5,44.2,https://tippinsights.com/americas-stalemate/,-1.2999999999999972,NA,-3.341150443020858,1.1666693524805624e-5
-YouGov,CBS News,2026-02-25,2026-02-27,1523,RV,45,40,https://www.cbsnews.com/news/2026-midterm-primary-season-opinion-poll/,-5,NA,-5.43507936791945,2.717536258973036e-6
-The Public Sentiment Institute,NA,2026-02-28,2026-02-28,249,LV,50.1,41,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,-9.100000000000001,NA,-5.844811379805414,1.8085054703971634e-6
-Morning Consult,NA,2026-02-23,2026-03-01,NA,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,2.093124122141116e-6
-YouGov,The Economist,2026-02-27,2026-03-02,1366,RV,45,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ubu5DXD.pdf,-4,NA,-4.43507936791945,3.2400427870924467e-6
-Quantus Insights,NA,2026-03-02,2026-03-03,1624,LV,47.7,42.2,https://quantusinsights.org/f/latest-survey-the-hardening-of-american-opinion,-5.5,NA,-6.647511194816893,1.923896934974423e-6
-Hart Research Associates/Public Opinion Strategies,NBC News,2026-02-27,2026-03-03,1000,RV,50,44,https://www.nbcnews.com/politics/2026-election/poll-trump-struggles-immigration-prices-iran-democrats-midterm-edge-rcna261861,-6,NA,-6.167435275576452,1.0670141107978251e-5
-Cygnal,NA,2026-03-03,2026-03-04,1500,LV,49,44.8,https://www.cygn.al/polls/march-2026-national-voter-trends-nvt-poll/,-4.200000000000003,NA,-4.905357683947308,1.0663893707231007e-5
-Marist College,NPR | PBS News,2026-03-02,2026-03-04,1392,RV,53,44,https://maristpoll.marist.edu/polls/election-security-march-2026/,-9,NA,-3.9816656737048675,1.608245124942643e-5
-OH Predictive Insights,The Center Square,2026-03-02,2026-03-05,2659,RV,44,43,https://www.thecentersquare.com/national/article_c3795c17-be14-4566-a625-eb38b4ffc1bf.html,-1,NA,-2.033084435441701,2.3166191463608793e-5
-RMG Research,Napolitan News Service,2026-03-02,2026-03-05,2000,RV,46,46,https://napolitannews.org/posts/generic-ballot-dem-44-percent-gop-43-dems-also-more-enthusiastic,0,NA,-3.1826014467441937,1.1884649440144749e-5
-Clarity Campaign Labs,NA,2026-02-26,2026-03-07,1004,LV,47,43,https://www.claritycampaigns.com/clarity-omnibus-2026-mar,-4,NA,-3.6145101327205325,1.1495009157064746e-5
-Morning Consult,NA,2026-03-06,2026-03-08,2202,RV,47,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.947219964151067,4.630494014477397e-6
-Morning Consult,NA,2026-03-02,2026-03-08,NA,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,3.7413005390437344e-6
-McLaughlin & Associates,NA,2026-03-04,2026-03-09,1000,LV,47,43,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf,-4,NA,-8.294160235942478,2.621074789972815e-6
-YouGov,The Economist,2026-03-06,2026-03-09,1405,RV,45,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,-3,NA,-3.4350793679194496,5.8627716285652725e-6
-Focaldata,NA,2026-03-06,2026-03-10,1534,RV,48,42,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,-6,NA,-5.835513178187924,1.545828570407971e-5
-Change Research,NA,2026-03-08,2026-03-12,1540,RV,47,41,https://portal.changeresearch.com/portal/projects/61cdcd30-3c32-4785-9ccb-5fe82cb36389,-6,NA,-6.659119049676875,1.3949306741361435e-5
-Morning Consult,NA,2026-03-09,2026-03-15,26634,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,1.2523719960657698e-5
-Survey 160,NA,2026-03-09,2026-03-15,1546,RV,48,38,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-march-2026,-10,NA,-6.169127568793307,8.166842166707818e-6
-Echelon Insights,NA,2026-03-12,2026-03-16,1033,LV,49,44,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/,-5,NA,-6.321269426544568,2.0870525406162874e-5
-Morning Consult,NA,2026-03-13,2026-03-16,2201,RV,48,40,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-8,NA,-9.947219964151067,9.205129395551898e-6
-YouGov,The Economist,2026-03-13,2026-03-16,1429,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CwWXhS2.pdf,-2,NA,-2.4350793679194496,1.0850835593320115e-5
-YouGov,Yahoo News,2026-03-12,2026-03-16,1148,RV,44,40,https://www.yahoo.com/news/politics/article/poll-66-of-americans-disapprove-of-trump-on-gas-prices-as-they-feel-effects-of-iran-war-120000483.html,-4,NA,-4.43507936791945,9.725636037749523e-6
-Emerson College,NA,2026-03-16,2026-03-17,1000,LV,49.2,41.5,https://emersoncollegepolling.com/march-2026-national-poll-47-oppose-us-military-action-in-iran-40-support/,-7.700000000000003,NA,-6.471816613719021,2.760611573541501e-5
-The Argument/Verasight,NA,2026-03-12,2026-03-17,1519,RV,54,46,https://substack.com/inbox/post/191802614,-8,NA,-7.963591901895818,7.706360863360751e-6
-The Winston Group,Winning the Issues,2026-03-15,2026-03-17,1000,RV,49,40,https://www.winningtheissues.org/wp-content/uploads/2026/04/March-2026-Winning-the-Issues-Survey.pdf,-9,REP,-8.478238399344555,4.1557359722711276e-5
-John Zogby Strategies,NA,2026-03-17,2026-03-18,1000,LV,46.3,45.8,https://x.com/zogbystrategies/status/2036096236139245673?s=20,-0.5,NA,-2.1150837925717454,2.316185248948368e-5
-Quantus Insights,NA,2026-03-17,2026-03-18,1053,LV,46.7,41.7,https://quantusinsights.org/f/national-survey-a-divided-country-and-a-motivated-electorate#ddfaccf9-bede-412a-8ce9-6f9ddda07554,-5,NA,-6.191832886677702,5.366530462319702e-6
-Verasight,Strength In Numbers,2026-03-16,2026-03-18,1370,RV,49,43,https://www.gelliottmorris.com/p/2026-03-24-march-sin-verasight-poll-main-release,-6,NA,-3.7838756654177885,6.843758933102643e-6
-Ipsos,Reuters,2026-03-17,2026-03-19,1206,RV,40,37,https://www.ipsos.com/en-us/americans-think-its-likely-us-will-send-troops-iran,-3,NA,-5.159098837234687,1.7113304259270102e-5
-Impact Research/BSP Research,Third Way | UnidosUS,2026-03-10,2026-03-20,1000,LV,45,41,https://www.thirdway.org/memo/president-trumps-immigration-problem,-4,NA,-5.113413835727357,1.3634244635353353e-5
-Morning Consult,NA,2026-03-16,2026-03-22,12505,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,2.198896958719963e-5
-Morning Consult,Gambling Is Not Investing,2026-03-17,2026-03-22,15029,A,47,42,https://www.gamblingisnotinvesting.com/morning-consult-poll-reveals-americans-concerns-with-prediction-markets/,-5,NA,-6.231865820705636,2.198896958719963e-5
-Ipsos,Reuters,2026-03-20,2026-03-23,985,RV,40,38,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,-2,NA,-4.159098837234687,2.1023821785212926e-5
-Quinnipiac University,NA,2026-03-19,2026-03-23,1191,RV,51,40,https://poll.qu.edu/poll-release?releaseid=3953,-11,NA,-8.057957324419199,4.9240005894730304e-5
-Yale University Institution for Social and Policy Studies,NA,2026-03-09,2026-03-23,3429,RV,46,44,https://youthpoll.yale.edu/spring-2026-results,-2,NA,-3.2382540942813307,3.1784459070534136e-5
-YouGov,The Economist,2026-03-20,2026-03-23,1502,RV,45,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,-3,NA,-3.4350793679194496,1.9532308089528307e-5
-Harris Insights & Analytics,Harvard CAPS,2026-03-25,2026-03-26,NA,LV,52,48,https://harvardharrispoll.com/key-results-march-2026/,-4,NA,-6.587205598670366,3.907895980909523e-5
-Quantus Insights,NA,2026-03-25,2026-03-26,1472,LV,47,41.3,https://quantusinsights.org/f/new-quantus-survey-a-sour-national-mood-and-a-midterm-warning,-5.700000000000003,NA,-6.847511194816896,1.172465264051138e-5
-Morning Consult,NA,2026-03-23,2026-03-29,26725,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,3.9782360789698125e-5
-SSRS,CNN,2026-03-26,2026-03-30,951,RV,48,42,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,-6,NA,-6.288201444590733,5.045835800951908e-5
-YouGov,The Economist,2026-03-27,2026-03-30,1505,RV,45,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,-6,NA,-6.43507936791945,3.437642665270555e-5
-University of Massachusetts Lowell,NA,2026-03-26,2026-03-30,1000,A,38,35,https://www.uml.edu/news/press-releases/2026/2026-nat-poll-march.aspx,-3,NA,-4.42244597532099,1.4060081087891054e-4
-Cygnal,NA,2026-04-02,2026-04-03,1500,LV,48.8,43.3,https://www.cygn.al/polls/april-2026-national-voter-trends-nvt-poll/,-5.5,NA,-6.205357683947305,1.306054912699621e-4
-YouGov,The Economist,2026-04-03,2026-04-06,1560,RV,44,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,-2,NA,-2.4350793679194496,6.352788174573752e-5
-Change Research,NA,2026-04-03,2026-04-07,2702,RV,47,42,https://portal.changeresearch.com/portal/projects/25b5e88c-5e8c-4f1b-9d0e-340163792181,-5,NA,-5.659119049676875,1.6647431344983781e-4
-Echelon Insights,NetChoice,2026-04-03,2026-04-09,2880,LV,50,45,https://netchoice.org/new-72-of-americans-want-regulators-to-focus-on-lowering-prices-ahead-of-midterms-not-punishing-success/,-5,NA,-5.516299290850569,2.4086299846668238e-4
-Tavern Research,NA,2026-04-06,2026-04-09,502,LV,44,43,https://www.tavernresearch.com/research-and-writings/cutting-room-floor-april-10-2026,-1,NA,-3.9047702502972186,5.510210093018695e-5
-Morning Consult,NA,2026-04-06,2026-04-09,2200,RV,46,42,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,-4,NA,-5.947219964151067,7.019987538151383e-5
-RMG Research,Napolitan News Service,2026-04-06,2026-04-09,2000,RV,45,42,https://napolitannews.org/posts/generic-ballot-dem-45-percent-gop-42-dems-also-more-enthusiastic,-3,NA,-6.182601446744194,2.0142919212253884e-4
-Survey 160,NA,2026-04-08,2026-04-13,1539,RV,47,37,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-april-2026,-10,NA,-6.169127568793307,1.0672112435148947e-4
-YouGov,The Economist,2026-04-10,2026-04-13,1573,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,-5,NA,-5.43507936791945,1.1274937207054897e-4
-Verasight,Strength In Numbers,2026-04-10,2026-04-14,1386,RV,50,43,https://www.gelliottmorris.com/p/2026-04-21-april-strength-in-numbers-verasight-poll,-7,NA,-4.7838756654177885,6.313721240300728e-5
-McLaughlin & Associates,NA,2026-04-08,2026-04-15,1000,LV,47,43,https://mclaughlinonline.com/2026/04/17/national-monthly-april-2026/,-4,NA,-8.294160235942478,5.0149632307028064e-5
-GBAO,Third Way,2026-04-08,2026-04-15,2000,RV,48,40,https://www.thirdway.org/memo/the-cost-of-misplaced-priorities-trumps-coalition-frays,-8,NA,-6.609867674416428,5.409470253575898e-4
-Marquette University Law School,NA,2026-04-08,2026-04-16,576,LV,53,43,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,-10,NA,-9.63561172588701,3.0283756388842134e-4
-John Zogby Strategies,NA,2026-04-17,2026-04-18,1001,LV,48.3,44.4,https://x.com/zogbystrategies/status/2047123700990767164,-3.8999999999999986,NA,-5.515083792571744,3.064568215961264e-4
-KFF,NA,2026-04-14,2026-04-19,1107,RV,43,34,https://www.kff.org/public-opinion/kff-health-tracking-poll-health-care-costs-and-the-midterms/,-9,NA,-8.177226920874304,1.4345143353824126e-4
-Hart Research Associates/Public Opinion Strategies,CNBC,2026-04-15,2026-04-19,1000,A,49,45,https://www.cnbc.com/2026/04/23/trumps-approval-rating-on-economy-and-overall-falls-to-lowest-of-his-two-terms-cnbc-survey-shows.html,-4,NA,-3.0212287427658353,4.818173770071199e-4
-Echelon Insights,NA,2026-04-17,2026-04-20,1012,LV,50,44,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus,-6,NA,-7.321269426544568,3.3214733144090665e-4
-Beacon Research/Shaw & Co. Research,FOX News,2026-04-17,2026-04-20,1001,RV,52,47,https://www.foxnews.com/politics/fox-news-poll-economic-gloom-trump-ratings-signal-tough-gop-midterm-path,-5,NA,-3.752585225490485,7.359233189658414e-4
-Ipsos,Reuters,2026-04-15,2026-04-20,3577,RV,41,38,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,-3,NA,-5.159098837234687,3.8418584634401527e-4
-Morning Consult,NA,2026-04-17,2026-04-20,2203,RV,45,42,https://drive.google.com/file/d/16-z92A-iefFFRxX8Un1CsEheV3rAzTv8/view,-3,NA,-4.947219964151067,1.7009046527184679e-4
-YouGov,The Economist,2026-04-17,2026-04-20,1553,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_I24AWdp.pdf,-5,NA,-5.43507936791945,1.9844969850303282e-4
-Leger,338Canada | Maintenant Media,2026-04-17,2026-04-20,1004,A,41,33,https://leger360.com/en/us-politics-and-public-sentiment-trends-from-the-april-2026-survey-of-americans/,-8,NA,-6.565001289428544,6.176826356770732e-4
-Quantus Insights,NA,2026-04-21,2026-04-23,1452,LV,46.5,42.3,https://quantusinsights.org/f/quantus-survey-a-divided-electorate-a-narrow-democratic-edge,-4.200000000000003,NA,-5.861507811855276,1.2893983089878435e-4
-The Argument/Verasight,NA,2026-04-20,2026-04-23,1516,RV,53,47,https://substack.com/inbox/post/195808638,-6,NA,-5.963591901895818,1.6136116409177156e-4
-Clarity Campaign Labs,NA,2026-04-15,2026-04-24,1000,LV,50,45,https://www.claritycampaigns.com/clarity-omnibus-2026-april,-5,NA,-4.6145101327205325,5.59355734342695e-4
-Emerson College,NA,2026-04-24,2026-04-26,1000,LV,50.3,40.2,https://emersoncollegepolling.com/april-2026-national-poll/,-10.099999999999994,NA,-8.008777018969774,6.867647662240768e-4
-Harris Insights & Analytics,Harvard CAPS,2026-04-23,2026-04-26,NA,LV,50,50,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf,0,NA,-2.5872055986703657,4.717711021764748e-4
-Morning Consult,NA,2026-04-20,2026-04-26,28235,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,4.241817731272916e-4
-Ipsos,Reuters,2026-04-24,2026-04-27,1014,RV,41,37,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,-4,NA,-6.159098837234687,3.5005332073660645e-4
-Morning Consult,NA,2026-04-24,2026-04-27,2201,RV,45,42,https://drive.google.com/file/d/1EfsROZrVDVFJ0h5GyYAl49RJFkg_VzXW/view,-3,NA,-4.947219964151067,3.0388576417847115e-4
-Public Opinion Strategies,CoinDesk,2026-04-21,2026-04-27,1000,RV,44,41,https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows,-3,NA,-5.122615813893638,0.001294319093813906
-YouGov,The Economist,2026-04-24,2026-04-27,1647,RV,46,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,-5,NA,-5.43507936791945,3.629419683179612e-4
-Ipsos,ABC News | The Washington Post,2026-04-24,2026-04-28,2059,RV,49,44,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,-5,NA,-7.159098837234687,5.386128755677821e-4
-Marist College,NPR | PBS,2026-04-27,2026-04-30,1155,RV,52,42,https://maristpoll.marist.edu/polls/president-trump-while-at-war-may-2026/,-10,NA,-4.9816656737048675,0.001645654326560128
-Morning Consult,NA,2026-04-30,2026-05-03,2200,RV,46,43,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,-3,NA,-4.947219964151067,4.815170556708804e-4
-SSRS,CNN,2026-04-30,2026-05-04,NA,RV,45,42,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,-3,NA,-3.288201444590733,0.0012877407724066503
-YouGov,The Economist,2026-05-01,2026-05-04,1409,RV,44,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,-3,NA,-3.4350793679194496,5.97943671274798e-4
-Harris Insights & Analytics,Forbes,2026-04-29,2026-05-05,1891,LV,48,42,https://www.harrisx.com/posts/forbes-and-harrisx-partner-on-new-american-confidence-survey-as-gallup-ends-approval-polling,-6,NA,-8.587205598670366,0.0010796255972844583
-Focaldata,Financial Times,2026-05-01,2026-05-05,3167,RV,49,42,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,-7,NA,-6.835513178187924,0.002001174581155866
-Cygnal,NA,2026-05-05,2026-05-06,1500,LV,48.5,42.4,https://www.cygn.al/wp-content/uploads/2026/05/23838-Cygnal-National-May26-NVT-Deck-Public.pdf,-6.100000000000001,NA,-6.805357683947307,0.0018985883227109438
-RMG Research,Napolitan News Service,2026-05-04,2026-05-06,2000,RV,50,41,https://napolitannews.org/posts/generic-ballot-dem-50-percent-gop-41-dems-also-more-enthusiastic,-9,NA,-12.182601446744194,0.001959602750801932
-Cygnal,Conservative Energy Network,2026-05-04,2026-05-07,1500,LV,48,41,https://conservativeenergynetwork.org/new-national-poll-americans-demand-action-on-rising-energy-costs-support-modernizing-the-grid-and-expanding-domestic-energy-production/,-7,REP,-7.515087644000609,0.0016400388114789623
-AtlasIntel,NA,2026-05-04,2026-05-07,2069,A,54.6,40.1,https://www.atlasintel.org/poll/usa-national-2026-05-11,-14.5,NA,-8.200184075148371,0.004011804835689229
-Change Research,NA,2026-05-05,2026-05-10,2244,RV,45,42,https://portal.changeresearch.com/portal/projects/07dc6ff6-bb96-4bc5-a138-90b0ab3b22db,-3,NA,-3.6591190496768746,0.0027010398043538653
-Ipsos,Reuters,2026-05-08,2026-05-11,993,RV,41,35,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,-6,NA,-8.159098837234687,0.0010845572673394658
-YouGov,The Economist,2026-05-09,2026-05-11,1410,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,-5,NA,-5.43507936791945,0.001069158140912464
-The New York Times/Siena College,NA,2026-05-11,2026-05-15,1507,RV,50,39,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,-11,NA,-9.267354132537115,0.006563196730722709
-YouGov,CBS News,2026-05-13,2026-05-15,1397,RV,45,40,https://www.cbsnews.com/news/redistricting-elections-opinion-poll-19-may-2026/,-5,NA,-5.43507936791945,0.001517260912777904
-Morning Consult,NA,2026-05-11,2026-05-17,28525,RV,46,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-4,NA,-5.947219964151067,0.002492891359170895
-Morning Consult,NA,2026-05-15,2026-05-17,2203,RV,47,41,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,-6,NA,-7.947219964151067,0.0016547241247391964
-Data For Progress,NA,2026-05-15,2026-05-18,1149,LV,51,43,https://www.dataforprogress.org/blog/2026/5/21/democrats-lead-the-generic-ballot-by-8-points-as-midterms-approach,-8,NA,-7.2990625233911,0.001353498451257926
-Echelon Insights,NA,2026-05-14,2026-05-18,1008,LV,51,43,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus,-8,NA,-9.321269426544568,0.0036705275278701823
-McLaughlin & Associates,NA,2026-05-12,2026-05-18,1000,LV,46,42,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf,-4,NA,-8.294160235942478,7.290161030791902e-4
-Impact Research/National Research,The Wall Street Journal,2026-05-07,2026-05-18,1500,RV,48,40,https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9,-8,NA,-7.489421094286861,0.0015464766902444592
-Ipsos,Reuters,2026-05-15,2026-05-18,984,RV,39,38,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,-1,NA,-3.159098837234687,0.0021861137957922055
-McLaughlin & Associates,America's New Majority Project | Gingrich 360,2026-05-14,2026-05-18,2000,RV,39,36,https://www.americasnewmajorityproject.net/p/democrat-lawmakers-are-taking-positions,-3,REP,-6.913113032216749,8.247875681303785e-4
-Quinnipiac University,NA,2026-05-14,2026-05-18,1106,RV,50,39,https://poll.qu.edu/poll-release?releaseid=3959,-11,NA,-8.057957324419199,0.004275157067807943
-The Rainey Center,NA,2026-05-17,2026-05-18,1010,RV,45,43,https://www.raineycenter.org/polling/data-centers-voters-are-persuadable-but-they-want-accountability-and-clean-energy,-2,NA,-5.723784930882012,0.001268990689486242
-YouGov,The Economist,2026-05-15,2026-05-18,1380,RV,46,43,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,-3,NA,-3.4350793679194496,0.0018984606943121378
-Verasight,Strength In Numbers,2026-05-18,2026-05-19,1413,RV,51,43,https://www.gelliottmorris.com/p/2026-05-26-may-strength-in-numbers-verasight-poll,-8,NA,-5.7838756654177885,0.0011460067225706463
-Verasight/Morris Predictive Insights,UNITE HERE,2026-05-18,2026-05-20,2000,A,52,41,https://morrispredictive.com/assets/surveys/tyg730HYHsJ/topline.pdf,-11,NA,-7.951344563988279,0.0020819937109994224
-John Zogby Strategies,NA,2026-05-21,2026-05-22,NA,LV,49,42,https://johnzogbystrategies.com/the-latest-zogby-political-poll-trump-economic-concerns-war-trends-05-22-26/,-7,NA,-8.615083792571745,0.007059996928503995
-Morning Consult,NA,2026-05-18,2026-05-24,24849,RV,46,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-4,NA,-5.947219964151067,0.0045607121135457715
-Emerson College,NA,2026-05-24,2026-05-25,1000,LV,49.8,41.3,https://emersoncollegepolling.com/may-2026-national-poll/,-8.5,NA,-7.271816613719018,0.007789692286236395
-Marquette University Law School,NA,2026-05-20,2026-05-26,576,LV,49,48,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,-1,NA,-0.63561172588701,0.007990771404635114
-YouGov,The Economist,2026-05-22,2026-05-26,1397,RV,46,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aWdgoE7.pdf,-5,NA,-5.43507936791945,0.0039462259031319
-YouGov,Pennsylvania State University McCourtney Institute for Democracy,2026-05-19,2026-05-26,826,RV,41,37,https://democracy.psu.edu/poll-report-archive/fewer-than-four-in-ten-americans-think-president-trump-is-doing-a-good-job/,-4,NA,-4.43507936791945,0.0030344065250012863
-TIPP Insights,Issues & Insights,2026-05-26,2026-05-28,1332,RV,46,41,https://issuesinsights.com/2026/06/15/does-either-party-have-an-edge-in-2026-midterms-and-2028-presidential-election-ii-tipp-poll/,-5,NA,-7.041150443020861,0.01693719012757413
-Harris Insights & Analytics,Harvard CAPS,2026-05-29,2026-05-31,NA,LV,52,48,https://harvardharrispoll.com/wp-content/uploads/2026/06/HHP_May2026_KeyResults.pdf,-4,NA,-6.587205598670366,0.009792937879875898
-Morning Consult,NA,2026-05-25,2026-05-31,NA,RV,45,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.947219964151067,0.0041848983823325235
-Focaldata,Financial Times,2026-05-29,2026-06-01,1537,RV,48,43,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,-5,NA,-4.835513178187924,0.015660761574687734
-YouGov,The Economist,2026-05-29,2026-06-01,1453,RV,46,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_AvLU7vY.pdf,-4,NA,-4.43507936791945,0.006818871723069183
-Quantus Insights,NA,2026-06-01,2026-06-02,1050,LV,47,42.3,https://quantusinsights.org/f/quantus-insights-trump-underwater-democrats-hold-edge,-4.700000000000003,NA,-6.361507811855276,0.002893192965763448
-The Bullfinch Group,NA,2026-05-29,2026-06-02,1000,RV,42,36,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-q2-nationwide-survey-4,-6,NA,-3.9359593483501314,0.0028234672263427324
-Cygnal,NA,2026-06-02,2026-06-03,1500,LV,49,44,https://www.cygn.al/news/poll-independents-arent-who-you-think-they-are-the-left-americas-250-and-who-trump-has-lost-since-the-inauguration/,-5,NA,-5.705357683947305,0.02820491310738271
-The Argument/Verasight,NA,2026-05-29,2026-06-03,3008,RV,53,47,https://www.theargumentmag.com/p/the-biggest-issue-in-american-politics,-6,NA,-5.963591901895818,0.007477733756588276
-OH Predictive Insights,Center Square,2026-06-01,2026-06-04,2585,RV,47,41,https://www.thecentersquare.com/national/article_068f34af-cac1-4328-b582-915d04044322.html,-6,NA,-6.76066431261625,0.034879807353134236
-RMG Research,Napolitan News Service,2026-06-01,2026-06-04,2000,RV,49,45,https://napolitannews.org/posts/generic-ballot-dem-49-percent-gop-45-dems-more-enthusiastic,-4,NA,-7.182601446744194,0.025665498556880436
-Clarity Campaign Labs,NA,2026-05-28,2026-06-05,1045,LV,48,45,https://www.claritycampaigns.com/clarity-omnibus-2026-may,-3,NA,-2.6145101327205325,0.02031239988288763
-Research Co.,NA,2026-06-04,2026-06-06,1001,A,38,33,https://researchco.ca/2026/06/15/uspoli-june2026/,-5,NA,-4.8764777950094,0.022399354664660892
-Harris Insights & Analytics,Forbes,2026-05-20,2026-06-07,1137,LV,46,45,https://www.harrisx.com/content/forbes-harrisx-american-confidence-tracker-june-2026,-1,NA,-4.593052733567674,0.014904679394525978
-Hart Research Associates/Public Opinion Strategies,NBC News | More Perfect,2026-05-29,2026-06-07,2400,RV,49,44,https://www.nbcnews.com/politics/2026-election/poll-democrats-maintain-edge-fight-congress-trump-gets-poor-marks-rcna348913,-5,NA,-5.167435275576452,0.04537706592500712
-Morning Consult,NA,2026-06-01,2026-06-07,24849,RV,46,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-4,NA,-5.947219964151067,0.015803866178780334
-Emerson College,NA,2026-06-07,2026-06-08,1200,LV,50.3,39.5,https://emersoncollegepolling.com/june-2026/,-10.799999999999997,NA,-8.853922359856938,0.024990652287284164
-Ipsos,Reuters,2026-06-03,2026-06-08,3578,RV,41,37,https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/,-4,NA,-6.159098837234687,0.026972410372491686
-YouGov,The Economist,2026-06-05,2026-06-08,1438,RV,45,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,-4,NA,-4.43507936791945,0.012539086102619964
-The Public Sentiment Institute,NA,2026-06-12,2026-06-13,1042,LV,49.8,40.9,https://tpsiofficial.substack.com/p/tpsi-junes-national-benchmark-poll,-8.899999999999999,NA,-6.177361392673959,0.00948196340747419
-Echelon Insights,NA,2026-06-11,2026-06-14,1012,LV,50,44,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,-6,NA,-7.321269426544568,0.03577948665289035
-Morning Consult,NA,2026-06-08,2026-06-14,24000,RV,45.8,41.9,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-Midterm-Ballot_260622.html,-3.8999999999999986,NA,-5.847219964151066,0.030237903967003186
-Marquette University Law School,NA,2026-06-09,2026-06-15,827,LV,53,45,https://law.marquette.edu/poll/2026/06/24/detailed-results-of-the-marquette-law-school-supreme-court-poll-july-9-15-2026/,-8,NA,-7.63561172588701,0.054783871118939446
-Ipsos,Reuters,2026-06-12,2026-06-15,1195,RV,41,38,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,-3,NA,-5.159098837234687,0.026675764610050993
-YouGov,The Economist,2026-06-13,2026-06-15,1403,RV,46,44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,-2,NA,-2.4350793679194496,0.025959375465231277
-The Bullfinch Group,The Independent Center,2026-06-12,2026-06-16,1000,RV,44,36,https://independentcentervoice.com/insights/the-local-antidote-how-stepping-away-from-national-screens-unites-americans,-8,NA,-5.403409335481584,0.008268931945826136
-Quantus Insights,NA,2026-06-16,2026-06-17,1000,LV,47,43,https://quantusinsights.org/f/new-survey-trump-approval-lags-as-voters-weigh-2026-midterms,-4,NA,-5.661507811855273,0.012626929300690272
-Morning Consult,NA,2026-06-15,2026-06-21,29540,RV,45.6,42,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-Midterm-Ballot_260622.html,-3.6000000000000014,NA,-5.547219964151068,0.059752266724659074
-Echelon Insights,NA,2026-06-18,2026-06-22,1003,LV,51,45,https://echeloninsights.com/insights/june-2026-america-250-verified-voter-omnibus,-6,NA,-7.321269426544568,0.06582047046097818
-Ipsos,Reuters,2026-06-18,2026-06-22,978,RV,41,36,https://www.ipsos.com/en-us/few-expect-us-iran-preliminary-agreement-bring-lasting-peace,-5,NA,-7.159098837234687,0.04129863376061398
-Quinnipiac University,NA,2026-06-18,2026-06-22,1165,RV,49,42,https://poll.qu.edu/poll-release?releaseid=3961,-7,NA,-4.057957324419199,0.0910791856504758
-Verasight,Strength In Numbers,2026-06-17,2026-06-22,1896,RV,50,43,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,-7,NA,-4.7838756654177885,0.025520171111867995
-YouGov,The Economist,2026-06-19,2026-06-22,1517,RV,45,43,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,-2,NA,-2.4350793679194496,0.053340968454835706
-McLaughlin & Associates,NA,2026-06-17,2026-06-23,1000,LV,46,43,https://mclaughlinonline.com/2026/06/25/national-monthly-june-2026/,-3,NA,-7.294160235942478,0.020012334290351777
+Cygnal,NA,2024-12-09,2024-12-11,1500,LV,44.6,48.4,https://www.cygn.al/poll-musk-most-effective-trump-surrogate-as-voters-rally-behind-doge-deportations-and-congressional-republicans/,3.799999999999997,NA,3.118316821369767,6.257037208981607e-21
+McLaughlin & Associates,NA,2024-12-11,2024-12-16,1000,LV,42,47,https://mclaughlinonline.com/2024/12/18/ma-poll-national-monthly-december-2024/,5,NA,0.7425485412128481,1.3939306103240966e-21
+Cygnal,NA,2025-01-09,2025-01-12,1500,LV,44.6,46.8,https://www.cygn.al/voters-back-kingmaker-trumps-policies-on-economy-energy-and-health/,2.1999999999999957,NA,1.5183168213697655,7.459126662010345e-20
+RMG Research,Napolitan Institute,2025-01-15,2025-01-16,1000,RV,44,51,https://napolitannews.org/posts/generic-ballot-gop-51-percent-dem-44,7,NA,3.8057621514680022,6.692716369978407e-20
+Quantus Insights,TrendingPolitics,2025-01-22,2025-01-23,1000,RV,45,48,https://quantusinsights.org/f/trump%E2%80%99s-second-term-begins-what-voters-think,3,REP,1.6934005484657533,2.2028949245972e-20
+Morning Consult,NA,2025-01-20,2025-01-26,33299,RV,42,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,3,NA,1.0670137606291306,1.1281559356210847e-19
+McLaughlin & Associates,NA,2025-01-22,2025-01-27,1000,LV,40,48,https://mclaughlinonline.com/pols/wp-content/uploads/2025/01/National-January-Presentation-RELEASE-01-28-25.pdf,8,NA,3.742548541212848,3.576702827471805e-20
+"Fabrizio, Lee & Associates/Impact Research",AARP,2025-01-27,2025-02-01,3000,RV,43,43,https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/federal-tax-package-legislative-priorities.doi.10.26419-2fres.00921.001.pdf,0,NA,1.2030091782006025,2.5177548585336225e-19
+Morning Consult,NA,2025-01-27,2025-02-02,29303,RV,43,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,1,NA,-0.9329862393708694,1.9306451841364665e-19
+Cygnal,NA,2025-02-04,2025-02-05,1500,LV,46.2,47.2,https://www.cygn.al/poll-trump-winning-over-black-men-dei-skeptics-and-border-hawks-as-democrats-lose-ground/,1,NA,0.3183168213697698,4.81714450974683e-19
+Clarity Campaign Labs,NA,2025-01-31,2025-02-06,1102,RV,45,44,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67aa57a7976e415c4d212706/1739216809584/Clarity+Omnibus+Overview+-+Jan_Feb+2025.pdf,-1,NA,-0.4201973433919264,4.2942500437840286e-19
+Morning Consult,NA,2025-02-03,2025-02-09,26690,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,3.303967748906375e-19
+Quantus Insights,TrendingPolitics,2025-02-10,2025-02-12,1000,RV,44,48,https://quantusinsights.org/f/quantus-insights-latest-national-survey---february-13-2025,4,REP,2.6934005484657533,1.0477437974504482e-19
+Echelon Insights,NA,2025-02-10,2025-02-13,1010,LV,46,47,https://echeloninsights.com/in-the-news/feb-2025-verified-voter-omnibus-2-2/,1,NA,-0.30288346933618726,6.324558295015497e-19
+Morning Consult,NA,2025-02-10,2025-02-16,27303,RV,42,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,3,NA,1.0670137606291306,5.684491026384341e-19
+McLaughlin & Associates,U.S. Chamber of Commerce,2025-02-13,2025-02-17,1600,LV,43,47,https://www.uschamber.com/assets/documents/USCC_National-Tax-Survey_Deck_Feb-2025.pdf,4,REP,-0.07511575632903345,1.8547501460224336e-19
+co/efficient,NA,2025-02-15,2025-02-17,2063,LV,44,46,https://coefficient.org/doge-part-2/,2,REP,1.0358079083551601,2.5942983958779052e-18
+McLaughlin & Associates,NA,2025-02-11,2025-02-18,1000,LV,41,48,https://mclaughlinonline.com/pols/wp-content/uploads/2025/02/National-February-Presentation-RELEASE-02-18-25.pdf,7,NA,2.742548541212848,1.9791046944823855e-19
+Change Research,NA,2025-02-05,2025-02-18,1741,RV,43,40,https://portal.changeresearch.com/portal/projects/9c8a3c8a-70c6-47f8-80bf-596426bc3318,-3,NA,-3.683124847603608,1.30153637164508e-18
+YouGov,The Economist,2025-02-16,2025-02-18,1451,RV,42,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_OFVhPxp.pdf,-1,NA,-1.4708795939583865,5.430836591788657e-19
+RMG Research,Napolitan Institute,2025-02-20,2025-02-21,1000,RV,46,48,https://x.com/ScottWRasmussen/status/1894720317291114920,2,NA,-0.6303003597517147,1.0933693361813226e-18
+Morning Consult,NA,2025-02-17,2025-02-23,27621,RV,42,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,3,NA,1.0670137606291306,9.780757226368934e-19
+Morning Consult,NA,2025-02-24,2025-03-02,28087,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,1.6829802907614187e-18
+Public Opinion Strategies,Paragon Health Institute,2025-02-25,2025-03-02,1000,RV,44,46,https://paragoninstitute.org/medicaid/paragon-health-policy-survey-2025/,2,NA,1.0017057060908314,7.59113810595438e-18
+Emerson College,NA,2025-03-02,2025-03-03,1000,RV,44.4,41.4,https://emersoncollegepolling.com/march-2025-national-poll/,-3,NA,-1.41072982310574,3.521481311749252e-18
+Cygnal,NA,2025-03-03,2025-03-05,1500,LV,47.4,45.9,https://www.cygn.al/poll-48-percent-support-trump-negotiating-settlement-to-war-in-ukraine-as-optimism-at-home-rises/,-1.5,NA,-2.18168317863023,4.233676380867936e-18
+McLaughlin & Associates,America's New Majority Project,2025-03-04,2025-03-07,1655,LV,45.1,47.8,https://americasnewmajorityproject.com/most-americans-support-trumps-maha-agenda/,2.6999999999999957,REP,-1.3751157563290377,7.876273061949813e-19
+Clarity Campaign Labs,NA,2025-03-03,2025-03-09,1036,RV,46,44,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/67d0921f11ba8d57a17670a9/1741722147070/Clarity+Omnibus+Overview+-+March+2025+PUBLIC.pdf,-2,NA,-1.4201973433919264,4.6957397909847836e-18
+Morning Consult,NA,2025-03-03,2025-03-09,27685,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,2.896088337931997e-18
+Hart Research Associates/Public Opinion Strategies,NBC News,2025-03-07,2025-03-11,1000,RV,48,47,https://www.nbcnews.com/politics/politics-news/democratic-party-hits-new-polling-low-voters-want-fight-trump-harder-rcna196161,-1,NA,-1.1666220733985426,7.148907708153683e-18
+Echelon Insights,NA,2025-03-10,2025-03-13,1007,LV,46,47,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/,1,NA,-0.30288346933618726,5.5502459830971096e-18
+Morning Consult,NA,2025-03-10,2025-03-16,26877,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,4.9839237520302264e-18
+"Normington, Petts & Associates",Third Way,2025-03-12,2025-03-19,800,LV,50,50,https://www.thirdway.org/polling/democrats-immigration-opportunity,0,NA,-0.9459717191268879,1.2506292215736707e-17
+Morning Consult,NA,2025-03-17,2025-03-23,27364,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,8.57745385083469e-18
+Quantus Insights,TrendingPolitics,2025-03-25,2025-03-27,1000,RV,45.4,46.3,https://quantusinsights.org/f/trump%E2%80%99s-standing-steadies-but-crosscurrents-remain-ahead-of-2026,0.8999999999999986,REP,-0.40659945153424815,2.9155911897367004e-18
+Morning Consult,NA,2025-03-24,2025-03-30,27397,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,1.4762959665612985e-17
+"Fabrizio, Lee & Associates/Impact Research",The Wall Street Journal,2025-03-27,2025-04-01,1500,RV,44,43,https://www.wsj.com/politics/policy/trump-foreign-policy-approval-voters-poll-c0c29dd0,-1,NA,-0.4713270919961374,2.0193460120821465e-17
+Cygnal,NA,2025-04-01,2025-04-03,1500,LV,47.5,46.5,https://www.cygn.al/poll-democrats-continue-to-struggle-as-trump-maintains-strong-approval-even-in-light-of-tariffs/,-1,NA,-1.6816831786302302,4.022745167744868e-17
+Yale University Institution for Social and Policy Studies,NA,2025-04-01,2025-04-03,4100,RV,43.3,41.7,https://youthpoll.yale.edu/spring-2025-results,-1.5999999999999943,NA,-3.72943961342407,3.178176975341948e-17
+Morning Consult,NA,2025-03-31,2025-04-06,25977,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,2.541073149637806e-17
+YouGov,The Economist,2025-04-05,2025-04-08,1558,RV,43,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_Emo4hnf.pdf,-1,NA,-1.4708795939583865,2.4358204436381405e-17
+The Winston Group,Winning the Issues,2025-04-08,2025-04-10,1000,RV,46,44,https://www.winningtheissues.org/2025/04/30/winning-the-issues-april-2025-national-survey/,-2,REP,-1.4589180662355616,6.246599076978837e-17
+RealClear Opinion Research,NA,2025-04-10,2025-04-12,1000,RV,39.8,39.2,https://www.realclearpolitics.com/articles/2025/04/18/rcp_poll_voters_see_campus_bias_reject_trumps_tariff_pitch_152678.html,-0.5999999999999943,NA,-1.3756154447160966,5.42433840822116e-17
+Morning Consult,NA,2025-04-07,2025-04-13,26749,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,4.374115668980177e-17
+Hart Research Associates/Public Opinion Strategies,CNBC,2025-04-09,2025-04-13,1000,A,48,46,https://www.cnbc.com/video/2025/04/17/tariffs-weight-on-trump-approval-cnbc-survey-finds.html,-2,NA,-1.0094551387887591,9.545879582639253e-17
+Echelon Insights,NA,2025-04-10,2025-04-14,1014,LV,47,47,https://echeloninsights.com/in-the-news/april-2025-verified-voter-omnibus-2-2-2-2/,0,NA,-1.3028834693361873,6.662256319117056e-17
+Clarity Campaign Labs,NA,2025-04-09,2025-04-14,1008,RV,44,45,https://45840940.fs1.hubspotusercontent-na1.net/hubfs/45840940/Clarity%20Omnibus%20Overview_April%202025.pdf,1,NA,1.5798026566080736,7.699291345859721e-17
+RMG Research,Napolitan Institute,2025-04-16,2025-04-16,1000,RV,50,45,https://napolitannews.org/posts/democrats-make-huge-gains-on-generic-ballot,-5,NA,-8.194237848531998,7.124940659180322e-17
+OH Predictive Insights,The Center Square,2025-04-15,2025-04-18,2527,RV,45,42,https://www.thecentersquare.com/polls/,-3,NA,-3.802223046823208,3.125104186482274e-16
+McLaughlin & Associates,America's New Majority Project,2025-04-16,2025-04-19,1638,LV,45.7,47.1,https://americasnewmajorityproject.com/most-support-blocking-states-from-giving-medicaid-to-illegal-immigrants/,1.3999999999999986,REP,-2.675115756329035,2.1804706466060936e-17
+Morning Consult,NA,2025-04-14,2025-04-20,26905,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,7.52997295693532e-17
+Beacon Research/Shaw & Co. Research,Fox News,2025-04-18,2025-04-21,1104,RV,49,42,https://www.foxnews.com/official-polls/fox-news-poll-democrats-favorability-hits-new-low-still-favored-over-gop-2026-midterms,-7,NA,-5.7982445861761605,3.3665498847591294e-16
+The New York Times/Siena College,NA,2025-04-21,2025-04-24,913,RV,47,44,https://www.nytimes.com/2025/04/25/us/politics/trump-poll-approval.html,-3,NA,-2.678537706393385,3.441310952345397e-16
+Morning Consult,NA,2025-04-21,2025-04-27,25544,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,1.2963651476683306e-16
+NewsNation,NA,2025-04-23,2025-04-27,1448,RV,45,40,https://www.newsnationnow.com/politics/recession-inflation-immigration-ddhq-poll/,-5,NA,-5.89434630336212,4.3844701347194103e-16
+McLaughlin & Associates,NA,2025-04-22,2025-04-29,1000,LV,43,45,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-April-Presentation-RELEASE-04-29-25.pdf,2,NA,-2.257451458787152,4.588139798953416e-17
+Morning Consult,NA,2025-04-28,2025-05-04,25876,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,2.231992854864313e-16
+Verasight,Strength In Numbers,2025-05-01,2025-05-06,813,RV,49,43,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-6,NA,-3.7836021999504865,8.558947701553664e-17
+Quantus Insights,TrendingPolitics,2025-05-05,2025-05-07,1000,RV,45.2,44.8,https://quantusinsights.org/f/the-nation-divided-the-president-holding-ground,-0.4000000000000057,REP,-0.9045268400404112,6.968412382650872e-17
+Cygnal,NA,2025-05-06,2025-05-08,1500,LV,47.1,46.6,https://www.cygn.al/poll-aoc-more-popular-than-schumer-trump-image-improving-republicans-decimating-democrats-on-key-issue-trust-and-more/,-0.5,NA,-1.1816831786302302,6.066381749389514e-16
+co/efficient,NA,2025-05-07,2025-05-09,1462,LV,45,42,https://coefficient.org/national-approval-study/,-3,REP,-3.96419209164484,1.3405704095552924e-15
+Morning Consult,NA,2025-05-05,2025-05-11,27882,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,3.8431784462902893e-16
+Echelon Insights,NA,2025-05-08,2025-05-12,1000,LV,47,48,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/,1,NA,-0.30288346933618726,5.830103184061509e-16
+Morning Consult,NA,2025-05-12,2025-05-18,28103,RV,43,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,1,NA,-0.9329862393708694,6.617918269183671e-16
+Fabrizio Ward,Pinpoint Policy Institute,2025-05-15,2025-05-19,800,RV,42,42,https://pinpointpolicyinstitute.org/pinpoint-policy-institute-quarterly-economic-tracking-poll/,0,NA,1.1003610540557247,5.870973296409676e-16
+YouGov,The Economist,2025-05-16,2025-05-19,1558,RV,43,42,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-1,NA,-1.4708795939583865,5.706226570262814e-16
+RMG Research,Napolitan Institute,2025-05-20,2025-05-21,1000,RV,48,45,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-43,-3,NA,-6.194237848531998,1.082504050294483e-15
+Morning Consult,NA,2025-05-19,2025-05-25,28855,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,1.139688537991164e-15
+McLaughlin & Associates,NA,2025-05-21,2025-05-26,1000,LV,43,47,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-May-Presentation-RELEASE-05-27-25.pdf,4,NA,-0.2574514587871519,3.85291104288529e-16
+YouGov,The Economist,2025-05-23,2025-05-26,1486,RV,43,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-2,NA,-2.4708795939583865,9.536917440773759e-16
+AtlasIntel,NA,2025-05-21,2025-05-27,3469,A,50.9,41.7,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf,-9.199999999999996,NA,-2.9421242005262584,7.880945969477995e-15
+Morning Consult,NA,2025-05-26,2025-06-01,29002,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,1.962843879818227e-15
+YouGov,The Economist,2025-05-30,2025-06-02,1436,RV,44,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_uOptfZ9.pdf,-2,NA,-2.4708795939583865,1.6043871377684716e-15
+Cygnal,NA,2025-06-03,2025-06-04,1500,LV,47.2,46.9,https://www.cygn.al/national-poll-record-number-say-nation-is-on-right-track-voters-back-trumps-one-big-beautiful-bill-for-tax-relief-and-border-security/,-0.30000000000000426,NA,-0.9816831786302345,4.958399650406327e-15
+Quantus Insights,TrendingPolitics,2025-06-01,2025-06-04,1000,RV,46,45,https://quantusinsights.org/f/quantus-insights-approval-poll-the-divide-holds,-1,REP,-1.5045268400404055,6.150054565437181e-16
+J.L. Partners,Daily Mail,2025-06-06,2025-06-06,1006,RV,42,35,https://www.dailymail.co.uk/news/article-14796175/polling-donald-trump-2024-election-elon-musk.html,-7,NA,-5.843224069240719,8.32579870556874e-15
+Morning Consult,NA,2025-06-02,2025-06-08,28551,RV,43,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,2,NA,0.06701376062913056,3.38081207042274e-15
+RMG Research,Napolitan Institute,2025-06-09,2025-06-09,1000,RV,35,35,https://napolitannews.org/posts/musk-3rd-party-would-get-8-percent-of-voters,0,NA,-3.1942378485319978,4.8289777572622064e-15
+YouGov,The Economist,2025-06-06,2025-06-09,1397,RV,44,43,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-1,NA,-1.4708795939583865,2.7273673830656263e-15
+McLaughlin & Associates,Club for Growth (PAC),2025-06-09,2025-06-11,1000,LV,44,46,https://www.clubforgrowth.org/icymi-new-cfg-poll-finds-vast-majority-of-republicans-democrats-support-school-freedom-bills/,2,REP,-2.0751157563290334,1.0848676816442319e-15
+Quantus Insights,TrendingPolitics,2025-06-09,2025-06-11,1000,RV,43,43,https://quantus.substack.com/p/quantus-insights-june-12-national,0,REP,-0.5045268400404055,1.0524762449972052e-15
+Verasight,Strength In Numbers,2025-06-06,2025-06-12,1320,RV,50,44,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-6,NA,-3.7836021999504865,1.9425689913789696e-15
+Clarity Campaign Labs,NA,2025-06-05,2025-06-14,1000,RV,50,45,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/6852fc5a3ac4c05449fc450e/1750269023826/Clarity+Omnibus+Overview+-+June+2025+%5BPUBLIC%5D.pdf,-5,NA,-4.420197343391926,8.728358313799971e-15
+The Winston Group,Winning the Issues,2025-06-12,2025-06-14,1000,RV,46,42,https://www.winningtheissues.org/2025/06/30/winning-the-issues-june-2025-national-survey/,-4,REP,-3.4589180662355616,9.903385714536517e-15
+McLaughlin & Associates,NA,2025-06-10,2025-06-15,1000,LV,42,47,https://mclaughlinonline.com/pols/wp-content/uploads/2025/06/National-June-Presentation-RELEASE-6-16-25.pdf,5,NA,0.7425485412128481,1.8434022703758188e-15
+McLaughlin & Associates,America's New Majority Project,2025-06-12,2025-06-15,1637,LV,47.2,46.4,https://americasnewmajorityproject.com/how-to-talk-about-taxes-and-the-budget-bill-what-voters-respond-to-best/,-0.8000000000000043,REP,-4.875115756329038,1.8868372640133727e-15
+Morning Consult,NA,2025-06-09,2025-06-15,28058,RV,44,45,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,1,NA,-0.9329862393708694,5.823618674904787e-15
+co/efficient,NA,2025-06-12,2025-06-16,1035,LV,46,46,https://coefficient.org/one-big-beautiful-bill/,0,REP,-1.4603119567182077,2.947594802469492e-14
+YouGov,The Economist,2025-06-13,2025-06-16,1351,RV,44,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-3,NA,-3.4708795939583865,4.623074816875488e-15
+Echelon Insights,NA,2025-06-12,2025-06-17,982,LV,47,48,https://echeloninsights.com/in-the-news/june-2025-verified-voter-omnibus-2-2-2-2-2-2/,1,NA,-0.30288346933618726,9.422014688369946e-15
+Echelon Insights,NA,2025-06-17,2025-06-18,1002,LV,47,48,https://echeloninsights.com/in-the-news/middle-east-update/,1,NA,-0.30288346933618726,1.0276736641436775e-14
+RMG Research,Napolitan Institute,2025-06-18,2025-06-19,1000,RV,44,52,https://napolitannews.org/posts/generic-ballot-gop-holds-largest-lead-of-the-year,8,NA,4.805762151468002,1.040371719763808e-14
+Cygnal,NA,2025-06-19,2025-06-21,800,LV,48.4,46,https://www.cygn.al/poll-bitcoin-owners-lean-republican-emerging-as-sought-after-voting-bloc-in-2026-elections/,-2.3999999999999986,NA,-3.081683178630229,1.3761698165850986e-14
+Morning Consult,NA,2025-06-16,2025-06-22,28021,RV,44,44,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,1.0032344289011841e-14
+YouGov,The Economist,2025-06-20,2025-06-23,1455,RV,44,40,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-4,NA,-4.4708795939583865,8.270621886236178e-15
+American Pulse Research & Polling,NA,2025-06-23,2025-06-25,633,RV,46.6,42.4,https://www.americanpulse.us/thankyou-pollresults-publicopinion-post-landscape-shaping-events-2,-4.200000000000003,NA,-2.3753991689494924,3.381530565390258e-14
+Emerson College,NA,2025-06-24,2025-06-25,1000,RV,42.5,39.8,https://emersoncollegepolling.com/june-national-poll/,-2.700000000000003,NA,-1.3043901411661025,2.3126315228348284e-14
+Quantus Insights,NA,2025-06-23,2025-06-25,1000,RV,43,42,https://quantusinsights.org/f/quantus-insights-june-26-2025-national-political-survey,-1,NA,-1.686862542498524,3.971489798981186e-15
+Morning Consult,NA,2025-06-23,2025-06-29,27694,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,1.7284249747137558e-14
+YouGov,The Economist,2025-06-27,2025-06-30,1491,RV,44,40,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-4,NA,-4.4708795939583865,1.4434305064578302e-14
+Cygnal,NA,2025-07-01,2025-07-02,1500,LV,47.1,45.7,https://www.cygn.al/poll-karens-freak-out-over-ice-raids-as-hispanic-support-for-deportations-surges/,-1.3999999999999986,NA,-2.081683178630229,4.383684915454113e-14
+Morning Consult,NA,2025-06-30,2025-07-06,27913,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,2.9780932765417e-14
+YouGov,The Economist,2025-07-04,2025-07-07,1389,RV,43,40,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-3,NA,-3.4708795939583865,2.4021877491504423e-14
+Morning Consult,NA,2025-07-07,2025-07-13,28276,RV,45,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,5.131765601203514e-14
+Echelon Insights,NA,2025-07-10,2025-07-14,1084,LV,47,48,https://echeloninsights.com/in-the-news/july-2025-verified-voter-omnibus-2-2-2-2-2-2-2/,1,NA,-0.30288346933618726,8.371080249334703e-14
+McLaughlin & Associates,NA,2025-07-09,2025-07-14,1000,LV,42,47,https://mclaughlinonline.com/2025/07/17/ma-poll-national-monthly-july-2025/,5,NA,0.7425485412128481,1.89397874071336e-14
+YouGov,The Economist,2025-07-11,2025-07-14,1506,RV,43,39,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-4,NA,-4.4708795939583865,4.313372187044068e-14
+Quantus Insights,NA,2025-07-14,2025-07-16,1000,RV,44,42,https://quantusinsights.org/f/quantus-insights-survey-what-julys-numbers-tell-us,-2,NA,-2.686862542498524,2.1278912310530844e-14
+RMG Research,Napolitan Institute,2025-07-14,2025-07-16,2000,RV,45,49,https://napolitannews.org/posts/generic-ballot-july-2025-republicans-46-percent-democrats-42,4,NA,0.8057621514680022,1.2705122879248427e-13
+Verasight,Strength In Numbers,2025-07-14,2025-07-16,1334,RV,49,44,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-5,NA,-2.7836021999504865,2.7726497713315396e-14
+AtlasIntel,NA,2025-07-13,2025-07-18,1935,A,51.3,42.7,https://atlasintel.org/poll/usa-national-2025-07-18,-8.599999999999994,NA,-2.342124200526257,3.5612710120136126e-13
+"Fabrizio, Lee & Associates/Impact Research",The Wall Street Journal,2025-07-16,2025-07-20,1500,RV,46,43,https://www.wsj.com/politics/elections/trump-approval-rating-poll-july-2025-745b0f5f,-3,NA,-2.4713270919961374,1.3255386810394926e-13
+Morning Consult,NA,2025-07-14,2025-07-20,28190,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,8.843765502395628e-14
+YouGov,The Economist,2025-07-18,2025-07-21,1551,RV,44,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-3,NA,-3.4708795939583865,7.549364095014318e-14
+Emerson College,Nexstar,2025-07-21,2025-07-22,1400,RV,44,41.5,https://www.conchovalleyhomepage.com/news/majority-disapprove-of-trumps-handling-of-epstein-files-emerson-college-polling-survey/,-2.5,NA,-1.3425252638796579,2.2702032411519552e-13
+McLaughlin & Associates,America's New Majority Project,2025-07-21,2025-07-24,1633,LV,48,43.9,https://americasnewmajorityproject.com/winning-with-one-big-beautiful-bill/,-4.100000000000001,REP,-8.175115756329035,4.171492936855711e-14
+Morning Consult,NA,2025-07-21,2025-07-27,28524,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,1.5242307053899686e-13
+YouGov,Yahoo News,2025-07-24,2025-07-28,1167,RV,46,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/20250728_yahoo.pdf,-7,NA,-7.4708795939583865,1.1295174532127568e-13
+YouGov,The Economist,2025-07-25,2025-07-28,1610,RV,43,41,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-2,NA,-2.4708795939583865,1.3266930558979575e-13
+Grayhouse,America One Policies (super PAC),2025-07-27,2025-07-29,2000,RV,47,44,https://www.americaonepolicies.com/polls/selling-the-one-big-beautiful-bill,-3,REP,-3.814304910728886,1.4105586012328843e-13
+Clarity Campaign Labs,NA,2025-07-24,2025-07-31,1018,RV,51,43,https://static1.squarespace.com/static/61ae8d5e55be5c7314b4c83a/t/68936b40c111f97bb04773dd/1754491714447/Clarity+Omnibus+Overview+-+July+2025+%5BPUBLIC%5D.pdf,-8,NA,-7.420197343391926,3.443890888068723e-13
+Hart Research Associates/Public Opinion Strategies,CNBC,2025-07-29,2025-08-03,NA,RV,49,44,https://www.cnbc.com/video/2025/08/07/cnbc-all-america-economic-survey-45-percent-approve-of-pres-trumps-handling-of-the-economy.html,-5,NA,-4.730420925915361,6.622541698076093e-13
+Morning Consult,NA,2025-07-28,2025-08-03,27432,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,2.627293032845587e-13
+YouGov,The Economist,2025-08-01,2025-08-04,1528,RV,43.7,38.4,https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention,-5.300000000000004,NA,-5.770879593958391,2.2296000138331426e-13
+Cygnal,NA,2025-08-07,2025-08-09,1500,LV,47.4,46.4,https://www.cygn.al/national-poll-69-percent-of-americans-reject-race-based-redistricting-views-on-the-american-dream-on-life-support-and-the-fed-gets-low-marks-on-handling-of-interest-rates/,-1,NA,-1.6816831786302302,8.659682537068612e-13
+Morning Consult,NA,2025-08-04,2025-08-10,26631,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,4.5291002787107004e-13
+YouGov,The Economist,2025-08-09,2025-08-11,1474,RV,42,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_V8D6b4L.pdf,-2,NA,-2.4708795939583865,3.778142060343839e-13
+Quantus Insights,NA,2025-08-11,2025-08-13,1000,RV,45,42,https://quantusinsights.org/f/middle-america-shrugs-inflation-fatigue-and-electoral-flux,-3,NA,-3.686862542498524,1.89397874071336e-13
+Echelon Insights,NA,2025-08-14,2025-08-17,1057,LV,47,46,https://echeloninsights.com/in-the-news/august-2025-verified-voter-omnibus/,-1,NA,-2.3028834693361873,1.1631060182150397e-12
+Morning Consult,NA,2025-08-11,2025-08-17,27248,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,7.8084048913015025e-13
+The Argument/Verasight,NA,2025-08-08,2025-08-17,1562,RV,50.7,49.3,https://www.theargumentmag.com/p/when-americans-bite-their-tongues,-1.4000000000000057,NA,-1.3581344044960062,3.668771165951104e-13
+YouGov,The Economist,2025-08-15,2025-08-18,1408,RV,44,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_ep7WXyn.pdf,-5,NA,-5.4708795939583865,6.425443576352806e-13
+SoCal Strategies,"Red Eagle Politics, On Point Politics",2025-08-18,2025-08-18,700,A,42,37,https://substack.com/inbox/post/171344467?r=4aupgp,-5,REP,-3.8014507890264184,6.990531963731249e-13
+RMG Research,Napolitan Institute,2025-08-18,2025-08-21,2000,RV,47,47,https://napolitannews.org/posts/generic-ballot-gop-44-percent-dem-44,0,NA,-3.1942378485319978,2.1119090552504157e-12
+Verasight,Strength In Numbers,2025-08-18,2025-08-21,1336,RV,50,43,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-7,NA,-4.7836021999504865,4.612290698936657e-13
+Morning Consult,NA,2025-08-18,2025-08-24,27673,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,1.3463596631975903e-12
+Ipsos,Reuters,2025-08-22,2025-08-24,1022,A,38,34,https://www.ipsos.com/en-us/ipsos-core-political-survey-presidential-approval-tracker-august-2025,-4,NA,-5.418649310541184,1.1415594385524017e-12
+YouGov,The Economist,2025-08-22,2025-08-25,1377,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_ziFpJLd.pdf,-2,NA,-2.4708795939583865,1.0967663046018599e-12
+McLaughlin & Associates,NA,2025-08-21,2025-08-26,1000,LV,45,47,https://mclaughlinonline.com/2025/09/02/national-monthly-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=national-monthly-august-2025,2,NA,-2.257451458787152,5.584493204339578e-13
+Emerson College,NA,2025-08-25,2025-08-26,1000,RV,43.3,43,https://emersoncollegepolling.com/august-2025-national/,-0.29999999999999716,NA,-0.8815723625371987,2.9536819619522226e-12
+Morning Consult,NA,2025-08-29,2025-08-31,2202,RV,45,41,https://links.morningconsult.com/s/vb/zpOJTp1fd-BIR_rEUoDVVpbxjXadg6zyKojmasnqASm1Hp621kq0xaatdElmOwOyNR5BxVXYL1h85IVSEMQ-rZTd-Yz0U-hjJgu1WfIkrldD66UKOSCLbrYHiSzLtKjUuUOD33LEK9wVgTQl22Ic8BUrAP0z3AlRWdSJsA/dAaqMr_Kzp13zZAl6CKc8AYgFM7Csr5U/12,-4,NA,-5.932986239370869,1.5407542333896613e-12
+Morning Consult,NA,2025-08-25,2025-08-31,26531,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,2.3217193156424126e-12
+SSRS,CNN,2025-08-21,2025-09-01,1768,RV,52,48,https://www.cnn.com/2025/09/26/politics/us-politics-negative-sentiment-republicans-democrats,-4,NA,-2.2585125500705416,2.771553335390566e-12
+Survey 160,NA,2025-08-26,2025-09-01,1437,RV,46,39,https://www.survey160.com/methodological-research-blog/introducing-the-survey-160-tracking-poll,-7,NA,-3.4264118543246056,1.7594563532090397e-12
+The Winston Group,Winning the Issues,2025-08-30,2025-09-01,1000,RV,47,43,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-4,REP,-3.4589180662355616,4.66345349809432e-12
+YouGov,Yahoo News,2025-08-29,2025-09-02,1136,RV,44,40,https://www.scribd.com/document/911899946/Yahoo-YouGov-Newsom-Poll-August-2025,-4,NA,-4.4708795939583865,1.8733673414826434e-12
+YouGov,The Economist,2025-08-29,2025-09-02,1549,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_yFjgYJq.pdf,-4,NA,-4.4708795939583865,2.1875575543356484e-12
+Cygnal,NA,2025-09-02,2025-09-03,1500,LV,47.6,45.2,https://www.cygn.al/poll-optimism-drops-while-trump-gop-maintain-issue-trust-with-midterm-voters-including-on-inflation-crime/,-2.3999999999999986,NA,-3.081683178630229,6.122483820900595e-12
+Echelon Insights,Internet for Growth,2025-09-05,2025-09-07,1030,LV,45,44,https://internetforgrowth.com/wp-content/uploads/2025/11/Internet-For-Growth-Survey-Topline-Results.pdf,-1,NA,-2.3028834693361873,5.971628241495887e-12
+Morning Consult,NA,2025-09-01,2025-09-07,25541,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,4.004144476481651e-12
+YouGov,The Economist,2025-09-05,2025-09-08,1487,RV,44,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_7flqP0S.pdf,-4,NA,-4.4708795939583865,3.3969508522163025e-12
+Public Religion Research Institute,"Brookings Institute, Carnegie Corporation of New York, Ford Foundation, Unitarian Universalist Veatch Program at Shelter Rock",2025-08-15,2025-09-08,5543,A,33,30,https://prri.org/research/trumps-unprecedented-actions-deepen-asymmetric-divides/,-3,NA,-3.6833831400288233,4.5553260464520245e-11
+Change Research,NA,2025-09-05,2025-09-10,2223,RV,45,43,https://portal.changeresearch.com/portal/projects/9b77cc10-feae-4dd6-b303-1b83ee015192,-2,NA,-2.683124847603608,9.84244317440057e-12
+Clarity Campaign Labs,NA,2025-09-04,2025-09-11,1001,RV,50,44,https://www.claritycampaigns.com/clarity-omnibus-september-2025,-6,NA,-5.420197343391926,9.170404797145398e-12
+i360,Americans for Prosperity,2025-09-10,2025-09-12,577,RV,35,32,https://americansforprosperity.org/wp-content/uploads/2025/10/ACA-Enhanced-Subsidy-Expiration-Poll-Toplines-100625.pdf,-3,REP,-3.8940923020976683,4.762593985386283e-12
+Morning Consult,NA,2025-09-08,2025-09-14,23465,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,6.906575835150447e-12
+YouGov,The Economist,2025-09-12,2025-09-15,1420,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_XBYs983.pdf,-2,NA,-2.4708795939583865,5.732234563755397e-12
+"Normington, Petts & Associates",Third Way,2025-09-11,2025-09-16,800,RV,51,49,https://www.thirdway.org/memo/americans-caught-between-trumps-cruelty-and-democrats-chaos,-2,NA,-2.7653186100450426,1.9097516905020704e-11
+AtlasIntel,NA,2025-09-12,2025-09-16,1066,A,51.8,43.5,https://atlasintel.org/poll/usa-national-2025-09-19,-8.299999999999997,NA,-2.04212420052626,3.052196644944566e-11
+The Argument/Verasight,NA,2025-09-15,2025-09-18,1541,RV,53,47,https://www.theargumentmag.com/p/chatgpt-and-the-end-of-learning,-6,NA,-5.9581344044960005,4.478440830691036e-12
+Verasight,Strength In Numbers,2025-09-15,2025-09-19,1356,RV,48,43,https://www.gelliottmorris.com/p/poll?open=false#%C2%A7trends-and-crosstabs,-5,NA,-2.7836021999504865,4.5361634966479636e-12
+Morning Consult,NA,2025-09-15,2025-09-21,21386,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,1.2011616983971366e-11
+Echelon Insights,NA,2025-09-18,2025-09-22,1071,LV,47,46,https://echeloninsights.com/in-the-news/september-2025-verified-voter-omnibus/,-1,NA,-2.3028834693361873,2.0042409879067517e-11
+McLaughlin & Associates,NA,2025-09-17,2025-09-22,1000,LV,41,47,https://mclaughlinonline.com/2025/09/30/national-monthly-september-2025/,6,NA,1.742548541212848,4.6524328053003304e-12
+YouGov,The Economist,2025-09-19,2025-09-22,1392,RV,45,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_EYduduY.pdf,-3,NA,-3.4708795939583865,9.894096507975329e-12
+RMG Research,Napolitan Institute,2025-09-22,2025-09-24,2000,RV,45,46,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-41,1,NA,-2.1942378485319978,3.026127978755697e-11
+The New York Times/Siena College,NA,2025-09-22,2025-09-27,1313,RV,47,45,https://www.nytimes.com/2025/09/30/polls/trump-approval-poll.html,-2,NA,-1.8071131841911239,7.552491745021249e-11
+Morning Consult,NA,2025-09-22,2025-09-28,21729,RV,43,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,2.072641076731643e-11
+YouGov,Yahoo News,2025-09-25,2025-09-29,1126,RV,44,40,https://www.yahoo.com/entertainment/tv/article/poll-americans-approve-of-jimmy-kimmels-return-to-tv-by-a-more-than-2-to-1-margin-183746388.html,-4,NA,-4.4708795939583865,1.5374298757279945e-11
+YouGov,The Economist,2025-09-26,2025-09-29,1518,RV,44,41,https://today.yougov.com/politics/articles/53094-donald-trump-approval-rebound-government-shutdown-chances-james-comey-flu-covid-vaccines-economy-september-26-29-2025-economist-yougov-poll,-3,NA,-3.4708795939583865,1.7850977667206173e-11
+Morning Consult,NA,2025-10-03,2025-10-05,2200,RV,46,43,https://pro.morningconsult.com/analysis/government-shutdown-polling-october-2025,-3,NA,-4.932986239370869,2.372648435747992e-11
+Morning Consult,NA,2025-09-29,2025-10-05,21493,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,3.576902100363524e-11
+Change Research,NA,2025-09-28,2025-10-06,1596,RV,46,42,https://portal.changeresearch.com/portal/projects/0326caf4-1de0-4774-8b12-23385ba6d752,-4,NA,-4.683124847603608,6.558616969634913e-11
+OH Predictive Insights,Center Square,2025-10-02,2025-10-06,2565,RV,45,43,https://www.thecentersquare.com/north_carolina/article_1ca4f129-6cbd-4a04-a83b-4e98ad17c137.html,-2,NA,-3.0403581695367663,1.822111431288607e-10
+YouGov,The Economist,2025-10-04,2025-10-06,1490,RV,44,39,https://today.yougov.com/politics/articles/53131-government-shutdown-2026-congressional-election-donald-trump-job-approval-the-economy-october-4-6-2025-economist-yougov-poll,-5,NA,-5.4708795939583865,3.056111338684498e-11
+Cygnal,NA,2025-10-07,2025-10-08,1500,LV,47.5,45.3,https://www.cygn.al/poll-42-of-liberals-approve-of-law-breaking-in-response-to-disagreeing-with-a-government-action/,-2.200000000000003,NA,-2.881683178630233,9.353526175545398e-11
+Quantus Insights,NA,2025-10-06,2025-10-08,1000,LV,42,43,https://quantusinsights.org/f/the-nation%E2%80%99s-pulse-trump-approval-poll-october-2025#ddfaccf9-bede-412a-8ce9-6f9ddda07554,1,NA,0.13248434841963075,1.4501830332024356e-11
+Hart Research Associates/Public Opinion Strategies,CNBC,2025-10-08,2025-10-12,NA,RV,48,47,https://www.cnbc.com/2025/10/17/trumps-economic-approval-rating-drops-says-cnbc-survey.html,-1,NA,-0.7304209259153609,1.5411021616427455e-10
+YouGov,The Economist,2025-10-10,2025-10-13,1467,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_GWBYlDD.pdf,-3,NA,-3.4708795939583865,5.241124956981674e-11
+Emerson College,NA,2025-10-13,2025-10-14,1000,RV,44,43,https://emersoncollegepolling.com/october-2025-poll/,-1,NA,-1.5815723625372016,1.3383688172007903e-10
+J.L. Partners,Daily Mail,2025-10-14,2025-10-15,1004,RV,43,37,https://www.dailymail.co.uk/news/article-15199427/donald-trump-polling-peace-president.html,-6,NA,-4.279286580460436,2.3697692996611337e-10
+The Argument/Verasight,NA,2025-10-10,2025-10-16,1530,RV,51,49,https://www.theargumentmag.com/p/the-immigration-problem-is-a-crime,-2,NA,-1.9581344044960005,4.0595774485371267e-11
+The Winston Group,Winning the Issues,2025-10-15,2025-10-16,1000,RV,47,43,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-4,REP,-3.4589180662355616,1.64877979612531e-10
+Morning Consult,NA,2025-10-17,2025-10-19,2200,RV,46,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.932986239370869,7.069498987045911e-11
+Morning Consult,NA,2025-10-13,2025-10-19,21839,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,1.065767072537675e-10
+Echelon Insights,NA,2025-10-16,2025-10-20,1010,LV,48,46,https://echeloninsights.com/in-the-news/october-2025-verified-voter-omnibus-2/,-2,NA,-3.3028834693361873,1.7435865279164703e-10
+Ipsos,Reuters,2025-10-15,2025-10-20,3439,RV,41,38,https://www.reuters.com/world/us/trumps-approval-edges-up-despite-americans-blaming-republicans-shutdown-2025-10-21/,-3,NA,-5.139615097667786,1.7007549624156668e-10
+Quinnipiac University,NA,2025-10-16,2025-10-20,1327,RV,50,41,https://poll.qu.edu/poll-release?releaseid=3938,-9,NA,-6.0410890278868905,3.033517661026894e-10
+YouGov,The Economist,2025-10-17,2025-10-20,1447,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_9BPkYGS.pdf,-5,NA,-5.4708795939583865,9.09162343792455e-11
+University of Massachusetts Lowell,NA,2025-10-16,2025-10-20,1000,A,38,35,https://www.uml.edu/news/press-releases/2025/national-poll-10292025.aspx,-3,NA,-4.5404002773870715,4.0684398102113033e-10
+Clarity Campaign Labs,NA,2025-10-16,2025-10-23,1047,RV,47,46,https://www.claritycampaigns.com/clarity-omnibus-oct-2025,-1,NA,-0.4201973433919264,2.544592269768407e-10
+Ipsos,Reuters,2025-10-24,2025-10-26,805,RV,39,39,https://www.reuters.com/world/us/trumps-popularity-dips-americans-sweat-cost-living-reutersipsos-poll-finds-2025-10-28/,0,NA,-2.139615097667786,1.304138148652975e-10
+Manhattan Institute,NA,2025-10-15,2025-10-26,500,RV,47,44,https://manhattan.institute/article/the-new-gop-survey-analysis-of-americans-overall-todays-republican-coalition-and-the-minorities-of-maga,-3,NA,-3.166322615461766,1.7434931236022978e-10
+Morning Consult,NA,2025-10-24,2025-10-26,2202,RV,45,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.932986239370869,1.2321834460874627e-10
+Morning Consult,NA,2025-10-20,2025-10-26,21290,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,1.8567426557721443e-10
+McLaughlin & Associates,NA,2025-10-21,2025-10-27,1000,LV,44,46,https://mclaughlinonline.com/2025/10/30/national-monthly-october-2025/,2,NA,-2.257451458787152,7.198226719405284e-11
+YouGov,The Economist,2025-10-24,2025-10-27,1472,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_6P3FccQ.pdf,-3,NA,-3.4708795939583865,1.585864589971926e-10
+YouGov,Yahoo News,2025-10-23,2025-10-27,1197,RV,45,40,https://www.scribd.com/document/940273112/Yahoo-YouGov-Shutdown-Poll-October-2025,-5,NA,-5.4708795939583865,1.4300765071932193e-10
+Hart Research Associates/Public Opinion Strategies,NBC News,2025-10-24,2025-10-28,1000,RV,50,42,https://www.nbcnews.com/politics/elections/poll-frustration-trump-gives-democrats-opening-year-midterms-rcna240551,-8,NA,-7.730420925915361,4.807020153804656e-10
+Ipsos,ABC News | The Washington Post,2025-10-24,2025-10-28,2203,RV,46,44,https://www.washingtonpost.com/politics/2025/11/02/trump-democrats-poll-post-abc-ipsos/,-2,NA,-4.139615097667786,2.515356662644228e-10
+NewsNation,Decision Desk HQ,2025-10-27,2025-10-29,1158,LV,47,47,https://www.newsnationnow.com/polls/,0,NA,-1.0749994124439652,8.138957476680014e-10
+Verasight,Strength In Numbers,2025-10-24,2025-10-29,1352,LV,49,41,https://www.gelliottmorris.com/p/new-poll-voters-want-democrats-to,-8,NA,-5.964255309032332,1.035039192579765e-10
+RMG Research,Napolitan News Service,2025-10-27,2025-10-30,2000,RV,44,46,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-42,2,NA,-1.1942378485319978,5.087021254057996e-10
+SSRS,CNN,2025-10-27,2025-10-30,954,RV,47,42,https://s3.documentcloud.org/documents/26211915/cnn-poll-trump-midterms-east-wing-parties.pdf,-5,NA,-5.282671970179592,2.108035744806003e-10
+Morning Consult,NA,2025-10-31,2025-11-02,2202,RV,45,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.932986239370869,2.1086704072090725e-10
+Morning Consult,NA,2025-10-27,2025-11-02,22207,RV,43,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,0,NA,-1.9329862393708694,3.177496260367379e-10
+YouGov,The Economist,2025-10-31,2025-11-03,1470,RV,44,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5RO6eos.pdf,-3,NA,-3.4708795939583865,2.7414113776808794e-10
+Emerson College,NA,2025-11-03,2025-11-04,1000,RV,44,40,https://emersoncollegepolling.com/november-2025-national-poll/,-4,NA,-2.6043901411660997,7.114625926160933e-10
+Cygnal,NA,2025-11-05,2025-11-06,1500,LV,50,44,https://www.cygn.al/poll-voters-say-less-socialism-more-stabilityeconomic-concerns-surge-heading-into-2026/,-6,NA,-6.68168317863023,9.047660855890525e-10
+Morning Consult,NA,2025-11-07,2025-11-09,2201,RV,48,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-5,NA,-6.932986239370869,3.675249358800235e-10
+Morning Consult,NA,2025-11-03,2025-11-09,21394,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,5.539388070348146e-10
+Change Research,NA,2025-11-06,2025-11-10,1572,RV,47,43,https://portal.changeresearch.com/portal/projects/f8ad986a-d2e5-4fb6-a21f-63b6b92c2998,-4,NA,-4.683124847603608,1.0319583208846194e-9
+Survey 160,NA,2025-11-06,2025-11-10,1513,RV,46,39,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-november-2025-update,-7,NA,-3.68415554209043,4.491302215925565e-10
+YouGov,The Economist,2025-11-07,2025-11-10,1499,RV,46,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_L33vOWV.pdf,-7,NA,-7.4708795939583865,4.789854842483511e-10
+YouGov Blue,The Downballot,2025-11-07,2025-11-10,517,RV,48,45,https://www.the-downballot.com/p/new-poll-shows-democrats-best-path,-3,DEM,-3.9920317973654136,4.410727484339778e-10
+Yale University Institution for Social and Policy Studies,NA,2025-10-29,2025-11-11,3426,RV,45,43,https://youthpoll.yale.edu/fall-2025-results,-2,NA,-3.2247997163936546,8.937693503781331e-10
+Ipsos,Reuters,2025-11-07,2025-11-12,938,RV,41,40,https://www.reuters.com/world/us/democrats-more-energized-2026-elections-than-republicans-reutersipsos-poll-finds-2025-11-13/,-1,NA,-3.139615097667786,5.585065679111665e-10
+Marquette University Law School,NA,2025-11-05,2025-11-12,903,RV,49,44,https://law.marquette.edu/poll/2025/11/18/detailed-results-of-the-marquette-law-school-supreme-court-poll-nov-5-12-2025-national-issues/,-5,NA,-4.471314847385521,1.7148256024238797e-9
+Quantus Insights,NA,2025-11-11,2025-11-12,1000,RV,44,39,https://quantusinsights.org/f/survey-shows-public-discontent-with-trump-direction-of-us,-5,NA,-5.686862542498524,2.2232267885548606e-10
+Marist College,NPR | PBS News,2025-11-10,2025-11-13,1291,RV,55,41,https://maristpoll.marist.edu/polls/a-look-to-the-2026-midterms-november-2025/,-14,NA,-8.982111812496392,2.5427529577270132e-9
+Verasight,Strength In Numbers,2025-11-12,2025-11-14,860,LV,49,45,https://www.gelliottmorris.com/p/new-poll-democrats-lead-the-2026,-4,NA,-1.9642553090323318,3.013331986542316e-10
+High Point University,NA,2025-11-10,2025-11-14,837,RV,48,39,https://www.highpoint.edu/src/files/2023/08/HPUPoll-115-and-116-Memo.pdf,-9,NA,-6.778346736535816,2.733585649343735e-9
+Morning Consult,NA,2025-11-14,2025-11-16,2201,RV,46,44,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.9329862393708694,6.411697000380601e-10
+Morning Consult,NA,2025-11-10,2025-11-16,21313,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,9.663800849199953e-10
+Echelon Insights,NA,2025-11-13,2025-11-17,1051,LV,49,45,https://echeloninsights.com/in-the-news/november-2025-verified-voter-omnibus/,-4,NA,-5.302883469336187,1.5999774130754926e-9
+Ipsos,Reuters,2025-11-14,2025-11-17,818,RV,38,36,https://www.reuters.com/world/us/trump-approval-falls-lowest-his-term-over-prices-epstein-files-reutersipsos-poll-2025-11-18/,-2,NA,-4.139615097667786,7.655440475392609e-10
+The Argument/Verasight,NA,2025-11-10,2025-11-17,1508,RV,53,47,https://www.theargumentmag.com/p/2026-is-looking-terrible-for-republicans,-6,NA,-5.9581344044960005,5.02340769821152e-10
+The Winston Group,Winning the Issues,2025-11-15,2025-11-17,1000,RV,47,42,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-5,REP,-4.458918066235562,2.2197225396350285e-9
+YouGov,The Economist,2025-11-15,2025-11-17,1380,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Hb6uOe2.pdf,-3,NA,-3.4708795939583865,8.045748286818799e-10
+J.L. Partners,Daily Mail,2025-11-19,2025-11-20,797,LV,50,46,https://jlpartners.com/nov25-rv,-4,NA,-2.4599396895422814,4.732420979933043e-9
+Morning Consult,NA,2025-11-21,2025-11-23,2200,RV,45,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.9329862393708694,1.119166471988853e-9
+Morning Consult,NA,2025-11-17,2025-11-23,19675,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,1.6872069388785553e-9
+McLaughlin & Associates,NA,2025-11-17,2025-11-24,1000,LV,45,44,https://mclaughlinonline.com/2025/11/26/national-monthly-november-2025/,-1,NA,-5.257451458787152,6.548398734065284e-10
+YouGov,The Economist,2025-11-21,2025-11-24,1511,RV,44,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_dEPgjvs.pdf,-5,NA,-5.4708795939583865,1.4578137640482062e-9
+YouGov,Yahoo News,2025-11-21,2025-11-24,1131,RV,43,40,https://www.scribd.com/document/955164028/Yahoo-YouGov-Epstein-Poll-November-2025,-3,NA,-3.4708795939583865,1.2612498181464872e-9
+The Bullfinch Group,NA,2025-11-21,2025-11-25,1000,RV,41,35,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-q4-nationwide-survey-3,-6,NA,-3.1379653610763043,8.943931009126396e-10
+GBAO,Third Way,2025-11-19,2025-11-26,2000,RV,48,42,https://uploads.thirdway.org/downloads/food-medicine-fuel-for-a-wave/Third-WayGBAO-National-Framing-Survey-Toplines-November-2025.pdf,-6,NA,-4.629588064122956,7.626147320457972e-9
+Morning Consult,NA,2025-11-26,2025-11-30,2200,RV,45,41,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.369048750590586,1.9555869724387185e-9
+Morning Consult,NA,2025-11-24,2025-11-30,21658,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,2.94815828749378e-9
+YouGov,The Economist,2025-11-28,2025-12-01,1452,RV,45,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,-6,NA,-6.4708795939583865,2.4752505889507214e-9
+RMG Research,Napolitan News Service,2025-12-01,2025-12-04,2000,RV,44,48,https://napolitannews.org/assets/pdfs/693313e5180f3-gcm25-1203-toplines-generic-ballot.pdf,4,NA,0.8057621514680022,7.982265931111398e-9
+Quantus Insights,NA,2025-12-04,2025-12-05,1000,RV,44,40,https://quantusinsights.org/f/new-poll-strong-disapproval-drives-overall-assessment-of-trump,-4,NA,-4.686862542498524,1.3625322047526987e-9
+Cygnal,NA,2025-12-05,2025-12-07,1500,LV,48,44.1,https://www.cygn.al/polls/december-2025-national-voter-trends-nvt-poll/,-3.8999999999999986,NA,-4.581683178630229,1.02462745571225e-8
+Morning Consult,NA,2025-12-05,2025-12-07,2201,RV,46,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.932986239370869,3.4209901342841088e-9
+Morning Consult,NA,2025-12-01,2025-12-07,19970,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,5.1561649533402765e-9
+Grayhouse,America One Policies (super PAC),2025-12-06,2025-12-08,2058,RV,45,41,https://www.americaonepolicies.com/polls/national-poll-on-the-working-families-tax-cut-and-health-care,-4,REP,-4.814304910728886,4.4019433624520564e-9
+Hart Research Associates/Public Opinion Strategies,CNBC,2025-12-04,2025-12-08,800,RV,50,46,https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2025/12/16/TOPLINES_250313_CNBC_AAES_Q4_2025_new.pdf,-4,NA,-3.730420925915361,1.1182595341705363e-8
+Ipsos,Reuters,2025-12-03,2025-12-08,3521,RV,40,39,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,-1,NA,-3.139615097667786,8.415479850602971e-9
+YouGov,The Economist,2025-12-05,2025-12-08,1379,RV,42,37,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,-5,NA,-5.4708795939583865,4.179393504899235e-9
+Change Research,NA,2025-12-05,2025-12-10,1520,RV,43,43,https://portal.changeresearch.com/portal/projects/462322ed-5e5a-43bd-b4ff-43acb1d433e2,0,NA,-0.683124847603608,1.1115993991141615e-8
+Clarity Campaign Labs,NA,2025-12-04,2025-12-11,1000,LV,49,44,https://www.claritycampaigns.com/clarity-omnibus-dec-2025?submissionGuid=49882900-7ea0-44c8-8c7c-579c65ead3af,-5,NA,-4.600850452473772,1.1710321512979278e-8
+The Argument/Verasight,NA,2025-12-05,2025-12-11,1521,RV,51,49,https://www.theargumentmag.com/p/have-democrats-lost-their-education,-2,NA,-1.9581344044960005,3.438236590505147e-9
+Morning Consult,NA,2025-12-08,2025-12-14,19954,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,9.026765597322989e-9
+Echelon Insights,NA,2025-12-11,2025-12-15,1011,LV,48,45,https://echeloninsights.com/in-the-news/december-2025-verified-voter-omnibus/,-3,NA,-4.302883469336187,1.4187312997286087e-8
+Emerson College,NA,2025-12-14,2025-12-15,1000,RV,44,42,https://emersoncollegepolling.com/december-2025-national-poll-trumps-approval-flips-since-start-of-the-year/,-2,NA,-2.5815723625372016,1.7693539126735298e-8
+Ipsos,Reuters,2025-12-12,2025-12-15,775,RV,40,36,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,-4,NA,-6.139615097667786,6.756628745635851e-9
+Morning Consult,NA,2025-12-12,2025-12-15,2201,RV,45,44,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-1,NA,-2.9329862393708694,6.622665451694783e-9
+Quinnipiac University,NA,2025-12-11,2025-12-15,1035,RV,47,43,https://poll.qu.edu/poll-release?releaseid=3943,-4,NA,-1.0410890278868905,2.203448550392171e-8
+YouGov,The Economist,2025-12-12,2025-12-15,1451,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,-4,NA,-4.4708795939583865,7.52725046664639e-9
+Echelon Insights/GBAO,AARP,2025-12-09,2025-12-16,2023,LV,47,43,https://www.aarp.org/pri/topics/work-finances-retirement/financial-security-retirement/shes-the-difference-financial-security/,-4,NA,-3.931983657315392,1.4256449633026738e-8
+Quantus Insights,NA,2025-12-15,2025-12-16,1000,RV,43,41,https://drive.google.com/file/d/14uRV2kwTVNEO4EIXGv7TCQZtmlMK0owX/view,-2,NA,-2.686862542498524,3.1696655720762016e-9
+Fabrizio Ward,Building America's Future,2025-12-15,2025-12-17,1000,RV,45,38,https://www.politico.com/newsletters/playbook/2025/12/22/cbs-controversial-call-00702480,-7,REP,-6.6671239292584374,8.658382407649545e-9
+McLaughlin & Associates,NA,2025-12-12,2025-12-19,1000,LV,46,45,https://mclaughlinonline.com/2025/12/23/national-monthly-december-2025/,-1,NA,-5.257451458787152,4.769407416422459e-9
+AtlasIntel,NA,2025-12-15,2025-12-19,2315,A,54,38,https://www.atlasintel.org/poll/usa-national-2025-12-19,-16,NA,-9.742124200526263,7.488388520146774e-8
+Morning Consult,NA,2025-12-19,2025-12-21,2203,RV,47,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.932986239370869,1.050098514774553e-8
+Morning Consult,NA,2025-12-15,2025-12-21,20240,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,1.582004803472764e-8
+YouGov,The Economist,2025-12-20,2025-12-22,1424,RV,43,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_s4jyXBa.pdf,-3,NA,-3.4708795939583865,1.2932483271566561e-8
+YouGov,The Economist,2025-12-26,2025-12-29,1417,RV,42,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_h1aYmmb.pdf,-4,NA,-4.4708795939583865,2.2381789184158665e-8
+The Bullfinch Group,Independent Center,2025-12-30,2026-01-01,1000,RV,44,33,https://independentcentervoice.com/insights/2026-tune-in-as-america-approaches-its-250th-voters-declare-the-status-quo-broken-and-demand-new-options,-11,NA,-8.376100483789862,1.711263078806566e-8
+Morning Consult,NA,2026-01-02,2026-01-04,2201,RV,44,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.9329862393708694,3.235866157351456e-8
+Morning Consult,NA,2025-12-29,2026-01-04,22709,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,4.8771434641178675e-8
+YouGov,The Economist,2026-01-02,2026-01-05,1386,RV,45,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,-6,NA,-6.4708795939583865,3.841864577901845e-8
+Cygnal,NA,2026-01-08,2026-01-08,1500,LV,48.1,44.6,https://www.cygn.al/polls/january-2026-national-voter-trends-nvt-poll/,-3.5,NA,-4.18168317863023,1.2592483802698425e-7
+RMG Research,Napolitan News Service,2026-01-05,2026-01-08,2000,RV,47,46,https://napolitannews.org/posts/generic-ballot-gop-43-percent-dem-44,-1,NA,-4.194237848531998,1.265511959669949e-7
+Morning Consult,NA,2026-01-05,2026-01-11,17701,RV,45,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,8.581549343584563e-8
+Morning Consult,NA,2026-01-09,2026-01-12,2201,RV,46,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-3,NA,-4.932986239370869,6.147861236196682e-8
+SSRS,CNN,2026-01-09,2026-01-12,968,RV,46,41,https://www.cnn.com/2026/01/18/politics/cnn-poll-democrats-are-deeply-motivated-for-the-midterms-despite-having-dismal-views-of-party-leaders,-5,NA,-5.282671970179592,7.180877151017519e-8
+The Winston Group,Winning the Issues,2026-01-08,2026-01-12,1000,RV,46,43,https://www.winningtheissues.org/2026/01/27/2026-winning-the-issues-research/,-3,REP,-2.4589180662355616,1.999912469292429e-7
+YouGov,The Economist,2026-01-09,2026-01-12,1433,RV,44,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,-4,NA,-4.4708795939583865,6.782837762454787e-8
+YouGov,Yahoo News,2026-01-08,2026-01-12,1148,RV,45,40,https://www.yahoo.com/news/us/article/poll-only-27-of-americans-think-minneapolis-ice-shooting-was-justified-142831951.html,-5,NA,-5.4708795939583865,6.070986654724816e-8
+Impact Research/National Research,Wall Street Journal,2026-01-08,2026-01-13,1500,RV,47,43,https://www.wsj.com/politics/elections/trump-approval-rating-economy-poll-b3a62e57,-4,NA,-3.7638223550290917,6.078994888416302e-8
+Ipsos,Reuters,2026-01-12,2026-01-13,941,RV,40,38,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,-2,NA,-4.139615097667786,7.340396421542359e-8
+Public Policy Polling,Progress Action Fund (hybrid PAC),2026-01-13,2026-01-14,597,RV,50,42,https://progressactionfund.com/new-poll-independent-voters-would-rather-shut-down-the-government-than-fund-ice-by-16-points/,-8,DEM,-5.8435036228130315,1.944765800851423e-7
+Research Co.,NA,2026-01-13,2026-01-15,1002,A,42,36,https://researchco.ca/2026/01/26/amendment/,-6,NA,-5.955841476807677,2.9263056851230087e-7
+The New York Times/Siena College,NA,2026-01-12,2026-01-17,1625,RV,48,43,https://www.nytimes.com/2026/01/22/us/politics/trump-poll-second-term.html,-5,NA,-4.807113184191124,5.615039834118992e-7
+Morning Consult,NA,2026-01-12,2026-01-18,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,1.286066278191885e-7
+Morning Consult,NA,2026-01-16,2026-01-18,2201,RV,45,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.9329862393708694,8.532737198176235e-8
+Emerson College,NA,2026-01-17,2026-01-19,1000,LV,48.1,41.7,https://emersoncollegepolling.com/january-2026-national-poll/,-6.399999999999999,NA,-5.1850432502479435,2.8357985018284126e-7
+Change Research,NA,2026-01-13,2026-01-19,1348,RV,46,43,https://portal.changeresearch.com/portal/projects/45449a2d-6c0e-412f-a3e1-a053b39f12b0,-3,NA,-3.683124847603608,2.0871333723793868e-7
+YouGov,The Economist,2026-01-16,2026-01-19,1549,RV,43,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,-4,NA,-4.4708795939583865,1.1947576855527865e-7
+KFF,NA,2026-01-13,2026-01-20,1141,RV,49,42,https://www.kff.org/public-opinion/kff-health-tracking-poll-health-care-costs-expiring-aca-tax-credits-and-the-2026-midterms/,-7,NA,-3.8851645113334783,1.1112401738584572e-7
+Verasight,Strength In Numbers,2026-01-14,2026-01-20,1352,RV,51,43,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,-8,NA,-5.7836021999504865,6.983816664569674e-8
+Clarity Campaign Labs,NA,2026-01-15,2026-01-22,1147,LV,51,42,https://www.claritycampaigns.com/clarity-omnibus-jan-2026,-9,NA,-8.600850452473772,3.6308125926400387e-7
+Quantus Insights,NA,2026-01-20,2026-01-22,1000,RV,47.2,40.7,https://v0-quantus-insights-website.vercel.app/polls/2601412-weighted-ziw7630t?tab=toplines,-6.5,NA,-7.186862542498524,6.064594706872743e-8
+Ipsos,Reuters,2026-01-23,2026-01-25,906,RV,41,37,https://www.reuters.com/data/which-party-do-americans-want-run-congress-2025-11-05/,-4,NA,-6.139615097667786,2.0712270743588675e-7
+Morning Consult,NA,2026-01-19,2026-01-25,12505,RV,44,43,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-1,NA,-2.9329862393708694,2.266594008173597e-7
+Echelon Insights,NA,2026-01-22,2026-01-26,1029,LV,49,44,https://echelonin.wpenginepowered.com/wp-content/uploads/January-2026-Voter-Omnibus-Topline.pdf,-5,NA,-6.302883469336187,4.1937631687884583e-7
+Beacon Research/Shaw & Co. Research,FOX News,2026-01-23,2026-01-26,1005,RV,52,46,https://static.foxnews.com/foxnews.com/content/uploads/2026/01/fox_january-23-26_national_topline_january-29-release.pdf,-6,NA,-4.7982445861761605,8.258463481193364e-7
+YouGov,The Economist,2026-01-23,2026-01-26,1520,RV,43,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_8FWGyNz.pdf,-5,NA,-5.4708795939583865,2.0567960619179986e-7
+Focaldata,NA,2026-01-23,2026-01-26,2037,A,39,35,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling,-4,NA,-3.1117342409652267,5.083960296128007e-7
+McLaughlin & Associates,NA,2026-01-21,2026-01-27,1000,LV,46,44,https://mclaughlinonline.com/2026/02/04/national-monthly-january-2026/,-2,NA,-6.257451458787152,1.027869116803436e-7
+The Argument/Verasight,NA,2026-01-26,2026-01-27,1515,RV,52,48,https://www.theargumentmag.com/p/immigration-is-turning-into-a-disaster,-4,NA,-3.9581344044960005,1.3859091337039038e-7
+Cygnal,NA,2026-01-27,2026-01-28,1004,LV,48,44,https://www.cygn.al/polls/national-poll-deportation-ice-overwhelmingly-supported-by-voters-and-democrats-pay-a-political-price-on-the-issue-especially-over-a-shutdown/,-4,NA,-5.117884326113412,5.144186358209891e-7
+Marquette University Law School,NA,2026-01-21,2026-01-28,577,LV,52,45,https://law.marquette.edu/poll/2026/02/04/detailed-results-of-the-marquette-law-school-supreme-court-poll-jan-21-28-2025-national-issues/,-7,NA,-6.651967956467367,6.591624458658721e-7
+Harris Insights & Analytics,Harvard CAPS,2026-01-28,2026-01-29,NA,LV,52,48,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf,-4,NA,-6.566926547874118,4.4874902811888575e-7
+TIPP Insights,Issues & Insights,2026-01-27,2026-01-29,1126,LV,45,42,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/,-3,NA,-5.243756452581614,9.701677757955805e-7
+Public Policy Polling,NA,2026-01-29,2026-01-30,652,RV,48,41,https://e1.nmcdn.io/assets/ppp/wp-content/uploads/2026/01/January2026NationalSurvey.pdf,-7,DEM,-4.8435036228130315,9.391082155971355e-7
+Morning Consult,NA,2026-01-30,2026-02-01,2201,RV,47,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-5,NA,-6.932986239370869,2.6552670843074594e-07
+Morning Consult,NA,2026-01-26,2026-02-01,12505,RV,44,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-2,NA,-3.9329862393708694,4.002056289100985e-7
+YouGov,The Economist,2026-01-30,2026-02-02,1504,RV,44,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_DDIQ8jz.pdf,-4,NA,-4.4708795939583865,3.6161051573717244e-7
+Cygnal,NA,2026-02-03,2026-02-04,1500,LV,47.8,44.4,https://www.cygn.al/polls/february-2026-national-voter-trends-nvt-poll/,-3.3999999999999986,NA,-4.081683178630229,1.0760409514719466e-6
+John Zogby Strategies,NA,2026-02-04,2026-02-05,1000,LV,47,42,https://johnzogbystrategies.com/democrats-lead-republicans-47-42-in-congressional-generic-poll/,-5,NA,-7.131988427454935,8.616937646068117e-7
+Morning Consult,NA,2026-02-02,2026-02-08,29303,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,7.081061625622695e-7
+Morning Consult,NA,2026-02-06,2026-02-09,2200,RV,45,41,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.932986239370869,5.161524924772727e-7
+YouGov,The Economist,2026-02-06,2026-02-09,1551,RV,44,38,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,-6,NA,-6.4708795939583865,6.391723711629613e-7
+Focaldata,NA,2026-02-10,2026-02-10,NA,LV,51,44,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling,-7,NA,-7.013353137173674,1.510223017923655e-6
+The Argument/Verasight,NA,2026-02-04,2026-02-10,3003,RV,53,47,https://substack.com/home/post/p-188193326,-6,NA,-5.9581344044960005,5.714428107748719e-7
+RMG Research,Napolitan News Service,2026-02-09,2026-02-12,2000,RV,45,47,https://napolitannews.org/posts/generic-ballot-gop-44-percent-dem-41-but-dems-more-enthusiastic,2,NA,-1.1942378485319978,2.1195665804594733e-6
+YouGov,Yahoo News,2026-02-09,2026-02-12,1149,RV,44,41,https://www.yahoo.com/news/politics/article/poll-as-the-2026-midterm-elections-approach-just-23-of-americans-are-confident-the-vote-will-not-be-rigged-221139207.html,-3,NA,-3.4708795939583865,7.048425157691184e-7
+Quantus Insights,NA,2026-02-12,2026-02-13,1515,LV,48.4,41.9,https://quantusinsights.org/f/quantus-insights-national-survey-2026-midterms-break-democrat,-6.5,NA,-6.655830088521647,4.3185445664367284e-7
+Morning Consult,NA,2026-02-09,2026-02-15,12505,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,1.2332516086503207e-6
+Ipsos,Reuters,2026-02-13,2026-02-16,846,RV,41,37,https://www.reuters.com/world/us/trumps-immigration-approval-hits-new-low-according-reutersipsos-poll-2026-02-17/,-4,NA,-6.139615097667786,1.1634723957884668e-6
+Morning Consult,NA,2026-02-13,2026-02-16,2200,RV,45,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-2,NA,-3.9329862393708694,9.166503400572752e-7
+The Bullfinch Group,MainFrame,2026-02-13,2026-02-16,1000,RV,46,35,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-mainframe-q1-nationwide-survey,-11,NA,-8.137965361076304,6.747136276878088e-7
+YouGov,The Economist,2026-02-13,2026-02-16,1512,RV,47,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_usZL1Jt.pdf,-7,NA,-7.4708795939583865,1.0991103745352932e-6
+Ipsos,ABC News | The Washington Post,2026-02-12,2026-02-17,2087,RV,47,45,https://www.washingtonpost.com/politics/2026/02/25/poll-democrats-trump-republicans-midterms/,-2,NA,-4.139615097667786,1.973174344857888e-6
+YouGov,Bowling Green State University Democracy and Public Policy Network,2026-02-13,2026-02-18,1200,RV,49,41,https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1017&context=depo,-8,NA,-8.470879593958387,1.1625719355836299e-6
+Talker Research,Scripps News,2026-02-13,2026-02-19,1000,A,42,36,https://www.scrippsnews.com/politics/scripps-news-talker-research-poll-high-interest-in-state-of-the-union-amid-economic-worries,-6,NA,-5.239434533126023,1.4712284325635766e-6
+Verasight,Strength In Numbers,2026-02-18,2026-02-20,1401,RV,52,42,https://www.gelliottmorris.com/p/ahead-of-state-of-the-union-address,-10,NA,-7.7836021999504865,8.409061102215827e-7
+Emerson College,NA,2026-02-21,2026-02-22,1000,LV,50.4,42.4,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/,-8,NA,-6.785043250247945,4.2227884507033515e-6
+Global Strategy Group,Campaign for a Family Friendly Economy PAC,2026-02-17,2026-02-22,1051,LV,48,40,https://www.semafor.com/article/03/23/2026/poll-caretaking-anecdotes-resonate-with-voters,-8,NA,-6.587309990071674,6.3993335014277315e-6
+Morning Consult,NA,2026-02-20,2026-02-22,2202,RV,46,42,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.932986239370869,1.45345309421195e-6
+Morning Consult,NA,2026-02-16,2026-02-22,26087,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,2.1901676789738152e-6
+Echelon Insights,NA,2026-02-19,2026-02-23,1002,LV,50,46,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/,-4,NA,-5.302883469336187,3.79454215075835e-6
+Grayhouse,America One Policies (super PAC),2026-02-20,2026-02-23,1394,RV,46,43,https://www.americaonepolicies.com/polls/attitudes-on-iran-the-economy-and-affordability,-3,REP,-3.814304910728886,1.8890124339922533e-6
+Ipsos,Reuters,2026-02-18,2026-02-23,3686,RV,40,38,https://www.reuters.com/world/us/most-americans-say-trump-is-growing-erratic-with-age-reutersipsos-poll-finds-2026-02-24/,-2,NA,-4.139615097667786,4.1560608835016455e-6
+YouGov,The Economist,2026-02-20,2026-02-23,1402,RV,45,41,https://today.yougov.com/politics/articles/54156-two-thirds-independents-disapprove-donald-trump-job-performance-february-20-23-2026-economist-yougov-poll,-4,NA,-4.4708795939583865,1.8444627353105e-6
+YouGov,Pennsylvania State University McCourtney Institute for Democracy,2026-02-18,2026-02-23,824,RV,42,37,https://democracy.psu.edu/poll-report-archive/democrats-have-edge-in-congressional-generic-ballot/,-5,NA,-5.4708795939583865,1.4140328029107376e-6
+Cygnal,American Principles Project (super PAC),2026-02-24,2026-02-26,1048,LV,48.3,44.6,https://act.americanprinciplesproject.org/p/protect-kids-online/results?access=press,-3.6999999999999957,REP,-4.534028516633221,4.496312630107346e-6
+Harris Insights & Analytics,Harvard CAPS,2026-02-25,2026-02-26,NA,LV,50,50,https://harvardharrispoll.com/key-results-february-2026/,0,NA,-2.566926547874118,4.157289315805257e-6
+TIPP Insights,Issues & Insights,2026-02-24,2026-02-27,1264,RV,45.5,44.2,https://tippinsights.com/americas-stalemate/,-1.2999999999999972,NA,-3.363103343499766,1.1659058551222377e-5
+YouGov,CBS News,2026-02-25,2026-02-27,1523,RV,45,40,https://www.cbsnews.com/news/2026-midterm-primary-season-opinion-poll/,-5,NA,-5.4708795939583865,2.7157578358487244e-6
+The Public Sentiment Institute,NA,2026-02-28,2026-02-28,249,LV,50.1,41,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,-9.100000000000001,NA,-5.8184221872506114,1.809555499972236e-6
+Morning Consult,NA,2026-02-23,2026-03-01,NA,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,2.0921180815387897e-6
+YouGov,The Economist,2026-02-27,2026-03-02,1366,RV,45,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ubu5DXD.pdf,-4,NA,-4.4708795939583865,3.2379224227376765e-6
+Quantus Insights,NA,2026-03-02,2026-03-03,1624,LV,47.7,42.2,https://quantusinsights.org/f/latest-survey-the-hardening-of-american-opinion,-5.5,NA,-6.605650774293927,1.9226378891064404e-6
+Hart Research Associates/Public Opinion Strategies,NBC News,2026-02-27,2026-03-03,1000,RV,50,44,https://www.nbcnews.com/politics/2026-election/poll-trump-struggles-immigration-prices-iran-democrats-midterm-edge-rcna261861,-6,NA,-6.166622073398543,1.0663158303011644e-5
+Cygnal,NA,2026-03-03,2026-03-04,1500,LV,49,44.8,https://www.cygn.al/polls/march-2026-national-voter-trends-nvt-poll/,-4.200000000000003,NA,-4.881683178630233,1.0656914990718373e-5
+Marist College,NPR | PBS News,2026-03-02,2026-03-04,1392,RV,53,44,https://maristpoll.marist.edu/polls/election-security-march-2026/,-9,NA,-3.9821118124963917,1.6071926494474882e-5
+OH Predictive Insights,The Center Square,2026-03-02,2026-03-05,2659,RV,44,43,https://www.thecentersquare.com/national/article_c3795c17-be14-4566-a625-eb38b4ffc1bf.html,-1,NA,-2.0403581695367663,2.31510309333803e-5
+RMG Research,Napolitan News Service,2026-03-02,2026-03-05,2000,RV,46,46,https://napolitannews.org/posts/generic-ballot-dem-44-percent-gop-43-dems-also-more-enthusiastic,0,NA,-3.1942378485319978,1.1876871830805064e-5
+Clarity Campaign Labs,NA,2026-02-26,2026-03-07,1004,LV,47,43,https://www.claritycampaigns.com/clarity-omnibus-2026-mar,-4,NA,-3.6008504524737717,1.1487486537989622e-5
+Morning Consult,NA,2026-03-06,2026-03-08,2202,RV,47,43,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-4,NA,-5.932986239370869,4.627463704355443e-6
+Morning Consult,NA,2026-03-02,2026-03-08,NA,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,3.7395023178068914e-6
+McLaughlin & Associates,NA,2026-03-04,2026-03-09,1000,LV,47,43,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf,-4,NA,-8.257451458787152,2.6193594936261134e-6
+YouGov,The Economist,2026-03-06,2026-03-09,1405,RV,45,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_EcCnfRV.pdf,-3,NA,-3.4708795939583865,5.858934885411474e-6
+Focaldata,NA,2026-03-06,2026-03-10,1534,RV,48,42,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,-6,NA,-5.832700028091828,1.5448169418540715e-5
+Change Research,NA,2026-03-08,2026-03-12,1540,RV,47,41,https://portal.changeresearch.com/portal/projects/61cdcd30-3c32-4785-9ccb-5fe82cb36389,-6,NA,-6.683124847603608,1.3940177969079158e-5
+Morning Consult,NA,2026-03-09,2026-03-15,26634,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,1.2515524127720076e-5
+Survey 160,NA,2026-03-09,2026-03-15,1546,RV,48,38,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-march-2026,-10,NA,-6.188276731611047,8.161497582651603e-6
+Echelon Insights,NA,2026-03-12,2026-03-16,1033,LV,49,44,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/,-5,NA,-6.302883469336187,2.08568672167362e-5
+Morning Consult,NA,2026-03-13,2026-03-16,2201,RV,48,40,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,-8,NA,-9.93298623937087,9.199105330583012e-6
+YouGov,The Economist,2026-03-13,2026-03-16,1429,RV,43,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CwWXhS2.pdf,-2,NA,-2.4708795939583865,1.0843734537400962e-5
+YouGov,Yahoo News,2026-03-12,2026-03-16,1148,RV,44,40,https://www.yahoo.com/news/politics/article/poll-66-of-americans-disapprove-of-trump-on-gas-prices-as-they-feel-effects-of-iran-war-120000483.html,-4,NA,-4.4708795939583865,9.719271340325125e-6
+Emerson College,NA,2026-03-16,2026-03-17,1000,LV,49.2,41.5,https://emersoncollegepolling.com/march-2026-national-poll-47-oppose-us-military-action-in-iran-40-support/,-7.700000000000003,NA,-6.485043250247948,2.7588049608630433e-5
+The Argument/Verasight,NA,2026-03-12,2026-03-17,1519,RV,54,46,https://substack.com/inbox/post/191802614,-8,NA,-7.9581344044960005,7.701317629689648e-6
+The Winston Group,Winning the Issues,2026-03-15,2026-03-17,1000,RV,49,40,https://www.winningtheissues.org/wp-content/uploads/2026/04/March-2026-Winning-the-Issues-Survey.pdf,-9,REP,-8.458918066235562,4.153016355586266e-5
+John Zogby Strategies,NA,2026-03-17,2026-03-18,1000,LV,46.3,45.8,https://x.com/zogbystrategies/status/2036096236139245673?s=20,-0.5,NA,-2.068050938674652,2.3146694798787492e-5
+Quantus Insights,NA,2026-03-17,2026-03-18,1053,LV,46.7,41.7,https://quantusinsights.org/f/national-survey-a-divided-country-and-a-motivated-electorate#ddfaccf9-bede-412a-8ce9-6f9ddda07554,-5,NA,-6.223075468705211,5.363018471692163e-6
+Verasight,Strength In Numbers,2026-03-16,2026-03-18,1370,RV,49,43,https://www.gelliottmorris.com/p/2026-03-24-march-sin-verasight-poll-main-release,-6,NA,-3.7836021999504865,6.839280207527719e-6
+Ipsos,Reuters,2026-03-17,2026-03-19,1206,RV,40,37,https://www.ipsos.com/en-us/americans-think-its-likely-us-will-send-troops-iran,-3,NA,-5.139615097667786,1.710210488854317e-5
+Impact Research/BSP Research,Third Way | UnidosUS,2026-03-10,2026-03-20,1000,LV,45,41,https://www.thirdway.org/memo/president-trumps-immigration-problem,-4,NA,-5.12342021026835,1.362532204752697e-5
+Morning Consult,NA,2026-03-16,2026-03-22,12505,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,2.1974579460162857e-5
+Morning Consult,Gambling Is Not Investing,2026-03-17,2026-03-22,15029,A,47,42,https://www.gamblingisnotinvesting.com/morning-consult-poll-reveals-americans-concerns-with-prediction-markets/,-5,NA,-6.212020452244268,2.1974579460162857e-5
+Ipsos,Reuters,2026-03-20,2026-03-23,985,RV,40,38,https://www.ipsos.com/en-us/economy-and-foreign-conflicts-now-publics-top-two-issue-concerns,-2,NA,-4.139615097667786,2.101006327483396e-5
+Quinnipiac University,NA,2026-03-19,2026-03-23,1191,RV,51,40,https://poll.qu.edu/poll-release?releaseid=3953,-11,NA,-8.04108902788689,4.920778201369269e-5
+Yale University Institution for Social and Policy Studies,NA,2026-03-09,2026-03-23,3429,RV,46,44,https://youthpoll.yale.edu/spring-2026-results,-2,NA,-3.2247997163936546,3.176365853224575e-5
+YouGov,The Economist,2026-03-20,2026-03-23,1502,RV,45,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_o84FoNw.pdf,-3,NA,-3.4708795939583865,1.951952566270219e-5
+Harris Insights & Analytics,Harvard CAPS,2026-03-25,2026-03-26,NA,LV,52,48,https://harvardharrispoll.com/key-results-march-2026/,-4,NA,-6.566926547874118,3.9060176871261454e-5
+Quantus Insights,NA,2026-03-25,2026-03-26,1472,LV,47,41.3,https://quantusinsights.org/f/new-quantus-survey-a-sour-national-mood-and-a-midterm-warning,-5.700000000000003,NA,-6.80565077429393,1.1716979737045396e-5
+Morning Consult,NA,2026-03-23,2026-03-29,26725,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,3.9756326226172246e-5
+SSRS,CNN,2026-03-26,2026-03-30,951,RV,48,42,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,-6,NA,-6.282671970179592,5.0425336808641726e-5
+YouGov,The Economist,2026-03-27,2026-03-30,1505,RV,45,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_3wplfYX.pdf,-6,NA,-6.4708795939583865,3.435392986654911e-5
+University of Massachusetts Lowell,NA,2026-03-26,2026-03-30,1000,A,38,35,https://www.uml.edu/news/press-releases/2026/2026-nat-poll-march.aspx,-3,NA,-4.5404002773870715,1.4050879822129146e-4
+Cygnal,NA,2026-04-02,2026-04-03,1500,LV,48.8,43.3,https://www.cygn.al/polls/april-2026-national-voter-trends-nvt-poll/,-5.5,NA,-6.18168317863023,1.3052001979738467e-4
+YouGov,The Economist,2026-04-03,2026-04-06,1560,RV,44,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SVRZJH8.pdf,-2,NA,-2.4708795939583865,6.348630752439565e-5
+Change Research,NA,2026-04-03,2026-04-07,2702,RV,47,42,https://portal.changeresearch.com/portal/projects/25b5e88c-5e8c-4f1b-9d0e-340163792181,-5,NA,-5.683124847603608,1.663653685304587e-4
+Echelon Insights,NetChoice,2026-04-03,2026-04-09,2880,LV,50,45,https://netchoice.org/new-72-of-americans-want-regulators-to-focus-on-lowering-prices-ahead-of-midterms-not-punishing-success/,-5,NA,-5.500810857842346,2.4070537174694689e-4
+Tavern Research,NA,2026-04-06,2026-04-09,502,LV,44,43,https://www.tavernresearch.com/research-and-writings/cutting-room-floor-april-10-2026,-1,NA,-3.940755802262764,5.513409355424726e-5
+Morning Consult,NA,2026-04-06,2026-04-09,2200,RV,46,42,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,-4,NA,-5.932986239370869,7.015393484206746e-5
+RMG Research,Napolitan News Service,2026-04-06,2026-04-09,2000,RV,45,42,https://napolitannews.org/posts/generic-ballot-dem-45-percent-gop-42-dems-also-more-enthusiastic,-3,NA,-6.194237848531998,2.012973718636557e-4
+Survey 160,NA,2026-04-08,2026-04-13,1539,RV,47,37,https://www.survey160.com/methodological-research-blog/survey-160-tracking-poll-april-2026,-10,NA,-6.188276731611047,1.0665128340096947e-4
+YouGov,The Economist,2026-04-10,2026-04-13,1573,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,-5,NA,-5.4708795939583865,1.1267558608521766e-4
+Verasight,Strength In Numbers,2026-04-10,2026-04-14,1386,RV,50,43,https://www.gelliottmorris.com/p/2026-04-21-april-strength-in-numbers-verasight-poll,-7,NA,-4.7836021999504865,6.309589384537205e-5
+McLaughlin & Associates,NA,2026-04-08,2026-04-15,1000,LV,47,43,https://mclaughlinonline.com/2026/04/17/national-monthly-april-2026/,-4,NA,-8.257451458787152,5.011681314390698e-5
+GBAO,Third Way,2026-04-08,2026-04-15,2000,RV,48,40,https://www.thirdway.org/memo/the-cost-of-misplaced-priorities-trumps-coalition-frays,-8,NA,-6.629588064122956,5.405930162084023e-4
+Marquette University Law School,NA,2026-04-08,2026-04-16,576,LV,53,43,https://law.marquette.edu/poll/2026/04/22/detailed-results-of-the-marquette-law-school-supreme-court-poll-april-8-16-2026-national-issues/,-10,NA,-9.651967956467367,3.030133932700468e-4
+John Zogby Strategies,NA,2026-04-17,2026-04-18,1001,LV,48.3,44.4,https://x.com/zogbystrategies/status/2047123700990767164,-3.8999999999999986,NA,-5.468050938674651,3.0625626865177073e-4
+KFF,NA,2026-04-14,2026-04-19,1107,RV,43,34,https://www.kff.org/public-opinion/kff-health-tracking-poll-health-care-costs-and-the-midterms/,-9,NA,-8.263100917100658,1.4335755536245683e-4
+Hart Research Associates/Public Opinion Strategies,CNBC,2026-04-15,2026-04-19,1000,A,49,45,https://www.cnbc.com/2026/04/23/trumps-approval-rating-on-economy-and-overall-falls-to-lowest-of-his-two-terms-cnbc-survey-shows.html,-4,NA,-3.009455138788759,4.81502063766262e-4
+Echelon Insights,NA,2026-04-17,2026-04-20,1012,LV,50,44,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus,-6,NA,-7.302883469336187,3.319299659897697e-4
+Beacon Research/Shaw & Co. Research,FOX News,2026-04-17,2026-04-20,1001,RV,52,47,https://www.foxnews.com/politics/fox-news-poll-economic-gloom-trump-ratings-signal-tough-gop-midterm-path,-5,NA,-3.7982445861761605,7.354417124945947e-4
+Ipsos,Reuters,2026-04-15,2026-04-20,3577,RV,41,38,https://www.ipsos.com/en-us/americans-remain-skeptical-trumps-handling-inflation,-3,NA,-5.139615097667786,3.83934425598141e-4
+Morning Consult,NA,2026-04-17,2026-04-20,2203,RV,45,42,https://drive.google.com/file/d/16-z92A-iefFFRxX8Un1CsEheV3rAzTv8/view,-3,NA,-4.932986239370869,1.6997915385303294e-4
+YouGov,The Economist,2026-04-17,2026-04-20,1553,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_I24AWdp.pdf,-5,NA,-5.4708795939583865,1.9831982809866743e-4
+Leger,338Canada | Maintenant Media,2026-04-17,2026-04-20,1004,A,41,33,https://leger360.com/en/us-politics-and-public-sentiment-trends-from-the-april-2026-survey-of-americans/,-8,NA,-6.643613078959227,6.172784088414067e-4
+Quantus Insights,NA,2026-04-21,2026-04-23,1452,LV,46.5,42.3,https://quantusinsights.org/f/quantus-survey-a-divided-electorate-a-narrow-democratic-edge,-4.200000000000003,NA,-5.801770639367298,1.2885544947566316e-4
+The Argument/Verasight,NA,2026-04-20,2026-04-23,1516,RV,53,47,https://substack.com/inbox/post/195808638,-6,NA,-5.9581344044960005,1.612555653441414e-4
+Clarity Campaign Labs,NA,2026-04-15,2026-04-24,1000,LV,50,45,https://www.claritycampaigns.com/clarity-omnibus-2026-april,-5,NA,-4.600850452473772,5.589896780778019e-4
+Emerson College,NA,2026-04-24,2026-04-26,1000,LV,50.3,40.2,https://emersoncollegepolling.com/april-2026-national-poll/,-10.099999999999994,NA,-8.046939125793592,6.863153303289036e-4
+Harris Insights & Analytics,Harvard CAPS,2026-04-23,2026-04-26,NA,LV,50,50,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf,0,NA,-2.566926547874118,4.7154434979290933e-4
+Morning Consult,NA,2026-04-20,2026-04-26,28235,RV,45,42,https://pro.morningconsult.com/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,4.2390417805500825e-4
+Ipsos,Reuters,2026-04-24,2026-04-27,1014,RV,41,37,https://www.ipsos.com/en-us/americans-increasingly-feel-economy-wrong-track,-4,NA,-6.139615097667786,3.498242371619953e-4
+Morning Consult,NA,2026-04-24,2026-04-27,2201,RV,45,42,https://drive.google.com/file/d/1EfsROZrVDVFJ0h5GyYAl49RJFkg_VzXW/view,-3,NA,-4.932986239370869,3.036868937978532e-4
+Public Opinion Strategies,CoinDesk,2026-04-21,2026-04-27,1000,RV,44,41,https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows,-3,NA,-5.100952545737073,0.0012934720592990656
+YouGov,The Economist,2026-04-24,2026-04-27,1647,RV,46,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,-5,NA,-5.4708795939583865,3.627044500927271e-4
+Ipsos,ABC News | The Washington Post,2026-04-24,2026-04-28,2059,RV,49,44,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,-5,NA,-7.139615097667786,5.382603939441057e-4
+Marist College,NPR | PBS,2026-04-27,2026-04-30,1155,RV,52,42,https://maristpoll.marist.edu/polls/president-trump-while-at-war-may-2026/,-10,NA,-4.982111812496392,0.0016445773695556657
+Morning Consult,NA,2026-04-30,2026-05-03,2200,RV,46,43,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,-3,NA,-4.932986239370869,4.812019389677532e-4
+SSRS,CNN,2026-04-30,2026-05-04,NA,RV,45,42,https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact,-3,NA,-3.2826719701795923,0.0012871218318055617
+YouGov,The Economist,2026-05-01,2026-05-04,1409,RV,44,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,-3,NA,-3.4708795939583865,5.975523621069735e-4
+Harris Insights & Analytics,Forbes,2026-04-29,2026-05-05,1891,LV,48,42,https://www.harrisx.com/posts/forbes-and-harrisx-partner-on-new-american-confidence-survey-as-gallup-ends-approval-polling,-6,NA,-8.566926547874118,0.0010789190635182681
+Focaldata,Financial Times,2026-05-01,2026-05-05,3167,RV,49,42,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll,-7,NA,-6.832700028091828,0.0019998649628796923
+Cygnal,NA,2026-05-05,2026-05-06,1500,LV,48.5,42.4,https://www.cygn.al/wp-content/uploads/2026/05/23838-Cygnal-National-May26-NVT-Deck-Public.pdf,-6.100000000000001,NA,-6.781683178630232,0.0018973458394264944
+RMG Research,Napolitan News Service,2026-05-04,2026-05-06,2000,RV,50,41,https://napolitannews.org/posts/generic-ballot-dem-50-percent-gop-41-dems-also-more-enthusiastic,-9,NA,-12.194237848531998,0.0019583203381625474
+Cygnal,Conservative Energy Network,2026-05-04,2026-05-07,1500,LV,48,41,https://conservativeenergynetwork.org/new-national-poll-americans-demand-action-on-rising-energy-costs-support-modernizing-the-grid-and-expanding-domestic-energy-production/,-7,REP,-7.499347476172112,0.0016389655294068376
+AtlasIntel,NA,2026-05-04,2026-05-07,2069,A,54.6,40.1,https://www.atlasintel.org/poll/usa-national-2026-05-11,-14.5,NA,-8.242124200526263,0.0040091794111097164
+Change Research,NA,2026-05-05,2026-05-10,2244,RV,45,42,https://portal.changeresearch.com/portal/projects/07dc6ff6-bb96-4bc5-a138-90b0ab3b22db,-3,NA,-3.683124847603608,0.0026992721769185765
+Ipsos,Reuters,2026-05-08,2026-05-11,993,RV,41,35,https://www.ipsos.com/en-us/two-thirds-say-rising-gas-prices-have-affected-their-household-finances,-6,NA,-8.139615097667786,0.0010838475061660832
+YouGov,The Economist,2026-05-09,2026-05-11,1410,RV,45,40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ONiR6Nb.pdf,-5,NA,-5.4708795939583865,0.0010684584573093226
+The New York Times/Siena College,NA,2026-05-11,2026-05-15,1507,RV,50,39,https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html,-11,NA,-9.268253784880038,0.006558901612011121
+YouGov,CBS News,2026-05-13,2026-05-15,1397,RV,45,40,https://www.cbsnews.com/news/redistricting-elections-opinion-poll-19-may-2026/,-5,NA,-5.4708795939583865,0.0015162679796076506
+Morning Consult,NA,2026-05-11,2026-05-17,28525,RV,46,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-4,NA,-5.932986239370869,0.002491259949240333
+Morning Consult,NA,2026-05-15,2026-05-17,2203,RV,47,41,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,-6,NA,-7.932986239370869,0.0016536412322338697
+Data For Progress,NA,2026-05-15,2026-05-18,1149,LV,51,43,https://www.dataforprogress.org/blog/2026/5/21/democrats-lead-the-generic-ballot-by-8-points-as-midterms-approach,-8,NA,-7.316507309862999,0.0013526126883038933
+Echelon Insights,NA,2026-05-14,2026-05-18,1008,LV,51,43,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus,-8,NA,-9.302883469336187,0.00366812544362478
+McLaughlin & Associates,NA,2026-05-12,2026-05-18,1000,LV,46,42,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf,-4,NA,-8.257451458787152,7.285390168613221e-4
+Impact Research/National Research,The Wall Street Journal,2026-05-07,2026-05-18,1500,RV,48,40,https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9,-8,NA,-7.32762120754591,0.0010928085252919829
+Impact Research/National Research,Wall Street Journal,2026-05-07,2026-05-18,1500,RV,48,40,https://www.wsj.com/economy/americas-economic-anxiety-is-rising-up-the-income-ladder-d77b97d4,-8,NA,-7.763822355029092,0.0010928085252919829
+Ipsos,Reuters,2026-05-15,2026-05-18,984,RV,39,38,https://www.ipsos.com/en-us/americas-frustration-cost-living-continues-rise,-1,NA,-3.139615097667786,0.002184683148707377
+McLaughlin & Associates,America's New Majority Project | Gingrich 360,2026-05-14,2026-05-18,2000,RV,39,36,https://www.americasnewmajorityproject.net/p/democrat-lawmakers-are-taking-positions,-3,REP,-6.894462647247188,8.242478066905943e-4
+Quinnipiac University,NA,2026-05-14,2026-05-18,1106,RV,50,39,https://poll.qu.edu/poll-release?releaseid=3959,-11,NA,-8.04108902788689,0.004272359298996448
+The Rainey Center,NA,2026-05-17,2026-05-18,1010,RV,45,43,https://www.raineycenter.org/polling/data-centers-voters-are-persuadable-but-they-want-accountability-and-clean-energy,-2,NA,-5.736967596086764,0.0012681602305073532
+YouGov,The Economist,2026-05-15,2026-05-18,1380,RV,46,43,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,-3,NA,-3.4708795939583865,0.001897218294550878
+Verasight,Strength In Numbers,2026-05-18,2026-05-19,1413,RV,51,43,https://www.gelliottmorris.com/p/2026-05-26-may-strength-in-numbers-verasight-poll,-8,NA,-5.7836021999504865,0.0011452567473497794
+Verasight/Morris Predictive Insights,UNITE HERE,2026-05-18,2026-05-20,2000,A,52,41,https://morrispredictive.com/assets/surveys/tyg730HYHsJ/topline.pdf,-11,NA,-7.986013845682898,0.0020806312026803195
+John Zogby Strategies,NA,2026-05-21,2026-05-22,NA,LV,49,42,https://johnzogbystrategies.com/the-latest-zogby-political-poll-trump-economic-concerns-war-trends-05-22-26/,-7,NA,-8.568050938674652,0.007056603606776327
+Morning Consult,NA,2026-05-18,2026-05-24,24849,RV,46,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-4,NA,-5.932986239370869,0.00455772747043042
+Emerson College,NA,2026-05-24,2026-05-25,1000,LV,49.8,41.3,https://emersoncollegepolling.com/may-2026-national-poll/,-8.5,NA,-7.285043250247945,0.007784594518415493
+Marquette University Law School,NA,2026-05-20,2026-05-26,576,LV,49,48,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,-1,NA,-0.6519679564673666,0.007995410896436416
+YouGov,The Economist,2026-05-22,2026-05-26,1397,RV,46,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aWdgoE7.pdf,-5,NA,-5.4708795939583865,0.003943643395032249
+YouGov,Pennsylvania State University McCourtney Institute for Democracy,2026-05-19,2026-05-26,826,RV,41,37,https://democracy.psu.edu/poll-report-archive/fewer-than-four-in-ten-americans-think-president-trump-is-doing-a-good-job/,-4,NA,-4.4708795939583865,0.003032420734116322
+TIPP Insights,Issues & Insights,2026-05-26,2026-05-28,1332,RV,46,41,https://issuesinsights.com/2026/06/15/does-either-party-have-an-edge-in-2026-midterms-and-2028-presidential-election-ii-tipp-poll/,-5,NA,-7.063103343499769,0.016926106010302713
+Harris Insights & Analytics,Harvard CAPS,2026-05-29,2026-05-31,NA,LV,52,48,https://harvardharrispoll.com/wp-content/uploads/2026/06/HHP_May2026_KeyResults.pdf,-4,NA,-6.566926547874118,0.009788230995549742
+Morning Consult,NA,2026-05-25,2026-05-31,NA,RV,45,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-3,NA,-4.932986239370869,0.004182886949926439
+Focaldata,Financial Times,2026-05-29,2026-06-01,1537,RV,48,43,https://www.focaldata.com/blog/trump-inflation-approval-crashes-to-record-low,-5,NA,-4.832700028091828,0.015650512783917485
+YouGov,The Economist,2026-05-29,2026-06-01,1453,RV,46,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_AvLU7vY.pdf,-4,NA,-4.4708795939583865,0.006814409284301719
+Quantus Insights,NA,2026-06-01,2026-06-02,1050,LV,47,42.3,https://quantusinsights.org/f/quantus-insights-trump-underwater-democrats-hold-edge,-4.700000000000003,NA,-6.301770639367298,0.0028912995885338254
+The Bullfinch Group,NA,2026-05-29,2026-06-02,1000,RV,42,36,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-q2-nationwide-survey-4,-6,NA,-3.9400379725701455,0.0028216194793662243
+Cygnal,NA,2026-06-02,2026-06-03,1500,LV,49,44,https://www.cygn.al/news/poll-independents-arent-who-you-think-they-are-the-left-americas-250-and-who-trump-has-lost-since-the-inauguration/,-5,NA,-5.68168317863023,0.028186455112747383
+The Argument/Verasight,NA,2026-05-29,2026-06-03,3008,RV,53,47,https://www.theargumentmag.com/p/the-biggest-issue-in-american-politics,-6,NA,-5.9581344044960005,0.007472840142165923
+OH Predictive Insights,Center Square,2026-06-01,2026-06-04,2585,RV,47,41,https://www.thecentersquare.com/national/article_068f34af-cac1-4328-b582-915d04044322.html,-6,NA,-6.802223046823208,0.03485698114216332
+RMG Research,Napolitan News Service,2026-06-01,2026-06-04,2000,RV,49,45,https://napolitannews.org/posts/generic-ballot-dem-49-percent-gop-45-dems-more-enthusiastic,-4,NA,-7.194237848531998,0.02564870241810588
+Clarity Campaign Labs,NA,2026-05-28,2026-06-05,1045,LV,48,45,https://www.claritycampaigns.com/clarity-omnibus-2026-may,-3,NA,-2.6008504524737717,0.020299106944645224
+Research Co.,NA,2026-06-04,2026-06-06,1001,A,38,33,https://researchco.ca/2026/06/15/uspoli-june2026/,-5,NA,-4.955841476807677,0.022384695971451637
+Harris Insights & Analytics,Forbes,2026-05-20,2026-06-07,1137,LV,46,45,https://www.harrisx.com/content/forbes-harrisx-american-confidence-tracker-june-2026,-1,NA,-4.702197416586543,0.014894925402685694
+Hart Research Associates/Public Opinion Strategies,NBC News | More Perfect,2026-05-29,2026-06-07,2400,RV,49,44,https://www.nbcnews.com/politics/2026-election/poll-democrats-maintain-edge-fight-congress-trump-gets-poor-marks-rcna348913,-5,NA,-5.166622073398543,0.04534737004768882
+Morning Consult,NA,2026-06-01,2026-06-07,24849,RV,46,42,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,-4,NA,-5.932986239370869,0.015793523736808094
+Emerson College,NA,2026-06-07,2026-06-08,1200,LV,50.3,39.5,https://emersoncollegepolling.com/june-2026/,-10.799999999999997,NA,-8.87335768718922,0.024974297784645008
+Ipsos,Reuters,2026-06-03,2026-06-08,3578,RV,41,37,https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/,-4,NA,-6.139615097667786,0.026954758958212845
+YouGov,The Economist,2026-06-05,2026-06-08,1438,RV,45,41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,-4,NA,-4.4708795939583865,0.01253088021369796
+The Public Sentiment Institute,NA,2026-06-12,2026-06-13,1042,LV,49.8,40.9,https://tpsiofficial.substack.com/p/tpsi-junes-national-benchmark-poll,-8.899999999999999,NA,-6.182359676030892,0.009475758175462265
+Echelon Insights,NA,2026-06-11,2026-06-14,1012,LV,50,44,https://echeloninsights.com/insights/june-2026-verified-voter-omnibus,-6,NA,-7.302883469336187,0.03575607166947313
+Morning Consult,NA,2026-06-08,2026-06-14,24000,RV,45.8,41.9,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-Midterm-Ballot_260622.html,-3.8999999999999986,NA,-5.832986239370875,0.030218115532730003
+Marquette University Law School,NA,2026-06-09,2026-06-15,827,LV,53,45,https://law.marquette.edu/poll/2026/06/24/detailed-results-of-the-marquette-law-school-supreme-court-poll-july-9-15-2026/,-8,NA,-7.651967956467367,0.05474801919500812
+Ipsos,Reuters,2026-06-12,2026-06-15,1195,RV,41,38,https://www.ipsos.com/en-us/reutersipsos-june-2026-poll-0,-3,NA,-5.139615097667786,0.026658307328116075
+YouGov,The Economist,2026-06-13,2026-06-15,1403,RV,46,44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GpnDRNm.pdf,-2,NA,-2.4708795939583865,0.02594238700611959
+The Bullfinch Group,The Independent Center,2026-06-12,2026-06-16,1000,RV,44,36,https://independentcentervoice.com/insights/the-local-antidote-how-stepping-away-from-national-screens-unites-americans,-8,NA,-5.3761004837898625,0.008263520551686583
+Quantus Insights,NA,2026-06-16,2026-06-17,1000,LV,47,43,https://quantusinsights.org/f/new-survey-trump-approval-lags-as-voters-weigh-2026-midterms,-4,NA,-5.601770639367295,0.012618665925000886
+Morning Consult,NA,2026-06-15,2026-06-21,29540,RV,45.6,42,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-Midterm-Ballot_260622.html,-3.6000000000000014,NA,-5.532986239370871,0.05971316335942434
+Echelon Insights,NA,2026-06-18,2026-06-22,1003,LV,51,45,https://echeloninsights.com/insights/june-2026-america-250-verified-voter-omnibus,-6,NA,-7.302883469336187,0.0657773959127235
+Ipsos,Reuters,2026-06-18,2026-06-22,978,RV,41,36,https://www.ipsos.com/en-us/few-expect-us-iran-preliminary-agreement-bring-lasting-peace,-5,NA,-7.139615097667786,0.04127160691045149
+Quinnipiac University,NA,2026-06-18,2026-06-22,1165,RV,49,42,https://poll.qu.edu/poll-release?releaseid=3961,-7,NA,-4.0410890278868905,0.09101958117257064
+Verasight,Strength In Numbers,2026-06-17,2026-06-22,1896,RV,50,43,https://www.gelliottmorris.com/p/2026-06-24-june-strength-in-numbers-verasight-poll,-7,NA,-4.7836021999504865,0.02550347007897767
+YouGov,The Economist,2026-06-19,2026-06-22,1517,RV,45,43,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v8p0Pe8.pdf,-2,NA,-2.4708795939583865,0.053306060802192586
+McLaughlin & Associates,NA,2026-06-17,2026-06-23,1000,LV,46,43,https://mclaughlinonline.com/2026/06/25/national-monthly-june-2026/,-3,NA,-7.257451458787152,0.019999237722474927
