@@ -2831,3 +2831,6 @@ environment,YouGov,06/26/2026,6/29/2026,1606,A,35,53,-18,https://d3nkl3psvxxpe9.
 education,YouGov,06/26/2026,6/29/2026,1606,A,37,52,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1tbbxVr.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,06/26/2026,6/29/2026,1606,A,35,51,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1tbbxVr.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 healthcare,YouGov,06/26/2026,6/29/2026,1606,A,34,57,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_1tbbxVr.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,The Winston Group,05/30/2026,6/2/2026,1000,RV,35,60,-25,https://www.winningtheissues.org/2026/06/13/may-2026-winning-the-issues-survey/,Winning the Issues,NA,FALSE,NA,REP,NA
+inflation,The Winston Group,05/30/2026,6/2/2026,1000,RV,29,64,-35,https://www.winningtheissues.org/2026/06/13/may-2026-winning-the-issues-survey/,Winning the Issues,NA,FALSE,NA,REP,NA
+trade_tariffs,The Winston Group,05/30/2026,6/2/2026,1000,RV,32,61,-29,https://www.winningtheissues.org/2026/06/13/may-2026-winning-the-issues-survey/,Winning the Issues,NA,FALSE,NA,REP,NA
