@@ -1426,10 +1426,15 @@ Tavern Research,Zeteo | Searchlight Institute,2026-06-24,2026-06-26,1493,LV,40,5
 Harris Insights & Analytics,2Way,2026-07-09,2026-07-10,1019,RV,42,56,NA,https://www.youtube.com/watch?v=Qe1LGjG3s5A,Online Opt-In Panel,FALSE,NA,NA
 Harris Insights & Analytics,2Way,2026-07-09,2026-07-10,789,LV,45,54,NA,https://www.youtube.com/watch?v=Qe1LGjG3s5A,Online Opt-In Panel,FALSE,NA,NA
 YouGov,Winthrop University Center for Public Opinion & Policy Research,2026-06-18,2026-06-23,2150,A,34,59,7,https://www.winthrop.edu/winthroppoll/2026-july-winthroppoll-results.aspx,Online Matched Sample,FALSE,NA,NA
-Zogby Analytics,NA,2026-07-01,2026-07-04,1003,LV,41.5,57.1,1.3,https://zogbyanalytics.com/news/1243-the-zogby-poll-r-latest-likely-voter-survey-results-2,Probability Panel,FALSE,NA,NA
+Zogby Analytics,NA,2026-07-01,2026-07-04,1003,LV,41.5,57.1,1.3,https://zogbyanalytics.com/news/1243-the-zogby-poll-r-latest-likely-voter-survey-results-2,Online Opt-In Panel,FALSE,NA,NA
 Morning Consult,NA,2026-07-10,2026-07-13,2200,RV,45,52,NA,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,Online Opt-In Panel,FALSE,NA,NA
 YouGov,The Economist,2026-07-10,2026-07-13,1616,A,37,59,4,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ie0SzVb.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-07-10,2026-07-13,1450,RV,40,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ie0SzVb.pdf,Online Matched Sample,FALSE,NA,NA
 Harris Insights & Analytics,Harvard CAPS,2026-07-11,2026-07-12,1776,RV,42,54,NA,https://harvardharrispoll.com/wp-content/uploads/2026/07/HHP_Jul2026_KeyResults.pdf,Online Opt-In Panel,FALSE,NA,NA
 Harris Insights & Analytics,Harvard CAPS,2026-07-11,2026-07-12,NA,LV,45,54,NA,https://harvardharrispoll.com/wp-content/uploads/2026/07/HHP_Jul2026_KeyResults.pdf,Online Opt-In Panel,FALSE,NA,NA
 Echelon Insights,NA,2026-07-09,2026-07-13,1004,LV,38,61,1,https://echeloninsights.com/insights/july-2026-verified-voter-omnibus-1,Online Opt-In Panel,FALSE,NA,NA
+AlphaROC,The Independent Center,2026-07-13,2026-07-14,1000,A,38.5,57.4,NA,https://independentcentervoice.com/insights/republicans-move-sharply-toward-independents-and-the-overall-market-holds,Online Opt-In Panel,FALSE,NA,NA
+Ipsos,The Washington Post,2026-07-08,2026-07-13,2648,A,37,61,NA,https://www.washingtonpost.com/politics/2026/07/16/trump-approval-stuck-30s-post-ipsos-poll-shows/,Probability Panel,FALSE,NA,NA
+Ipsos,The Washington Post,2026-07-08,2026-07-13,2092,RV,40,59,NA,https://www.washingtonpost.com/politics/2026/07/16/trump-approval-stuck-30s-post-ipsos-poll-shows/,Probability Panel,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-07-06,2026-07-14,2000,RV,44,53,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,FALSE,NA,NA
+Hart Research Associates/Public Opinion Strategies,CNBC,2026-07-08,2026-07-12,1000,RV,40,59,1,https://www.cnbc.com/2026/07/17/democratic-socialists-top-maga-candidates-all-america-poll.html,NA,FALSE,NA,NA
