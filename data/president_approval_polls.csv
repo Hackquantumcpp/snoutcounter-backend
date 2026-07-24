@@ -1265,7 +1265,7 @@ Big Data Poll,Public Polling Project,2026-04-25,2026-04-28,2874,LV,40.7,56.9,2.4
 RMG Research,Napolitan News Service,2026-04-22,2026-04-30,3000,RV,42,57,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
 Change Research,NA,2026-04-03,2026-04-07,2702,RV,42,56,NA,https://changeresearch.com/who-do-voters-want-in-2028/,NA,FALSE,NA,NA
 ActiVote,NA,2026-04-01,2026-04-30,636,A,39.5,55.9,4.6,https://www.activote.net/trumps-approval-below-40/,App Panel,FALSE,NA,NA
-Pew Research Center,NA,2026-04-20,2026-04-26,5103,A,34,64,2,https://www.pewresearch.org/short-reads/2026/05/01/americans-remain-critical-of-trump-administrations-approach-to-iran/,Probability Panel,FALSE,NA,NA
+Pew Research Center,NA,2026-04-20,2026-04-26,5103,A,34,64,2,https://www.pewresearch.org/short-reads/2026/05/01/americans-remain-critical-of-trump-administrations-approach-to-iran/,Live Phone/Probability Panel,FALSE,NA,NA
 Ipsos,ABC News | The Washington Post,2026-04-24,2026-04-28,2560,A,37,62,1,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,Probability Panel,FALSE,NA,NA
 Ipsos,ABC News | The Washington Post,2026-04-24,2026-04-28,2059,RV,39,60,NA,https://www.washingtonpost.com/tablet/2026/04/30/april-24-28-2026-washington-post-abc-news-ipsos-poll/,Probability Panel,FALSE,NA,NA
 Public Opinion Strategies,CoinDesk,2026-04-21,2026-04-27,1000,RV,40,60,NA,https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows,NA,FALSE,NA,NA
@@ -1446,3 +1446,10 @@ YouGov,The Economist,2026-07-17,2026-07-20,1602,A,36,60,4,https://d3nkl3psvxxpe9
 YouGov,The Economist,2026-07-17,2026-07-20,1432,RV,40,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ESdiNMa.pdf,Online Matched Sample,FALSE,NA,NA
 American Research Group,NA,2026-07-16,2026-07-20,1100,A,30,67,NA,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
 American Research Group,NA,2026-07-16,2026-07-20,1004,RV,31,67,NA,https://americanresearchgroup.com/economy/,Live Phone,FALSE,NA,NA
+Beacon Research/Shaw & Co. Research,FOX News,2026-07-17,2026-07-20,1003,RV,39,61,NA,https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent,Live Phone/Text-to-Web,FALSE,NA,NA
+Emerson College,NA,2026-07-19,2026-07-20,1100,LV,39.2,56.7,4.1,https://emersoncollegepolling.com/july-2026-national-poll-democrats-with-11-point-generic-ballot-advantage/,Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
+J.L. Partners,Daily Mail,2026-07-17,2026-07-20,1021,RV,44,56,NA,https://www.dailymail.com/news/us-politics/article-15991575/americans-brutal-verdict-trump-iran-war.html,NA,FALSE,NA,NA
+Change Research,NA,2026-06-10,2026-06-17,1714,RV,39,60,NA,https://portal.changeresearch.com/portal/projects/92fca10b-bc07-4b9c-9d7b-f281ec087a74,NA,FALSE,NA,NA
+Change Research,NA,2026-07-13,2026-07-17,2006,RV,40,58,NA,https://portal.changeresearch.com/portal/projects/0bc92362-5cbd-4cb3-9ec4-8690c0780aad,NA,FALSE,NA,NA
+Pew Research Center,NA,2026-07-06,2026-07-12,3554,A,34,64,NA,https://www.pewresearch.org/politics/2026/07/23/as-the-2026-midterms-approach-economy-is-front-and-center/,Live Phone/Probability Panel,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-07-13,2026-07-21,3000,RV,46,52,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,FALSE,NA,NA
