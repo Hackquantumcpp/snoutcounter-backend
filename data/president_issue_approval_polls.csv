@@ -2921,3 +2921,48 @@ crime,YouGov,07/17/2026,7/20/2026,1602,A,41,49,-8,https://d3nkl3psvxxpe9.cloudfr
 immigration,YouGov,07/17/2026,7/20/2026,1602,A,39,54,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ESdiNMa.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 race_relations,YouGov,07/17/2026,7/20/2026,1602,A,32,54,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ESdiNMa.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 economy,American Research Group,07/16/2026,7/20/2026,1100,A,28,70,-42,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
+immigration,Beacon Research/Shaw & Co. Research,07/17/2026,7/20/2026,1003,RV,42,57,-15,https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+iran,Beacon Research/Shaw & Co. Research,07/17/2026,7/20/2026,1003,RV,34,66,-32,https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+economy,Beacon Research/Shaw & Co. Research,07/17/2026,7/20/2026,1003,RV,33,67,-34,https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+inflation,Beacon Research/Shaw & Co. Research,07/17/2026,7/20/2026,1003,RV,27,73,-46,https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+economy,YouGov,07/22/2026,7/24/2026,2193,A,35,65,-30,https://www.cbsnews.com/news/iran-conflict-trump-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,07/22/2026,7/24/2026,2193,A,29,71,-42,https://www.cbsnews.com/news/iran-conflict-trump-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,07/22/2026,7/24/2026,2193,A,42,58,-16,https://www.cbsnews.com/news/iran-conflict-trump-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+economy,Ipsos,07/24/2026,7/26/2026,1248,A,30,63,-33,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,07/24/2026,7/26/2026,1248,A,38,55,-17,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,07/24/2026,7/26/2026,1248,A,36,50,-14,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,07/24/2026,7/26/2026,1248,A,29,60,-31,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,07/24/2026,7/26/2026,1248,A,21,72,-51,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,07/24/2026,7/26/2026,1248,A,28,59,-31,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,Ipsos,07/24/2026,7/26/2026,1248,A,26,63,-37,https://www.ipsos.com/en-us/americans-unimpressed-ideas-both-major-parties,Reuters,Probability Panel,FALSE,NA,NA,NA
+environment,YouGov,07/25/2026,7/27/2026,1559,A,31,56,-25,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+education,YouGov,07/25/2026,7/27/2026,1559,A,33,54,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+abortion,YouGov,07/25/2026,7/27/2026,1559,A,32,53,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+healthcare,YouGov,07/25/2026,7/27/2026,1559,A,31,59,-28,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+foreign_policy,YouGov,07/25/2026,7/27/2026,1559,A,32,60,-28,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+nuclear_weapons,YouGov,07/25/2026,7/27/2026,1559,A,32,55,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,YouGov,07/25/2026,7/27/2026,1559,A,30,60,-30,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,Foreign trade,NA,NA
+immigration,Morning Consult,07/24/2026,7/26/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,07/24/2026,7/26/2026,2200,RV,47,45,2,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,07/24/2026,7/26/2026,2200,RV,44,46,-2,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,07/24/2026,7/26/2026,2200,RV,44,47,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,07/24/2026,7/26/2026,2200,RV,44,47,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+medicaire_social_security,Morning Consult,07/24/2026,7/26/2026,2200,RV,43,47,-4,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+taxes,Morning Consult,07/24/2026,7/26/2026,2200,RV,42,48,-6,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,07/24/2026,7/26/2026,2200,RV,42,49,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,07/24/2026,7/26/2026,2200,RV,42,50,-8,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,07/24/2026,7/26/2026,2200,RV,41,50,-9,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,Morning Consult,07/24/2026,7/26/2026,2200,RV,38,49,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,07/24/2026,7/26/2026,2200,RV,34,46,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,35,62,-27,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+gas_prices,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,22,75,-53,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+grocery_prices,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,24,72,-48,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,35,60,-25,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,35,59,-24,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,SSRS,07/23/2026,07/27/2026,1225,A,30,70,-40,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+immigration,SSRS,07/23/2026,07/27/2026,1225,A,39,61,-22,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+inflation,SSRS,07/23/2026,07/27/2026,1225,A,25,75,-50,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+govt_management,SSRS,07/23/2026,07/27/2026,1225,A,35,65,-30,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+iran,SSRS,07/23/2026,07/27/2026,1225,A,28,72,-44,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+elections,SSRS,07/23/2026,07/27/2026,1225,A,41,59,-18,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+gas_prices,SSRS,07/23/2026,07/27/2026,1225,A,21,79,-58,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
