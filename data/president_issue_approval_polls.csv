@@ -2966,3 +2966,15 @@ govt_management,SSRS,07/23/2026,07/27/2026,1225,A,35,65,-30,https://www.cnn.com/
 iran,SSRS,07/23/2026,07/27/2026,1225,A,28,72,-44,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
 elections,SSRS,07/23/2026,07/27/2026,1225,A,41,59,-18,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
 gas_prices,SSRS,07/23/2026,07/27/2026,1225,A,21,79,-58,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,CNN,Probability Panel,FALSE,NA,NA,NA
+immigration,Quinnipiac University,07/23/2026,7/27/2026,963,RV,40,57,-17,https://poll.qu.edu/poll-release?releaseid=3964,NA,Live Phone,FALSE,NA,NA,NA
+trade_tariffs,Quinnipiac University,07/23/2026,7/27/2026,963,RV,37,58,-21,https://poll.qu.edu/poll-release?releaseid=3964,NA,Live Phone,FALSE,NA,NA,NA
+economy,Quinnipiac University,07/23/2026,7/27/2026,963,RV,34,62,-28,https://poll.qu.edu/poll-release?releaseid=3964,NA,Live Phone,FALSE,NA,NA,NA
+foreign_policy,Quinnipiac University,07/23/2026,7/27/2026,963,RV,34,62,-28,https://poll.qu.edu/poll-release?releaseid=3964,NA,Live Phone,FALSE,NA,NA,NA
+iran,Quinnipiac University,07/23/2026,7/27/2026,963,RV,28,66,-38,https://poll.qu.edu/poll-release?releaseid=3964,NA,Live Phone,FALSE,NA,NA,NA
+inflation,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,30,66,-36,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,Inflation and prices,NA,NA
+iran,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,36,59,-23,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,37,58,-21,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,Economy and jobs,NA,NA
+healthcare,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,38,57,-19,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,46,50,-4,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,48,47,1,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,AP-NORC,07/23/2026,7/27/2026,1165,A,28,69,-41,https://apnorc.org/projects/most-say-the-war-with-iran-is-not-worth-fighting/,NA,Probability Panel,FALSE,NA,NA,NA
