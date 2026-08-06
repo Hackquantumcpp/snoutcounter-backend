@@ -649,8 +649,18 @@ Morning Consult,NA,2026-07-20,2026-07-26,24000,RV,45.7,42.7,https://pro-assets.m
 The Argument/Verasight,NA,2026-07-20,2026-07-26,3000,RV,54,46,https://www.theargumentmag.com/p/americans-know-who-the-real-elite,Text/Online Ad/Email,FALSE,NA,NA
 Quinnipiac University,NA,2026-07-23,2026-07-27,963,RV,48,41,https://poll.qu.edu/poll-release?releaseid=3964,Live Phone,FALSE,NA,NA
 Clarity Campaign Labs,NA,2026-07-17,2026-07-22,1000,LV,52,42,https://www.claritycampaigns.com/clarity-omnibus-2026-july,Online Opt-In Panel,FALSE,NA,NA
-SSRS,CNN,2026-07-23,2026-07-27,NA,RV,47,39,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,Probability Panel,FALSE,NA,NA
+SSRS,CNN,2026-07-23,2026-07-27,914,RV,47,39,https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war,Probability Panel,FALSE,NA,NA
 YouGov,CBS News,2026-07-22,2026-07-24,1474,RV,47,40,https://www.cbsnews.com/news/cbs-poll-analysis-cost-of-living-democrats-republicans/,Online Matched Sample,FALSE,NA,NA
 Big Data Poll,Public Polling Project,2026-07-27,2026-07-29,2922,RV,48.7,38.1,https://www.bigdatapoll.com/blog/trumps-approval-hits-new-low-amid-iran-war-restart-higher-gas-prices/,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,NA,NA
 Big Data Poll,Public Polling Project,2026-07-27,2026-07-29,2617,LV,50.4,39.3,https://www.bigdatapoll.com/blog/trumps-approval-hits-new-low-amid-iran-war-restart-higher-gas-prices/,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,NA,NA
 Focaldata,NA,2026-07-14,2026-07-20,2064,A,44,36,https://www.focaldata.com/blog/focaldata---coinbase---clarity-act-and-crypto-attitudes-poll---july-2026,NA,FALSE,NA,NA
+Ipsos,Reuters,2026-07-29,2026-08-03,4505,A,36,30,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Probability Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-07-29,2026-08-03,3542,RV,42,37,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Probability Panel,FALSE,NA,NA
+YouGov,The Economist,2026-07-31,2026-08-03,1609,A,41,33,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-07-31,2026-08-03,1473,RV,46,42,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,Online Matched Sample,FALSE,NA,NA
+Morning Consult,NA,2026-07-27,2026-08-02,24000,RV,46.2,42.1,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-Midterm-Ballot.html,Online Opt-In Panel,FALSE,NA,NA
+Marquette University Law School,NA,2026-07-22,2026-07-29,1076,A,45,41,https://law.marquette.edu/poll/2026/08/05/detailed-results-of-the-marquette-law-school-supreme-court-poll-july-22-29-2026/,Probability Panel,FALSE,NA,NA
+Marquette University Law School,NA,2026-07-22,2026-07-29,886,RV,46,44,https://law.marquette.edu/poll/2026/08/05/detailed-results-of-the-marquette-law-school-supreme-court-poll-july-22-29-2026/,Probability Panel,FALSE,NA,NA
+Marquette University Law School,NA,2026-07-22,2026-07-29,572,LV,51,45,https://law.marquette.edu/poll/2026/08/05/detailed-results-of-the-marquette-law-school-supreme-court-poll-july-22-29-2026/,Probability Panel,FALSE,NA,NA
+Quantus Insights,NA,2026-08-03,2026-08-04,1048,LV,49,42.6,https://quantusinsights.org/polling/f/latest-survey-democrats-hold-the-midterm-edge,Text,FALSE,NA,NA
+Bedrock Polling,Third Way,2026-05-20,2026-05-24,1776,RV,46,41,https://www.thirdway.org/memo/americans-blame-the-government-for-high-health-costs-and-want-it-to-rein-in-the-industry,Online Opt-In Panel,FALSE,NA,NA

@@ -2978,3 +2978,25 @@ healthcare,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,38,57,-19,https://
 immigration,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,46,50,-4,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Clarity Campaign Labs,07/17/2026,7/22/2026,1000,LV,48,47,1,https://www.claritycampaigns.com/clarity-omnibus-2026-july,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,AP-NORC,07/23/2026,7/27/2026,1165,A,28,69,-41,https://apnorc.org/projects/most-say-the-war-with-iran-is-not-worth-fighting/,NA,Probability Panel,FALSE,NA,NA,NA
+economy,Ipsos,07/29/2026,8/3/2026,4505,A,28,63,-35,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,07/29/2026,8/3/2026,4505,A,38,54,-16,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,07/29/2026,8/3/2026,4505,A,38,50,-12,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,07/29/2026,8/3/2026,4505,A,30,58,-28,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,07/29/2026,8/3/2026,4505,A,22,70,-48,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,Ipsos,07/29/2026,8/3/2026,4505,A,28,60,-32,https://www.ipsos.com/en-us/reutersipsos-august-2026-poll,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,YouGov,07/31/2026,8/3/2026,1609,A,30,65,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,07/31/2026,8/3/2026,1609,A,25,69,-44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+taxes,YouGov,07/31/2026,8/3/2026,1609,A,31,60,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+govt_spending,YouGov,07/31/2026,8/3/2026,1609,A,29,64,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+national_security,Morning Consult,07/31/2026,8/2/2026,2200,RV,49,43,6,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,07/31/2026,8/2/2026,2200,RV,49,45,4,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,07/31/2026,8/2/2026,2200,RV,43,47,-4,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+foreign_policy,Morning Consult,07/31/2026,8/2/2026,2200,RV,43,49,-6,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,07/31/2026,8/2/2026,2200,RV,41,48,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+taxes,Morning Consult,07/31/2026,8/2/2026,2200,RV,42,50,-8,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,Morning Consult,07/31/2026,8/2/2026,2200,RV,39,47,-8,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,07/31/2026,8/2/2026,2200,RV,35,45,-10,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+medicaire_social_security,Morning Consult,07/31/2026,8/2/2026,2200,RV,40,50,-10,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,07/31/2026,8/2/2026,2200,RV,41,53,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,07/31/2026,8/2/2026,2200,RV,39,53,-14,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,07/31/2026,8/2/2026,2200,RV,39,53,-14,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
