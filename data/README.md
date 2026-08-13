@@ -1,6 +1,6 @@
 ### Data Acknowledgement
 
-Historical polling datasets from [538](https://web.archive.org/web/20250131211134/https://projects.fivethirtyeight.com/polls/). Polling datasets for current cycle are collected and maintained by myself, with general presidential approval, generic ballot, and 2026 California gubernatorial primary data before January 4, 2026 being sourced from Mary Radcliffe's dataset of polls (before it was merged into [FiftyPlusOne](https://fiftyplusone.news/)) and [The New York Times](https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html).
+Historical polling datasets from [538](https://web.archive.org/web/20250131211134/https://projects.fivethirtyeight.com/polls/). Historical generic ballot polling datasets for cycles prior to 2018 (i.e. those in `historical_gb/`) derived from [RealClearPolitics](https://www.realclearpolling.com/historical-polling-archive). Polling datasets for current cycle are collected and maintained by myself, with general presidential approval, generic ballot, and 2026 California gubernatorial primary data before January 4, 2026 being sourced from Mary Radcliffe's dataset of polls (before it was merged into [FiftyPlusOne](https://fiftyplusone.news/)) and [The New York Times](https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html).
 
 ### Notes
 
@@ -11,6 +11,8 @@ Historical polling datasets from [538](https://web.archive.org/web/2025013121113
 ### Directory Map
 
 - `fte/` - Polling datasets from 538
+
+- `historical_gb/` - Generic ballot polling datasets derived from RCP for cycles prior to 2018
 
 - `generic_ballot_polls.csv` - Polls measuring generic ballot for current cycle (2026).
 
