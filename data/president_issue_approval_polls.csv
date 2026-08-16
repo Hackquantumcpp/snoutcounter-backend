@@ -3031,3 +3031,12 @@ healthcare,RMG Research,06/17/2026,6/18/2026,1000,RV,38,58,-20,https://napolitan
 economy,RMG Research,06/17/2026,6/18/2026,1000,RV,36,64,-28,https://napolitannews.org/posts/trumps-approval-ratings-slump-across-key-issues,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 climate_change,RMG Research,06/17/2026,6/18/2026,1000,RV,36,54,-18,https://napolitannews.org/posts/trumps-approval-ratings-slump-across-key-issues,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,RMG Research,06/17/2026,6/18/2026,1000,RV,29,69,-40,https://napolitannews.org/posts/trumps-approval-ratings-slump-across-key-issues,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Focaldata,08/07/2026,8/11/2026,2152,A,41,44,-3,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,Immigration & border security,NA,NA
+inflation,Focaldata,08/07/2026,8/11/2026,2152,A,21,64,-43,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,Inflation & cost of living,NA,NA
+economy,Focaldata,08/07/2026,8/11/2026,2152,A,29,55,-26,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
+healthcare,Focaldata,08/07/2026,8/11/2026,2152,A,27,52,-25,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,NA,NA,NA
+foreign_policy,Focaldata,08/07/2026,8/11/2026,2152,A,30,50,-20,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,NA,NA,NA
+iran,Focaldata,08/07/2026,8/11/2026,2152,A,26,54,-28,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,NA,NA,NA
+trade_tariffs,Focaldata,08/07/2026,8/11/2026,2152,A,28,55,-27,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,NA,NA,NA
+ai,Focaldata,08/07/2026,8/11/2026,2152,A,23,38,-15,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,NA,NA,NA
+housing,Focaldata,08/07/2026,8/11/2026,2152,A,24,52,-28,https://www.focaldata.com/blog/democrats-maintain-lead-three-months-out-from-midterms,Financial Times,NA,FALSE,NA,NA,NA
