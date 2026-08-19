@@ -265,11 +265,11 @@ polls <- polls %>% left_join(df_avg %>% select(end_date, net, approve, disapprov
                              join_by(end_date)) %>%
   rename(net = net.x, net_avg = net.y)
 
-polls <- polls %>% left_join(
-  general_appr %>% select(end_date, approve, disapprove, net) %>% 
-    rename(approve_gen = approve, disapprove_gen = disapprove, net_gen = net), 
-  join_by(end_date)
-)
+#polls <- polls %>% left_join(
+#  general_appr %>% select(end_date, approve, disapprove, net) %>% 
+#    rename(approve_gen = approve, disapprove_gen = disapprove, net_gen = net), 
+#  join_by(end_date)
+#)
 
 ## Approval adjustments
 fit <- stan_glmer(approve ~ (1 | pollster) + (1 | partisan) + (1 | population) + 

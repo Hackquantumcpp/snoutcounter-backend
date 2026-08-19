@@ -1084,8 +1084,8 @@ John Zogby Strategies,NA,2026-02-25,2026-02-26,1015,LV,47,50,NA,https://johnzogb
 Rasmussen Reports,NA,2026-02-19,2026-02-25,1500,LV,46,52,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
 Rasmussen Reports,NA,2026-02-20,2026-02-26,1500,LV,45,53,NA,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/trump_approval_index_history_second_term#google_vignette,IVR/Online Opt-In Panel,TRUE,REP,NA
 YouGov,CBS News,2026-02-25,2026-02-27,2264,A,41,59,NA,https://www.cbsnews.com/news/cbs-news-poll-americans-views-on-iran-prior-to-conflict/,Online Matched Sample,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-02-28,2026-02-28,316,RV,35.5,63.3,1.3,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-02-28,2026-02-28,249,LV,40.8,58.8,0.5,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,FALSE,NA,NA
+The Public Sentiment Institute,NA,2026-02-28,2026-02-28,316,RV,35.5,63.3,1.3,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,FALSE,REP,NA
+The Public Sentiment Institute,NA,2026-02-28,2026-02-28,249,LV,40.8,58.8,0.5,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,FALSE,REP,NA
 Ipsos,Reuters,2026-02-28,2026-03-01,1282,A,38,60,2,https://www.ipsos.com/en-us/more-americans-disapprove-approve-us-strikes-against-iran,Probability Panel,FALSE,NA,NA
 Morning Consult,NA,2026-02-28,2026-02-28,1618,RV,44,53,NA,https://morningconsult.com/articles/trump-iran-strikes-poll,Online Opt-In Panel,FALSE,NA,NA
 RMG Research,Napolitan News Service,2026-02-28,2026-03-01,1000,RV,45,54,NA,https://napolitannews.org/posts/just-33-percent-say-its-appropriate-to-attack-a-foreign-nation-to-overthrow-their-government,Online Opt-In Panel,FALSE,NA,NA
@@ -1316,8 +1316,8 @@ Data For Progress,NA,2026-05-15,2026-05-18,1149,LV,43,56,1,https://www.dataforpr
 Morning Consult,NA,2026-05-15,2026-05-17,2203,RV,42,55,NA,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,Online Opt-In Panel,FALSE,NA,NA
 John Zogby Strategies,NA,2026-05-21,2026-05-22,NA,LV,44,54,NA,https://johnzogbystrategies.com/the-latest-zogby-political-poll-trump-economic-concerns-war-trends-05-22-26/,NA,FALSE,NA,NA
 RMG Research,Napolitan News Service,2026-05-13,2026-05-21,3000,RV,42,57,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-05-21,2026-05-21,893,LV,41.6,57.6,NA,https://tpsiofficial.substack.com/p/tpsi-mays-national-benchmark-poll,Online Opt-In Panel,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-05-21,2026-05-21,893,RV,39.5,58.6,NA,https://tpsiofficial.substack.com/p/tpsi-mays-national-benchmark-poll,Online Opt-In Panel,FALSE,NA,NA
+The Public Sentiment Institute,NA,2026-05-21,2026-05-21,893,LV,41.6,57.6,NA,https://tpsiofficial.substack.com/p/tpsi-mays-national-benchmark-poll,Online Opt-In Panel,FALSE,REP,NA
+The Public Sentiment Institute,NA,2026-05-21,2026-05-21,893,RV,39.5,58.6,NA,https://tpsiofficial.substack.com/p/tpsi-mays-national-benchmark-poll,Online Opt-In Panel,FALSE,REP,NA
 High Point University,NA,2026-03-29,2026-04-03,1001,A,39,53,8,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,Online Opt-In Panel,FALSE,NA,NA
 Impact Research/National Research,The Wall Street Journal,2026-05-07,2026-05-18,1500,RV,41,57,NA,https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9,NA,FALSE,NA,NA
 Verasight,Strength In Numbers,2026-05-18,2026-05-19,1520,A,37,60,3,https://www.gelliottmorris.com/p/2026-05-26-may-strength-in-numbers-verasight-poll,Text/Online Ad/Email,FALSE,NA,NA
@@ -1360,8 +1360,8 @@ Harris Insights & Analytics,Forbes,2026-05-20,2026-06-07,1137,LV,44,54,2,https:/
 RMG Research,Napolitan News Service,2026-06-03,2026-06-11,3000,RV,42,56,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,FALSE,NA,NA
 OH Predictive Insights,Center Square,2026-06-01,2026-06-04,2585,RV,40,58,NA,https://www.thecentersquare.com/national/article_068f34af-cac1-4328-b582-915d04044322.html,Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
 Clarity Campaign Labs,NA,2026-05-28,2026-06-05,1045,LV,40,58,2,https://www.claritycampaigns.com/clarity-omnibus-2026-may,Online Opt-In Panel,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-06-12,2026-06-13,1042,RV,41.4,51,7.5,https://tpsiofficial.substack.com/p/tpsi-junes-national-benchmark-poll,Online Opt-In Panel,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-06-12,2026-06-13,1042,LV,46.6,51.9,1.4,https://tpsiofficial.substack.com/p/tpsi-junes-national-benchmark-poll,Online Opt-In Panel,FALSE,NA,NA
+The Public Sentiment Institute,NA,2026-06-12,2026-06-13,1042,RV,41.4,51,7.5,https://tpsiofficial.substack.com/p/tpsi-junes-national-benchmark-poll,Online Opt-In Panel,FALSE,REP,NA
+The Public Sentiment Institute,NA,2026-06-12,2026-06-13,1042,LV,46.6,51.9,1.4,https://tpsiofficial.substack.com/p/tpsi-junes-national-benchmark-poll,Online Opt-In Panel,FALSE,REP,NA
 Hart Research Associates/Public Opinion Strategies,NBC News | More Perfect,2026-05-29,2026-06-07,3000,A,39,58,3,https://www.nbcnews.com/politics/2026-election/poll-democrats-maintain-edge-fight-congress-trump-gets-poor-marks-rcna348913,Live Phone/Text-to-Web,FALSE,NA,NA
 Hart Research Associates/Public Opinion Strategies,NBC News | More Perfect,2026-05-29,2026-06-07,2400,RV,42,57,1,https://www.nbcnews.com/politics/2026-election/poll-democrats-maintain-edge-fight-congress-trump-gets-poor-marks-rcna348913,Live Phone/Text-to-Web,FALSE,NA,NA
 Global Strategy Group/GBAO (Navigator Research),NA,2026-06-04,2026-06-08,1000,RV,40,58,1,https://navigatorresearch.org/trumps-ballroom-and-other-recent-actions-lead-americans-to-believe-hes-focused-on-the-wrong-things/,Online Opt-In Panel,FALSE,NA,NA
@@ -1411,8 +1411,8 @@ Morning Consult,Cato Institute,2026-06-25,2026-06-26,2253,A,41,47,11,https://www
 AlphaROC,The Independent Center,2026-06-27,2026-06-28,1000,A,40.2,56.2,3.6,https://independentcentervoice.com/insights/june-2026-national-survey-on-independent-candidates,Online Opt-In Panel,FALSE,NA,NA
 ActiVote,NA,2026-06-01,2026-06-30,478,A,40.5,55.2,4.3,https://www.activote.net/trumps-approval-edges-up/,App Panel,FALSE,NA,NA
 Talker Research,Scripps News,2026-06-25,2026-07-02,2000,RV,45,46,NA,https://www.scrippsnews.com/politics/scripps-news-poll-americans-excited-to-celebrate-july-4-but-divided-on-trumps-role,Online Opt-In Panel,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-07-01,2026-07-02,979,RV,38.1,58.2,3.7,https://tpsiofficial.substack.com/p/tpsi-julys-national-benchmark-poll,Online Opt-In Panel,FALSE,NA,NA
-The Public Sentiment Institute,NA,2026-07-01,2026-07-02,979,LV,40.8,57.8,1.3,https://tpsiofficial.substack.com/p/tpsi-julys-national-benchmark-poll,Online Opt-In Panel,FALSE,NA,NA
+The Public Sentiment Institute,NA,2026-07-01,2026-07-02,979,RV,38.1,58.2,3.7,https://tpsiofficial.substack.com/p/tpsi-julys-national-benchmark-poll,Online Opt-In Panel,FALSE,REP,NA
+The Public Sentiment Institute,NA,2026-07-01,2026-07-02,979,LV,40.8,57.8,1.3,https://tpsiofficial.substack.com/p/tpsi-julys-national-benchmark-poll,Online Opt-In Panel,FALSE,REP,NA
 Focaldata,Financial Times,2026-06-26,2026-06-30,2016,A,34,57,NA,https://www.focaldata.com/blog/ossoffism-and-the-gops-elite-problem,Online Opt-In Panel,FALSE,NA,NA
 Focaldata,Financial Times,2026-06-26,2026-06-30,1795,RV,36,56,NA,https://www.focaldata.com/blog/ossoffism-and-the-gops-elite-problem,Online Opt-In Panel,FALSE,NA,NA
 Global Strategy Group/GBAO (Navigator Research),NA,2026-06-25,2026-06-30,1000,RV,39,60,1,https://navigatorresearch.org/war-with-iran-remains-unpopular-at-home/,Online Opt-In Panel,FALSE,NA,NA
@@ -1498,3 +1498,7 @@ Ipsos,Reuters,2026-08-14,2026-08-17,876,RV,35,65,NA,https://www.reuters.com/data
 YouGov,The Economist,2026-08-14,2026-08-17,1611,A,35,61,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZMy1Zxu.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-08-14,2026-08-17,1450,RV,40,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZMy1Zxu.pdf,Online Matched Sample,FALSE,NA,NA
 RMG Research,Napolitan News Service,2026-08-03,2026-08-11,2000,RV,42,55,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,FALSE,NA,NA
+The Bullfinch Group,NA,2026-08-14,2026-08-17,1200,A,40,56,4,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-q3-nationwide-survey-4,Online Opt-In Panel,FALSE,NA,NA
+The Bullfinch Group,NA,2026-08-14,2026-08-17,1000,RV,42,55,3,https://www.thebullfinchgroup.com/post/public-release-of-bullfinch-q3-nationwide-survey-4,Online Opt-In Panel,FALSE,NA,NA
+Echelon Insights,NA,2026-08-13,2026-08-17,1002,LV,40,59,NA,https://echeloninsights.com/insights/august-2026-verified-voter-omnibus,Online Opt-In Panel,FALSE,NA,NA
+Leger,NA,2026-08-15,2026-08-17,1010,A,37,54,9,https://leger360.com/in-the-news-canada-us-trade-negotiations-august-2026/,Online Opt-In Panel,FALSE,NA,NA
