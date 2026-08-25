@@ -3073,3 +3073,7 @@ foreign_policy,Ipsos,08/21/2026,8/24/2026,1215,A,29,60,-31,https://www.ipsos.com
 inflation,Ipsos,08/21/2026,8/24/2026,1215,A,20,72,-52,https://www.ipsos.com/en-us/americans-continue-expect-extended-us-military-involvement-iran,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
 corruption,Ipsos,08/21/2026,8/24/2026,1215,A,27,61,-34,https://www.ipsos.com/en-us/americans-continue-expect-extended-us-military-involvement-iran,Reuters,Probability Panel,FALSE,NA,NA,NA
 iran,Ipsos,08/21/2026,8/24/2026,1215,A,25,63,-38,https://www.ipsos.com/en-us/americans-continue-expect-extended-us-military-involvement-iran,Reuters,Probability Panel,FALSE,NA,NA,NA
+environment,YouGov,08/21/2026,8/24/2026,1536,A,33,55,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v7iliA1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+education,YouGov,08/21/2026,8/24/2026,1536,A,36,52,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v7iliA1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+abortion,YouGov,08/21/2026,8/24/2026,1536,A,33,51,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v7iliA1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+healthcare,YouGov,08/21/2026,8/24/2026,1536,A,32,57,-25,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_v7iliA1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
