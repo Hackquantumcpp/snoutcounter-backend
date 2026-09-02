@@ -1529,3 +1529,5 @@ Morning Consult,NA,2026-08-28,2026-08-30,2200,RV,41,55,NA,https://drive.google.c
 Ipsos,Reuters,2026-08-28,2026-08-31,1167,A,33,63,NA,https://www.reuters.com/world/us/trumps-approval-stuck-33-democrats-appear-more-fired-up-midterms-reutersipsos-2026-08-31/,Probability Panel,FALSE,NA,NA
 YouGov,The Economist,2026-08-28,2026-08-31,1592,A,36,60,4,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_yVe1kKt.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-08-28,2026-08-31,1437,RV,38,60,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_yVe1kKt.pdf,Online Matched Sample,FALSE,NA,NA
+Harris Insights & Analytics,Harvard CAPS,2026-08-28,2026-08-30,2100,RV,44,52,4,https://harvardharrispoll.com/assets/uploads/2026/08/HHP_Aug2026_KeyResults.pdf,Online Opt-In Panel,FALSE,NA,NA
+Harris Insights & Analytics,Harvard CAPS,2026-08-28,2026-08-30,NA,LV,48,51,NA,https://harvardharrispoll.com/assets/uploads/2026/08/HHP_Aug2026_KeyResults.pdf,Online Opt-In Panel,FALSE,NA,NA
