@@ -3130,3 +3130,13 @@ crime,Ipsos,08/28/2026,8/31/2026,1167,A,37,50,-13,https://www.ipsos.com/en-us/co
 foreign_policy,Ipsos,08/28/2026,8/31/2026,1167,A,30,58,-28,https://www.ipsos.com/en-us/cost-living-remains-top-mind-voters-heading-2026-midterms,Reuters,Probability Panel,FALSE,NA,NA,NA
 inflation,Ipsos,08/28/2026,8/31/2026,1167,A,21,72,-51,https://www.ipsos.com/en-us/cost-living-remains-top-mind-voters-heading-2026-midterms,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
 iran,Ipsos,08/28/2026,8/31/2026,1167,A,27,61,-34,https://www.ipsos.com/en-us/cost-living-remains-top-mind-voters-heading-2026-midterms,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,SurveyMonkey,08/20/2026,9/1/2026,7105,A,31,69,-38,https://www.nbcnews.com/politics/trump-administration/poll-cracks-emerge-gop-support-trump-handling-iran-war-rcna596068,NBC News,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Focaldata,08/28/2026,9/2/2026,2180,A,40,48,-8,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,Immigration and border security,NA,NA
+inflation,Focaldata,08/28/2026,9/2/2026,2180,A,17,69,-52,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,Inflation and cost of living,NA,NA
+economy,Focaldata,08/28/2026,9/2/2026,2180,A,26,58,-32,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
+healthcare,Focaldata,08/28/2026,9/2/2026,2180,A,23,55,-32,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,NA,NA,NA
+foreign_policy,Focaldata,08/28/2026,9/2/2026,2180,A,28,53,-25,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,NA,NA,NA
+iran,Focaldata,08/28/2026,9/2/2026,2180,A,24,58,-34,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,NA,NA,NA
+trade_tariffs,Focaldata,08/28/2026,9/2/2026,2180,A,24,60,-36,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,Tariffs and trade,NA,NA
+ai,Focaldata,08/28/2026,9/2/2026,2180,A,20,42,-22,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,NA,NA,NA
+housing,Focaldata,08/28/2026,9/2/2026,2180,A,21,56,-35,https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead,Financial Times,NA,FALSE,NA,NA,NA
