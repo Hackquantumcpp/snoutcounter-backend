@@ -29,6 +29,8 @@ setwd("../R")
 
 polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
+labor_day <- ymd("2018-09-03")
+
 # polls <- polls %>% filter(
 #   is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
 # )
@@ -155,7 +157,13 @@ poll_avg <- function(data_frame, date) {
     ungroup()
   
   ### Recency weight
-  window <- 30
+  if (date < labor_day) {
+    window <- 30
+  }
+  else {
+    delta <- as.numeric(date - labor_day, units = "days")
+    window <- max(-(7/30)*delta + 30, 21)
+  }
   df <- df %>% mutate(recency_weight = 0.1^(as.numeric(date - end_date, units = "days")/window))
   
   ## Partisan downweight
