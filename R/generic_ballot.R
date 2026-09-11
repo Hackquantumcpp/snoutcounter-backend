@@ -285,10 +285,7 @@ print(summary(fit))
 print(fixef(fit))
 print(ranef(fit))
 
-## For now we want to convert to RV due to likely voter samples being less
-## reliable at this point in time; come Labor Day we want to switch
-## to converting to LV.
-## TODO: Edit to account for the Labor Day switch!
+## Likely voter and partisanship adjustments
 pop_a <- ranef(fit)$population[2, 1]
 np_a <- ranef(fit)$partisan[2, 1]
 
