@@ -29,7 +29,7 @@ setwd("../R")
 
 polls <- polls %>% filter(!(pollster %in% banned_pollsters))
 
-labor_day <- ymd("2018-09-03")
+labor_day <- ymd("2026-09-07")
 
 # polls <- polls %>% filter(
 #   is.na(sample_size) == FALSE, # For now, we can try imputing sample sizes later
