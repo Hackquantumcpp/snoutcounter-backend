@@ -1544,3 +1544,10 @@ YouGov,Bowling Green State University Democracy and Public Policy Research Netwo
 Quinnipiac University,NA,2026-09-03,2026-09-06,970,RV,33,59,8,https://poll.qu.edu/poll-release?releaseid=3965,Live Phone,FALSE,NA,NA
 RMG Research,Napolitan News Service,2026-08-31,2026-09-09,2000,RV,44,54,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,FALSE,NA,NA
 YouGov,CBS News,2026-09-08,2026-09-11,2460,A,39,61,NA,https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/,Online Matched Sample,FALSE,NA,NA
+Morning Consult,NA,2026-09-11,2026-09-13,2203,RV,42,56,NA,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,Online Opt-In Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-09-11,2026-09-14,1143,A,35,62,NA,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Probability Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-09-11,2026-09-14,896,RV,39,61,NA,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Probability Panel,FALSE,NA,NA
+The New York Times/Siena College,NA,2026-09-08,2026-09-13,1503,RV,37,59,NA,https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html,Live Phone,FALSE,NA,NA
+The New York Times/Siena College,NA,2026-09-08,2026-09-13,1503,LV,38,59,3,https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html,Live Phone,FALSE,NA,NA
+YouGov,The Economist,2026-09-11,2026-09-14,1461,RV,40,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZmVljW6.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-09-11,2026-09-14,1055,LV,40,59,1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZmVljW6.pdf,Online Matched Sample,FALSE,NA,NA
