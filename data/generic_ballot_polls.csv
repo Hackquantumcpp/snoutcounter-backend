@@ -721,10 +721,20 @@ Quinnipiac University,NA,2026-09-03,2026-09-06,970,RV,49,38,https://poll.qu.edu/
 Cygnal,NA,2026-09-01,2026-09-02,1500,LV,50.7,42.1,https://www.cygn.al/polls/september-2026-national-voter-trends-nvt-poll/,NA,FALSE,NA,NA
 ActiVote,NA,2026-08-31,2026-09-10,1000,LV,52.3,47.7,https://www.activote.net/polls/generic-ballot/2026-09-11/,App Panel,FALSE,NA,NA
 YouGov,CBS News,2026-09-08,2026-09-11,1750,LV,54,46,https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/,Online Matched Sample,FALSE,NA,NA
-Morning Consult,NA,2026-09-07,2026-09-13,NA,LV,49,43,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,Online Opt-In Panel,FALSE,NA,NA
+Morning Consult,NA,2026-09-07,2026-09-13,18127,LV,49,43,https://intel.morningconsult.com/mc-content/trackers/2026-midterm-election-generic-ballot-polls,Online Opt-In Panel,FALSE,NA,NA
 Ipsos,Reuters,2026-09-11,2026-09-14,1143,A,39,31,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Probability Panel,FALSE,NA,NA
 Ipsos,Reuters,2026-09-11,2026-09-14,896,RV,44,37,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Probability Panel,FALSE,NA,NA
 The New York Times/Siena College,NA,2026-09-08,2026-09-13,1503,RV,49,42,https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html,Live Phone,FALSE,NA,NA
 The New York Times/Siena College,NA,2026-09-08,2026-09-13,1503,LV,51,43,https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html,Live Phone,FALSE,NA,NA
 YouGov,The Economist,2026-09-11,2026-09-14,1461,RV,44,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZmVljW6.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-09-11,2026-09-14,1055,LV,51,39,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZmVljW6.pdf,Online Matched Sample,FALSE,NA,NA
+Marquette University Law School,NA,2026-09-02,2026-09-09,1023,A,48,39,https://law.marquette.edu/poll/2026/09/15/detailed-results-of-the-marquette-law-school-supreme-court-poll-september-2-9-2026/,Probability Panel,FALSE,NA,NA
+Marquette University Law School,NA,2026-09-02,2026-09-09,864,RV,50,42,https://law.marquette.edu/poll/2026/09/15/detailed-results-of-the-marquette-law-school-supreme-court-poll-september-2-9-2026/,Probability Panel,FALSE,NA,NA
+Marquette University Law School,NA,2026-09-02,2026-09-09,581,LV,54,41,https://law.marquette.edu/poll/2026/09/15/detailed-results-of-the-marquette-law-school-supreme-court-poll-september-2-9-2026/,Probability Panel,FALSE,NA,NA
+Beacon Research/Shaw & Co. Research,FOX News,2026-09-11,2026-09-14,1211,RV,51,44,https://www.foxnews.com/politics/fox-news-poll-squeezed-costs-frustrated-voters-turn-democrats,Live Phone/Text-to-Web,FALSE,NA,NA
+Big Data Poll,Public Polling Project,2026-09-13,2026-09-15,2497,RV,47.8,38.1,https://www.bigdatapoll.com/blog/democrats-maintain-significant-midterm-advantage-in-post-labor-day-poll/,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,NA,NA
+Big Data Poll,Public Polling Project,2026-09-13,2026-09-15,2633,LV,50.5,39.3,https://www.bigdatapoll.com/blog/democrats-maintain-significant-midterm-advantage-in-post-labor-day-poll/,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,NA,NA
+YouGov,Catawba College Center for North Carolina Politics & Public Service,2026-09-04,2026-09-09,1200,A,38,28,https://www.catawba.edu/news/all-news/2026/yougov-36/,Online Matched Sample,FALSE,NA,NA
+YouGov,Catawba College Center for North Carolina Politics & Public Service,2026-09-04,2026-09-09,779,LV,49,38,https://www.catawba.edu/news/all-news/2026/yougov-36/,Online Matched Sample,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-09-08,2026-09-15,2000,RV,51,43,https://napolitannews.org/posts/generic-ballot-first-likely-voter-numbers-have-dems-ahead-6,Online Opt-In Panel,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-09-08,2026-09-15,NA,LV,52,46,https://napolitannews.org/posts/generic-ballot-first-likely-voter-numbers-have-dems-ahead-6,Online Opt-In Panel,FALSE,NA,NA
