@@ -3292,3 +3292,19 @@ foreign_policy,Quinnipiac University,09/24/2026,9/27/2026,1032,RV,34,62,-28,http
 economy,Quinnipiac University,09/24/2026,9/27/2026,1032,RV,31,65,-34,https://poll.qu.edu/poll-release?releaseid=3968,NA,Live Phone,FALSE,NA,NA,NA
 iran,Quinnipiac University,09/24/2026,9/27/2026,1032,RV,28,66,-38,https://poll.qu.edu/poll-release?releaseid=3968,NA,Live Phone,FALSE,NA,NA,NA
 ai,Quinnipiac University,09/24/2026,9/27/2026,1032,RV,25,58,-33,https://poll.qu.edu/poll-release?releaseid=3968,NA,Live Phone,FALSE,NA,NA,NA
+crime,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,48,45,3,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Fighting crime in America's cities,NA,NA
+immigration,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,47,47,0,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+govt_management,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,44,49,-5,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,41,54,-13,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+govt_spending,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,43,49,-6,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,41,52,-11,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,39,54,-15,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,38,55,-17,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+inflation,Harris Insights & Analytics,08/28/2026,8/30/2026,2100,RV,37,56,-19,https://harvardharrispoll.com/topline-august-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,AP-NORC,09/24/2026,9/28/2026,2140,A,26,73,-47,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
+immigration,AP-NORC,09/24/2026,9/28/2026,2140,A,39,60,-21,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
+iran,AP-NORC,09/24/2026,9/28/2026,2140,A,28,71,-43,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
+border_security,AP-NORC,09/24/2026,9/28/2026,2140,A,48,51,-3,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
+trade_tariffs,AP-NORC,09/24/2026,9/28/2026,2140,A,31,68,-37,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,Trade negotiations with other countries,NA,NA
+inflation,AP-NORC,09/24/2026,9/28/2026,2140,A,17,82,-65,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,Cost of living,NA,NA
+ai,AP-NORC,09/24/2026,9/28/2026,2140,A,31,67,-36,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
