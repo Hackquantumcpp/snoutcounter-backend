@@ -86,7 +86,7 @@ foreign_policy,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,44,48,-4,http
 foreign_policy,Gallup,02/03/2025,02/16/2025,1004,A,44,53,-9,https://news.gallup.com/poll/656891/trump-job-approval-rating-congress-jumps.aspx,NA,Live Phone,FALSE,NA,NA,NA
 foreign_policy,Ipsos,01/20/2025,01/21/2025,1077,A,39,37,2,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-01/Reuters%20Ipsos%20Trump%20Inauguration%20Survey%20Topline%20January%202025.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 trade_tariffs,Ipsos,03/31/2025,04/02/2025,1486,A,34,52,-18,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-04/Reuters%20Ipsos%20Signalgate%20Tariffs%20Survey%20Topline%20April%202%202025%20.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,03/28/2025,03/30/2025,2210,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,01/24/2025,01/26/2025,2302,RV,50,37,13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Quinnipiac University,02/13/2025,02/17/2025,1039,RV,42,49,-7,https://poll.qu.edu/poll-release?releaseid=3919,NA,NA,FALSE,NA,NA,NA
 trade_tariffs,Echelon Insights,02/10/2025,02/13/2025,1010,LV,44,49,-5,https://echelonin.wpenginepowered.com/wp-content/uploads/February-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Echelon Insights,02/10/2025,02/13/2025,1010,LV,49,45,4,https://echelonin.wpenginepowered.com/wp-content/uploads/February-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -127,7 +127,7 @@ immigration,AtlasIntel,03/07/2025,03/12/2025,2550,A,52,47,5,https://atlasintel.o
 economy,AtlasIntel,03/07/2025,03/12/2025,2550,A,48,48,0,https://atlasintel.org/poll/usa-national-2025-03-17,NA,Online Ad,FALSE,NA,NA,NA
 immigration,AtlasIntel,01/21/2025,01/23/2025,1882,A,51,49,2,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,NA,Online Ad,FALSE,NA,NA,NA
 economy,AtlasIntel,01/21/2025,01/23/2025,1882,A,50,48,2,https://cdn.atlasintel.org/ed3f5238-e823-495e-a877-628217de9e68.pdf,NA,Online Ad,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,05/02/2025,05/04/2025,2263,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,01/31/2025,02/03/2025,2303,RV,48,40,8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 corruption,Ipsos,03/31/2025,04/02/2025,1486,A,37,47,-10,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-04/Reuters%20Ipsos%20Signalgate%20Tariffs%20Survey%20Topline%20April%202%202025%20.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 russia,Ipsos,03/31/2025,04/02/2025,1486,A,31,48,-17,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-04/Reuters%20Ipsos%20Signalgate%20Tariffs%20Survey%20Topline%20April%202%202025%20.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 ukraine,Ipsos,03/31/2025,04/02/2025,1486,A,35,46,-11,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-04/Reuters%20Ipsos%20Signalgate%20Tariffs%20Survey%20Topline%20April%202%202025%20.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -204,29 +204,29 @@ civil_liberties,YouGov,05/02/2025,05/05/2025,1850,A,38,47,-9,https://d3nkl3psvxx
 crime,YouGov,05/02/2025,05/05/2025,1850,A,45,42,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,05/02/2025,05/05/2025,1850,A,35,56,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wZDAeTq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,Echelon Insights,04/10/2025,04/14/2025,1014,LV,40,55,-15,https://echeloninsights.com/in-the-news/april-2025-verified-voter-omnibus-2-2-2-2/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,05/09/2025,05/11/2025,2221,RV,51,44,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,02/07/2025,02/09/2025,22305,RV,47,43,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Echelon Insights,05/08/2025,05/12/2025,1000,LV,44,54,-10,https://echelonin.wpenginepowered.com/wp-content/uploads/May-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,05/08/2025,05/12/2025,1000,LV,53,45,8,https://echelonin.wpenginepowered.com/wp-content/uploads/May-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,05/08/2025,05/12/2025,1000,LV,47,50,-3,https://echelonin.wpenginepowered.com/wp-content/uploads/May-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,SSRS,03/06/2025,03/09/2025,1206,A,39,61,-22,https://s3.documentcloud.org/documents/25558091/cnn-poll-trumps-performance-and-economy.pdf,CNN,Probability Panel,FALSE,NA,NA,NA
 trade_tariffs,RMG Research,02/18/2025,02/19/2025,1000,RV,44,47,-3,https://napolitannews.org/posts/voters-are-divided-on-how-trumps-tariff-plan-will-impact-economy,Napolitan News Service,Online Opt-In Panel,TRUE,NA,NA,NA
 trade_tariffs,Ipsos,02/13/2025,02/18/2025,4125,A,37,49,-12,https://www.reuters.com/world/us/trumps-approval-rating-slips-americans-worry-about-economy-2025-02-19/,Reuters,Probability Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,02/07/2025,02/09/2025,22305,RV,47,43,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,02/21/2025,02/24/2025,2225,RV,48,42,6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Data For Progress,01/31/2025,02/02/2025,1205,LV,42,46,-4,https://www.dataforprogress.org/memos/2025/4/24/approaching-100-days-in-office-voters-increasingly-disapprove-of-trumps-handling-of-the-economy,NA,NA,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,01/31/2025,02/03/2025,2303,RV,48,40,8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,02/21/2025,02/24/2025,2225,RV,50,42,8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Data For Progress,04/18/2025,04/20/2025,1204,LV,40,54,-14,https://www.dataforprogress.org/memos/2025/4/24/approaching-100-days-in-office-voters-increasingly-disapprove-of-trumps-handling-of-the-economy,NA,NA,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,01/24/2025,01/26/2025,2302,RV,50,37,13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,02/28/2025,03/02/2025,2229,RV,48,42,6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Ipsos,01/20/2025,01/21/2025,1077,A,38,40,-2,https://www.ipsos.com/en-us/reuters-ipsos-trump-inauguration-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
 trade_tariffs,Data For Progress,02/28/2025,03/01/2025,1191,LV,41,47,-6,https://www.dataforprogress.org/memos/2025/4/24/approaching-100-days-in-office-voters-increasingly-disapprove-of-trumps-handling-of-the-economy,NA,NA,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,02/28/2025,03/02/2025,2229,RV,48,42,6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,02/21/2025,02/24/2025,2225,RV,48,42,6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Ipsos,03/03/2025,03/04/2025,1174,A,36,51,-15,https://www.ipsos.com/en-us/three-five-americans-say-cost-living-going-wrong-direction,NA,Probability Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,03/07/2025,03/09/2025,2219,RV,46,46,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,03/14/2025,03/16/2025,2210,RV,46,46,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Ipsos,03/03/2025,03/04/2025,1174,A,36,51,-15,https://www.ipsos.com/en-us/three-five-americans-say-cost-living-going-wrong-direction,NA,Probability Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,03/21/2025,03/23/2025,2206,RV,46,45,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling?utm_source=newsletter&utm_medium=email&utm_campaign=our_best_intel&utm_content=032425,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Ipsos,03/11/2025,03/12/2025,1422,A,34,51,-17,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-03/Reuters%20Ipsos%20Tariffs%20Survey%20Topline%2003%2013%202025.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 trade_tariffs,Echelon Insights,03/10/2025,03/13/2025,1007,LV,41,51,-10,https://echelonin.wpenginepowered.com/wp-content/uploads/March-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,03/14/2025,03/16/2025,2210,RV,46,46,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,05/02/2025,05/04/2025,2263,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,RMG Research,03/17/2025,03/18/2025,1000,RV,43,49,-6,https://napolitannews.org/posts/43-percent-approve-of-the-way-president-trump-is-handling-tariffs,Napolitan News Service,Online Opt-In Panel,TRUE,NA,NA,NA
-trade_tariffs,Morning Consult,03/21/2025,03/23/2025,2206,RV,46,45,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling?utm_source=newsletter&utm_medium=email&utm_campaign=our_best_intel&utm_content=032425,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,05/02/2025,05/04/2025,2263,RV,53,41,12,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Data For Progress,03/26/2025,03/27/2025,1232,LV,42,51,-9,https://www.dataforprogress.org/memos/2025/4/24/approaching-100-days-in-office-voters-increasingly-disapprove-of-trumps-handling-of-the-economy,NA,NA,FALSE,NA,NA,NA
 trade_tariffs,RMG Research,03/31/2025,04/01/2025,1000,RV,42,52,-10,https://napolitannews.org/posts/majority-disapprove-of-trump-tariffs,Napolitan News Service,Online Opt-In Panel,TRUE,NA,NA,NA
 trade_tariffs,Fabrizio Lee & Associates/Impact Research,03/27/2025,04/01/2025,1500,RV,42,54,-12,https://prod-i.a.dj.com/public/resources/documents/March_2025_WSJPoll.pdf,Wall Street Journal,Live Phone/Text-to-Web,FALSE,NA,NA,NA
@@ -245,8 +245,8 @@ civil_liberties,YouGov,05/09/2025,05/12/2025,1786,A,40,46,-6,https://d3nkl3psvxx
 crime,YouGov,05/09/2025,05/12/2025,1786,A,49,40,9,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,05/09/2025,05/12/2025,1786,A,35,57,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,05/09/2025,05/12/2025,1786,A,38,53,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_tDmEBHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,Morning Consult,05/09/2025,05/11/2025,2221,RV,51,44,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,05/09/2025,05/11/2025,2221,RV,46,48,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,05/02/2025,05/04/2025,2263,RV,53,41,12,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Ipsos,05/12/2025,05/13/2025,1163,A,47,47,0,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-05/Reuters%20Ipsos%20Issues%20Survey%20May%202025_2.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,Ipsos,05/12/2025,05/13/2025,1163,A,39,52,-13,https://www.ipsos.com/sites/default/files/ct/news/documents/2025-05/Reuters%20Ipsos%20Issues%20Survey%20May%202025_2.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,Verasight,05/01/2025,05/06/2025,1000,A,38,55,-17,https://www.gelliottmorris.com/p/new-poll-americans-oppose-trumps,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
@@ -274,9 +274,9 @@ crime,YouGov,05/16/2025,05/19/2025,1710,A,46,40,6,https://d3nkl3psvxxpe9.cloudfr
 criminal_justice,YouGov,05/16/2025,05/19/2025,1710,A,39,42,-3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,05/16/2025,05/19/2025,1710,A,39,53,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,05/16/2025,05/19/2025,1710,A,41,49,-8,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_wObz24u.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+immigration,Morning Consult,05/09/2025,05/11/2025,2221,RV,51,44,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,05/09/2025,05/11/2025,2221,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,05/16/2025,05/19/2025,2208,RV,53,40,13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-economy,Morning Consult,05/16/2025,05/19/2025,2208,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,05/16/2025,05/19/2025,2208,RV,46,46,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,American Research Group,05/17/2025,05/20/2025,1100,A,37,60,-23,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
 economy,Ipsos,05/16/2025,05/18/2025,1024,A,39,53,-14,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,05/16/2025,05/18/2025,1024,A,47,45,2,https://www.reuters.com/world/us/trumps-approval-rating-ticks-lower-economic-concerns-weigh-reutersipsos-poll-2025-05-20/,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -287,8 +287,8 @@ foreign_policy,Marquette University Law School,05/05/2025,05/15/2025,1004,A,44,5
 trade_tariffs,Marquette University Law School,05/05/2025,05/15/2025,1004,A,36,63,-27,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,NA,Probability Panel,FALSE,NA,NA,NA
 ukraine,Marquette University Law School,05/05/2025,05/15/2025,1004,A,40,61,-21,https://law.marquette.edu/poll/wp-content/uploads/2025/05/MLSPSC26Toplines_NationalIssues.html,NA,Probability Panel,FALSE,NA,NA,NA
 economy,Global Strategy Group/GBAO (Navigator Research),05/15/2025,05/18/2025,1000,RV,42,56,-14,https://navigatorresearch.org/wp-content/uploads/2025/05/Navigator-Update-Topline-F05.19.25-1.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,05/09/2025,05/11/2025,2221,RV,51,44,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,05/09/2025,05/11/2025,2221,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,05/16/2025,05/19/2025,2208,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,05/16/2025,05/19/2025,2208,RV,46,46,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,02/09/2025,02/11/2025,1595,A,45,44,1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nyOrDiw.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,05/23/2025,05/26/2025,1660,A,38,56,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,05/23/2025,05/26/2025,1660,A,48,48,0,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WokQXF7.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -913,9 +913,9 @@ immigration,YouGov,08/09/2025,08/11/2025,1635,A,47,48,-1,https://d3nkl3psvxxpe9.
 civil_rights,YouGov,08/09/2025,08/11/2025,1635,A,36,49,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Y7xe8fY.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 crime,YouGov,08/09/2025,08/11/2025,1635,A,45,43,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Y7xe8fY.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 guns,YouGov,08/09/2025,08/11/2025,1635,A,36,43,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Y7xe8fY.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,08/01/2025,08/03/2025,2201,RV,45,45,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,08/08/2025,08/10/2025,2200,RV,52,42,10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,08/08/2025,08/10/2025,2200,RV,46,47,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,08/08/2025,08/10/2025,2200,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Pew Research Center,08/04/2025,08/10/2025,3554,A,46,54,-8,https://www.pewresearch.org/wp-content/uploads/sites/20/2025/08/PP_2025.8.14_Trump-approval_topline.pdf,NA,Probability Panel,FALSE,NA,NA,Very/somewhat vs not too/not at all confident
 disaster_relief,Pew Research Center,08/04/2025,08/10/2025,3554,A,45,54,-9,https://www.pewresearch.org/wp-content/uploads/sites/20/2025/08/PP_2025.8.14_Trump-approval_topline.pdf,NA,Probability Panel,FALSE,NA,NA,Very/somewhat vs not too/not at all confident
 economy,Pew Research Center,08/04/2025,08/10/2025,3554,A,44,55,-11,https://www.pewresearch.org/wp-content/uploads/sites/20/2025/08/PP_2025.8.14_Trump-approval_topline.pdf,NA,Probability Panel,FALSE,NA,NA,Very/somewhat vs not too/not at all confident
@@ -939,9 +939,9 @@ economy,Echelon Insights,08/14/2025,08/18/2025,1057,LV,46,51,-5,https://echeloni
 immigration,Echelon Insights,08/14/2025,08/18/2025,1057,LV,47,51,-4,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,08/14/2025,08/18/2025,1057,LV,44,49,-5,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Echelon Insights,08/14/2025,08/18/2025,1057,LV,41,53,-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,08/08/2025,08/10/2025,2200,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,08/15/2025,08/18/2025,2201,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,08/15/2025,08/18/2025,2201,RV,45,48,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,08/15/2025,08/18/2025,2201,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,American Research Group,08/17/2025,08/20/2025,1100,A,34,63,-29,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
 economy,Ipsos,08/13/2025,08/18/2025,4446,A,37,53,-16,https://www.reuters.com/world/us/trump-approval-holds-40-lowest-level-his-term-reutersipsos-poll-finds-2025-08-18/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,08/13/2025,08/18/2025,4446,A,43,48,-5,https://www.reuters.com/world/us/trump-approval-holds-40-lowest-level-his-term-reutersipsos-poll-finds-2025-08-18/,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -974,9 +974,9 @@ immigration,YouGov,08/22/2025,08/25/2025,1523,A,46,50,-4,https://d3nkl3psvxxpe9.
 climate_change,YouGov,08/22/2025,08/25/2025,1523,A,32,52,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 education,YouGov,08/22/2025,08/25/2025,1523,A,38,51,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,08/22/2025,08/25/2025,1523,A,34,52,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_otzzSNZ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,08/15/2025,08/18/2025,2201,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,08/22/2025,08/24/2025,2200,RV,45,49,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,08/22/2025,08/24/2025,2200,RV,52,42,10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,08/22/2025,08/24/2025,2200,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Gallup,08/01/2025,08/20/2025,1094,A,39,57,-18,https://news.gallup.com/poll/694370/trump-ratings-mood-stay-tepid-august.aspx,NA,Live Phone,FALSE,NA,NA,NA
 education,Gallup,08/01/2025,08/20/2025,1094,A,38,59,-21,https://news.gallup.com/poll/694370/trump-ratings-mood-stay-tepid-august.aspx,NA,Live Phone,FALSE,NA,NA,NA
 economy,Gallup,08/01/2025,08/20/2025,1094,A,37,59,-22,https://news.gallup.com/poll/694370/trump-ratings-mood-stay-tepid-august.aspx,NA,Live Phone,FALSE,NA,NA,NA
@@ -1005,9 +1005,9 @@ crime,YouGov,08/29/2025,09/02/2025,1690,A,44,47,-3,https://www.scribd.com/docume
 immigration,John Zogby Strategies,08/29/2025,08/30/2025,1000,LV,51,47,4,https://johnzogbystrategies.com/wp-content/uploads/2025/09/Has-The-President-Bounced-Back_-New-Zogby-Strategies-Poll-09.03.25.html,NA,NA,FALSE,NA,NA,NA
 economy,John Zogby Strategies,08/29/2025,08/30/2025,1000,LV,44,53,-9,https://johnzogbystrategies.com/wp-content/uploads/2025/09/Has-The-President-Bounced-Back_-New-Zogby-Strategies-Poll-09.03.25.html,NA,NA,FALSE,NA,NA,NA
 trade_tariffs,John Zogby Strategies,08/29/2025,08/30/2025,1000,LV,43,53,-10,https://johnzogbystrategies.com/wp-content/uploads/2025/09/Has-The-President-Bounced-Back_-New-Zogby-Strategies-Poll-09.03.25.html,NA,NA,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,08/22/2025,08/24/2025,2200,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,08/29/2025,08/31/2025,2202,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,08/29/2025,08/31/2025,2202,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,08/29/2025,08/31/2025,2202,RV,43,46,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Ipsos,08/22/2025,08/24/2025,1022,A,31,62,-31,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,08/22/2025,08/24/2025,1022,A,43,51,-8,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,Ipsos,08/22/2025,08/24/2025,1022,A,37,55,-18,https://www.ipsos.com/sites/default/files/Reuters%20Ipsos%20Core%20Political%20Presidential%20Approval%20Tracker%20August%202025.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -1046,12 +1046,12 @@ economy,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,39,60,
 russia,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,36,62,-26,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 trade_tariffs,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,36,63,-27,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 inflation,Beacon Research/Shaw & Co. Research,09/06/2025,09/09/2025,1004,RV,32,67,-35,https://static.foxnews.com/foxnews.com/content/uploads/2025/09/fox_september-6-9-2025_national_topline_september-11-release.pdf,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,08/29/2025,08/31/2025,2202,RV,43,46,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,09/06/2025,09/08/2025,2201,RV,49,42,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,09/06/2025,09/08/2025,2201,RV,42,50,-8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,09/06/2025,09/08/2025,2201,RV,42,47,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,09/12/2025,09/14/2025,2204,RV,49,43,6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,09/12/2025,09/14/2025,2204,RV,43,49,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,09/12/2025,09/14/2025,2204,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,09/12/2025,09/15/2025,1567,A,35,57,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_jmHpS1k.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,09/12/2025,09/15/2025,1567,A,30,64,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_jmHpS1k.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,09/12/2025,09/15/2025,1567,A,44,51,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_jmHpS1k.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -1100,9 +1100,9 @@ economy,Echelon Insights,09/18/2025,09/22/2025,1071,LV,43,54,-11,https://echelon
 immigration,Echelon Insights,09/18/2025,09/22/2025,1071,LV,48,49,-1,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,09/18/2025,09/22/2025,1071,LV,44,51,-7,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Echelon Insights,09/18/2025,09/22/2025,1071,LV,39,57,-18,https://echelonin.wpenginepowered.com/wp-content/uploads/September-2025-Voter-Omnibus-Topline-External-1.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,09/12/2025,09/14/2025,2204,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,09/19/2025,09/21/2025,2201,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,09/19/2025,09/21/2025,2201,RV,44,49,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,09/19/2025,09/21/2025,2201,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,09/19/2025,09/22/2025,1551,A,36,55,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,09/19/2025,09/22/2025,1551,A,32,61,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,09/19/2025,09/22/2025,1551,A,44,51,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_XUKbKYQ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -1132,9 +1132,9 @@ economy,Quinnipiac University,09/18/2025,09/21/2025,1276,RV,39,56,-17,https://po
 guns,Quinnipiac University,09/18/2025,09/21/2025,1276,RV,38,54,-16,https://poll.qu.edu/poll-release?releaseid=3932,NA,Live Phone,FALSE,NA,NA,NA
 ukraine,Quinnipiac University,09/18/2025,09/21/2025,1276,RV,33,56,-23,https://poll.qu.edu/poll-release?releaseid=3932,NA,Live Phone,FALSE,NA,NA,NA
 israel_palestine,Quinnipiac University,09/18/2025,09/21/2025,1276,RV,31,56,-25,https://poll.qu.edu/poll-release?releaseid=3932,NA,Live Phone,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,09/19/2025,09/21/2025,2201,RV,42,49,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,09/26/2025,09/28/2025,2202,RV,51,42,9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,09/26/2025,09/28/2025,2202,RV,44,51,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,09/26/2025,09/28/2025,2202,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,The New York Times/Siena College,09/22/2025,09/27/2025,1313,RV,44,54,-10,https://www.nytimes.com/interactive/2025/09/30/polls/times-siena-poll-registered-voter-crosstabs.html,NA,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 immigration,The New York Times/Siena College,09/22/2025,09/27/2025,1313,RV,47,52,-5,https://www.nytimes.com/interactive/2025/09/30/polls/times-siena-poll-registered-voter-crosstabs.html,NA,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 govt_management,The New York Times/Siena College,09/22/2025,09/27/2025,1313,RV,44,54,-10,https://www.nytimes.com/interactive/2025/09/30/polls/times-siena-poll-registered-voter-crosstabs.html,NA,Live Phone/Text-to-Web,FALSE,NA,NA,NA
@@ -1177,9 +1177,9 @@ foreign_policy,Harris Insights & Analytics,10/1/2025,10/2/2025,2413,RV,44,47,-3,
 economy,Harris Insights & Analytics,10/1/2025,10/2/2025,2413,RV,43,52,-9,https://harvardharrispoll.com/topline-september-4/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Harris Insights & Analytics,10/1/2025,10/2/2025,2413,RV,40,53,-13,https://harvardharrispoll.com/topline-september-4/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Harris Insights & Analytics,10/1/2025,10/2/2025,2413,RV,40,53,-13,https://harvardharrispoll.com/topline-september-4/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,09/26/2025,09/28/2025,2202,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,10/3/2025,10/5/2025,2200,RV,51,43,8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,10/3/2025,10/5/2025,2200,RV,44,50,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,10/3/2025,10/5/2025,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Ipsos,10/3/2025,10/7/2025,1154,A,34,55,-21,https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,10/3/2025,10/7/2025,1154,A,41,50,-9,https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,Global Strategy Group/GBAO (Navigator Research),10/2/2025,10/5/2025,1000,RV,41,56,-15,https://navigatorresearch.org/wp-content/uploads/2025/10/Navigator-Topline-F10.06.25.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1189,9 +1189,9 @@ immigration,YouGov,10/4/2025,10/6/2025,1648,A,43,51,-8,https://d3nkl3psvxxpe9.cl
 govt_spending,YouGov,10/4/2025,10/6/2025,1648,A,36,56,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WOe4xT3.pdf,The Economist,Online Matched Sample,FALSE,Taxes and government spending,NA,NA
 healthcare,YouGov,10/4/2025,10/6/2025,1648,A,33,58,-25,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WOe4xT3.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 military,YouGov,10/4/2025,10/6/2025,1648,A,41,49,-8,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_WOe4xT3.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,10/3/2025,10/5/2025,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,10/10/2025,10/12/2025,2202,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,10/10/2025,10/12/2025,2202,RV,43,49,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,10/10/2025,10/12/2025,2202,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,10/10/2025,10/13/2025,1622,A,38,53,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GAAzhe0.pdf,The Economist,Online Matched Sample,FALSE,Jobs and the economy,NA,NA
 inflation,YouGov,10/10/2025,10/13/2025,1622,A,33,60,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GAAzhe0.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
 immigration,YouGov,10/10/2025,10/13/2025,1622,A,45,51,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_GAAzhe0.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -1240,9 +1240,9 @@ immigration,Echelon Insights,10/16/2025,10/20/2025,1010,LV,47,51,-4,https://eche
 foreign_policy,Echelon Insights,10/16/2025,10/20/2025,1010,LV,47,47,0,https://echeloninsights.com/in-the-news/october-2025-verified-voter-omnibus-2/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Echelon Insights,10/16/2025,10/20/2025,1010,LV,37,57,-20,https://echeloninsights.com/in-the-news/october-2025-verified-voter-omnibus-2/,NA,Online Opt-In Panel,FALSE,tariffs,NA,NA
 israel_palestine,Echelon Insights,10/16/2025,10/20/2025,1010,LV,53,37,16,https://echeloninsights.com/in-the-news/october-2025-verified-voter-omnibus-2/,NA,Online Opt-In Panel,FALSE,Israel-Gaza war,NA,NA
+trade_tariffs,Morning Consult,10/10/2025,10/12/2025,2202,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,10/17/2025,10/19/2025,2200,RV,51,42,9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,10/17/2025,10/19/2025,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,10/17/2025,10/19/2025,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,10/17/2025,10/20/2025,1621,A,37,57,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_9BPkYGS.pdf,The Economist,Online Matched Sample,FALSE,Jobs and the economy,NA,NA
 inflation,YouGov,10/17/2025,10/20/2025,1621,A,30,64,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_9BPkYGS.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
 immigration,YouGov,10/17/2025,10/20/2025,1621,A,45,51,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econtoplines_9BPkYGS.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -1275,9 +1275,9 @@ white_house_renovations,YouGov,10/23/2025,10/27/2025,1770,A,28,55,-27,https://ww
 economy,Ipsos,10/24/2025,10/26/2025,1018,A,34,58,-24,https://www.reuters.com/world/us/trumps-popularity-dips-americans-sweat-cost-living-reutersipsos-poll-finds-2025-10-28/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,10/24/2025,10/26/2025,1018,A,43,50,-7,https://www.reuters.com/world/us/trumps-popularity-dips-americans-sweat-cost-living-reutersipsos-poll-finds-2025-10-28/,Reuters,Probability Panel,FALSE,NA,NA,NA
 govt_shutdown,Hart Research Associates,10/17/2025,10/19/2025,1221,LV,36,55,-19,https://senatemajority.com/wp-content/uploads/Hart-Research-SMP-Oct-24.pdf,Senate Majority PAC,Online Opt-In Panel,FALSE,NA,DEM,NA
+trade_tariffs,Morning Consult,10/17/2025,10/19/2025,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,10/24/2025,10/26/2025,2202,RV,51,41,10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,10/24/2025,10/26/2025,2202,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,10/24/2025,10/26/2025,2202,RV,42,47,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,"Normington, Petts & Associates",09/11/2025,09/16/2025,800,LV,51,49,2,https://www.thirdway.org/memo/americans-caught-between-trumps-cruelty-and-democrats-chaos,Third Way,NA,FALSE,Immigration enforcement & ICE raids,NA,NA
 healthcare,YouGov,09/05/2025,09/09/2025,2030,A,38,54,-16,https://www.protectingtaxpayers.org/federal-agencies/tpa-releases-a-new-survey-exposing-americans-wide-distrust-disapproval-of-rfk-jr-s-leadership/,Taxpayers Protection Alliance,Online Matched Sample,FALSE,NA,REP,NA
 economy,Global Strategy Group/GBAO (Navigator Research),10/23/2025,10/27/2025,1000,RV,38,59,-21,https://navigatorresearch.org/government-shutdown-week-4-a-guide-for-advocates/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1320,9 +1320,9 @@ inflation,YouGov,10/31/2025,11/3/2025,1656,A,31,64,-33,https://d3nkl3psvxxpe9.cl
 immigration,YouGov,10/31/2025,11/3/2025,1656,A,45,51,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5RO6eos.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 govt_spending,YouGov,10/31/2025,11/3/2025,1656,A,37,57,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5RO6eos.pdf,The Economist,Online Matched Sample,FALSE,Taxes and government spending,NA,NA
 healthcare,YouGov,10/31/2025,11/3/2025,1656,A,33,58,-25,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5RO6eos.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,10/24/2025,10/26/2025,2202,RV,42,47,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,10/31/2025,11/02/2025,2202,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,10/31/2025,11/02/2025,2202,RV,44,49,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,10/31/2025,11/02/2025,2202,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,RMG Research,10/15/2025,10/16/2025,1000,RV,41,57,-16,https://napolitannews.org/posts/on-top-voter-issues-trump-approval-ratings-rise,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,RMG Research,10/15/2025,10/16/2025,1000,RV,54,43,11,https://napolitannews.org/posts/on-top-voter-issues-trump-approval-ratings-rise,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 crime,RMG Research,10/15/2025,10/16/2025,1000,RV,53,44,9,https://napolitannews.org/posts/on-top-voter-issues-trump-approval-ratings-rise,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1359,9 +1359,9 @@ govt_management,Harris Insights & Analytics,11/04/2025,11/06/2025,2000,RV,42,51,
 economy,Harris Insights & Analytics,11/04/2025,11/06/2025,2000,RV,41,54,-13,https://harvardharrispoll.com/key-results-november-5/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Harris Insights & Analytics,11/04/2025,11/06/2025,2000,RV,40,54,-14,https://harvardharrispoll.com/key-results-november-5/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Harris Insights & Analytics,11/04/2025,11/06/2025,2000,RV,39,56,-17,https://harvardharrispoll.com/key-results-november-5/,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,10/31/2025,11/02/2025,2202,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,11/07/2025,11/09/2025,2201,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,11/07/2025,11/09/2025,2201,RV,42,52,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,11/07/2025,11/09/2025,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Ipsos,11/07/2025,11/12/2025,938,RV,42,51,-9,https://www.reuters.com/world/us/democrats-more-energized-2026-elections-than-republicans-reutersipsos-poll-finds-2025-11-13/,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,Ipsos,11/07/2025,11/12/2025,938,RV,34,58,-24,https://www.reuters.com/world/us/democrats-more-energized-2026-elections-than-republicans-reutersipsos-poll-finds-2025-11-13/,Reuters,Probability Panel,FALSE,NA,NA,NA
 economy,AP-NORC,11/06/2025,11/10/2025,1143,A,33,67,-34,https://apnorc.org/wp-content/uploads/2025/11/Nov-Topline-Final.pdf,NA,Probability Panel,FALSE,NA,NA,NA
@@ -1393,9 +1393,9 @@ economy,Verasight,11/12/2025,11/14/2025,2038,A,38,56,-18,https://www.gelliottmor
 govt_spending,Verasight,11/12/2025,11/14/2025,2038,A,37,59,-22,https://www.gelliottmorris.com/p/new-poll-democrats-lead-the-2026,Strength In Numbers,Text/Online Ad/Email,FALSE,Government funding and social programs,NA,NA
 healthcare,Verasight,11/12/2025,11/14/2025,2038,A,34,60,-26,https://www.gelliottmorris.com/p/new-poll-democrats-lead-the-2026,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
 inflation,Verasight,11/12/2025,11/14/2025,2038,A,31,64,-33,https://www.gelliottmorris.com/p/new-poll-democrats-lead-the-2026,Strength In Numbers,Text/Online Ad/Email,FALSE,Prices/inflation,NA,NA
+trade_tariffs,Morning Consult,11/07/2025,11/09/2025,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,11/14/2025,11/16/2025,2201,RV,48,45,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,11/14/2025,11/16/2025,2201,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,11/14/2025,11/16/2025,2201,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 border_security,Beacon Research/Shaw & Co. Research,11/14/2025,11/17/2025,1005,RV,53,45,8,https://static.foxnews.com/foxnews.com/content/uploads/2025/11/fox_november-14-17-2025_national_topline_november-19-release.pdf,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 immigration,Beacon Research/Shaw & Co. Research,11/14/2025,11/17/2025,1005,RV,46,53,-7,https://static.foxnews.com/foxnews.com/content/uploads/2025/11/fox_november-14-17-2025_national_topline_november-19-release.pdf,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 foreign_policy,Beacon Research/Shaw & Co. Research,11/14/2025,11/17/2025,1005,RV,43,55,-12,https://static.foxnews.com/foxnews.com/content/uploads/2025/11/fox_november-14-17-2025_national_topline_november-19-release.pdf,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
@@ -1423,9 +1423,9 @@ economy,YouGov,11/19/2025,11/21/2025,2489,A,36,64,-28,https://www.cbsnews.com/ne
 inflation,YouGov,11/19/2025,11/21/2025,2489,A,32,68,-36,https://www.cbsnews.com/news/poll-venezuela-u-s-military-action-trump/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,11/19/2025,11/21/2025,2489,A,45,55,-10,https://www.cbsnews.com/news/poll-venezuela-u-s-military-action-trump/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 ukraine,YouGov,11/19/2025,11/21/2025,2489,A,41,59,-18,https://www.cbsnews.com/news/poll-venezuela-u-s-military-action-trump/,CBS News,Online Matched Sample,FALSE,the current conflict between Russia and Ukraine,NA,NA
+trade_tariffs,Morning Consult,11/14/2025,11/16/2025,2201,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,11/21/2025,11/23/2025,2200,RV,48,43,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,11/21/2025,11/23/2025,2200,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,11/21/2025,11/23/2025,2200,RV,44,44,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 border_security,High Point University,11/10/2025,11/14/2025,1004,A,50,38,12,https://www.highpoint.edu/src/files/2023/08/HPUPoll-115-and-116-Memo.pdf,NA,Online Opt-In Panel,FALSE,Securing the US southern border,NA,NA
 national_security,High Point University,11/10/2025,11/14/2025,1004,A,44,44,0,https://www.highpoint.edu/src/files/2023/08/HPUPoll-115-and-116-Memo.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 law_enforcement,High Point University,11/10/2025,11/14/2025,1004,A,43,46,-3,https://www.highpoint.edu/src/files/2023/08/HPUPoll-115-and-116-Memo.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1476,9 +1476,9 @@ abortion,RMG Research,11/19/2025,11/20/2025,1000,RV,38,55,-17,https://napolitann
 economy,RMG Research,11/19/2025,11/20/2025,1000,RV,39,60,-21,https://napolitannews.org/posts/on-voters039-top-issues-trump-ratings-slip-to-new-lows,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,RMG Research,11/19/2025,11/20/2025,1000,RV,38,59,-21,https://napolitannews.org/posts/on-voters039-top-issues-trump-ratings-slip-to-new-lows,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,RMG Research,11/19/2025,11/20/2025,1000,RV,36,63,-27,https://napolitannews.org/posts/on-voters039-top-issues-trump-ratings-slip-to-new-lows,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,11/21/2025,11/23/2025,2200,RV,44,44,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,11/26/2025,11/30/2025,2200,RV,51,41,10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,11/26/2025,11/30/2025,2200,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,11/26/2025,11/30/2025,2200,RV,46,45,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,YouGov,11/28/2025,12/01/2025,1628,A,32,59,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,The Economist,Online Matched Sample,FALSE,Affordability,NA,NA
 civil_rights,YouGov,11/28/2025,12/01/2025,1628,A,36,51,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 guns,YouGov,11/28/2025,12/01/2025,1628,A,37,46,-9,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_szm0BQt.pdf,The Economist,Online Matched Sample,FALSE,Gun control,NA,NA
@@ -1496,9 +1496,9 @@ govt_spending,YouGov,12/05/2025,12/08/2025,1530,A,36,57,-21,https://d3nkl3psvxxp
 military,YouGov,12/05/2025,12/08/2025,1530,A,41,50,-9,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qLhWxpK.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 economy,Ipsos,12/03/2025,12/08/2025,4434,A,36,52,-16,https://www.reuters.com/world/trump-approval-rating-rises-republicans-back-cost-of-living-efforts-2025-12-09/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,12/03/2025,12/08/2025,4434,A,42,47,-5,https://www.reuters.com/world/trump-approval-rating-rises-republicans-back-cost-of-living-efforts-2025-12-09/,Reuters,Probability Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,11/26/2025,11/30/2025,2200,RV,46,45,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,12/05/2025,12/07/2025,2201,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,12/05/2025,12/07/2025,2201,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,12/05/2025,12/07/2025,2201,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,50,45,5,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 crime,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,49,44,5,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,John Zogby Strategies,12/05/2025,12/07/2025,1000,LV,43,52,-9,https://johnzogbystrategies.com/outlook-2026-is-the-president-bleeding-independents/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1568,9 +1568,9 @@ immigration,YouGov,12/12/2025,12/15/2025,1632,A,45,50,-5,https://d3nkl3psvxxpe9.
 race_relations,YouGov,12/12/2025,12/15/2025,1632,A,35,50,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,12/12/2025,12/15/2025,1632,A,33,61,-28,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
 national_security,YouGov,12/12/2025,12/15/2025,1632,A,45,46,-1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_FJyfDu9.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,12/05/2025,12/07/2025,2201,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,12/12/2025,12/15/2025,2201,RV,47,45,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,12/12/2025,12/15/2025,2201,RV,43,49,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,12/12/2025,12/15/2025,2201,RV,44,45,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Echelon Insights,12/11/2025,12/15/2025,1011,LV,41,57,-16,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,12/11/2025,12/15/2025,1011,LV,47,52,-5,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,12/11/2025,12/15/2025,1011,LV,45,53,-8,https://echelonin.wpenginepowered.com/wp-content/uploads/December-2025-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1583,9 +1583,9 @@ military,YouGov,12/20/2025,12/22/2025,1592,A,43,49,-6,https://d3nkl3psvxxpe9.clo
 immigration,YouGov,12/20/2025,12/22/2025,1592,A,44,50,-6,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,12/20/2025,12/22/2025,1592,A,36,56,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,Tariffs,NA,NA
 foreign_policy,YouGov,12/20/2025,12/22/2025,1592,A,39,52,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nBgFw7w.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,12/12/2025,12/15/2025,2201,RV,44,45,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,12/19/2025,12/21/2025,2203,RV,43,49,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,12/19/2025,12/21/2025,2203,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,12/19/2025,12/21/2025,2203,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 education,YouGov,12/26/2026,12/29/2025,1550,A,37,49,-12,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_h1aYmmb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,12/26/2026,12/29/2025,1550,A,34,48,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_h1aYmmb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 environment,YouGov,12/26/2026,12/29/2025,1550,A,34,49,-15,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_h1aYmmb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -1598,17 +1598,17 @@ inflation,YouGov,01/02/2026,01/05/2026,1551,A,32,59,-27,https://d3nkl3psvxxpe9.c
 taxes,YouGov,01/02/2026,01/05/2026,1551,A,36,52,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 govt_spending,YouGov,01/02/2026,01/05/2026,1551,A,34,58,-24,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 epstein_files,YouGov,01/02/2026,01/05/2026,1551,A,25,56,-31,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,Investigation of Jeffrey Epstein,NA,NA
+trade_tariffs,Morning Consult,12/19/2025,12/21/2025,2203,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,01/02/2026,01/04/2026,2201,RV,48,44,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,01/02/2026,01/04/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,01/02/2026,01/04/2026,2201,RV,45,44,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 venezuela,YouGov,01/02/2026,01/05/2026,1551,A,32,49,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 terrorism,YouGov,01/02/2026,01/05/2026,1551,A,45,40,5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aY8mpiN.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 economy,YouGov,01/05/2026,01/07/2026,2325,A,39,61,-22,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,01/05/2026,01/07/2026,2325,A,35,65,-30,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,01/05/2026,01/07/2026,2325,A,44,56,-12,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 venezuela,YouGov,01/05/2026,01/07/2026,2325,A,43,57,-14,https://www.cbsnews.com/news/u-s-actions-venezuela-opinion-poll/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
-economy,Morning Consult,01/09/2026,01/12/2026,2201,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,01/09/2026,01/12/2026,2201,RV,47,46,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,01/02/2026,01/04/2026,2201,RV,45,44,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,01/02/2026,01/04/2026,2201,RV,45,44,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,RMG Research,12/17/2025,12/18/2025,1000,RV,56,43,13,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,RMG Research,12/17/2025,12/18/2025,1000,RV,51,48,3,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 guns,RMG Research,12/17/2025,12/18/2025,1000,RV,50,49,1,https://napolitannews.org/posts/on-voters-top-issues-trump-ratings-gain-ground,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1624,7 +1624,7 @@ venezuela,YouGov,01/09/2026,01/12/2026,1602,A,37,50,-13,https://d3nkl3psvxxpe9.c
 immigration,YouGov,01/09/2026,01/12/2026,1602,A,44,51,-7,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,01/09/2026,01/12/2026,1602,A,37,56,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,Tariffs,NA,NA
 foreign_policy,YouGov,01/09/2026,01/12/2026,1602,A,39,50,-11,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,01/09/2026,01/12/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,01/09/2026,01/12/2026,2201,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 israel_palestine,YouGov,01/09/2026,01/12/2026,1602,A,33,46,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 ukraine,YouGov,01/09/2026,01/12/2026,1602,A,32,49,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_qsNv5iE.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 israel_palestine,YouGov,02/05/2025,02/07/2025,2175,A,54,46,8,https://www.cbsnews.com/news/trump-approval-opinion-poll-2025-2-9/,CBS News,Online Matched Sample,FALSE,the current conflict between Israel and Hamas,NA,NA
@@ -1681,9 +1681,9 @@ immigration,YouGov,01/16/2026,01/19/2026,1722,A,43,53,-10,https://d3nkl3psvxxpe9
 race_relations,YouGov,01/16/2026,01/19/2026,1722,A,33,53,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,01/16/2026,01/19/2026,1722,A,34,61,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
 iran,YouGov,01/16/2026,01/19/2026,1722,A,34,48,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_z9wtNZI.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-immigration,Morning Consult,01/16/2026,01/18/2026,2201,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-economy,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,48,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,01/09/2026,01/12/2026,2201,RV,47,46,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,01/09/2026,01/12/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,01/09/2026,01/12/2026,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Verasight,01/14/2026,01/20/2026,1532,A,39,57,-18,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,Jobs and the economy,NA,NA
 inflation,Verasight,01/14/2026,01/20/2026,1532,A,32,63,-31,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,Prices/inflation,NA,NA
 trade_tariffs,Verasight,01/14/2026,01/20/2026,1532,A,38,57,-19,https://www.gelliottmorris.com/p/new-poll-trump-slips-on-immigration,Strength In Numbers,Text/Online Ad/Email,FALSE,Trade with other countries,NA,NA
@@ -1787,9 +1787,9 @@ ukraine,Big Data Poll,01/22/2026,01/24/2026,3820,RV,38.7,50.6,-11.9,https://www.
 israel_palestine,Big Data Poll,01/22/2026,01/24/2026,3820,RV,41.3,47.8,-6.5,https://www.bigdatapoll.com/blog/trumps-one-year-approval-overall-on-key-issues-takes-hit/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Israel-Palestine conflict,NA,NA
 venezuela,Big Data Poll,01/22/2026,01/24/2026,3820,RV,40.4,50.4,-10,https://www.bigdatapoll.com/blog/trumps-one-year-approval-overall-on-key-issues-takes-hit/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Situation in Venezuela,NA,NA
 iran,Big Data Poll,01/22/2026,01/24/2026,3820,RV,38.6,48.3,-9.7,https://www.bigdatapoll.com/blog/trumps-one-year-approval-overall-on-key-issues-takes-hit/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Situation in Iran,NA,NA
-immigration,Morning Consult,01/23/2026,01/25/2026,2201,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-economy,Morning Consult,01/23/2026,01/25/2026,2201,RV,44,50,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-trade_tariffs,Morning Consult,01/23/2026,01/25/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,01/16/2026,01/18/2026,2201,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,48,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Clarity Campaign Labs,01/15/2026,01/22/2026,1147,LV,33,63,-30,https://www.claritycampaigns.com/clarity-omnibus-jan-2026,NA,Online Opt-In Panel,FALSE,Inflation and prices,NA,NA
 epstein_files,Clarity Campaign Labs,01/15/2026,01/22/2026,1147,LV,32,54,-22,https://www.claritycampaigns.com/clarity-omnibus-jan-2026,NA,Online Opt-In Panel,FALSE,The Jeffrey Epstein investigation,NA,NA
 healthcare,Clarity Campaign Labs,01/15/2026,01/22/2026,1147,LV,36,58,-22,https://www.claritycampaigns.com/clarity-omnibus-jan-2026,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1841,17 +1841,17 @@ inflation,John Zogby Strategies,02/04/2026,02/05/2026,1000,LV,37,57,-20,https://
 diplomacy,John Zogby Strategies,02/04/2026,02/05/2026,1000,LV,40,54,-14,https://johnzogbystrategies.com/the-presidents-approval-ratings-underwater-on-overall-job-all-key-voter-issues/,NA,Online Opt-In Panel,FALSE,Style of diplomacy,NA,NA
 trade_tariffs,John Zogby Strategies,02/04/2026,02/05/2026,1000,LV,40,55,-15,https://johnzogbystrategies.com/the-presidents-approval-ratings-underwater-on-overall-job-all-key-voter-issues/,NA,Online Opt-In Panel,FALSE,Placing tariffs on other countries,NA,NA
 crime,John Zogby Strategies,02/04/2026,02/05/2026,1000,LV,46,50,-4,https://johnzogbystrategies.com/the-presidents-approval-ratings-underwater-on-overall-job-all-key-voter-issues/,NA,Online Opt-In Panel,FALSE,Handling crime in large U.S. cities,NA,NA
+foreign_policy,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,01/23/2026,01/25/2026,2201,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,01/23/2026,01/25/2026,2201,RV,44,50,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,01/23/2026,01/25/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,01/23/2026,01/25/2026,2201,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,01/30/2026,02/01/2026,2201,RV,47,47,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,01/30/2026,02/01/2026,2201,RV,44,50,-6,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,01/30/2026,02/01/2026,2201,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,01/30/2026,02/01/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,01/23/2026,01/25/2026,2201,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,01/16/2026,01/18/2026,2201,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,01/09/2026,01/12/2026,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,01/02/2026,01/04/2026,2201,RV,45,44,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,12/19/2026,12/21/2026,2203,RV,46,45,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,08/01/2025,08/03/2025,2201,RV,45,45,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,02/21/2025,02/24/2025,2225,RV,50,42,8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,02/06/2026,02/09/2026,2200,RV,47,45,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling#trump-s-performance-on-the-issues,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,02/06/2026,02/09/2026,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling#trump-s-performance-on-the-issues,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Ipsos,01/23/2026,01/25/2026,1139,A,30,59,-29,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Jan%20Core%20Political%20Topline%20for%20Release_0.pdf,Reuters,Probability Panel,FALSE,Your cost of living,NA,NA
 national_politics,Ipsos,01/23/2026,01/25/2026,1139,A,32,57,-25,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Jan%20Core%20Political%20Topline%20for%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
 foreign_policy,Ipsos,01/23/2026,01/25/2026,1139,A,35,54,-19,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-01/Reuters%20Ipsos%20Jan%20Core%20Political%20Topline%20for%20Release_0.pdf,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -1862,10 +1862,10 @@ inflation,YouGov,02/06/2026,02/09/2026,1730,A,31,59,-28,https://d3nkl3psvxxpe9.c
 taxes,YouGov,02/06/2026,02/09/2026,1730,A,35,54,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 govt_spending,YouGov,02/06/2026,02/09/2026,1730,A,31,58,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,02/06/2026,02/09/2026,1730,A,40,53,-13,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_vNnwPx2.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-immigration,Morning Consult,02/06/2026,02/09/2026,2200,RV,47,45,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling#trump-s-performance-on-the-issues,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-economy,Morning Consult,02/06/2026,02/09/2026,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling#trump-s-performance-on-the-issues,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,02/06/2026,02/09/2026,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling#trump-s-performance-on-the-issues,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,02/06/2026,02/09/2026,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling#trump-s-performance-on-the-issues,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,02/13/2026,02/16/2026,2200,RV,47,45,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,02/13/2026,02/16/2026,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,SurveyMonkey,01/27/2026,02/06/2026,21995,A,40,60,-20,https://legacy.www.documentcloud.org/documents/26948008-nbc-news-decision-desk-poll-jan-feb-2026-topline,NBC News Decision Desk,Online Opt-In Panel,FALSE,Border security and immigration,NA,NA
 economy,AP-NORC,02/05/2026,02/08/2026,1156,A,39,59,-20,https://apnorc.org/wp-content/uploads/2026/02/February-2026-Topline_Immigration.pdf,NA,Probability Panel,FALSE,NA,NA,NA
 immigration,AP-NORC,02/05/2026,02/08/2026,1156,A,38,60,-22,https://apnorc.org/wp-content/uploads/2026/02/February-2026-Topline_Immigration.pdf,NA,Probability Panel,FALSE,NA,NA,NA
@@ -1885,8 +1885,6 @@ environment,YouGov,02/13/2026,02/16/2026,1682,A,35,52,-17,https://d3nkl3psvxxpe9
 epstein_files,YouGov,02/13/2026,02/16/2026,1682,A,24,57,-33,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_usZL1Jt.pdf,The Economist,Online Matched Sample,FALSE,Investigations into Jeffrey Epstein,NA,NA
 economy,Ipsos,02/13/2026,02/16/2026,1117,A,34,57,-23,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,02/13/2026,02/16/2026,1117,A,38,55,-17,https://www.reuters.com/data/trumps-approval-rating-2025-01-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,02/13/2026,02/16/2026,2200,RV,47,45,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-economy,Morning Consult,02/13/2026,02/16/2026,2200,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,02/13/2026,02/16/2026,2200,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 national_security,Morning Consult,02/13/2026,02/16/2026,2200,RV,48,43,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 taxes,Morning Consult,02/13/2026,02/16/2026,2200,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1897,6 +1895,8 @@ medicaire_social_security,Morning Consult,02/13/2026,02/16/2026,2200,RV,40,50,-1
 healthcare,Morning Consult,02/13/2026,02/16/2026,2200,RV,39,52,-13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,02/13/2026,02/16/2026,2200,RV,37,49,-12,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,02/13/2026,02/16/2026,2200,RV,33,47,-14,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,02/20/2026,02/22/2026,2202,RV,48,43,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,02/20/2026,02/22/2026,2202,RV,47,47,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,02/09/2026,02/12/2026,1704,A,37,57,-20,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026,Yahoo News,Online Matched Sample,FALSE,NA,NA,NA
 economy,Big Data Poll,02/16/2026,02/18/2026,2012,RV,42.1,52.5,-10.4,https://www.bigdatapoll.com/blog/democrats-expand-generic-ballot-lead-in-february/,Public Polling Project | 1776 Law Institute,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Economy/Jobs,NA,NA
 immigration,Big Data Poll,02/16/2026,02/18/2026,2012,RV,45.1,51.2,-6.1,https://www.bigdatapoll.com/blog/democrats-expand-generic-ballot-lead-in-february/,Public Polling Project | 1776 Law Institute,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Immigration/border security,NA,NA
@@ -1972,8 +1972,6 @@ inflation,Verasight/Morris Predictive Insights,02/06/2026,02/10/2026,1500,A,31,6
 economy,YouGov,02/20/2026,02/23/2026,2381,A,39,61,-22,https://www.cbsnews.com/news/trump-state-of-the-union-opinion-poll-economy-iran/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,02/20/2026,02/23/2026,2381,A,34,66,-32,https://www.cbsnews.com/news/trump-state-of-the-union-opinion-poll-economy-iran/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,02/20/2026,02/23/2026,2381,A,42,58,-16,https://www.cbsnews.com/news/trump-state-of-the-union-opinion-poll-economy-iran/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
-national_security,Morning Consult,02/20/2026,02/22/2026,2202,RV,48,43,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,02/20/2026,02/22/2026,2202,RV,47,47,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,02/20/2026,02/22/2026,2202,RV,45,45,0,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 taxes,Morning Consult,02/20/2026,02/22/2026,2202,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,02/20/2026,02/22/2026,2202,RV,43,50,-7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -1984,6 +1982,8 @@ medicaire_social_security,Morning Consult,02/20/2026,02/22/2026,2202,RV,40,50,-1
 healthcare,Morning Consult,02/20/2026,02/22/2026,2202,RV,39,52,-13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,02/20/2026,02/22/2026,2202,RV,37,49,-12,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,02/20/2026,02/22/2026,2202,RV,33,47,-14,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,02/28/2026,2/28/2026,1618,RV,43,52,-9,https://morningconsult.com/articles/trump-iran-strikes-poll,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,03/06/2026,3/8/2026,2202,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Global Strategy Group/GBAO (Navigator Research),02/19/2026,02/23/2026,1000,RV,38,60,-22,https://navigatorresearch.org/wp-content/uploads/2026/02/Navigator-February-1-Topline-F02.23.26.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,John Zogby Strategies,02/25/2026,02/27/2026,1015,LV,49,47,2,https://johnzogbystrategies.com/presidents-approval-up-3-points-post-state-of-the-union-now-47-approve-50-disapprove-americans-split-even-on-his-iran-policy/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,John Zogby Strategies,02/25/2026,02/27/2026,1015,LV,43,51,-8,https://johnzogbystrategies.com/presidents-approval-up-3-points-post-state-of-the-union-now-47-approve-50-disapprove-americans-split-even-on-his-iran-policy/,NA,Online Opt-In Panel,FALSE,Affordability,NA,NA
@@ -2017,7 +2017,7 @@ guns,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,43.6,41.3,2.3,ht
 civil_rights,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,32.3,56.1,-23.8,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Civil Rights, Personal Freedoms & Social Issues",REP,NA
 corruption,The Public Sentiment Institute,02/28/2026,2/28/2026,316,RV,30.9,57.7,-26.8,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking,NA,NA,FALSE,"Political Corruption, Lobbying & Money in Politics",REP,NA
 iran,YouGov,02/25/2026,2/27/2026,2264,A,43,57,-14,https://www.cbsnews.com/news/cbs-news-poll-americans-views-on-iran-prior-to-conflict/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
-foreign_policy,Morning Consult,02/28/2026,2/28/2026,1618,RV,43,52,-9,https://morningconsult.com/articles/trump-iran-strikes-poll,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,03/06/2026,3/8/2026,2202,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 environment,YouGov,02/27/2026,3/2/2026,1515,A,34,54,-20,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ubu5DXD.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 education,YouGov,02/27/2026,3/2/2026,1515,A,36,53,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ubu5DXD.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,02/27/2026,3/2/2026,1515,A,34,51,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ubu5DXD.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -2073,8 +2073,6 @@ trade_tariffs,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,43,50,-7,
 metro_surge_minn,Harris Insights & Analytics,02/25/2026,2/26/2026,1999,RV,42,50,-8,https://harvardharrispoll.com/key-results-february-2026/,Harvard CAPS,Online Opt-In Panel,FALSE,Responding to anti-ICE protests in Minneapolis,NA,NA
 economy,Marist College,03/02/2026,3/4/2026,1591,A,35,58,-23,https://maristpoll.marist.edu/polls/election-security-march-2026/,NPR | PBS News,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA,NA
 immigration,Marist College,03/02/2026,3/4/2026,1591,A,40,57,-17,https://maristpoll.marist.edu/polls/election-security-march-2026/,NPR | PBS News,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA,NA
-national_security,Morning Consult,03/06/2026,3/8/2026,2202,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,03/06/2026,3/8/2026,2202,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 taxes,Morning Consult,03/06/2026,3/8/2026,2202,RV,46,47,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,03/06/2026,3/8/2026,2202,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,03/06/2026,3/8/2026,2202,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2085,6 +2083,8 @@ medicaire_social_security,Morning Consult,03/06/2026,3/8/2026,2202,RV,42,49,-7,h
 healthcare,Morning Consult,03/06/2026,3/8/2026,2202,RV,41,51,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,03/06/2026,3/8/2026,2202,RV,38,48,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,03/06/2026,3/8/2026,2202,RV,32,46,-14,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,03/13/2026,3/16/2026,2201,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,03/13/2026,3/16/2026,2201,RV,47,44,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Focaldata,03/06/2026,03/10/2026,1782,A,39,46,-7,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,Immigration and border security,NA,NA
 foreign_policy,Focaldata,03/06/2026,03/10/2026,1782,A,33,47,-14,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,NA,NA,NA
 iran,Focaldata,03/06/2026,03/10/2026,1782,A,32,48,-16,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war,NA,NA,FALSE,NA,NA,NA
@@ -2107,8 +2107,6 @@ epstein_files,YouGov,03/13/2026,3/16/2026,1595,A,24,59,-35,https://d3nkl3psvxxpe
 economy,Echelon Insights,03/12/2026,3/16/2026,1033,LV,38,59,-21,https://echelonin.wpenginepowered.com/wp-content/uploads/March-2026-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,03/12/2026,3/16/2026,1033,LV,43,55,-12,https://echelonin.wpenginepowered.com/wp-content/uploads/March-2026-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,03/12/2026,3/16/2026,1033,LV,38,59,-21,https://echelonin.wpenginepowered.com/wp-content/uploads/March-2026-Omnibus-Topline-External.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,03/13/2026,3/16/2026,2201,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,03/13/2026,3/16/2026,2201,RV,47,44,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,03/13/2026,3/16/2026,2201,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 energy,Morning Consult,03/13/2026,3/16/2026,2201,RV,43,46,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,03/13/2026,3/16/2026,2201,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2119,6 +2117,8 @@ national_debt,Morning Consult,03/13/2026,3/16/2026,2201,RV,40,50,-10,https://pro
 healthcare,Morning Consult,03/13/2026,3/16/2026,2201,RV,40,50,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,03/13/2026,3/16/2026,2201,RV,37,48,-11,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,03/13/2026,3/16/2026,2201,RV,31,48,-17,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,LGBTQ+ rights,NA,NA
+immigration,Morning Consult,03/20/2026,3/22/2026,2202,RV,47,46,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,03/20/2026,3/22/2026,2202,RV,47,44,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,03/12/2026,3/13/2026,1699,A,32,61,-29,https://www.yahoo.com/news/politics/article/poll-66-of-americans-disapprove-of-trump-on-gas-prices-as-they-feel-effects-of-iran-war-120000483.html,Yahoo News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,03/12/2026,3/13/2026,1699,A,43,53,-10,https://www.yahoo.com/news/politics/article/poll-66-of-americans-disapprove-of-trump-on-gas-prices-as-they-feel-effects-of-iran-war-120000483.html,Yahoo News,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,03/12/2026,3/13/2026,1699,A,36,55,-19,https://www.yahoo.com/news/politics/article/poll-66-of-americans-disapprove-of-trump-on-gas-prices-as-they-feel-effects-of-iran-war-120000483.html,Yahoo News,Online Matched Sample,FALSE,NA,NA,NA
@@ -2194,8 +2194,6 @@ trade_tariffs,AP-NORC,03/19/2026,3/23/2026,1150,A,38,61,-23,https://apnorc.org/p
 foreign_policy,AP-NORC,03/19/2026,3/23/2026,1150,A,34,64,-30,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
 iran,AP-NORC,03/19/2026,3/23/2026,1150,A,35,63,-28,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
 cuba,AP-NORC,03/19/2026,3/23/2026,1150,A,36,62,-26,https://apnorc.org/projects/most-say-the-united-states-recent-military-actions-against-iran-have-gone-too-far/,NA,Probability Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,03/20/2026,3/22/2026,2202,RV,47,46,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,03/20/2026,3/22/2026,2202,RV,47,44,3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,03/20/2026,3/22/2026,2202,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 taxes,Morning Consult,03/20/2026,3/22/2026,2202,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,03/20/2026,3/22/2026,2202,RV,43,47,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2206,6 +2204,8 @@ healthcare,Morning Consult,03/20/2026,3/22/2026,2202,RV,41,51,-10,https://pro.mo
 national_debt,Morning Consult,03/20/2026,3/22/2026,2202,RV,41,50,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,03/20/2026,3/22/2026,2202,RV,38,47,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,03/20/2026,3/22/2026,2202,RV,33,46,-13,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,03/27/2026,3/29/2026,2203,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,03/27/2026,3/29/2026,2203,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Beacon Research/Shaw & Co. Research,03/20/2026,3/23/2026,1001,RV,38,62,-24,https://www.foxnews.com/politics/fox-news-poll-voters-oppose-action-iran-give-u-s-military-positive-marks,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 iran,Beacon Research/Shaw & Co. Research,03/20/2026,3/23/2026,1001,RV,36,64,-28,https://www.foxnews.com/politics/fox-news-poll-voters-oppose-action-iran-give-u-s-military-positive-marks,FOX News,Live Phone/Text-to-Web,FALSE,NA,NA,NA
 economy,Big Data Poll,03/22/2026,3/24/2026,3003,RV,43.2,54.1,-10.9,https://www.bigdatapoll.com/blog/trump-disapproval-rating-hits-new-high-in-march-amid-unpopular-war/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Economy/jobs,NA,NA
@@ -2245,8 +2245,6 @@ inflation,SSRS,03/26/2026,3/30/2026,1201,A,27,72,-45,https://www.cnn.com/2026/04
 elections,SSRS,03/26/2026,3/30/2026,1201,A,43,56,-13,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,CNN,Probability Panel,FALSE,Voting rights and election integrity,NA,NA
 gas_prices,SSRS,03/26/2026,3/30/2026,1201,A,24,76,-52,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,CNN,Probability Panel,FALSE,NA,NA,NA
 healthcare,SSRS,03/26/2026,3/30/2026,1201,A,34,65,-31,https://www.cnn.com/2026/04/01/politics/cnn-poll-trump-approval-rating-economy,CNN,Probability Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,03/27/2026,3/29/2026,2203,RV,49,45,4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,03/27/2026,3/29/2026,2203,RV,49,44,5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,03/27/2026,3/29/2026,2203,RV,44,47,-3,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 taxes,Morning Consult,03/27/2026,3/29/2026,2203,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,03/27/2026,3/29/2026,2203,RV,44,48,-4,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2257,6 +2255,8 @@ healthcare,Morning Consult,03/27/2026,3/29/2026,2203,RV,41,51,-10,https://pro.mo
 national_debt,Morning Consult,03/27/2026,3/29/2026,2203,RV,40,50,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,03/27/2026,3/29/2026,2203,RV,38,48,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,03/27/2026,3/29/2026,2203,RV,34,45,-11,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,04/03/2026,4/5/2026,2203,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,04/03/2026,4/5/2026,2203,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,03/30/2026,3/31/2026,1000,RV,36,58,-22,https://napolitannews.org/posts/35-percent-approve-of-iran-attacks-new-low,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,04/01/2026,4/2/2026,1000,RV,36,63,-27,https://napolitannews.org/posts/61-percent-oppose-iran-attacks-a-new-high,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Change Research,02/05/2026,2/18/2026,1741,RV,41,55,-14,https://changeresearch.com/voters-voice-frustration-and-financial-strain/,NA,Text-to-Web/Online Ad/Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2274,8 +2274,6 @@ inflation,The Winston Group,03/15/2026,3/17/2026,1000,RV,33,61,-28,https://www.w
 iran,RMG Research,04/02/2026,4/3/2026,1000,RV,44,52,-8,https://napolitannews.org/posts/foreign-support-an-equalizer-in-iran,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,04/06/2026,4/7/2026,1000,RV,42,55,-13,https://napolitannews.org/posts/as-ceasefire-takes-effect-majority-still-disapprove-on-iran-attacks,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,RMG Research,04/08/2026,4/9/2026,1000,RV,41,56,-15,https://napolitannews.org/posts/iran-war-stays-unpopular-39-percent-favor-attacks,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,04/03/2026,4/5/2026,2203,RV,50,43,7,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,04/03/2026,4/5/2026,2203,RV,48,46,2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,04/03/2026,4/5/2026,2203,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,04/03/2026,4/5/2026,2203,RV,45,46,-1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 energy,Morning Consult,04/03/2026,4/5/2026,2203,RV,44,46,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2285,16 +2283,18 @@ healthcare,Morning Consult,04/03/2026,4/5/2026,2203,RV,43,49,-6,https://pro.morn
 medicaire_social_security,Morning Consult,04/03/2026,4/5/2026,2203,RV,43,48,-5,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,04/03/2026,4/5/2026,2203,RV,40,50,-10,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,04/03/2026,4/5/2026,2203,RV,38,46,-8,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,04/03/2026,4/5/2026,2203,RV,36,45,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,04/06/2026,4/9/2026,2200,RV,42,52,-10,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,High Point University,03/29/2026,4/3/2026,1001,A,33,45,-12,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,04/08/2026,4/10/2026,2387,A,35,65,-30,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 inflation,YouGov,04/08/2026,4/10/2026,2387,A,31,69,-38,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,04/08/2026,4/10/2026,2387,A,44,56,-12,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,04/08/2026,4/10/2026,2387,A,36,64,-28,https://www.cbsnews.com/news/iran-war-opinion-poll-2026-04-12/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
-economy,Morning Consult,04/06/2026,4/9/2026,2200,RV,42,52,-10,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Morning Consult,04/06/2026,4/9/2026,2200,RV,40,52,-12,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,04/06/2026,4/9/2026,2200,RV,50,45,5,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,04/06/2026,4/9/2026,2200,RV,44,47,-3,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,04/06/2026,4/9/2026,2200,RV,43,49,-6,https://drive.google.com/file/d/1J-vPAS1XXmBtiDUw4rDA4p3G7jHbQ6b7/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,Morning Consult,04/15/2026,4/19/2026,2057,RV,38,57,-19,https://www.deseret.com/politics/2026/04/22/trump-polling-underwater-in-utah-among-religious/,Deseret News | University of Utah Hinckley Institute of Politics,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,YouGov,04/10/2026,4/13/2026,1748,A,35,57,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 crime,YouGov,04/10/2026,4/13/2026,1748,A,43,45,-2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,04/10/2026,4/13/2026,1748,A,43,51,-8,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_G1zNgZq.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -2395,7 +2395,7 @@ energy,Morning Consult,04/24/2026,4/27/2026,2201,RV,46,45,1,https://drive.google
 foreign_policy,Morning Consult,04/24/2026,4/27/2026,2201,RV,44,47,-3,https://drive.google.com/file/d/1EfsROZrVDVFJ0h5GyYAl49RJFkg_VzXW/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,04/24/2026,4/27/2026,2201,RV,50,43,7,https://drive.google.com/file/d/1EfsROZrVDVFJ0h5GyYAl49RJFkg_VzXW/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,04/24/2026,4/27/2026,2201,RV,45,46,-1,https://drive.google.com/file/d/1EfsROZrVDVFJ0h5GyYAl49RJFkg_VzXW/view,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
-iran,Morning Consult,04/15/2026,4/19/2026,2057,RV,38,57,-19,https://www.deseret.com/politics/2026/04/22/trump-polling-underwater-in-utah-among-religious/,Deseret News | University of Utah Hinckley Institute of Politics,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,04/30/2026,5/3/2026,2200,RV,42,52,-10,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 environment,YouGov,04/24/2026,4/27/2026,1836,A,32,53,-21,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 education,YouGov,04/24/2026,4/27/2026,1836,A,35,52,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,04/24/2026,4/27/2026,1836,A,33,52,-19,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Ty7ikPd.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -2451,13 +2451,13 @@ economy,YouGov,05/01/2026,5/4/2026,1573,A,34,58,-24,https://d3nkl3psvxxpe9.cloud
 inflation,YouGov,05/01/2026,5/4/2026,1573,A,25,69,-44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,Inflation/prices,NA,NA
 govt_spending,YouGov,05/01/2026,5/4/2026,1573,A,33,60,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,Taxes and government spending,NA,NA
 iran,YouGov,05/01/2026,5/4/2026,1573,A,31,60,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_Zi1MEwp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-economy,Morning Consult,04/30/2026,5/3/2026,2200,RV,42,52,-10,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Morning Consult,04/30/2026,5/3/2026,2200,RV,41,50,-9,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,04/30/2026,5/3/2026,2200,RV,48,46,2,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,04/30/2026,5/3/2026,2200,RV,43,47,-4,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,04/30/2026,5/3/2026,2200,RV,42,48,-6,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,04/30/2026,5/3/2026,2200,RV,49,44,5,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,04/30/2026,5/3/2026,2200,RV,43,48,-5,https://drive.google.com/file/d/1sp2Ez_gNEjC0hRhTh3hP7B4qsrkctCmj/view,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+immigration,Morning Consult,05/15/2026,5/17/2026,2203,RV,47,45,2,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Clarity Campaign Labs,04/15/2026,4/24/2026,1000,LV,31,66,-35,https://www.claritycampaigns.com/clarity-omnibus-2026-april,NA,Online Opt-In Panel,FALSE,Inflation and prices,NA,NA
 iran,Clarity Campaign Labs,04/15/2026,4/24/2026,1000,LV,37,60,-23,https://www.claritycampaigns.com/clarity-omnibus-2026-april,NA,Online Opt-In Panel,FALSE,Conflict with Iran,NA,NA
 healthcare,Clarity Campaign Labs,04/15/2026,4/24/2026,1000,LV,38,56,-18,https://www.claritycampaigns.com/clarity-omnibus-2026-april,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2561,7 +2561,6 @@ inflation,Beacon Research/Shaw & Co. Research,05/15/2026,5/18/2026,1002,RV,24,76
 economy,American Research Group,05/16/2026,5/20/2026,1100,A,29,67,-38,https://americanresearchgroup.com/economy/,NA,Live Phone,FALSE,NA,NA,NA
 iran,YouGov,05/15/2026,5/18/2026,1549,A,31,59,-28,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 ukraine,YouGov,05/15/2026,5/18/2026,1549,A,28,51,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_YTE4G2g.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-immigration,Morning Consult,05/15/2026,5/17/2026,2203,RV,47,45,2,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,05/15/2026,5/17/2026,2203,RV,46,46,0,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,05/15/2026,5/17/2026,2203,RV,43,47,-4,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,05/15/2026,5/17/2026,2203,RV,41,49,-8,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
@@ -2572,7 +2571,8 @@ abortion,Morning Consult,05/15/2026,5/17/2026,2203,RV,37,48,-11,https://intel.mo
 healthcare,Morning Consult,05/15/2026,5/17/2026,2203,RV,38,52,-14,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,05/15/2026,5/17/2026,2203,RV,38,52,-14,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,05/15/2026,5/17/2026,2203,RV,40,54,-14,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-lgbtq,Morning Consult,04/03/2026,4/5/2026,2203,RV,36,45,-9,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,05/15/2026,5/17/2026,2203,RV,32,47,-15,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,05/22/2026,5/24/2026,2204,RV,46,47,-1,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 deportations,Verasight/Morris Predictive Insights,05/18/2026,5/20/2026,2000,A,41,55,-14,https://morrispredictive.com/assets/surveys/tyg730HYHsJ/topline.pdf,UNITE HERE,Text/Online Ad/Email,FALSE,Deportations/immigration enforcement,NA,NA
 border_security,Verasight/Morris Predictive Insights,05/18/2026,5/20/2026,2000,A,48,48,0,https://morrispredictive.com/assets/surveys/tyg730HYHsJ/topline.pdf,UNITE HERE,Text/Online Ad/Email,FALSE,NA,NA,NA
 economy,Verasight/Morris Predictive Insights,05/18/2026,5/20/2026,2000,A,31,65,-34,https://morrispredictive.com/assets/surveys/tyg730HYHsJ/topline.pdf,UNITE HERE,Text/Online Ad/Email,FALSE,NA,NA,NA
@@ -2619,7 +2619,7 @@ mental_health,High Point University,03/29/2026,4/3/2026,1001,A,36,45,-9,https://
 taxes,High Point University,03/29/2026,4/3/2026,1001,A,37,46,-9,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,High Point University,03/29/2026,4/3/2026,1001,A,34,55,-21,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,High Point University,03/29/2026,4/3/2026,1001,A,34,49,-15,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,International trade in general,NA,NA
-lgbtq,Morning Consult,05/15/2026,5/17/2026,2203,RV,32,47,-15,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,05/22/2026,5/24/2026,2204,RV,45,47,-2,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 israel_palestine,High Point University,03/29/2026,4/3/2026,1001,A,29,53,-24,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,The war between Israel and Hamas,NA,NA
 climate_change,High Point University,03/29/2026,4/3/2026,1001,A,33,47,-14,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,High Point University,03/29/2026,4/3/2026,1001,A,27,52,-25,https://www.highpoint.edu/blog/2026/04/hpu-poll-americans-and-north-carolinians-appreciate-benefits-of-trees-as-arbor-day-approaches/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2643,8 +2643,6 @@ environment,YouGov,05/22/2026,5/26/2026,1520,A,31,53,-22,https://d3nkl3psvxxpe9.
 education,YouGov,05/22/2026,5/26/2026,1520,A,34,51,-17,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aWdgoE7.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 abortion,YouGov,05/22/2026,5/26/2026,1520,A,32,50,-18,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aWdgoE7.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 healthcare,YouGov,05/22/2026,5/26/2026,1520,A,31,57,-26,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_aWdgoE7.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-immigration,Morning Consult,05/22/2026,5/24/2026,2204,RV,46,47,-1,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,05/22/2026,5/24/2026,2204,RV,45,47,-2,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,05/22/2026,5/24/2026,2204,RV,42,48,-6,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 taxes,Morning Consult,05/22/2026,5/24/2026,2204,RV,42,49,-7,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,05/22/2026,5/24/2026,2204,RV,41,50,-9,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
@@ -2655,6 +2653,8 @@ national_debt,Morning Consult,05/22/2026,5/24/2026,2204,RV,38,53,-15,https://int
 abortion,Morning Consult,05/22/2026,5/24/2026,2204,RV,35,50,-15,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,05/22/2026,5/24/2026,2204,RV,32,47,-15,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,05/22/2026,5/24/2026,2204,RV,37,55,-18,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,06/06/2026,6/8/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,06/06/2026,6/8/2026,2200,RV,48,46,2,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,YouGov,05/28/2026,6/1/2026,1604,A,24,72,-48,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_AvLU7vY.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,05/28/2026,6/1/2026,1604,A,29,64,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_AvLU7vY.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 economy,Marquette University Law School,05/20/2026,5/26/2026,1001,A,30,70,-40,https://law.marquette.edu/poll/2026/06/03/detailed-results-of-the-marquette-law-school-supreme-court-poll-may-20-26-2026-national-issues/,NA,Probability Panel,FALSE,NA,NA,NA
@@ -2685,8 +2685,6 @@ inflation,YouGov,06/05/2026,6/8/2026,1568,A,24,68,-44,https://d3nkl3psvxxpe9.clo
 taxes,YouGov,06/05/2026,6/8/2026,1568,A,31,58,-27,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 govt_spending,YouGov,06/05/2026,6/8/2026,1568,A,27,63,-36,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,06/05/2026,6/8/2026,1568,A,29,62,-33,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nvajahp.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-national_security,Morning Consult,06/06/2026,6/8/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,06/06/2026,6/8/2026,2200,RV,48,46,2,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,06/06/2026,6/8/2026,2200,RV,45,47,-2,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,06/06/2026,6/8/2026,2200,RV,43,48,-5,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 energy,Morning Consult,06/06/2026,6/8/2026,2200,RV,43,48,-5,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2697,6 +2695,8 @@ healthcare,Morning Consult,06/06/2026,6/8/2026,2200,RV,40,52,-12,https://pro-ass
 economy,Morning Consult,06/06/2026,6/8/2026,2200,RV,41,53,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,06/06/2026,6/8/2026,2200,RV,36,51,-15,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,06/06/2026,6/8/2026,2200,RV,33,49,-16,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260609.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,06/19/2026,6/22/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,06/19/2026,6/22/2026,2200,RV,47,44,3,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Harris Insights & Analytics,05/29/2026,5/31/2026,1725,RV,49,45,4,https://harvardharrispoll.com/wp-content/uploads/2026/06/HHP_May2026_Topline.pdf,Harvard CAPS,Online Opt-In Panel,FALSE,NA,NA,NA
 crime,Harris Insights & Analytics,05/29/2026,5/31/2026,1725,RV,48,46,2,https://harvardharrispoll.com/wp-content/uploads/2026/06/HHP_May2026_Topline.pdf,Harvard CAPS,Online Opt-In Panel,FALSE,Fighting crime in America's cities,NA,NA
 govt_management,Harris Insights & Analytics,05/29/2026,5/31/2026,1725,RV,43,50,-7,https://harvardharrispoll.com/wp-content/uploads/2026/06/HHP_May2026_Topline.pdf,Harvard CAPS,Online Opt-In Panel,FALSE,Administering the government,NA,NA
@@ -2800,8 +2800,6 @@ immigration,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,42,55,-13,https:/
 economy,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,39,59,-20,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
 foreign_policy,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,37,59,-22,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
 iran,Quinnipiac University,06/18/2026,6/22/2026,1165,RV,34,62,-28,https://poll.qu.edu/poll-release?releaseid=3961,NA,Live Phone,FALSE,NA,NA,NA
-immigration,Morning Consult,06/19/2026,6/22/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,06/19/2026,6/22/2026,2200,RV,47,44,3,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,06/19/2026,6/22/2026,2200,RV,43,46,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,06/19/2026,6/22/2026,2200,RV,42,47,-5,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 medicaire_social_security,Morning Consult,06/19/2026,6/22/2026,2200,RV,42,49,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/06/MCPI-PI-Weekly_260622.html,NA,Online Opt-In Panel,FALSE,Protecting Medicare and Social Security,NA,NA
@@ -2818,6 +2816,8 @@ immigration,Morning Consult,06/26/2026,6/28/2026,2202,RV,49,46,3,https://drive.g
 energy,Morning Consult,06/26/2026,6/28/2026,2202,RV,43,49,-6,https://drive.google.com/file/d/1r9X_-vXE-Kkv1lXR5cu1KtWd-LAEMSJW/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,06/26/2026,6/28/2026,2202,RV,42,51,-9,https://drive.google.com/file/d/1r9X_-vXE-Kkv1lXR5cu1KtWd-LAEMSJW/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,06/26/2026,6/28/2026,2202,RV,49,44,5,https://drive.google.com/file/d/1r9X_-vXE-Kkv1lXR5cu1KtWd-LAEMSJW/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,07/03/2026,7/6/2026,2200,RV,49,43,6,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,07/03/2026,7/6/2026,2200,RV,48,45,3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Big Data Poll,06/26/2026,6/28/2026,2971,RV,42.6,52.9,-10.3,https://www.bigdatapoll.com/blog/trump-bump-voters-overwhelmingly-support-iran-peace-deal/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Economy / Jobs,NA,NA
 inflation,Big Data Poll,06/26/2026,6/28/2026,2971,RV,32.8,63.4,-30.6,https://www.bigdatapoll.com/blog/trump-bump-voters-overwhelmingly-support-iran-peace-deal/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Inflation / cost of living,NA,NA
 immigration,Big Data Poll,06/26/2026,6/28/2026,2971,RV,46.8,49.5,-2.7,https://www.bigdatapoll.com/blog/trump-bump-voters-overwhelmingly-support-iran-peace-deal/,Public Polling Project,Live Phone/Online Opt-In Panel/Text-to-Web/Text,FALSE,Immigration / border security,NA,NA
@@ -2861,8 +2861,6 @@ govt_spending,YouGov,07/03/2026,7/6/2026,1603,A,29,63,-34,https://d3nkl3psvxxpe9
 economy,Global Strategy Group/GBAO (Navigator Research),06/25/2026,6/30/2026,1000,RV,35,63,-28,https://navigatorresearch.org/war-with-iran-remains-unpopular-at-home/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 gas_prices,Global Strategy Group/GBAO (Navigator Research),06/25/2026,6/30/2026,1000,RV,27,69,-42,https://navigatorresearch.org/war-with-iran-remains-unpopular-at-home/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Global Strategy Group/GBAO (Navigator Research),06/25/2026,6/30/2026,1000,RV,36,58,-22,https://navigatorresearch.org/war-with-iran-remains-unpopular-at-home/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,07/03/2026,7/6/2026,2200,RV,49,43,6,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,07/03/2026,7/6/2026,2200,RV,48,45,3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,07/03/2026,7/6/2026,2200,RV,44,47,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,07/03/2026,7/6/2026,2200,RV,43,48,-5,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 foreign_policy,Morning Consult,07/03/2026,7/6/2026,2200,RV,43,48,-5,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2873,17 +2871,19 @@ medicaire_social_security,Morning Consult,07/03/2026,7/6/2026,2200,RV,41,50,-9,h
 abortion,Morning Consult,07/03/2026,7/6/2026,2200,RV,37,48,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,07/03/2026,7/6/2026,2200,RV,39,52,-13,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,07/03/2026,7/6/2026,2200,RV,33,46,-13,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260706.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,07/10/2026,7/13/2026,2200,RV,41,51,-10,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,07/10/2026,7/13/2026,2200,RV,40,50,-10,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,YouGov,06/18/2026,6/23/2026,2150,A,35,61,-26,https://www.winthrop.edu/winthroppoll/2026-july-winthroppoll-results.aspx,Winthrop University Center for Public Opinion & Policy Research,Online Matched Sample,FALSE,Jobs and the economy,NA,NA
 inflation,YouGov,06/18/2026,6/23/2026,2150,A,28,70,-42,https://www.winthrop.edu/winthroppoll/2026-july-winthroppoll-results.aspx,Winthrop University Center for Public Opinion & Policy Research,Online Matched Sample,FALSE,Inflation and prices,NA,NA
 immigration,YouGov,06/18/2026,6/23/2026,2150,A,44,53,-9,https://www.winthrop.edu/winthroppoll/2026-july-winthroppoll-results.aspx,Winthrop University Center for Public Opinion & Policy Research,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,06/18/2026,6/23/2026,2150,A,32,62,-30,https://www.winthrop.edu/winthroppoll/2026-july-winthroppoll-results.aspx,Winthrop University Center for Public Opinion & Policy Research,Online Matched Sample,FALSE,NA,NA,NA
 foreign_policy,YouGov,06/18/2026,6/23/2026,2150,A,38,58,-20,https://www.winthrop.edu/winthroppoll/2026-july-winthroppoll-results.aspx,Winthrop University Center for Public Opinion & Policy Research,Online Matched Sample,FALSE,NA,NA,NA
-economy,Morning Consult,07/10/2026,7/13/2026,2200,RV,41,51,-10,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-healthcare,Morning Consult,07/10/2026,7/13/2026,2200,RV,40,50,-10,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,07/10/2026,7/13/2026,2200,RV,49,44,5,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,07/10/2026,7/13/2026,2200,RV,44,46,-2,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,07/10/2026,7/13/2026,2200,RV,44,47,-3,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,07/10/2026,7/13/2026,2200,RV,48,44,4,https://drive.google.com/file/d/1cggsijQl76RMmlpuDL991Z3uyHfXfiZh/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,07/17/2026,7/19/2026,2200,RV,39,53,-14,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,07/17/2026,7/19/2026,2200,RV,40,50,-10,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,YouGov,07/10/2026,7/13/2026,1616,A,34,57,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ie0SzVb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,07/10/2026,7/13/2026,1616,A,34,57,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ie0SzVb.pdf,The Economist,Online Matched Sample,FALSE,Tariffs,NA,NA
 military,YouGov,07/10/2026,7/13/2026,1616,A,38,52,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ie0SzVb.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -2899,12 +2899,12 @@ iran,Ipsos,07/08/2026,7/13/2026,2648,A,29,69,-40,https://www.washingtonpost.com/
 economy,Hart Research Associates/Public Opinion Strategies,07/08/2026,7/12/2026,1000,RV,38,60,-22,https://www.cnbc.com/2026/07/17/democratic-socialists-top-maga-candidates-all-america-poll.html,CNBC,NA,FALSE,NA,NA,NA
 iran,Hart Research Associates/Public Opinion Strategies,07/08/2026,7/12/2026,1000,RV,35,63,-28,https://www.cnbc.com/2026/07/17/democratic-socialists-top-maga-candidates-all-america-poll.html,CNBC,NA,FALSE,NA,NA,NA
 inflation,Hart Research Associates/Public Opinion Strategies,07/08/2026,7/12/2026,1000,RV,31,68,-37,https://www.cnbc.com/2026/07/17/democratic-socialists-top-maga-candidates-all-america-poll.html,CNBC,NA,FALSE,NA,NA,NA
-economy,Morning Consult,07/17/2026,7/19/2026,2200,RV,39,53,-14,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-healthcare,Morning Consult,07/17/2026,7/19/2026,2200,RV,40,50,-10,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,07/17/2026,7/19/2026,2200,RV,47,46,1,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,07/17/2026,7/19/2026,2200,RV,43,46,-3,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,07/17/2026,7/19/2026,2200,RV,43,48,-5,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,07/17/2026,7/19/2026,2200,RV,48,43,5,https://drive.google.com/file/d/1ScxP9BFh2WgpxNaL2PSkQcHn4I877sXi/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,07/24/2026,7/26/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,07/24/2026,7/26/2026,2200,RV,47,45,2,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Verasight,07/14/2026,7/17/2026,1514,A,27,69,-42,https://www.gelliottmorris.com/p/2026-07-21-july-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Prices/inflation,NA,NA
 healthcare,Verasight,07/14/2026,7/17/2026,1514,A,32,61,-29,https://www.gelliottmorris.com/p/2026-07-21-july-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,NA,NA,NA
 govt_spending,Verasight,07/14/2026,7/17/2026,1514,A,35,59,-24,https://www.gelliottmorris.com/p/2026-07-21-july-strength-in-numbers-verasight-poll,Strength In Numbers,Text/Online Ad/Email,FALSE,Government funding and social programs,NA,NA
@@ -2942,8 +2942,6 @@ healthcare,YouGov,07/25/2026,7/27/2026,1559,A,31,59,-28,https://d3nkl3psvxxpe9.c
 foreign_policy,YouGov,07/25/2026,7/27/2026,1559,A,32,60,-28,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 nuclear_weapons,YouGov,07/25/2026,7/27/2026,1559,A,32,55,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 trade_tariffs,YouGov,07/25/2026,7/27/2026,1559,A,30,60,-30,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_0t0YpHo.pdf,The Economist,Online Matched Sample,FALSE,Foreign trade,NA,NA
-immigration,Morning Consult,07/24/2026,7/26/2026,2200,RV,48,44,4,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,07/24/2026,7/26/2026,2200,RV,47,45,2,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,07/24/2026,7/26/2026,2200,RV,44,46,-2,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,07/24/2026,7/26/2026,2200,RV,44,47,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,07/24/2026,7/26/2026,2200,RV,44,47,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
@@ -2954,6 +2952,8 @@ economy,Morning Consult,07/24/2026,7/26/2026,2200,RV,42,50,-8,https://pro-assets
 national_debt,Morning Consult,07/24/2026,7/26/2026,2200,RV,41,50,-9,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 abortion,Morning Consult,07/24/2026,7/26/2026,2200,RV,38,49,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 lgbtq,Morning Consult,07/24/2026,7/26/2026,2200,RV,34,46,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/07/MCPI-PI-Weekly_260727.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,07/31/2026,8/2/2026,2200,RV,49,43,6,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,07/31/2026,8/2/2026,2200,RV,49,45,4,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,35,62,-27,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 gas_prices,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,22,75,-53,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 grocery_prices,Global Strategy Group/GBAO (Navigator Research),07/23/2026,7/27/2026,1000,RV,24,72,-48,https://navigatorresearch.org/sticker-shock-rising-gas-prices-and-billions-spent-on-war-are-turning-americans-against-trump/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -2988,8 +2988,6 @@ economy,YouGov,07/31/2026,8/3/2026,1609,A,30,65,-35,https://d3nkl3psvxxpe9.cloud
 inflation,YouGov,07/31/2026,8/3/2026,1609,A,25,69,-44,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 taxes,YouGov,07/31/2026,8/3/2026,1609,A,31,60,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 govt_spending,YouGov,07/31/2026,8/3/2026,1609,A,29,64,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_mjKhx0z.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-national_security,Morning Consult,07/31/2026,8/2/2026,2200,RV,49,43,6,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,07/31/2026,8/2/2026,2200,RV,49,45,4,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,07/31/2026,8/2/2026,2200,RV,43,47,-4,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 foreign_policy,Morning Consult,07/31/2026,8/2/2026,2200,RV,43,49,-6,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,07/31/2026,8/2/2026,2200,RV,41,48,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -3000,6 +2998,8 @@ medicaire_social_security,Morning Consult,07/31/2026,8/2/2026,2200,RV,40,50,-10,
 economy,Morning Consult,07/31/2026,8/2/2026,2200,RV,41,53,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,07/31/2026,8/2/2026,2200,RV,39,53,-14,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Morning Consult,07/31/2026,8/2/2026,2200,RV,39,53,-14,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,08/14/2026,8/16/2026,2200,RV,47,45,2,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,08/14/2026,8/16/2026,2200,RV,47,46,1,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,John Zogby Strategies,08/04/2026,8/5/2026,1000,LV,44,51,-7,https://johnzogbystrategies.com/lowest-trump-approval-ratings-maga-numbers-spell-major-trouble-for-midterm-prospects/,NA,NA,FALSE,NA,NA,NA
 crime,John Zogby Strategies,08/04/2026,8/5/2026,1000,LV,40,51,-11,https://johnzogbystrategies.com/lowest-trump-approval-ratings-maga-numbers-spell-major-trouble-for-midterm-prospects/,NA,NA,FALSE,NA,NA,NA
 inflation,John Zogby Strategies,08/04/2026,8/5/2026,1000,LV,32,62,-30,https://johnzogbystrategies.com/lowest-trump-approval-ratings-maga-numbers-spell-major-trouble-for-midterm-prospects/,NA,NA,FALSE,Affordability,NA,NA
@@ -3048,8 +3048,6 @@ military,YouGov,08/14/2026,8/17/2026,1611,A,34,58,-24,https://d3nkl3psvxxpe9.clo
 iran,YouGov,08/14/2026,8/17/2026,1611,A,30,62,-32,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZMy1Zxu.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 israel,YouGov,08/14/2026,8/17/2026,1611,A,32,58,-26,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZMy1Zxu.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 cuba,YouGov,08/14/2026,8/17/2026,1611,A,26,55,-29,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZMy1Zxu.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-national_security,Morning Consult,08/14/2026,8/16/2026,2200,RV,47,45,2,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,08/14/2026,8/16/2026,2200,RV,47,46,1,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,08/14/2026,8/16/2026,2200,RV,44,47,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 energy,Morning Consult,08/14/2026,8/16/2026,2200,RV,42,48,-6,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 medicaire_social_security,Morning Consult,08/14/2026,8/16/2026,2200,RV,41,49,-8,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,Protecting Medicare and Social Security,NA,NA
@@ -3060,6 +3058,8 @@ lgbtq,Morning Consult,08/14/2026,8/16/2026,2200,RV,36,46,-10,https://pro-assets.
 healthcare,Morning Consult,08/14/2026,8/16/2026,2200,RV,40,51,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,08/14/2026,8/16/2026,2200,RV,40,51,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,08/14/2026,8/16/2026,2200,RV,40,53,-13,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,08/28/2026,8/30/2026,2200,RV,37,55,-18,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,08/28/2026,8/30/2026,2200,RV,35,55,-20,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Echelon Insights,08/13/2026,8/17/2026,1002,LV,37,61,-24,https://echeloninsights.com/insights/august-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Echelon Insights,08/13/2026,8/17/2026,1002,LV,44,54,-10,https://echeloninsights.com/insights/august-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Echelon Insights,08/13/2026,8/17/2026,1002,LV,38,59,-21,https://echeloninsights.com/insights/august-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -3117,13 +3117,13 @@ iran,University of Massachusetts (Amherst),08/21/2026,8/26/2026,1000,A,25,68,-43
 us_allies,University of Massachusetts (Amherst),08/21/2026,8/26/2026,1000,A,30,64,-34,https://www.wcvb.com/article/trump-iran-umass-poll/73562411,NA,Online Matched Sample,FALSE,Working with allies in global affairs,NA,NA
 ai,University of Massachusetts (Amherst),08/21/2026,8/26/2026,1000,A,23,57,-34,https://www.wcvb.com/article/trump-iran-umass-poll/73562411,NA,Online Matched Sample,FALSE,NA,NA,NA
 corruption,University of Massachusetts (Amherst),08/21/2026,8/26/2026,1000,A,26,67,-41,https://www.wcvb.com/article/trump-iran-umass-poll/73562411,NA,Online Matched Sample,FALSE,Corruption in government,NA,NA
-economy,Morning Consult,08/28/2026,8/30/2026,2200,RV,37,55,-18,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_debt,Morning Consult,08/28/2026,8/30/2026,2200,RV,35,55,-20,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Morning Consult,08/28/2026,8/30/2026,2200,RV,36,53,-17,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,08/28/2026,8/30/2026,2200,RV,39,51,-12,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 medicaire_social_security,Morning Consult,08/28/2026,8/30/2026,2200,RV,37,51,-14,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,08/28/2026,8/30/2026,2200,RV,45,47,-2,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,08/28/2026,8/30/2026,2200,RV,44,46,-2,https://drive.google.com/file/d/1mz53nbxVmkDaSt2l6gfcGff3hiOikKPJ/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,09/04/2026,9/6/2026,2201,RV,38,54,-16,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,09/04/2026,9/6/2026,2201,RV,36,54,-18,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Ipsos,08/28/2026,8/31/2026,1167,A,28,65,-37,https://www.ipsos.com/en-us/cost-living-remains-top-mind-voters-heading-2026-midterms,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,08/28/2026,8/31/2026,1167,A,37,55,-18,https://www.ipsos.com/en-us/cost-living-remains-top-mind-voters-heading-2026-midterms,Reuters,Probability Panel,FALSE,NA,NA,NA
 crime,Ipsos,08/28/2026,8/31/2026,1167,A,37,50,-13,https://www.ipsos.com/en-us/cost-living-remains-top-mind-voters-heading-2026-midterms,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -3144,13 +3144,13 @@ economy,YouGov,09/04/2026,9/8/2026,1469,RV,31,66,-35,https://d3nkl3psvxxpe9.clou
 inflation,YouGov,09/04/2026,9/8/2026,1469,RV,28,68,-40,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HGAKAIQ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 taxes,YouGov,09/04/2026,9/8/2026,1469,RV,35,58,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HGAKAIQ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 govt_spending,YouGov,09/04/2026,9/8/2026,1469,RV,30,65,-35,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_HGAKAIQ.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
-economy,Morning Consult,09/04/2026,9/6/2026,2201,RV,38,54,-16,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_debt,Morning Consult,09/04/2026,9/6/2026,2201,RV,36,54,-18,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Morning Consult,09/04/2026,9/6/2026,2201,RV,39,52,-13,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,09/04/2026,9/6/2026,2201,RV,40,49,-9,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 medicaire_social_security,Morning Consult,09/04/2026,9/6/2026,2201,RV,39,50,-11,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,09/04/2026,9/6/2026,2201,RV,47,46,1,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,09/04/2026,9/6/2026,2201,RV,46,46,0,https://drive.google.com/file/d/1tRrQzrZUZ4MZJ953Ir3hf8vSZx0vuHlv/view,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,09/11/2026,9/13/2026,2203,RV,39,55,-16,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,09/11/2026,9/13/2026,2203,RV,38,53,-15,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Quinnipiac University,09/03/2026,9/6/2026,970,RV,39,57,-18,https://poll.qu.edu/poll-release?releaseid=3965,NA,Live Phone,FALSE,NA,NA,NA
 military,Quinnipiac University,09/03/2026,9/6/2026,970,RV,36,60,-24,https://poll.qu.edu/poll-release?releaseid=3965,NA,Live Phone,FALSE,Job as Commander in Chief of the U.S. military,NA,NA
 foreign_policy,Quinnipiac University,09/03/2026,9/6/2026,970,RV,33,60,-27,https://poll.qu.edu/poll-release?releaseid=3965,NA,Live Phone,FALSE,NA,NA,NA
@@ -3176,13 +3176,13 @@ economy,YouGov,09/08/2026,9/11/2026,2460,A,34,66,-32,https://www.cbsnews.com/new
 inflation,YouGov,09/08/2026,9/11/2026,2460,A,27,73,-46,https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,09/08/2026,9/11/2026,2460,A,45,55,-10,https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,09/08/2026,9/11/2026,2460,A,36,64,-28,https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
-economy,Morning Consult,09/11/2026,9/13/2026,2203,RV,39,55,-16,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_debt,Morning Consult,09/11/2026,9/13/2026,2203,RV,38,53,-15,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Morning Consult,09/11/2026,9/13/2026,2203,RV,40,51,-11,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,09/11/2026,9/13/2026,2203,RV,42,49,-7,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 medicaire_social_security,Morning Consult,09/11/2026,9/13/2026,2203,RV,40,50,-10,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 immigration,Morning Consult,09/11/2026,9/13/2026,2203,RV,47,46,1,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_security,Morning Consult,09/11/2026,9/13/2026,2203,RV,48,44,4,https://data.ddhq.io/polls/2026/09/14/Morning-Consult-National,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,09/18/2026,9/20/2026,2201,RV,48,47,1,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,09/18/2026,9/20/2026,2201,RV,47,46,1,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Ipsos,09/11/2026,9/14/2026,1143,A,27,65,-38,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,Ipsos,09/11/2026,9/14/2026,1143,A,39,54,-15,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
 crime,Ipsos,09/11/2026,9/14/2026,1143,A,37,51,-14,https://www.ipsos.com/en-us/reutersipsos-september-2026-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
@@ -3218,8 +3218,6 @@ gas_prices,Global Strategy Group/GBAO (Navigator Research),09/10/2026,9/14/2026,
 data_centers,Global Strategy Group/GBAO (Navigator Research),09/10/2026,9/14/2026,1000,RV,30,54,-24,https://navigatorresearch.org/chatbot-curious-data-center-skeptical/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 food_safety,Global Strategy Group/GBAO (Navigator Research),09/10/2026,9/14/2026,1000,RV,40,48,-8,https://navigatorresearch.org/chatbot-curious-data-center-skeptical/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 ai,Tavern Research,09/15/2026,9/16/2026,1007,LV,19,52,-33,https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/Toplines%20-%20AI%20status%20survey%2020260915_234645%20(2).pdf,NA,Online Opt-In Panel,FALSE,AI policy,NA,NA
-immigration,Morning Consult,09/18/2026,9/20/2026,2201,RV,48,47,1,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,09/18/2026,9/20/2026,2201,RV,47,46,1,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,09/18/2026,9/20/2026,2201,RV,43,50,-7,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,09/18/2026,9/20/2026,2201,RV,41,50,-9,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
 energy,Morning Consult,09/18/2026,9/20/2026,2201,RV,40,51,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
@@ -3230,6 +3228,8 @@ abortion,Morning Consult,09/18/2026,9/20/2026,2201,RV,36,51,-15,https://pro-asse
 lgbtq,Morning Consult,09/18/2026,9/20/2026,2201,RV,32,49,-17,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,09/18/2026,9/20/2026,2201,RV,38,56,-18,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,09/18/2026,9/20/2026,2201,RV,37,55,-18,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,09/25/2026,9/27/2026,2202,RV,45,46,-1,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,09/25/2026,9/27/2026,2202,RV,45,48,-3,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,36,59,-23,https://johnzogbystrategies.com/a-slight-bump-in-presidents-approval-comes-from-independent-voters/,NA,NA,FALSE,NA,NA,NA
 iran,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,40,55,-15,https://johnzogbystrategies.com/a-slight-bump-in-presidents-approval-comes-from-independent-voters/,NA,NA,FALSE,NA,NA,NA
 immigration,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,50,46,4,https://johnzogbystrategies.com/a-slight-bump-in-presidents-approval-comes-from-independent-voters/,NA,NA,FALSE,NA,NA,NA
@@ -3263,8 +3263,6 @@ immigration,Echelon Insights,09/17/2026,9/21/2026,1002,LV,41,57,-16,https://eche
 foreign_policy,Echelon Insights,09/17/2026,9/21/2026,1002,LV,34,64,-30,https://echeloninsights.com/insights/september-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 iran,Echelon Insights,09/17/2026,9/21/2026,1002,LV,28,69,-41,https://echeloninsights.com/insights/september-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 ai,Echelon Insights,09/17/2026,9/21/2026,1002,LV,28,59,-31,https://echeloninsights.com/insights/september-2026-verified-voter-omnibus,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-national_security,Morning Consult,09/25/2026,9/27/2026,2202,RV,45,46,-1,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
-immigration,Morning Consult,09/25/2026,9/27/2026,2202,RV,45,48,-3,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 foreign_policy,Morning Consult,09/25/2026,9/27/2026,2202,RV,41,50,-9,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 energy,Morning Consult,09/25/2026,9/27/2026,2202,RV,40,49,-9,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 trade_tariffs,Morning Consult,09/25/2026,9/27/2026,2202,RV,40,51,-11,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
@@ -3275,6 +3273,8 @@ medicaire_social_security,Morning Consult,09/25/2026,9/27/2026,2202,RV,37,52,-15
 healthcare,Morning Consult,09/25/2026,9/27/2026,2202,RV,36,54,-18,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,09/25/2026,9/27/2026,2202,RV,37,56,-19,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,09/25/2026,9/27/2026,2202,RV,34,56,-22,https://intel.morningconsult.com/mc-content/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,12/19/2025,12/21/2025,2203,RV,46,45,1,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,03/28/2025,03/30/2025,2210,RV,45,47,-2,https://pro.morningconsult.com/trackers/donald-trump-congress-policy-republicans-polling,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,Clarity Campaign Labs,09/11/2026,9/16/2026,1046,LV,29,68,-39,https://www.claritycampaigns.com/clarity-omnibus-2026-september,NA,Online Opt-In Panel,FALSE,Inflation and prices,NA,NA
 iran,Clarity Campaign Labs,09/11/2026,9/16/2026,1046,LV,36,60,-24,https://www.claritycampaigns.com/clarity-omnibus-2026-september,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 healthcare,Clarity Campaign Labs,09/11/2026,9/16/2026,1046,LV,35,59,-24,https://www.claritycampaigns.com/clarity-omnibus-2026-september,NA,Online Opt-In Panel,FALSE,NA,NA,NA
