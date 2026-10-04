@@ -3308,3 +3308,7 @@ border_security,AP-NORC,09/24/2026,9/28/2026,2140,A,48,51,-3,https://apnorc.org/
 trade_tariffs,AP-NORC,09/24/2026,9/28/2026,2140,A,31,68,-37,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,Trade negotiations with other countries,NA,NA
 inflation,AP-NORC,09/24/2026,9/28/2026,2140,A,17,82,-65,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,Cost of living,NA,NA
 ai,AP-NORC,09/24/2026,9/28/2026,2140,A,31,67,-36,https://apnorc.org/projects/most-blame-president-trump-for-higher-prices-and-are-unhappy-with-how-he-is-handling-the-economy/,NA,Probability Panel,FALSE,NA,NA,NA
+economy,YouGov,09/30/2026,10/2/2026,2166,A,34,66,-32,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,09/30/2026,10/2/2026,2166,A,29,71,-42,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,09/30/2026,10/2/2026,2166,A,45,55,-10,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+iran,YouGov,09/30/2026,10/2/2026,2166,A,36,64,-28,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
