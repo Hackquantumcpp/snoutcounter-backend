@@ -251,10 +251,12 @@ polls <- polls %>% arrange(pollster) %>%
   mutate(mode = replace_na(mode, "Unknown"))
 
 polls <- polls %>% 
-  mutate(population = recode(population, "LV" = "b", "RV" = "c", "A" = "e")) %>% 
-  arrange(population) %>% 
+  mutate(subpopulation = recode(subpopulation, "LV-loose" = "b", "LV-strict" = "c", "LV" = "d", 
+                                "RV" = "e", "A" = "f")) %>% 
+  arrange(subpopulation) %>% 
   distinct(poll_id, .keep_all = TRUE) %>% 
-  mutate(population = recode(population, "b" = "LV", "c" = "RV", "e" = "A"))
+  mutate(subpopulation = recode(subpopulation, "b" = "LV-loose", "c" = "LV-strict", "d" = "LV", 
+                                "e" = "RV", "f" = "A"))
 
 polls <- polls %>% mutate(net = rep - dem, partisan = replace_na(partisan, "NA")) 
 
