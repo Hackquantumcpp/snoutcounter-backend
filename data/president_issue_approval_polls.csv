@@ -3234,8 +3234,8 @@ inflation,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,36,59,-23,https://j
 iran,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,40,55,-15,https://johnzogbystrategies.com/a-slight-bump-in-presidents-approval-comes-from-independent-voters/,NA,NA,FALSE,NA,NA,NA
 immigration,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,50,46,4,https://johnzogbystrategies.com/a-slight-bump-in-presidents-approval-comes-from-independent-voters/,NA,NA,FALSE,NA,NA,NA
 crime,John Zogby Strategies,09/15/2026,9/17/2026,1007,LV,48,46,2,https://johnzogbystrategies.com/a-slight-bump-in-presidents-approval-comes-from-independent-voters/,NA,NA,FALSE,NA,NA,NA
-economy,Ipsos,09/17/2026,9/20/2026,1277,A,23,67,-44,https://www.reuters.com/world/us/trump-approval-falls-career-low-32-high-costs-bite-reutersipsos-poll-finds-2026-09-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
-immigration,Ipsos,09/17/2026,9/20/2026,1277,A,36,55,-19,https://www.reuters.com/world/us/trump-approval-falls-career-low-32-high-costs-bite-reutersipsos-poll-finds-2026-09-21/,Reuters,Probability Panel,FALSE,NA,NA,NA
+economy,Ipsos,09/17/2026,9/20/2026,1277,A,23,67,-44,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,09/17/2026,9/20/2026,1277,A,36,55,-19,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
 immigration,YouGov,09/18/2026,9/21/2026,1401,RV,41,55,-14,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5WiMaRX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 military,YouGov,09/18/2026,9/21/2026,1401,RV,39,55,-16,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5WiMaRX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
 foreign_policy,YouGov,09/18/2026,9/21/2026,1401,RV,36,58,-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5WiMaRX.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
@@ -3312,3 +3312,21 @@ economy,YouGov,09/30/2026,10/2/2026,2166,A,34,66,-32,https://www.cbsnews.com/new
 inflation,YouGov,09/30/2026,10/2/2026,2166,A,29,71,-42,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 immigration,YouGov,09/30/2026,10/2/2026,2166,A,45,55,-10,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
 iran,YouGov,09/30/2026,10/2/2026,2166,A,36,64,-28,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+crime,Ipsos,09/17/2026,9/20/2026,1277,A,35,50,-15,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,09/17/2026,9/20/2026,1277,A,27,59,-32,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,09/17/2026,9/20/2026,1277,A,17,74,-57,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+corruption,Ipsos,09/17/2026,9/20/2026,1277,A,26,61,-35,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
+iran,Ipsos,09/17/2026,9/20/2026,1277,A,24,64,-40,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
+ai,Ipsos,09/17/2026,9/20/2026,1277,A,22,56,-34,https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines,Reuters,Probability Panel,FALSE,NA,NA,NA
+national_security,Morning Consult,10/04/2026,10/5/2026,2202,RV,45,46,-1,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Morning Consult,10/04/2026,10/5/2026,2202,RV,45,48,-3,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+foreign_policy,Morning Consult,10/04/2026,10/5/2026,2202,RV,41,50,-9,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+energy,Morning Consult,10/04/2026,10/5/2026,2202,RV,40,49,-9,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+trade_tariffs,Morning Consult,10/04/2026,10/5/2026,2202,RV,40,51,-11,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,Trade,NA,NA
+taxes,Morning Consult,10/04/2026,10/5/2026,2202,RV,39,51,-12,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+lgbtq,Morning Consult,10/04/2026,10/5/2026,2202,RV,33,46,-13,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+abortion,Morning Consult,10/04/2026,10/5/2026,2202,RV,35,50,-15,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+medicaire_social_security,Morning Consult,10/04/2026,10/5/2026,2202,RV,37,52,-15,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Morning Consult,10/04/2026,10/5/2026,2202,RV,36,54,-18,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Morning Consult,10/04/2026,10/5/2026,2202,RV,37,56,-19,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+national_debt,Morning Consult,10/04/2026,10/5/2026,2202,RV,34,56,-22,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA

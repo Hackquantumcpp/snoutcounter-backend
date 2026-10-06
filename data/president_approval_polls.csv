@@ -1600,3 +1600,8 @@ AlphaROC,The Independent Center,2026-09-25,2026-09-28,1000,A,35.3,61.2,3.5,https
 RMG Research,Napolitan News Service,2026-09-21,2026-09-29,2000,RV,41,58,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
 ActiVote,NA,2026-09-01,2026-09-30,977,A,37.7,55.4,NA,https://www.activote.net/analysis/trumps-approval-holds-steady-as-disapproval-eases/,App Panel,FALSE,NA,NA
 YouGov,CBS News,2026-09-30,2026-10-02,2166,A,39,61,NA,https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/,Online Matched Sample,FALSE,NA,NA
+TIPP Insights,Issues & Insights,2026-09-29,2026-10-01,1488,A,39,52,9,https://issuesinsights.com/2026/10/05/trumps-approval-among-voters-has-stabilized-but-is-that-enough-to-boost-gop-in-midterms-ii-tipp-poll/,Online Opt-In Panel,FALSE,NA,NA
+The Winston Group,Winning the Issues,2026-09-12,2026-09-16,1000,RV,36,60,NA,https://www.winstongroup.net/2026/10/05/blue-wave-or-red-undertow/,NA,FALSE,REP,NA
+Morning Consult,NA,2026-10-04,2026-10-05,2202,RV,42,56,2,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,Online Opt-In Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-09-30,2026-10-05,4506,A,32,65,NA,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-10/Reuters%20Ipsos%20October%20Large%20Issue%20Topline%2010.5%20release.pdf,Probability Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-09-30,2026-10-05,3526,RV,36,64,NA,https://www.ipsos.com/sites/default/files/ct/news/documents/2026-10/Reuters%20Ipsos%20October%20Large%20Issue%20Topline%2010.5%20release.pdf,Probability Panel,FALSE,NA,NA
