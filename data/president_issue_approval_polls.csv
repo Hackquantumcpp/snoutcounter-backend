@@ -3330,3 +3330,14 @@ medicaire_social_security,Morning Consult,10/04/2026,10/5/2026,2202,RV,37,52,-15
 healthcare,Morning Consult,10/04/2026,10/5/2026,2202,RV,36,54,-18,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,Morning Consult,10/04/2026,10/5/2026,2202,RV,37,56,-19,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
 national_debt,Morning Consult,10/04/2026,10/5/2026,2202,RV,34,56,-22,https://pro-assets.morningconsult.com/wp-uploads/2026/08/MCPI-PI-Weekly.html,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+taxes,YouGov,10/02/2026,10/5/2026,1381,RV,35,58,-23,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+govt_spending,YouGov,10/02/2026,10/5/2026,1381,RV,32,64,-32,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,YouGov,10/02/2026,10/5/2026,1381,RV,31,65,-34,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,10/02/2026,10/5/2026,1381,RV,28,69,-41,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf,The Economist,Online Matched Sample,FALSE,NA,NA,NA
+economy,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,32,65,-33,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+gas_prices,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,20,76,-56,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+inflation,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,23,73,-50,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,Inflation and cost of living,NA,NA
+foreign_policy,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,34,58,-24,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+healthcare,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,32,59,-27,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+immigration,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,41,55,-14,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+ai,Global Strategy Group/GBAO (Navigator Research),10/01/2026,10/5/2026,1000,RV,33,52,-19,https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf,NA,Online Opt-In Panel,FALSE,NA,NA,NA
