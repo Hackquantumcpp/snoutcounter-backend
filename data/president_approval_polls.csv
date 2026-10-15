@@ -1619,3 +1619,11 @@ Focaldata,Financial Times,2026-10-02,2026-10-05,2553,A,A,33,58,9,https://www.foc
 Focaldata,Financial Times,2026-10-02,2026-10-05,2275,RV,RV,34,59,7,https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach,NA,FALSE,NA,NA
 Focaldata,Financial Times,2026-10-02,2026-10-05,2201,LV,LV,36,58,6,https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach,NA,FALSE,NA,NA
 Morning Consult,NA,2026-10-09,2026-10-11,2204,RV,RV,42,56,2,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,Online Opt-In Panel,FALSE,NA,NA
+YouGov,The Economist,2026-10-10,2026-10-12,1403,RV,RV,38,61,1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_7pgxnD3.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-10-10,2026-10-12,1027,LV,LV-strict,39,60,1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_7pgxnD3.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-10-10,2026-10-12,1184,LV,LV-loose,39,60,1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_7pgxnD3.pdf,Online Matched Sample,FALSE,NA,NA
+The Bullfinch Group,The Independent Center,2026-10-01,2026-10-06,1200,A,A,40,57,4,https://www.independentcenter.org/whatwebelieve,Online Opt-In Panel,FALSE,NA,NA
+The Bullfinch Group,The Independent Center,2026-10-01,2026-10-06,1000,RV,RV,41,57,2,https://www.independentcenter.org/whatwebelieve,Online Opt-In Panel,FALSE,NA,NA
+Beacon Research/Shaw & Co. Research,FOX News,2026-10-09,2026-10-12,1202,RV,RV,36,64,NA,https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms,Live Phone/Text-to-Web,FALSE,NA,NA
+AP-NORC,NA,2026-10-08,2026-10-12,1119,A,A,35,64,NA,https://apnorc.org/projects/ahead-of-the-midterms-most-voters-cite-the-economy-and-cost-of-living-as-top-issues-and-favor-political-change/,Probability Panel,FALSE,NA,NA
+AP-NORC,NA,2026-10-08,2026-10-12,925,RV,RV,36,64,NA,https://apnorc.org/projects/ahead-of-the-midterms-most-voters-cite-the-economy-and-cost-of-living-as-top-issues-and-favor-political-change/,Probability Panel,FALSE,NA,NA
