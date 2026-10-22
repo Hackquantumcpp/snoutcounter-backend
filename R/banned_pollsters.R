@@ -5,5 +5,7 @@ banned_pollsters <- c("ActiVote",
                       "National Association of Independent Pollsters",
                       "Rasmussen Reports",
                       "Rasmussen Reports/Pulse Opinion Research",
-                      "The Public Sentiment Institute"
+                      "The Public Sentiment Institute",
+                      "Wedgewood Polls",
+                      "SoCal Strategies"
 )
