@@ -34,7 +34,7 @@ general_appr <- read_csv("presidential_gen_approval.csv")
 setwd("../R")
 
 issue_list <- c('economy', 'immigration', 'foreign_policy', 'trade_tariffs', 'inflation',
-                'crime', 'healthcare', 'iran', 'ai')
+                'crime', 'healthcare', 'iran')
 
 polls <- polls %>% filter(is.na(sample_size) == FALSE)
 
