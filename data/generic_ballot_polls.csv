@@ -830,3 +830,7 @@ YouGov,The Economist,2026-10-19,2026-10-20,1501,RV,RV,45,40,https://d3nkl3psvxxp
 YouGov,The Economist,2026-10-19,2026-10-20,1179,LV,LV-strict,52,43,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_AjDiUmp.pdf,Online Matched Sample,FALSE,NA,NA
 YouGov,The Economist,2026-10-19,2026-10-20,1312,LV,LV-loose,50,43,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_AjDiUmp.pdf,Online Matched Sample,FALSE,NA,NA
 SSRS,Hofstra University National Center for Suburban Studies,2026-09-18,2026-09-25,1273,RV,RV,44,37,https://news.hofstra.edu/2026/10/22/swinging-suburban-voters-dissatisfied-with-president-and-direction-of-country/,Probability Panel,FALSE,NA,NA
+YouGov,CBS News,2026-10-21,2026-10-23,1749,LV,LV,53,45,https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/,Online Matched Sample,FALSE,NA,NA
+Focaldata,Financial Times,2026-10-16,2026-10-20,1845,A,A,49,40,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,NA,FALSE,NA,NA
+Focaldata,Financial Times,2026-10-16,2026-10-20,1648,RV,RV,51,41,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,NA,FALSE,NA,NA
+Focaldata,Financial Times,2026-10-16,2026-10-20,1594,LV,LV,53,44,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,NA,FALSE,NA,NA

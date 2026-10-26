@@ -3450,3 +3450,11 @@ climate_change,RMG Research,10/19/2026,10/20/2026,1000,RV,37,53,-16,https://napo
 healthcare,RMG Research,10/19/2026,10/20/2026,1000,RV,37,57,-20,https://napolitannews.org/posts/on-6-of-top-10-issues-trumps-approval-in-the-30s-heading-into-midterms,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 economy,RMG Research,10/19/2026,10/20/2026,1000,RV,36,61,-25,https://napolitannews.org/posts/on-6-of-top-10-issues-trumps-approval-in-the-30s-heading-into-midterms,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
 inflation,RMG Research,10/19/2026,10/20/2026,1000,RV,30,65,-35,https://napolitannews.org/posts/on-6-of-top-10-issues-trumps-approval-in-the-30s-heading-into-midterms,Napolitan News Service,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,YouGov,10/21/2026,10/23/2026,2355,A,33,67,-34,https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+inflation,YouGov,10/21/2026,10/23/2026,2355,A,27,73,-46,https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,YouGov,10/21/2026,10/23/2026,2355,A,43,57,-14,https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+iran,YouGov,10/21/2026,10/23/2026,2355,A,33,67,-34,https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/,CBS News,Online Matched Sample,FALSE,NA,NA,NA
+immigration,Focaldata,10/16/2026,10/20/2026,1845,A,43,45,-2,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,Financial Times,NA,FALSE,Immigration and border security,NA,NA
+inflation,Focaldata,10/16/2026,10/20/2026,1845,A,23,65,-42,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,Financial Times,NA,FALSE,Inflation and the cost of living,NA,NA
+economy,Focaldata,10/16/2026,10/20/2026,1845,A,28,57,-29,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
+ai,Focaldata,10/16/2026,10/20/2026,1845,A,22,47,-25,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,Financial Times,NA,FALSE,NA,NA,NA
