@@ -1660,3 +1660,13 @@ Focaldata,Financial Times,2026-10-16,2026-10-20,1845,A,A,34,59,7,https://www.foc
 Focaldata,Financial Times,2026-10-16,2026-10-20,1648,RV,RV,35,59,6,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,NA,FALSE,NA,NA
 Focaldata,Financial Times,2026-10-16,2026-10-20,1594,LV,LV,37,58,3,https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll,NA,FALSE,NA,NA
 Morning Consult,NA,2026-10-23,2026-10-25,2204,RV,RV,40,57,2,https://pro-assets.morningconsult.com/wp-uploads/2026/09/MCPI-PI-Weekly.html,Online Opt-In Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-10-22,2026-10-26,1679,A,A,32,66,NA,https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot,Probability Panel,FALSE,NA,NA
+Ipsos,Reuters,2026-10-22,2026-10-26,1280,RV,RV,35,64,NA,https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot,Probability Panel,FALSE,NA,NA
+Marist College,NPR | PBS News,2026-10-19,2026-10-20,1289,RV,RV,38,61,1,https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
+Marist College,NPR | PBS News,2026-10-19,2026-10-20,1289,LV,LV,40,59,1,https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/,Live Phone/Online Opt-In Panel/Text-to-Web,FALSE,NA,NA
+Morning Consult,Deseret News | University of Utah Hinckley Institute of Politics,2026-10-13,2026-10-20,2050,RV,RV,41,56,3,https://www.deseret.com/politics/2026/10/27/voters-confidence-trump-approval-iran-war-midterms/,Online Opt-In Panel,FALSE,NA,NA
+YouGov,The Economist,2026-10-23,2026-10-26,1440,RV,RV,39,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-10-23,2026-10-26,1131,LV,LV-strict,41,58,1,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-10-23,2026-10-26,1272,LV,LV-loose,40,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf,Online Matched Sample,FALSE,NA,NA
+Echelon Insights,NetChoice,2026-10-16,2026-10-23,3644,LV,LV,40,59,1,https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/,Online Opt-In Panel,FALSE,NA,NA
+Prolific,NA,2026-10-21,2026-10-22,1118,RV,RV,36,63,NA,https://www.prolific.com/resources/poll-democrats-lead-by-11-points-here-s-how-we-reached-that-number,Online Opt-In Panel,FALSE,NA,NA
