@@ -1670,9 +1670,13 @@ YouGov,The Economist,2026-10-23,2026-10-26,1131,LV,LV-strict,41,58,1,https://d3n
 YouGov,The Economist,2026-10-23,2026-10-26,1272,LV,LV-loose,40,58,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf,Online Matched Sample,FALSE,NA,NA
 Echelon Insights,NetChoice,2026-10-16,2026-10-23,3644,LV,LV,40,59,1,https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/,Online Opt-In Panel,FALSE,NA,NA
 Prolific,NA,2026-10-21,2026-10-22,1118,RV,RV,36,63,NA,https://www.prolific.com/resources/poll-democrats-lead-by-11-points-here-s-how-we-reached-that-number,Online Opt-In Panel,FALSE,NA,NA
-Harris Insights & Analytics,Harvard CAPS,2026-10-24,2026-10-26,2700,RV,RV,39,59,NA,https://x.com/HarrisXdata/status/2115206285541179625,Online Opt-In Panel,FALSE,NA,NA
-Harris Insights & Analytics,Harvard CAPS,2026-10-24,2026-10-26,NA,LV,LV,41,58,NA,https://x.com/HarrisXdata/status/2115206285541179625,Online Opt-In Panel,FALSE,NA,NA
+Harris Insights & Analytics,Harvard CAPS,2026-10-24,2026-10-26,2700,RV,RV,39,59,NA,https://x.com/HarrisXdata/status/2115203352850039067,Online Opt-In Panel,FALSE,NA,NA
+Harris Insights & Analytics,Harvard CAPS,2026-10-24,2026-10-26,NA,LV,LV,41,58,NA,https://x.com/HarrisXdata/status/2115203352850039067,Online Opt-In Panel,FALSE,NA,NA
 The Rainey Center,NA,2026-10-14,2026-10-20,1279,RV,RV,42,58,NA,https://www.raineycenter.org/polling/ai-data-centers-energy-and-kids-online,Online Opt-In Panel,FALSE,NA,NA
 Clarity Campaign Labs,NA,2026-10-15,2026-10-21,1016,LV,LV,42,56,2,https://www.claritycampaigns.com/clarity-omnibus-2026-oct,Online Opt-In Panel,FALSE,NA,NA
 Leger,NA,2026-10-23,2026-10-25,1037,A,A,33,58,9,https://leger360.com/en/2026-u-s-midterms/,Online Opt-In Panel,FALSE,NA,NA
 YouGov,Tufts University Public Opinion Lab,2026-10-23,2026-10-27,1000,A,A,36,61,3,https://tufts-pol.medium.com/tufts-public-opinion-lab-national-pre-election-poll-shows-a-big-lead-for-democrats-in-the-race-for-57656e85c738,Online Matched Sample,FALSE,NA,NA
+The Argument/Verasight,NA,2026-10-21,2026-10-23,1549,RV,RV,37,61,NA,https://www.theargumentmag.com/p/how-republicans-lost-voters-trust,Text/Online Ad/Email,FALSE,NA,NA
+The Argument/Verasight,NA,2026-10-21,2026-10-23,1549,LV,LV,38,61,NA,https://www.theargumentmag.com/p/how-republicans-lost-voters-trust,Text/Online Ad/Email,FALSE,NA,NA
+Emerson College,NA,2026-10-24,2026-10-26,1000,LV,LV,37.2,57.1,5.6,https://emersoncollegepolling.com/october-2026-national-poll-democrats-hold-10-point-midterm-advantage/,Probability Panel/Text-to-Web,FALSE,NA,NA
+RMG Research,Napolitan News Service,2026-10-19,2026-10-27,2000,RV,RV,43,55,NA,https://napolitannews.org/jobapproval,Online Opt-In Panel,TRUE,NA,NA
