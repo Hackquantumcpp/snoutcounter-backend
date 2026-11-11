@@ -3502,3 +3502,20 @@ environment,AtlasIntel,10/28/2026,11/1/2026,3566,A,34,59,-25,https://www.atlasin
 agriculture,AtlasIntel,10/28/2026,11/1/2026,3566,A,35,58,-23,https://www.atlasintel.org/poll/usa-national-2026-11-01,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
 national_debt,AtlasIntel,10/28/2026,11/1/2026,3566,A,30,64,-34,https://www.atlasintel.org/poll/usa-national-2026-11-01,NA,Online Ad,FALSE,Deficit and national debt,NA,Excellent/good vs poor/terrible
 healthcare,AtlasIntel,10/28/2026,11/1/2026,3566,A,34,61,-27,https://www.atlasintel.org/poll/usa-national-2026-11-01,NA,Online Ad,FALSE,NA,NA,Excellent/good vs poor/terrible
+immigration,Focaldata,10/30/2026,11/1/2026,2444,A,44,46,-2,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,Immigration and border security,NA,NA
+inflation,Focaldata,10/30/2026,11/1/2026,2444,A,19,68,-49,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,Inflation and the cost of living,NA,NA
+economy,Focaldata,10/30/2026,11/1/2026,2444,A,26,59,-33,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,Jobs and the economy,NA,NA
+ai,Focaldata,10/30/2026,11/1/2026,2444,A,21,48,-27,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,NA,NA,NA
+healthcare,Focaldata,10/30/2026,11/1/2026,2444,A,23,58,-35,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,NA,NA,NA
+war,Focaldata,10/30/2026,11/1/2026,2444,A,26,62,-36,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,War and international conflicts,NA,NA
+crime,Focaldata,10/30/2026,11/1/2026,2444,A,37,45,-8,https://www.focaldata.com/blog/democrats-lead-by-7-points-in-final-focaldata-ft-midterms-poll,Financial Times,NA,FALSE,Crime and public safety,NA,NA
+immigration,John Zogby Strategies,11/01/2026,11/2/2026,1001,LV,49,46,3,https://johnzogbystrategies.com/democrats-lead-republicans-53-47-in-congressional-generic-ballot-new-john-zogby-strategies-election-day-eve-of-election-poll/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+crime,John Zogby Strategies,11/01/2026,11/2/2026,1001,LV,46,48,-2,https://johnzogbystrategies.com/democrats-lead-republicans-53-47-in-congressional-generic-ballot-new-john-zogby-strategies-election-day-eve-of-election-poll/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,John Zogby Strategies,11/01/2026,11/2/2026,1001,LV,37,58,-21,https://johnzogbystrategies.com/democrats-lead-republicans-53-47-in-congressional-generic-ballot-new-john-zogby-strategies-election-day-eve-of-election-poll/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+iran,John Zogby Strategies,11/01/2026,11/2/2026,1001,LV,35,60,-25,https://johnzogbystrategies.com/democrats-lead-republicans-53-47-in-congressional-generic-ballot-new-john-zogby-strategies-election-day-eve-of-election-poll/,NA,Online Opt-In Panel,FALSE,NA,NA,NA
+economy,Ipsos,11/06/2026,11/9/2026,1705,A,25,67,-42,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
+immigration,Ipsos,11/06/2026,11/9/2026,1705,A,38,55,-17,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
+crime,Ipsos,11/06/2026,11/9/2026,1705,A,37,50,-13,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
+foreign_policy,Ipsos,11/06/2026,11/9/2026,1705,A,28,60,-32,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
+inflation,Ipsos,11/06/2026,11/9/2026,1705,A,19,73,-54,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Reuters,Probability Panel,FALSE,Inflation/rising prices,NA,NA
+iran,Ipsos,11/06/2026,11/9/2026,1705,A,26,62,-36,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Reuters,Probability Panel,FALSE,NA,NA,NA
