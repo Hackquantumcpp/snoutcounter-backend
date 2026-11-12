@@ -365,7 +365,7 @@ setwd("../averages/")
 
 iran_war_appr <- issue_avgs %>% filter(issue == 'iran')
 
-issue_avgs <- issue_avgs %>% filter(issue != 'iran')
+#issue_avgs <- issue_avgs %>% filter(issue != 'iran')
 
 write_csv(issue_avgs, "presidential_issue_approvals.csv")
 

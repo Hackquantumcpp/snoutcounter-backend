@@ -1701,3 +1701,6 @@ YouGov,Grinnell College,2026-10-15,2026-10-20,1500,A,A,35,65,NA,https://iowacapi
 YouGov,The Economist,2026-11-04,2026-11-06,3166,RV,RV,36,62,2,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SuXgTtZ.pdf#page=47,Online Matched Sample,FALSE,NA,NA
 Ipsos,Reuters,2026-11-06,2026-11-09,1705,A,A,32,65,NA,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Probability Panel,FALSE,NA,NA
 Ipsos,Reuters,2026-11-06,2026-11-09,1352,RV,RV,36,63,NA,https://www.ipsos.com/en-us/reutersipsos-post-election-survey,Probability Panel,FALSE,NA,NA
+Global Strategy Group/GBAO (Navigator Research),NA,2026-10-28,2026-11-08,3000,LV,LV,37,63,NA,https://navigatorresearch.org/trump-disapproval-and-regret-fueled-the-blue-wave/,Online Opt-In Panel,FALSE,NA,NA
+YouGov,The Economist,2026-11-09,2026-11-11,1685,A,A,32,63,5,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_9PIqjA0.pdf,Online Matched Sample,FALSE,NA,NA
+YouGov,The Economist,2026-11-09,2026-11-11,1463,RV,RV,36,61,3,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_9PIqjA0.pdf,Online Matched Sample,FALSE,NA,NA
